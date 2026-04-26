@@ -1,0 +1,51 @@
+---
+title: Symbolic Method
+description: Steinmetz's complex-number representation of alternating-current quantities.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Engineering Mathematics" location="OCR candidate corpus" status="needs verification" />
+
+## Steinmetz Usage
+
+The symbolic method is Steinmetz's complex-number method for representing alternating-current quantities. It makes magnitude and phase calculable in one expression, allowing resistance and reactance, or conductance and susceptance, to become parts of a structured mathematical object.
+
+In the OCR seed for _Alternating Current Phenomena_, the symbolic method appears near vector representation, resistance, reactance, impedance, capacity reactance, Kirchhoff's laws, and power representation. That placement tells us how the method functions: it is not an isolated mathematical trick, but the bridge from sinusoidal waves to usable circuit calculation.
+
+## Modern Equivalent
+
+Modern electrical engineering teaches this as phasor analysis and complex impedance.
+
+```math
+Z = R + jX
+```
+
+where `R` is resistance and `X` is reactance.
+
+## Diagrammatic Explanation
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/diagrams/phasor-symbolic-method.svg" alt="Recreated symbolic method phasor guide" />
+    <div><strong>Phasor guide</strong><p>Magnitude and phase as a rotating or projected quantity.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/diagrams/impedance-reactance-triangle.svg" alt="Recreated impedance and reactance triangle guide" />
+    <div><strong>Impedance guide</strong><p>Resistance and reactance as rectangular components of a symbolic quantity.</p></div>
+  </div>
+</div>
+
+## Why It Matters
+
+The method is one of Steinmetz's great acts of engineering translation. It turns periodic electrical motion into stable symbolic structure, making AC systems calculable without losing phase.
+
+## Reading Warning
+
+Modern notation can make this look too easy. The archive should keep the physical interpretation visible: resistance corresponds to energy dissipation, while reactance corresponds to periodic energy storage and return. The symbolic method compresses those differences into a form that can be added, resolved, and compared.
+
+## Research Tasks
+
+- Verify Steinmetz's original notation for the imaginary unit and symbolic quantities.
+- Compare his terminology with modern phasor notation.
+- Link symbolic method pages to impedance, admittance, power factor, and harmonics.

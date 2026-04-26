@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">Recreated spectrum of radiation from Steinmetz Lecture I</title>
+  <desc id="desc">A modern schematic showing alternating-current fields, wireless waves, Hertzian waves, infrared, visible light, ultraviolet, and X-rays on one frequency scale.</desc>
+  <rect width="1100" height="420" fill="#f7f4ed"/>
+  <text x="48" y="52" font-family="Georgia, serif" font-size="28" fill="#1d2528">Spectrum of Radiation</text>
+  <text x="48" y="82" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide based on Steinmetz, Radiation, Light and Illumination, Lecture I. Original figure extraction pending.</text>
+  <line x1="80" y1="220" x2="1020" y2="220" stroke="#1d2528" stroke-width="3"/>
+  <polygon points="1020,220 1006,212 1006,228" fill="#1d2528"/>
+  <text x="895" y="250" font-family="Arial, sans-serif" font-size="13" fill="#1d2528">increasing frequency</text>
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="13" fill="#1d2528">longer waves</text>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#1d2528">
+    <rect x="85" y="160" width="130" height="60" fill="#d8e7e2" stroke="#5d7f78"/>
+    <text x="100" y="187">AC fields</text>
+    <text x="100" y="207">and surges</text>
+    <rect x="220" y="145" width="135" height="75" fill="#c9dde8" stroke="#54758a"/>
+    <text x="239" y="176">Wireless</text>
+    <text x="239" y="196">waves</text>
+    <rect x="360" y="135" width="145" height="85" fill="#d8d7ea" stroke="#66649a"/>
+    <text x="383" y="171">Hertzian</text>
+    <text x="383" y="191">waves</text>
+    <rect x="510" y="126" width="150" height="94" fill="#edd6c6" stroke="#9b6d50"/>
+    <text x="540" y="168">Ultra-red</text>
+    <text x="550" y="188">(infrared)</text>
+    <rect x="665" y="108" width="95" height="112" fill="#fff2a8" stroke="#b29b39"/>
+    <text x="690" y="159">Visible</text>
+    <text x="700" y="179">light</text>
+    <rect x="765" y="126" width="145" height="94" fill="#d7cee9" stroke="#725b9c"/>
+    <text x="800" y="168">Ultra-</text>
+    <text x="796" y="188">violet</text>
+    <rect x="915" y="145" width="95" height="75" fill="#e5e9ee" stroke="#79838c"/>
+    <text x="942" y="181">X-rays</text>
+  </g>
+  <g stroke="#1d2528" stroke-width="2">
+    <line x1="150" y1="220" x2="150" y2="238"/>
+    <line x1="287" y1="220" x2="287" y2="238"/>
+    <line x1="432" y1="220" x2="432" y2="238"/>
+    <line x1="585" y1="220" x2="585" y2="238"/>
+    <line x1="712" y1="220" x2="712" y2="238"/>
+    <line x1="837" y1="220" x2="837" y2="238"/>
+    <line x1="962" y1="220" x2="962" y2="238"/>
+  </g>
+  <text x="48" y="338" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use this as a navigation graphic only. The original scan and Steinmetz's numerical octave table must be verified before canonical annotation.</text>
+</svg>

@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0001",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "2. Periodic transient phenomena with single cycle. 218",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 665,
+      "line_end": 665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0002",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "4. Industrial importance of periodic transient phenomena:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 669,
+      "line_end": 669,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0003",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10. Single-phase constant-current rectification: compounding",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 690,
+      "line_end": 690,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0004",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "12. Single-phase constant-potential rectification: equations. 236",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 696,
+      "line_end": 696,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0005",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "17. Mercury arc rectifier. Constant-potential and constant-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 715,
+      "line_end": 715,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0006",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "19. Constant-current rectifier: Arrangement of apparatus. 255",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 723,
+      "line_end": 723,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0007",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "24. Performance curves and oscillograms. Transient term. 263",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 733,
+      "line_end": 733,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0008",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "25. Equivalent sine waves: their derivation. 267",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 735,
+      "line_end": 735,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0009",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "27. Equations of the equivalent sine waves of the mercury arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 739,
+      "line_end": 739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0010",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "2. Industrial importance of transient phenomena in space. 278",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 753,
+      "line_end": 753,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0011",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "CHAPTER II. LONG DISTANCE TRANSMISSION LINE. 279",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 755,
+      "line_end": 755,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0012",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "5. The four constants of the transmission line : r, L, g, C. 282",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 764,
+      "line_end": 764,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0013",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "negligible inductance. 296",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 796,
+      "line_end": 796,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0014",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "resistance. 306",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 812,
+      "line_end": 812,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0015",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "21. Line of quarter-wave length, containing resistance r and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 814,
+      "line_end": 814,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0016",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "conductance g. 309",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 816,
+      "line_end": 816,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0017",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "22. Constant-potential — constant-current transformation by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 818,
+      "line_end": 818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0018",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "32. Example of discharge of line of constant voltage and zero",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 850,
+      "line_end": 850,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0019",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "dustrial importance. 369",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 944,
+      "line_end": 944,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0020",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "63. Mean value of current, and effective resistance. 376",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 961,
+      "line_end": 961,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0021",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "65. Effective resistance and depth of penetration. 379",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 965,
+      "line_end": 965,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0022",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "the field is of industrial importance. 387",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 976,
+      "line_end": 976,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0023",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "tance. 388",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 980,
+      "line_end": 980,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0024",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "69. Effect of return conductor on distance decrement of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 982,
+      "line_end": 982,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0025",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "70. Inductance of length I of infinitely long conductor with-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 986,
+      "line_end": 986,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0026",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "71. Equations of magnetic flux, effective resistance of radia-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 990,
+      "line_end": 990,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0027",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "tion, inductance and impedance. 391",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 992,
+      "line_end": 992,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0028",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "74. Discussion of effective resistance and radiated power, as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 998,
+      "line_end": 998,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0029",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "75. Mutual inductance of two distant conductors of finite",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1002,
+      "line_end": 1002,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0030",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "79. Sphere at a distance from ground. 402",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1012,
+      "line_end": 1012,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0031",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "80. Effect of the frequency on the constants of a conductor. 403",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1016,
+      "line_end": 1016,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0032",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "81. Thermal resistance and radiation resistance, internal and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1018,
+      "line_end": 1018,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0033",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "external reactance, as functions of the frequency. 405",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1020,
+      "line_end": 1020,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0034",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "1. The constants of the electric circuit, and their constancy. 417",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1045,
+      "line_end": 1045,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0035",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and the relations between its constants. 422",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1055,
+      "line_end": 1055,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0036",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "8. Period, wave length, time and distance attenuation",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1069,
+      "line_end": 1069,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0037",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "constants. 433",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1071,
+      "line_end": 1071,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0038",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "velocity unit of distance. 434",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1075,
+      "line_end": 1075,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0039",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "12. Stationary or standing wave. Trigonometric arid logarith-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1081,
+      "line_end": 1081,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0040",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "13. Propagation constant of wave. 440",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1085,
+      "line_end": 1085,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0041",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "CHAPTER III. STANDING WAVES. 442",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1087,
+      "line_end": 1087,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0042",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "14. Oscillatory, critical and gradual standing wave. 442",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1089,
+      "line_end": 1089,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0043",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "18. Submarine telegraph cable. Existence of logarithmic",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1104,
+      "line_end": 1104,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0044",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "19. Long distance telephone circuit. Numerical example.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1108,
+      "line_end": 1108,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0045",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Effect of leakage. Effect of inductance or \"loading.\" 454",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1110,
+      "line_end": 1110,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0046",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "21. Component waves and single traveling wave. Attenua-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1121,
+      "line_end": 1121,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0047",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "22. Effect of inductance, as loading, and leakage, on attenu-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1125,
+      "line_end": 1125,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0048",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "23. Traveling sine wave and traveling cosine wave. Ampli-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1129,
+      "line_end": 1129,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0049",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "24. Discussion of traveling wave as function of distance, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1133,
+      "line_end": 1133,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0050",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "26. The alternating-current long-distance line equations as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1139,
+      "line_end": 1139,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0051",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "28. Types of waves: standing waves, traveling waves, alter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1150,
+      "line_end": 1150,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0052",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "31. Free oscillation as standing wave. 481",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1158,
+      "line_end": 1158,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0053",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "33. Conditions under which a standing wave is a free oscilla-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1164,
+      "line_end": 1164,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0054",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "34. Wave length, and angular measure of distance. 487",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1168,
+      "line_end": 1168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0055",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "distance. 499",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1193,
+      "line_end": 1193,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0056",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "43. Relations between constants, at transition point. 502",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1197,
+      "line_end": 1197,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0057",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "resultant time decrement % 503",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1206,
+      "line_end": 1206,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0058",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "45. Equations between integration constants of adjoining",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1208,
+      "line_end": 1208,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0059",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "46. The energy transfer constant of the circuit section, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1212,
+      "line_end": 1212,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0060",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "49. Determination of the resultant time decrement of the cir-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1224,
+      "line_end": 1224,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0061",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "50. Instantaneous power. Effective or mean power. Power",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1230,
+      "line_end": 1230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0062",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "51. Instantaneous and effective value of energy stored in the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1234,
+      "line_end": 1234,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0063",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "tion with distance and with time. 513",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1237,
+      "line_end": 1237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0064",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "54. Power dissipated in the resistance and the conductance of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1248,
+      "line_end": 1248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0065",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "56. Flow of energy, and resultant circuit decrement. 521",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1258,
+      "line_end": 1258,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0066",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "59. Transition of single wave, constancy of phase angles,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1267,
+      "line_end": 1267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0067",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "63. Distance phase angle, and the law of refraction. 533",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1280,
+      "line_end": 1280,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0068",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "64. Massed inductance discharging into distributed circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1288,
+      "line_end": 1288,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0069",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "65. Equations of inductance, and change of constants at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1293,
+      "line_end": 1293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0070",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "constant and resultant decrement. 538",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1299,
+      "line_end": 1299,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0071",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 5",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1412,
+      "line_end": 1412,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0072",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "P = ie (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1430,
+      "line_end": 1430,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0073",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "<E> = Li = the intensity of the electromagnetic field. (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1434,
+      "line_end": 1434,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0074",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Mf = Ce = the intensity of the electrostatic field. (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1435,
+      "line_end": 1435,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0075",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "et = ri, (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1471,
+      "line_end": 1471,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0076",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "*\"-*-<£ (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1499,
+      "line_end": 1499,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0077",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "or, by equation (2) : <J> = Li by definition, thus :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1501,
+      "line_end": 1501,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0078",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "- = L-,and: P' = Lt-, (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1505,
+      "line_end": 1505,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0079",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "WM --P'dt (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1511,
+      "line_end": 1511,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0080",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "WM - (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1519,
+      "line_end": 1519,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0081",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1522,
+      "line_end": 1522,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0082",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "P»=ei'=e—, (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1532,
+      "line_end": 1532,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0083",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "WK ==p\"dt (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1542,
+      "line_end": 1542,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0084",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Pr = ieh (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1552,
+      "line_end": 1552,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0085",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Pr = tV. (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1556,
+      "line_end": 1556,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0086",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "P = ei (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1560,
+      "line_end": 1560,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0087",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "pr = tfr = power lost in the conductor, (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1562,
+      "line_end": 1562,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0088",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "WM = l— = energy stored in the magnetic field of the circuit, (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1564,
+      "line_end": 1564,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0089",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "cuit, (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1575,
+      "line_end": 1575,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0090",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "4. The circuit constant, resistance r, depends only on the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1584,
+      "line_end": 1584,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0091",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "The circuit constants, inductance L and capacity (7, almost",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1590,
+      "line_end": 1590,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0092",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "5. The resistance r is proportional to the length and inversely",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1597,
+      "line_end": 1597,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0093",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Al. .., ......................... 2.5 X 10-6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1614,
+      "line_end": 1614,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0094",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Fe .............................. 10 X 10-6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1616,
+      "line_end": 1616,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0095",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Hg ............................. 94 X 10-6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1618,
+      "line_end": 1618,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0096",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Gray cast iron .............. up to 100 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1620,
+      "line_end": 1620,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0097",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "High-resistance alloys ....... up to 150 X 10~8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1622,
+      "line_end": 1622,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0098",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 9",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1643,
+      "line_end": 1643,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0099",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "alloys, about p = 150 X 10~6, and the lowest resistivity of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1662,
+      "line_end": 1662,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0100",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "electrolytes, about p = 1, are",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1663,
+      "line_end": 1663,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0101",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Carbon: metallic down to 100 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1665,
+      "line_end": 1665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0102",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Ferro silicon 0.04 down to 50 X 10~a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1675,
+      "line_end": 1675,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0103",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "6. The inductance L is proportional to the section and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1689,
+      "line_end": 1689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0104",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "L = ^ (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1693,
+      "line_end": 1693,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0105",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "closely fj. = 1 for all substances, with the exception of a few",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1708,
+      "line_end": 1708,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0106",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "as fjL = 6000.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1712,
+      "line_end": 1712,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0107",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "(B = 3C + (&'. (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1730,
+      "line_end": 1730,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0108",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 11",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1756,
+      "line_end": 1756,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0109",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "G = T, (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1764,
+      "line_end": 1764,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0110",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "AC = 1 in the vacuum, in air and in other gases,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1777,
+      "line_end": 1777,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0111",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "K = 2 to 3 in oils, paraffins, fiber, etc.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1778,
+      "line_end": 1778,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0112",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "K = 3 to 4 in rubber and gutta-percha,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1779,
+      "line_end": 1779,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0113",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "K = 3 to 5 in glass, mica, etc.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1780,
+      "line_end": 1780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0114",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "The capacity, (7, of a circuit therefore is constant up to the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1803,
+      "line_end": 1803,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0115",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "effective resistance rr which adds itself to the resistance r0 of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1825,
+      "line_end": 1825,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0116",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "1. Inductance L, storing 'the energy, -— ,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1838,
+      "line_end": 1838,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0117",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "3. Resistance r = r0 + r', consuming the power, tfr = ?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1847,
+      "line_end": 1847,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0118",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "4. Conductance g} consuming the power, ezg,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1849,
+      "line_end": 1849,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0119",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "where r0 is the resistance of the conductor, r' the effective resist-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1851,
+      "line_end": 1851,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0120",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 13",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1867,
+      "line_end": 1867,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0121",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10. In an electric circuit of negligible inductance L and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1938,
+      "line_end": 1938,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0122",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "THE CONSTANTS OF THE ELECTRIC CIRCUIT 15",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 1975,
+      "line_end": 1975,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0123",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "12. For instance, a continuous e.m.f., eOJ impressed upon a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2011,
+      "line_end": 2011,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0124",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "In the moment of closing the circuit of e.m.f. e0 on resistance r,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2016,
+      "line_end": 2016,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0125",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "of an alternator field, or a circuit having the constants r = 12",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2167,
+      "line_end": 2167,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0126",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ohms; L = 6 henrys, and eQ = 240 volts; the abscissas being",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2168,
+      "line_end": 2168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0127",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Q = to0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2178,
+      "line_end": 2178,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0128",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "In the moment of closing the circuit of e.m.f. e0 upon the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2180,
+      "line_end": 2180,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0129",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "charging the condenser instantly to the potential difference e0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2189,
+      "line_end": 2189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0130",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "for the circuit constants r = 250 ohms; L = 100 mh.; C =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2230,
+      "line_end": 2230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0131",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10 mf., and e0 = 1000 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2231,
+      "line_end": 2231,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0132",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Fig. 2. Charging a condenser through a circuit having resistance and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2255,
+      "line_end": 2255,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0133",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "stants of the circuit are: r = 40 ohms; L = 100 mh.; C =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2278,
+      "line_end": 2278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0134",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10 mf., and eQ = 1000 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2279,
+      "line_end": 2279,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0135",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Fig. 3. Charging a condenser through a circuit having resistance and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2451,
+      "line_end": 2451,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0136",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e = E cos 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2462,
+      "line_end": 2462,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0137",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = I cos (d - 45°),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2467,
+      "line_end": 2467,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0138",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and the circuit is closed at the moment 6 = 45°, at this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2469,
+      "line_end": 2469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0139",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Fig. 4. Starting of an alternating-current circuit having inductance.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2520,
+      "line_end": 2520,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0140",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "16. No transient terms result from the resistance, but only",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2540,
+      "line_end": 2540,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0141",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "18. If a condenser is charged through an inductance, and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2582,
+      "line_end": 2582,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0142",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "20. In continuous-current circuits the inductance does not",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2664,
+      "line_end": 2664,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0143",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "•enter the equations of stationary condition, but, if e0 = impressed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2665,
+      "line_end": 2665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0144",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e.m.f. by e0, the resistance by r, and the inductance by L.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2689,
+      "line_end": 2689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0145",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "therefore at the moment t = 0, by i the current during the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2698,
+      "line_end": 2698,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0146",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Hence, eQ = ir + L — > (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2716,
+      "line_end": 2716,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0147",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "However, for t = 0, i = iQ.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2732,
+      "line_end": 2732,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0148",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "hence, i = il + (i0 - t\\) e ' , (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2738,
+      "line_end": 2738,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0149",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e^-L^rtf.-*,).^', . (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2743,
+      "line_end": 2743,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0150",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "hence a maximum for t = 0, thus :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2745,
+      "line_end": 2745,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0151",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "«i° = r (i, - i,). (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2747,
+      "line_end": 2747,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0152",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "of current (i0 — t\\), and to the resistance r of the circuit after",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2750,
+      "line_end": 2750,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0153",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Let e0 = 125 volts = impressed e.m.f. of the circuit, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2768,
+      "line_end": 2768,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0154",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "tj « 1000 amperes = current in the circuit under stationary",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2769,
+      "line_end": 2769,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0155",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "= 0.125 ohm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2772,
+      "line_end": 2772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0156",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "gives a resistance, r0 = 0.0125 ohm of the supply conductors.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2775,
+      "line_end": 2775,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0157",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10 mh. per ohm; hence, L = 0.125 mh. = 0.000125 henry.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2777,
+      "line_end": 2777,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0158",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "The current at the moment of starting is i0 = 0, and the general",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2779,
+      "line_end": 2779,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0159",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "m (3)) i = 1000 (1 - e-1000')- (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2782,
+      "line_end": 2782,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0160",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 500 amperes, is given by substitution in (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2785,
+      "line_end": 2785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0161",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "500 = 1000 (1 - s-1\"*\"),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2787,
+      "line_end": 2787,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0162",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "hence e\"1000' = 0.5,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2788,
+      "line_end": 2788,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0163",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 0.00069 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2790,
+      "line_end": 2790,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0164",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "full value, or i = 900 amperes, is t = 0.0023 seconds, that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2793,
+      "line_end": 2793,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0165",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Let, in a continuous-current shunt motor, e0 = 250 volts =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2799,
+      "line_end": 2799,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0166",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "impressed e.m.f., and the number of poles = 8.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2800,
+      "line_end": 2800,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0167",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Assume the magnetic flux per pole, <l>0 = 12.5 megalines, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2802,
+      "line_end": 2802,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0168",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "flux as $ = 9000.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2804,
+      "line_end": 2804,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0169",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "h =- = 4 amperes,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2810,
+      "line_end": 2810,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0170",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "r = e-? = 62.5 ohms.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2814,
+      "line_end": 2814,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0171",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "To produce JF = 9000 ampere-turns, with il = 4 amperes,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2819,
+      "line_end": 2819,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0172",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "requires — = 2250 turns per field spool, or a total of n = 18,000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2823,
+      "line_end": 2823,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0173",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "n = 18,000 turns interlinked with <I>0 = 12.5 megalines gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2828,
+      "line_end": 2828,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0174",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "a total number of interlinkages for i1 = 4 amperes of n<&0 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2829,
+      "line_end": 2829,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0175",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "225 X 109, or 562.5 X 109 interlinkages per unit current, or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2830,
+      "line_end": 2830,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0176",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "10 amperes, that is, an inductance of the motor field circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2831,
+      "line_end": 2831,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0177",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "L = 562.5 henrys.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2832,
+      "line_end": 2832,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0178",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "The constants of the circuit thus are e0 = 250 volts; r = 62.5",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2834,
+      "line_end": 2834,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0179",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ohms; L = 562.5 henrys, and i0 = 0 = current at time t = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2835,
+      "line_end": 2835,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0180",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "' i = 4 (1 _ e-o-m\") (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2840,
+      "line_end": 2840,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0181",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Half excitation of the field is reached after the time t = 6.23",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2842,
+      "line_end": 2842,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0182",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "90 per cent of full excitation, or i = 3.6 amperes, after the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2845,
+      "line_end": 2845,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0183",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "time t = 20.8 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2846,
+      "line_end": 2846,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0184",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e.m.f., and the constants of the circuit then are: e0 = 250",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2861,
+      "line_end": 2861,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0185",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "volts; r = 31.25 ohms; L = 140.6 henrys, and i0 = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2862,
+      "line_end": 2862,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0186",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 8 (1 - e\" °'22220, (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2866,
+      "line_end": 2866,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0187",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "value after t = 3.11 seconds, 0.9 value after t = 10.4 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2869,
+      "line_end": 2869,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0188",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "(7) and (8), provided the armature instantly comes to a stand-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2888,
+      "line_end": 2888,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0189",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "cussed under 22, the armature comes to rest tl = 40 seconds",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2903,
+      "line_end": 2903,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0190",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "magnetic flux of the motor is <&= ^<&0, where 4>0= 12.5 mega-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2922,
+      "line_end": 2922,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0191",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "lines is the flux corresponding to full excitation it = 4 amperes.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2923,
+      "line_end": 2923,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0192",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and since full speed S and full flux <I>0 generate an e.m.f. e0 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2934,
+      "line_end": 2934,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0193",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e = ir (l - -J; (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2949,
+      "line_end": 2949,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0194",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "or for r = 62.5 ohms, and tl = 40 seconds, we have",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2951,
+      "line_end": 2951,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0195",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e = 62.5^ (1 - 0.025 t). (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2953,
+      "line_end": 2953,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0196",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 0, i = iv log cii = 0, c = - ,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2970,
+      "line_end": 2970,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0197",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i2 = v~^. (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 2988,
+      "line_end": 2988,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0198",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "I = 12£ > (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3013,
+      "line_end": 3013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0199",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = v\"1 '*'*'. (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3017,
+      "line_end": 3017,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0200",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i= 4 £-0.001388*'. (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3022,
+      "line_end": 3022,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0201",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "for t = tl = 40,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3024,
+      "line_end": 3024,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0202",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 0.436; (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3026,
+      "line_end": 3026,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0203",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 4 r °-mi (<-2o). (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3030,
+      "line_end": 3030,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0204",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "the time t = 22.15 seconds, and to one tenth of its initial",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3040,
+      "line_end": 3040,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0205",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "value after t = 40.73 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3041,
+      "line_end": 3041,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0206",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 4£-<M111<,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3057,
+      "line_end": 3057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0207",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "discharge current for L = 4200, that is, the case that the field",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3064,
+      "line_end": 3064,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0208",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "the field decreasing to half value in 47.5 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3070,
+      "line_end": 3070,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0209",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "*--' (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3100,
+      "line_end": 3100,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0210",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "£.!+« (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3109,
+      "line_end": 3109,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0211",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "in (12) and (13), having the constants r = 62.5 ohms = field",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3116,
+      "line_end": 3116,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0212",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "resistance; <l>0 = 12.5 megalines = magnetic flux per pole at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3117,
+      "line_end": 3117,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0213",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "normal m.m.f.; SF = 9000 ampere-turns = normal m.m.f. per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3118,
+      "line_end": 3118,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0214",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "pole; n = 18,000 turns = total field turns (field turns per pole",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3119,
+      "line_end": 3119,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0215",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "= 18'QQQ = 2250), and ^ = 4 amperes = current for full",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3121,
+      "line_end": 3121,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0216",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "excitation, or flux, 4>0 = 12.5 megalines.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3124,
+      "line_end": 3124,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0217",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Assuming that at full excitation, 4>0, the magnetic reluctance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3126,
+      "line_end": 3126,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0218",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "is. that the ratio - . _ — > or — , at <P = 4> = 12.5 mega-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3134,
+      "line_end": 3134,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0219",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "lines and i = il = 4 amperes, is 50 per cent higher than at low",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3138,
+      "line_end": 3138,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0220",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "1 + bi, = 1.5,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3141,
+      "line_end": 3141,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0221",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "b = 0.125.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3147,
+      "line_end": 3147,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0222",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Since i = iv = 4 produces $ = $0 = 12.5, it follows, from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3153,
+      "line_end": 3153,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0223",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "(22) and (24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3154,
+      "line_end": 3154,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0224",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "the constants of the machine. At the speed assumed in (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3168,
+      "line_end": 3168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0225",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and (13), $0 = 12.5 megalines, e0 = 250 volts, that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3169,
+      "line_end": 3169,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0226",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ec = -^ = 20 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3171,
+      "line_end": 3171,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0227",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e = ec<b = 20$;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3178,
+      "line_end": 3178,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0228",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ir = 62.5 i;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3182,
+      "line_end": 3182,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0229",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "The differential equation of the field circuit therefore is (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3193,
+      "line_end": 3193,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0230",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Since this equation contains the differential quotient of 4>, it",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3201,
+      "line_end": 3201,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0231",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "log(<j>ec-r-bec$>)+C. (33)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3276,
+      "line_end": 3276,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0232",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Assume, at the time, t = 0, 4> = 4>r = 0.5 megalines = residual",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3285,
+      "line_end": 3285,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0233",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Substituting the numerical values n = 18,000 turns; (f> =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3321,
+      "line_end": 3321,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0234",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "4.69 megalines; b = 0.125; ec = 20 volts; r = 62.5 ohms; 4>r =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3322,
+      "line_end": 3322,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0235",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "0.5 megaline, and em = 10 volts, we have",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3323,
+      "line_end": 3323,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0236",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 26.8 log $ - 17.9 log (31.25 - 2.5 $) + 79.6 (37)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3325,
+      "line_end": 3325,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0237",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 26.8 log e - 17.9 log (31.25 - 0.125 e) - 0.8. (38)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3329,
+      "line_end": 3329,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0238",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "0 20 40 60 80 100 120 140 760 ISO 200 Sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3344,
+      "line_end": 3344,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0239",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Assuming a 4-polar railway motor, designed for e0 = 600 volts",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3411,
+      "line_end": 3411,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0240",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and iv= 200 amperes, let, at current i = i1= 200 amperes, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3412,
+      "line_end": 3412,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0241",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "magnetic flux per pole of the motor be 4>0 = 10 megalines, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3413,
+      "line_end": 3413,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0242",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "flux. This gives 40 exciting turns per pole, or a total of n =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3415,
+      "line_end": 3415,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0243",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "armature at 200 amperes, this gives a resistance of the motor",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3419,
+      "line_end": 3419,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0244",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "circuit r0= 0.24 ohms.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3420,
+      "line_end": 3420,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0245",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "To limit the current to the full load value of ^ = 200 amperes,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3422,
+      "line_end": 3422,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0246",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "with the machine generating eQ= 600 volts, requires a total",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3423,
+      "line_end": 3423,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0247",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "r = 3 ohms,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3426,
+      "line_end": 3426,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0248",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "or an external resistance of 2.76 ohms.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3428,
+      "line_end": 3428,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0249",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ec= 60 volts per megaline per field pole.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3431,
+      "line_end": 3431,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0250",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "carried up to high values of saturation, at i± = 200 amperes the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3434,
+      "line_end": 3434,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0251",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and since for i = 200, <b = 10, we have in (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3442,
+      "line_end": 3442,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0252",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "<£ = 0.15,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3444,
+      "line_end": 3444,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0253",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "hence, $ = - — ' (43)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3446,
+      "line_end": 3446,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0254",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Assuming a residual magnetism of 10 per cent, or <I>r =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3453,
+      "line_end": 3453,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0255",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "1 megaline, hence em = ec4>r= 60 volts, and substituting in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3454,
+      "line_end": 3454,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0256",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "equation (36) gives n = 160 turns; <f> = 0.15 megaline; b =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3455,
+      "line_end": 3455,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0257",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "0.01; ec= 60 volts; r = 3 ohms; 4>r= 1 megaline, and em =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3456,
+      "line_end": 3456,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0258",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 0.04 log e - 0.01333 log (600 - e) - 0.08. (44)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3459,
+      "line_end": 3459,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0259",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "This gives for e = 300, or 0.5 excitation, t = 0.072 seconds;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3461,
+      "line_end": 3461,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0260",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "and for e = 540, or 0.9 excitation, t = 0.117 seconds; that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3462,
+      "line_end": 3462,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0261",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ec = ^ = 20>",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3469,
+      "line_end": 3469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0262",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "r = 0.24 ohms,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3477,
+      "line_end": 3477,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0263",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "t = 0.0274 log e - 0.00073 log (876 - e) - 0.1075, (45)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3481,
+      "line_end": 3481,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0264",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "e = 300 volts is reached after t = 0.044 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3484,
+      "line_end": 3484,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0265",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Since for e = 300 volts, the current i = = 1250 amperes,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3486,
+      "line_end": 3486,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0266",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "the power is p = ei = 375 kw., that is, a series motor short-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3488,
+      "line_end": 3488,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0267",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Short-circuited upon itself, r = 0.24, this series motor still",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3490,
+      "line_end": 3490,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0268",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "builds up at ec = - = 1.6, and since at full load speed ec= 60,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3492,
+      "line_end": 3492,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0269",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ec = 1.6 is 2.67 per cent of full load speed, that is, the motor",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3496,
+      "line_end": 3496,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0270",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "• 26. In alternating-current circuits, the inductance L, or, as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3520,
+      "line_end": 3520,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0271",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "it is usually employed, the reactance x = 2 nfL, where / = fre-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3521,
+      "line_end": 3521,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0272",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "At the moment 0 = 0, let the e.m.f. e = E cos (0 — 00) be",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3525,
+      "line_end": 3525,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0273",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "inductive reactance x = 2 xfL; let the time 6 = 2 xft be counted",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3527,
+      "line_end": 3527,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0274",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "from the moment of closing the circuit, and 00 be the phase of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3528,
+      "line_end": 3528,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0275",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "or, by substituting 6 = 2 nft, x = 2 nfL, the e.m.f. consumed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3540,
+      "line_end": 3540,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0276",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Since e = E cos (0 — 00) = impressed e.m.f.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3545,
+      "line_end": 3545,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0277",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E cos (6 - 00) = ir + x — (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3548,
+      "line_end": 3548,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0278",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = 7 cos (6 - d) + A£~a°, (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3553,
+      "line_end": 3553,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0279",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "where e = basis of natural logarithms = 2.7183.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3555,
+      "line_end": 3555,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0280",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E cos (6 - 00) = Ir cos (6 - i) + Ars~a0 - Ix sin (d-d)- Aaxs'\"',",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3559,
+      "line_end": 3559,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0281",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "(E cos 00 - Ir cos § - Ix sin d) cos 0 + (E sin 00 - Ir sin 8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3562,
+      "line_end": 3562,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0282",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "+ /x cos d) sin 0 - ^e~a\" (ax - r) = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3564,
+      "line_end": 3564,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0283",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "Since this equation must be fulfilled for any value of 6, if (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3574,
+      "line_end": 3574,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0284",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "is the integral of (1), the coefficients of cos 6, sin 0, £~a9 must",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3575,
+      "line_end": 3575,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0285",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E cos 00 — Ir cos d — Ix sin d = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3580,
+      "line_end": 3580,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0286",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E sin 00 - Ir sin d + Ix cos d = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3582,
+      "line_end": 3582,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0287",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "ax — r = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3589,
+      "line_end": 3589,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0288",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "tan 0X =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3599,
+      "line_end": 3599,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0289",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "z = W2 +",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3622,
+      "line_end": 3622,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0290",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E cos 00 - 70 cos (# -0^=0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3625,
+      "line_end": 3625,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0291",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "E sin 00 - 7z sin (d - 0X) = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3627,
+      "line_end": 3627,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0292",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = - cos (0 - 00 - 0X) + As x , (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3638,
+      "line_end": 3638,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0293",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "for 0 = 0, i = 0;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3643,
+      "line_end": 3643,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0294",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "0 = -cos (00 + 0J + A,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3648,
+      "line_end": 3648,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0295",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "A -_|cos & + *!), <(8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3655,
+      "line_end": 3655,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0296",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i = -z | cos (I? - 00- 0J- i~x° cos (00 + OJ j (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3661,
+      "line_end": 3661,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0297",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "If at the starting moment 0 = 0 the current is not zero",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3665,
+      "line_end": 3665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0298",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "but = iw we have, substituted in (7),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3666,
+      "line_end": 3666,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0299",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "A = ^--(508(0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3669,
+      "line_end": 3669,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-transient-electric-phenomena-oscillations-eq-candidate-0300",
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "original_form": "i =-- cos (d - 60 - ^)-cos (00 + 0,)- e* . (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "line_start": 3672,
+      "line_end": 3672,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

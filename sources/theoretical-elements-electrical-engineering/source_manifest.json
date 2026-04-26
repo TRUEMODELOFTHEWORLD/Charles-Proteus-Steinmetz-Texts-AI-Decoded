@@ -1,0 +1,31 @@
+{
+  "source_id": "theoretical-elements-electrical-engineering",
+  "canonical_title": "Theoretical Elements of Electrical Engineering",
+  "primary_author": "Charles Proteus Steinmetz",
+  "edition_notes": "OCR seed uses the Internet Archive item theoreticalelect00steirich. Local PDF edition alignment requires scan review.",
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
+    "sha256": "5FD5F6889D73331351DCF9F58B694F0BDA71E9BBBD04BBC3286B65C7489F7397",
+    "bytes": 7556026,
+    "local_origin": "../books/Theoretical elements of electrical engineering.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "ocr_seed": {
+    "path": "processed/theoretical-elements-electrical-engineering/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "DA020118F13B6FD73AB804680A5C23826C79AE33725B87FB4F1B2063C449A07C",
+    "bytes": 709749,
+    "external_source": "https://archive.org/download/theoreticalelect00steirich/theoreticalelect00steirich_djvu.txt",
+    "status": "ocr"
+  },
+  "processing_status": {
+    "structural_split": "needs-custom-parser",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "site_pages": "seeded"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "canonical_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+  "primary_author": "Charles Proteus Steinmetz",
+  "edition_notes": "OCR seed uses the Internet Archive item transelectricphenom00steirich. Local PDF edition alignment requires scan review.",
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/theory-calculation-transient-electric-phenomena-oscillations/raw/transient-electric-phenomena-local.pdf",
+    "sha256": "68AC2A6F1D60497203AFC4F6C61E70CAEB80353237B56A51DCF0EFDEDB8B292C",
+    "bytes": 39106309,
+    "local_origin": "../books/Theory and calculation of transient electric phenomena and oscillations.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "ocr_seed": {
+    "path": "processed/theory-calculation-transient-electric-phenomena-oscillations/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "1183E2ACD8891F96EF296801F0C1CA9747AD498D0C36DA4AB5195E772BEEBBFD",
+    "bytes": 894961,
+    "external_source": "https://archive.org/download/transelectricphenom00steirich/transelectricphenom00steirich_djvu.txt",
+    "status": "ocr"
+  },
+  "processing_status": {
+    "structural_split": "candidate",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "site_pages": "seeded"
+  }
+}

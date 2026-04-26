@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0001",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Since 1897 and 1898, when the first editions of \" Alternating",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 206,
+      "line_end": 206,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0002",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "5. Self-Inductance and Mutual Inductance. 21",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 259,
+      "line_end": 259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0003",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "6. Self-Inductance of Continuous-Current Circuits. 24",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 261,
+      "line_end": 261,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0004",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "7. Inductance in Alternating-Current Circuits. 31",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 263,
+      "line_end": 263,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0005",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "10. Hysteresis and Effective Resistance. 48",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 269,
+      "line_end": 269,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0006",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "14. Rectangular Coordinates. 77",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 277,
+      "line_end": 277,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0007",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "17. Impedance and Admittance. 98",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 283,
+      "line_end": 283,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0008",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "18. Equivalent Sine Waves. 106",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 285,
+      "line_end": 285,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0009",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "IV. Self-Inductance. 133",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 305,
+      "line_end": 305,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0010",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "V. Synchronous Reactance. 136",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 306,
+      "line_end": 306,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0011",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "4. Effect of Armature Resistance and Starting. 322",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 444,
+      "line_end": 444,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0012",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "3. Starting Devices of Single-phase Motors. 333",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 452,
+      "line_end": 452,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0013",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2. Constant Speed Induction or Asynchronous Generator. 342",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 460,
+      "line_end": 460,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0014",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "pole of equal strength at unit distance with unit force1 is called",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 480,
+      "line_end": 480,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0015",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "<£ = 4 irm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 497,
+      "line_end": 497,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0016",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "therefore of flux $> = 4 xw, assuming a uniform distribution in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 500,
+      "line_end": 500,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0017",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "since the 3> lines issuing from the pole distribute over the area",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 506,
+      "line_end": 506,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0018",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1 That is, at 1 cm. distance with such force as to give to the mass of 1 gram",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 518,
+      "line_end": 518,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0019",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the acceleration of 1 cm. per second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 519,
+      "line_end": 519,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0020",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "intensity is ~ — — 2, and in the distance 2 the field intensity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 561,
+      "line_end": 561,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0021",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "affect its magnetic field, produces field intensity 2 in unit distance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 565,
+      "line_end": 565,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0022",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "in a single turn, or 1 amp. in F turns, or — amperes in n turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 590,
+      "line_end": 590,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0023",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the magnetic circuit = 2 irl, we obtain as the magnetizing force,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 609,
+      "line_end": 609,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0024",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = 0.4 TT = 2^-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 616,
+      "line_end": 616,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0025",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = \\/# i2 + #22 + 2 #!#2 COST,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 642,
+      "line_end": 642,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0026",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = 0.4 TT/",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 691,
+      "line_end": 691,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0027",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = 0.4 »/ / = H",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 720,
+      "line_end": 720,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0028",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 1.257/ /= 0.796 #.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 725,
+      "line_end": 725,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0029",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The permeability of air = 1 and is constant.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 751,
+      "line_end": 751,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0030",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "duces the field intensity H = 0.4 irf and the magnetic induction",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 761,
+      "line_end": 761,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0031",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "B = 0.4 TTflf.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 762,
+      "line_end": 762,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0032",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "7. (1) A pull of 2 grams at 4 cm. radius is required to hold a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 766,
+      "line_end": 766,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0033",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "horizontal bar magnet 12 cm. in length, pivoted at its center,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 767,
+      "line_end": 767,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0034",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "intensity of the terrestrial magnetic field H = 0.2, and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 771,
+      "line_end": 771,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0035",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "acceleration of gravity = 980?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 772,
+      "line_end": 772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0036",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Let m = intensity of magnet poles. I = 5 is the radius on",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 777,
+      "line_end": 777,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0037",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Thus 2mHl = 2'm = torque exerted by the terrestrial",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 780,
+      "line_end": 780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0038",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2 grams weight = 2 X 980 = 1960 units of force. These at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 783,
+      "line_end": 783,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0039",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "4 cm. radius give the torque 4 X I960 = 7840 g cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 784,
+      "line_end": 784,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0040",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Hence 2m = 7840.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 786,
+      "line_end": 786,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0041",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "m = 3920 is the strength of each magnet pole and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 788,
+      "line_end": 788,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0042",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "3> = 4 Trm = 49,000, the number of lines of force issuing from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 790,
+      "line_end": 790,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0043",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "50 cm., if the intensity of the terrestrial magnetic field is 0.2?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 796,
+      "line_end": 796,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0044",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The intensity of the magnetic field of 100 amp., 50 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 798,
+      "line_end": 798,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0045",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "from the conductor, is H = — ^ — = 0.2 X -^r = 0.4, the direc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 802,
+      "line_end": 802,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0046",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the magnetic meridian, 10 = length of needle, m = intensity of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 807,
+      "line_end": 807,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0047",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "sin T = 0.2 mlo sin r, the torque of the current is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 809,
+      "line_end": 809,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0048",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "0.2/raZocosr",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 811,
+      "line_end": 811,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0049",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "cos r = - — — - = 0.4",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 812,
+      "line_end": 812,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0050",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "In equilibrium, 0.2 mlQ sin r = 0.4 mlQ cos r, or tan r = 2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 817,
+      "line_end": 817,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0051",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "r = 63.4°.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 818,
+      "line_end": 818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0052",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "9. (3) What is the- total magnetic flux per I = 1000 m. length,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 820,
+      "line_end": 820,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0053",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "line carrying 7 amperes of current, if Id = 0.82 cm. is the diam-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 822,
+      "line_end": 822,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0054",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "eter of the conductors (No. 0 B. & S.), 18 = 45 cm. the spacing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 823,
+      "line_end": 823,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0055",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "FIG. 2. — Diagram of transmission line for inductance calculation.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 827,
+      "line_end": 827,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0056",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "At distance lr from the center of one of the conductors (Fig. 2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 829,
+      "line_end": 829,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0057",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "/ = s— r> and the field intensity H = 0.4 irf = -^ — > and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 833,
+      "line_end": 833,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0058",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "0.27/Floge Zrj£ = 0.2/nog.^-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 844,
+      "line_end": 844,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0059",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2 $ = 0.4 II log, p",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 851,
+      "line_end": 851,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0060",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or per 1000 m. = 105 cm. length,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 855,
+      "line_end": 855,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0061",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2 $ = 0.4 X 105 / log, TT^ = 0.4 X 105 X 4.70 I = 0.188 X 106 7,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 858,
+      "line_end": 858,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0062",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "of 930 sq. cm. and the length of 15 cm., the air-gap between",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 876,
+      "line_end": 876,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0063",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "stationary field poles and revolving armature is 0.95 cm. in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 877,
+      "line_end": 877,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0064",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "length and 1200 sq. cm. in section, the field pole is 26.3 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 878,
+      "line_end": 878,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0065",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "in length and 1075 sq. cm. in section, and is of laminated iron,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 879,
+      "line_end": 879,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0066",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "20 cm. and 2250 sq. cm. section, and is of cast iron?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 885,
+      "line_end": 885,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0067",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The magnetic densities are: BI = 6880 in the armature, B2 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 887,
+      "line_end": 887,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0068",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "5340 in the air-gap, B3 = 5950 in the field pole, and B4 = 2850",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 888,
+      "line_end": 888,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0069",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "in the yoke. The permeability of sheet iron is m = 2550 at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 889,
+      "line_end": 889,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0070",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "5i = 6880, MS = 2380 at B3 = 5950. The permeability of cast",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 890,
+      "line_end": 890,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0071",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "iron is /z4 = 280 at B4 = 2850. Thus the field intensity/ H = - j",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 892,
+      "line_end": 892,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0072",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "is: Hi = 2.7, #2 = 5340, H3 = 2.5, H, = 10.2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 893,
+      "line_end": 893,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0073",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The magnetizing force (/ = {TT— ) is> fl = 2'15> ^2 = 4250'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 895,
+      "line_end": 895,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0074",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "/3 = 1.99, /4 = 8.13 ampere-turns per centimeter. Thus the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 897,
+      "line_end": 897,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0075",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "m.m.f. (F = fl) is: Fi = 32, F2 = 4040, F3 = 52, F4 = 163, or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 898,
+      "line_end": 898,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0076",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "F = Fi + F2 + F3 + ^4 = 4290 ampere-turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 901,
+      "line_end": 901,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0077",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "109 times unit resistance is the practical unit, called the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 933,
+      "line_end": 933,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0078",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The ohm is the resistance of a circuit, in which 1 volt",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 939,
+      "line_end": 939,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0079",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "and resistivity p is r = -7\"",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 952,
+      "line_end": 952,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0080",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "cylinder, if the magnetic flux of the electromagnet is <£ = 25",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 985,
+      "line_end": 985,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0081",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "lines. It makes 50 rev. per sec. Thus it cuts 50 X 25 X 106 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 989,
+      "line_end": 989,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0082",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "12.5 X 108 lines of magnetic flux per second. Hence the gener-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 990,
+      "line_end": 990,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0083",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ated e.m.f. is E = 12.5 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 991,
+      "line_end": 991,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0084",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(B. & S.), 0.106 sq. cm. in cross section and 160 cm. mean length",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1005,
+      "line_end": 1005,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0085",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "this alternator field, if the resistivity of copper is 1.8 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1008,
+      "line_end": 1008,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0086",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ohms per cm.3 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1009,
+      "line_end": 1009,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0087",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Since 616 turns on each field spool are used, and 4280 ampere-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1014,
+      "line_end": 1014,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0088",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "turns required, the current is fi1fi = 6.95 amp.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1017,
+      "line_end": 1017,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0089",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The resistance of 20 spools of 616 turns of 160 cm. length,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1019,
+      "line_end": 1019,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0090",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "0.106 sq. cm. section, and 1.8 X 10~6 resistivity is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1020,
+      "line_end": 1020,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0091",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "20 X 616 X 160 X 1.8 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1023,
+      "line_end": 1023,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0092",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 33.2 ohms,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1026,
+      "line_end": 1026,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0093",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "and the e.m.f. required, 6.95 X 33.2 = 230 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1030,
+      "line_end": 1030,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0094",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1 cm.3 refers to a cube whose side is 1 cm., and should not be confused",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1041,
+      "line_end": 1041,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0095",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "If 3> = the maximum number of lines of force inclosed by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1050,
+      "line_end": 1050,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0096",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4 fn$ absolute units,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1056,
+      "line_end": 1056,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0097",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 4fn3> ID\"8 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1057,
+      "line_end": 1057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0098",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4n$ volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1063,
+      "line_end": 1063,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0099",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "T = 90°, or at the position of zero inclosure of magnetic flux",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1082,
+      "line_end": 1082,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0100",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4 fn& is the average generated e.m.f.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1097,
+      "line_end": 1097,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0101",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "EQ = 2 irfn& is the maximurft, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1100,
+      "line_end": 1100,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0102",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = 2 7r/n$ sin r the instantaneous generated e.m.f.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1101,
+      "line_end": 1101,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0103",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Thus, 6 = 2 wft",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1132,
+      "line_end": 1132,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0104",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = 2>jrfn3> sin 2 irft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1134,
+      "line_end": 1134,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0105",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = 2 irfn$ sin 2 IT} (t - ti)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1140,
+      "line_end": 1140,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0106",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or, e = 2-jrfn& sin (6 — 0i),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1141,
+      "line_end": 1141,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0107",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "where 0i = 2 irfli is the angle at which the position of maxi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1143,
+      "line_end": 1143,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0108",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4/n$> = generated e.m.f. ($ in megalines, / in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1174,
+      "line_end": 1174,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0109",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "17. (1) A circular wire coil of 200 turns and 40 cm. mean",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1181,
+      "line_end": 1181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0110",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The mean area of the coil is — j— = 1255 sq. cm., thus the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1189,
+      "line_end": 1189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0111",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "15 rev. per sec., this flux is cut 4 X 15 = 60 times per second by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1192,
+      "line_end": 1192,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0112",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "each turn, or 200 X 60 = 12,000 times by the coil. Thus the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1193,
+      "line_end": 1193,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0113",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "per second is 12,000 X 1255 H = 0.151 X 108 H, and the average",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1195,
+      "line_end": 1195,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0114",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "generated e.m.f. is 0.151 H volts. Since this is = 0.028 volt,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1196,
+      "line_end": 1196,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0115",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = 0.186.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1197,
+      "line_end": 1197,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0116",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "next integer divisible by 3, n = 51 segments or turns per pole.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1208,
+      "line_end": 1208,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0117",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "50%Q = 8.33 rev. per sec. Thus the frequency is/ = 4 X 8.33",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1214,
+      "line_end": 1214,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0118",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 33.3 cycles per second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1215,
+      "line_end": 1215,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0119",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The generated e.m.f. is E = 550 volts, thus by the formula of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1217,
+      "line_end": 1217,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0120",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4/n<l>,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1220,
+      "line_end": 1220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0121",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or, 550 = 4 X 0.333 X 51 <l>,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1222,
+      "line_end": 1222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0122",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "<i> = 8.1 megalines per pole.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1224,
+      "line_end": 1224,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0123",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "19. (3) What is the e.m.f. generated in a single turn of a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1226,
+      "line_end": 1226,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0124",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The frequency is / = V£~£ ~ = 33-3 cycles-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1232,
+      "line_end": 1232,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0125",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "EQ = 2 irfn3>,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1236,
+      "line_end": 1236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0126",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "$ = 6.4,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1237,
+      "line_end": 1237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0127",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "f = 0.333.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1239,
+      "line_end": 1239,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0128",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Thus, EQ = 2 TT X 0.333 X 6.4 = 13.4 volts maximum, or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1241,
+      "line_end": 1241,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0129",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = 13.4 sin 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1242,
+      "line_end": 1242,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0130",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The e.m.f. consumed by resistance r is EI = 7r, thus the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1249,
+      "line_end": 1249,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0131",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "power consumed by resistance r is P = 72r.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1250,
+      "line_end": 1250,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0132",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "If an alternating current i = I0 sin 6 passes through a resist-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1257,
+      "line_end": 1257,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0133",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "i*r = 702r sin2 0 = ^r C1 ~ cos 2 0),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1260,
+      "line_end": 1260,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0134",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "since avg. (cos) = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1269,
+      "line_end": 1269,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0135",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Thus the alternating current i = IQ since 0 consumes in a resist-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1274,
+      "line_end": 1274,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0136",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The value / = —7= is called the effective value of the alter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1278,
+      "line_end": 1278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0137",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "nating current i = IQ sin 0; since it gives the same effect.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1282,
+      "line_end": 1282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0138",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e.m.f., e = EQ sin 6.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1290,
+      "line_end": 1290,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0139",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Since E0 = 2 irfn$, it follows that",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1292,
+      "line_end": 1292,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0140",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 4.44 fn& ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1300,
+      "line_end": 1300,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0141",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = V2 *fn$,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1317,
+      "line_end": 1317,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0142",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 7 \\/2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1326,
+      "line_end": 1326,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0143",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 4.44 X 0.333 X 360 X 6.4",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1355,
+      "line_end": 1355,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0144",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 3400 volts per circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1356,
+      "line_end": 1356,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0145",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "which differ by 60 degrees, and is thus 2 sin 60° = -\\/3 times",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1361,
+      "line_end": 1361,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0146",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 5900 volts effective.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1367,
+      "line_end": 1367,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0147",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "sq. cm. and a mean length of 240 cm. per turn. At a resistivity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1370,
+      "line_end": 1370,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0148",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1.8 X 10~6, what is the e.m.f. consumed in the machine by the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1372,
+      "line_end": 1372,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0149",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "resistance, and what the power consumed at 450 kw. output?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1373,
+      "line_end": 1373,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0150",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the current / = omn = 44.2 amperes effective.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1378,
+      "line_end": 1378,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0151",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The resistance of 360 turns of 240 cm. length, 0.22 sq. cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1381,
+      "line_end": 1381,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0152",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "section and 1.8 X 10~6 resistivity, is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1382,
+      "line_end": 1382,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0153",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "360 X 240 X 1.8 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1384,
+      "line_end": 1384,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0154",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "r = - — -rT^ — \" = 0.71 ohms per circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1385,
+      "line_end": 1385,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0155",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "X 0.71 = 1400 watts per circuit, or a total of 3 X 1400 = 4200",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1388,
+      "line_end": 1388,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0156",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "24. (3) What is the self-inductance per wire of a three-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1391,
+      "line_end": 1391,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0157",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(Id = 0.82 cm.), 45 cm. apart, transmitting the output of this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1393,
+      "line_end": 1393,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0158",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "effective gives 44.2\\/2 = 62.5 amp. maximum.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1401,
+      "line_end": 1401,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0159",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "14 miles = 22,400 m. The magnetic flux produced by /",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1403,
+      "line_end": 1403,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0160",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "amperes in 1000 m. of a transmission line of 2 wires 45 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1404,
+      "line_end": 1404,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0161",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "apart and 0.82 cm. diameter was found in paragraph 1, example",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1405,
+      "line_end": 1405,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0162",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "3, as 2 $ = 0.188 X 106/, or $ = 0.094 X 106/ for each wire.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1406,
+      "line_end": 1406,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0163",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "$ = 22.3 X 62.5 X 0.094 X 106 = 131 megalines.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1411,
+      "line_end": 1411,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0164",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = A/2 */ $",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1414,
+      "line_end": 1414,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0165",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 4.44 X 0.333 X 131",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1416,
+      "line_end": 1416,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0166",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 193 volts per line;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1417,
+      "line_end": 1417,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0167",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "#o = E X \\/2 = 273 volts per line;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1420,
+      "line_end": 1420,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0168",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = E0 sin (0 - 0i) = 273 sin (0 - 0i) ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1423,
+      "line_end": 1423,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0169",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or, since 0 = 2 irft = 210 t we have,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1425,
+      "line_end": 1425,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0170",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = 273 sin 210 (t - h).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1427,
+      "line_end": 1427,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0171",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ei = 0.8 e;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1465,
+      "line_end": 1465,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0172",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ez = | ei = 0.4 ire,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1470,
+      "line_end": 1470,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0173",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "FIG. 8. — E.m.f. of a single conductor, direct-current machine",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1477,
+      "line_end": 1477,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0174",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e4 to the effective value e3 of a sine wave of the same mean",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1490,
+      "line_end": 1490,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0175",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "T = e3 = ^T",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1494,
+      "line_end": 1494,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0176",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 1.006;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1496,
+      "line_end": 1496,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0177",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "C, as shown in Fig. 6, to B, E, constant voltage E exists between",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1500,
+      "line_end": 1500,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0178",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e1 = 0.2 E + 2 X",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1520,
+      "line_end": 1520,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0179",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 0.6 E.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1523,
+      "line_end": 1523,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0180",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e2 = 2 ei — 0-3 irE,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1527,
+      "line_end": 1527,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0181",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "rising on a parabolic curve from 0 to E2 during 40 per cent, of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1543,
+      "line_end": 1543,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0182",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "SELF-INDUCTANCE AND MUTUAL INDUCTANCE 21",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1565,
+      "line_end": 1565,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0183",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or, 2.5 per cent, higher than with a sine wave.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1571,
+      "line_end": 1571,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0184",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "5. SELF-INDUCTANCE AND MUTUAL INDUCTANCE",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1573,
+      "line_end": 1573,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0185",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "L2 = inductance of the second circuit, and M = mutual induc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1632,
+      "line_end": 1632,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0186",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "M2 = ZaL2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1635,
+      "line_end": 1635,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0187",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "27. Thus, if LI and L2 are the inductances of the two circuits,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1644,
+      "line_end": 1644,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0188",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "mutual inductance and — 1 = — + —",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1659,
+      "line_end": 1659,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0189",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "LI and L2 = inductance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1665,
+      "line_end": 1665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0190",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or Li = Si + — M L2 = Sz + - M,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1675,
+      "line_end": 1675,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0191",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or M2 = (Li - Si)(Lz - Sz).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1679,
+      "line_end": 1679,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0192",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The practical unit of inductance is 109 times the absolute",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1681,
+      "line_end": 1681,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0193",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "unit or 108 times the number of interlinkages per ampere (since",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1682,
+      "line_end": 1682,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0194",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1 amp. = 0.1 unit current), and is called the henry (h); 0.001",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1683,
+      "line_end": 1683,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0195",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "SELF-INDUCTANCE AND MUTUAL INDUCTANCE 23",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1689,
+      "line_end": 1689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0196",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "L henry inductance is iL 108 lines of force turns, and thus the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1691,
+      "line_end": 1691,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0197",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e = — -j-. L 108 absolute units",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1694,
+      "line_end": 1694,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0198",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "h. inductance generates 1 volt.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1702,
+      "line_end": 1702,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0199",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "28. (1) What is the inductance of the field of a 20-pole",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1707,
+      "line_end": 1707,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0200",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The total number of turns of all 20 spools is 20 X 616 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1712,
+      "line_end": 1712,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0201",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "12,320 Each is interlinked with 6.4 X 106 lines, thus the total",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1713,
+      "line_end": 1713,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0202",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "number of interlinkages at 6.95 amp. is 12,320 X 6.4 X 106 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1714,
+      "line_end": 1714,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0203",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "78 X 109.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1715,
+      "line_end": 1715,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0204",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "6.95 amp. = 0.695 absolute units, hence the number of in-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1717,
+      "line_end": 1717,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0205",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "29. (2) What is the mutual inductance between an alter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1723,
+      "line_end": 1723,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0206",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "below and 1.20 m. distant from the one, 1.50 m. distant from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1725,
+      "line_end": 1725,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0207",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "tances of 1.20 and 1.50 m.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1735,
+      "line_end": 1735,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0208",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "netic circuit is 2irlz. The magnetizing force / = —- if 7 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1739,
+      "line_end": 1739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0209",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "H = 0.4 TT/ = — — , and the flux in the zone dlx is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1751,
+      "line_end": 1751,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0210",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "I = 10 miles = 1610 X 103 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1757,
+      "line_end": 1757,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0211",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 322 X 10371ogei||° = 72 7 103;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1769,
+      "line_end": 1769,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0212",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or, 72 7 103 interlinkages, hence, for 7 = 10, or one absolute",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1772,
+      "line_end": 1772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0213",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "thus, M = 72 X 104 absolute units = 72 X 10~5 h. = 0.72 mh.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1776,
+      "line_end": 1776,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0214",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "0.72 X 10~3 X 109 = 10.2 megalines. Thus the e.m.f. generated",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1780,
+      "line_end": 1780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0215",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 4.44 X 0.6 X 10.2 = 27.3 volts effective.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1783,
+      "line_end": 1783,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0216",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "6. SELF-INDUCTANCE OF CONTINUOUS-CURRENT",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1785,
+      "line_end": 1785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0217",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "30. Self-inductance makes itself felt in continuous-current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1788,
+      "line_end": 1788,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0218",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "at t = 0, i = 0, and thus",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1849,
+      "line_end": 1849,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0219",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "-' «i = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1873,
+      "line_end": 1873,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0220",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "and its reciprocal, — , the \"time constant of the circuit.\"1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1883,
+      "line_end": 1883,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0221",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1 The name time constant dates back to the early days of telegraphy, where",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1885,
+      "line_end": 1885,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0222",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ei = - = - 0.368 E.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1905,
+      "line_end": 1905,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0223",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "31. Stopping of Current. In a circuit of inductance L and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1907,
+      "line_end": 1907,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0224",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "for t = 0, t",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1959,
+      "line_end": 1959,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0225",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "6l = H(r-f TI)€ JT-',",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1986,
+      "line_end": 1986,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0226",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "At * = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1988,
+      "line_end": 1988,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0227",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "When TI = 0, that is, when in withdrawing the impressed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 1993,
+      "line_end": 1993,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0228",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ei = E € L = i0re £ the generated e.m.f.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2001,
+      "line_end": 2001,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0229",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "In this case, at t = 0, e\\ = E, that is, the e.m.f. does not rise.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2004,
+      "line_end": 2004,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0230",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the circuit is broken, we have t = 0 and ei = » , that is, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2007,
+      "line_end": 2007,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0231",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "If n = r, we have at t = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2013,
+      "line_end": 2013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0232",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "611 = 2E, i = i0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2015,
+      "line_end": 2015,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0233",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "that is, if the external resistance 7*1 equals the internal resistance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2019,
+      "line_end": 2019,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0234",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "iei = io2 (r + n) c L ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2031,
+      "line_end": 2031,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0235",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "after impressing the required e.m.f. E = 230 volts will it take",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2055,
+      "line_end": 2055,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0236",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "impressing the e.m.f. E = 500 volts will it take for the field to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2061,
+      "line_end": 2061,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0237",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(1) The resistance of the alternator field is 33.2 ohms (Section",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2072,
+      "line_end": 2072,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0238",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2, Example 2), the inductance 112 h. (Section 5, Example 1),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2073,
+      "line_end": 2073,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0239",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "the impressed e.m.f. is E = 230, the final value of current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2074,
+      "line_end": 2074,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0240",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "io = — = 6.95 amp. Thus the current at time t is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2078,
+      "line_end": 2078,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0241",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "t = * - 6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2081,
+      "line_end": 2081,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0242",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 6.95 (1 - e-°-296<).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2082,
+      "line_end": 2082,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0243",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(a) M strength: i = ~, hence (1 - €-°-29«0 = 0.5.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2087,
+      "line_end": 2087,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0244",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e-o.296 1 = 0.5, - 0.296 Mog e = log 0.5, t =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2088,
+      "line_end": 2088,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0245",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "t = 2.34 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2089,
+      "line_end": 2089,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0246",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(b) %0 strength: i = 0.9 *0j hence (1 - e-°-2960 = 0.9, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2092,
+      "line_end": 2092,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0247",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "t = 7.8 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2093,
+      "line_end": 2093,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0248",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(2) To get io = 6.95 amp., with E = 500 volts, a resist-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2095,
+      "line_end": 2095,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0249",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ance r = ^-f-= = 72 ohms, and thus a rheostat having a resist-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2099,
+      "line_end": 2099,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0250",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "ance of 72 — 33.2 = 38.8 ohms, is required.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2102,
+      "line_end": 2102,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0251",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "i = io (l € 2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2105,
+      "line_end": 2105,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0252",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 6.95 (1 - €-°-6430.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2107,
+      "line_end": 2107,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0253",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(a) i = ^, after t = 1.08 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2109,
+      "line_end": 2109,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0254",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(b) i = 0.9 i0, after i = 3.6 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2113,
+      "line_end": 2113,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0255",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(3) Impressing E = 500 volts upon a circuit of r = 33.2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2115,
+      "line_end": 2115,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0256",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "L = 112, gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2116,
+      "line_end": 2116,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0257",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 15.1 (1 - €-°-2960.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2119,
+      "line_end": 2119,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0258",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "i = 6.95, or full field strength, gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2120,
+      "line_end": 2120,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0259",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "6.95 = 15.1 (1 - e-°-2960.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2121,
+      "line_end": 2121,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0260",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "1 - €-°-296 « = 0.46",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2123,
+      "line_end": 2123,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0261",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "and t = 2.08 seconds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2125,
+      "line_end": 2125,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0262",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "~ = 2720 watt-seconds or joules",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2131,
+      "line_end": 2131,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0263",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 2000 foot-pounds.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2135,
+      "line_end": 2135,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0264",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(1 joule = 0.736 foot-pounds.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2137,
+      "line_end": 2137,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0265",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "seconds, the average power input is -c -^ = 960 foot pounds",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2141,
+      "line_end": 2141,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0266",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "per second = 1.75 hp.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2145,
+      "line_end": 2145,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0267",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "33. (5) A coil of resistance r = 0.002 ohm and inductance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2150,
+      "line_end": 2150,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0268",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "L = 0.005 mh., carrying current / = 90 amp., is short circuited.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2151,
+      "line_end": 2151,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0269",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= 90 e-400'.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2164,
+      "line_end": 2164,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0270",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(6) i = 0.1 7, c-400< = 0.1, after t = 0.00576 second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2166,
+      "line_end": 2166,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0271",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = 1 volt is inserted in the circuit of this coil, in opposite direc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2169,
+      "line_end": 2169,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0272",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "Thus, - E + 61 = - E - L jt, the total e.m.f.;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2191,
+      "line_end": 2191,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0273",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "At t = 0, i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2213,
+      "line_end": 2213,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0274",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "At t = 0, i = /, thus c = / + -;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2219,
+      "line_end": 2219,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0275",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(6) i = o, e-400 « = 0.85, after t = 0.000405 second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2233,
+      "line_end": 2233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0276",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(c) i = - I = - 90, e-400 « = 0.694, after t = 0.00091 second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2235,
+      "line_end": 2235,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0277",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(d) If i = 0 at * = 0.0005, then",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2237,
+      "line_end": 2237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0278",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "0 = (90 + 500 E) e-°-2 - 500 #,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2239,
+      "line_end": 2239,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0279",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = joTITi = °-81 volt-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2241,
+      "line_end": 2241,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0280",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "(e) If t = - I = - 90 at t = 0.001, then",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2243,
+      "line_end": 2243,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0281",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "- 90 = (90 + 500 E) €-°-4 - 500 E,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2244,
+      "line_end": 2244,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0282",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "E = - = 0.91 volt.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2247,
+      "line_end": 2247,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0283",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "7. INDUCTANCE IN ALTERNATING-CURRENT CIRCUITS",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2250,
+      "line_end": 2250,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0284",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "34. An alternating current i = IQ sin 2irft or i — I0 sin 0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2252,
+      "line_end": 2252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0285",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "curved line as shown in Fig. 10, with the instantaneous values",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2254,
+      "line_end": 2254,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0286",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "FIG. 10. — Alternating sine wave.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2257,
+      "line_end": 2257,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0287",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "to the time, 6 = 2irft, as abscissas, counting the time from the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2260,
+      "line_end": 2260,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0288",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "i = /0 sin 2 IT/ (t - t'),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2266,
+      "line_end": 2266,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0289",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "or i = /osin (6 — 8'),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2267,
+      "line_end": 2267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0290",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "If such a sine wave of alternating current i = IQ sin 2 irft or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2271,
+      "line_end": 2271,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0291",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "i = IQ sin 6 passes through a circuit of resistance r and induc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2272,
+      "line_end": 2272,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0292",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "interlinkages with the current, iL = IoL sin 0, vary in a wave",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2274,
+      "line_end": 2274,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0293",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "complete period, = -v or by the time angle 6 = 90°.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2289,
+      "line_end": 2289,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0294",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "FIG. 11. — Self-induction effects produced by an alternating sine wave",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2292,
+      "line_end": 2292,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0295",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "= - 2 TT/L/O cos 2 irft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2300,
+      "line_end": 2300,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0296",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "The quantity 2 irfL is called the inductive reactance of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2304,
+      "line_end": 2304,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0297",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "2 irft = /o sin 0) of effective value",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2310,
+      "line_end": 2310,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0298",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e'2 = — xI0 cos 2 irft = — xIQ cos 6,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2321,
+      "line_end": 2321,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0299",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "35. By the counter e.m.f. of inductance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2335,
+      "line_end": 2335,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-eq-candidate-0300",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "original_form": "e'z = — xIQ cos 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2337,
+      "line_end": 2337,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

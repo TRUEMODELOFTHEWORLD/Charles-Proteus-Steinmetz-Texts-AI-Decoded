@@ -1,0 +1,134 @@
+[
+  {
+    "term": "ultra-red",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "infrared",
+    "occurrence_count_in_ocr": 29,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "ultra-violet",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "ultraviolet",
+    "occurrence_count_in_ocr": 112,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "wave length",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "wavelength",
+    "occurrence_count_in_ocr": 71,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "electric waves",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "radio-frequency electromagnetic waves, broadly construed",
+    "occurrence_count_in_ocr": 16,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "brilliancy",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "luminance or perceived brightness, depending on context",
+    "occurrence_count_in_ocr": 69,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "candle-power",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "luminous intensity in candlepower, historically",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "flux of light",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "luminous flux",
+    "occurrence_count_in_ocr": 18,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "light flux density",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "illuminance",
+    "occurrence_count_in_ocr": 19,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "radiant heat",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "thermal radiation; Steinmetz criticizes the phrase as misleading",
+    "occurrence_count_in_ocr": 3,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "ether",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "historical luminiferous ether or field-bearing medium, context-dependent",
+    "occurrence_count_in_ocr": 9,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "specific high frequency effect",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "biological or chemical effect associated with shorter wavelengths",
+    "occurrence_count_in_ocr": 2,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "mechanical equivalent of light",
+    "source_id": "radiation-light-and-illumination",
+    "modern_equivalent": "energy-to-light conversion measure in historical photometry",
+    "occurrence_count_in_ocr": 2,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  }
+]

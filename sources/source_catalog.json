@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "radiation-light-and-illumination",
+    "title": "Radiation, Light and Illumination",
+    "year": 1909,
+    "source_status": "seeded",
+    "processed_status": "lecture splits, candidate equations, figures, concepts, glossary, quotes",
+    "internet_archive_id": "radiationlightil00steirich",
+    "local_raw_file": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf",
+    "site_path": "/sources/radiation-light-and-illumination/"
+  },
+  {
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+    "year": 1911,
+    "source_status": "seeded",
+    "processed_status": "lecture splits and candidate catalogs from OCR",
+    "internet_archive_id": "elementarylectur00steirich",
+    "local_raw_file": "sources/elementary-lectures-electric-discharges-waves-impulses/raw/elementary-lectures-local.pdf",
+    "site_path": "/sources/elementary-lectures-electric-discharges-waves-impulses/"
+  },
+  {
+    "source_id": "engineering-mathematics",
+    "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+    "year": 1911,
+    "source_status": "seeded",
+    "processed_status": "chapter splits and candidate catalogs from OCR",
+    "internet_archive_id": "engineeringmathe00steirich",
+    "local_raw_file": "sources/engineering-mathematics/raw/engineering-mathematics-local.pdf",
+    "site_path": "/sources/engineering-mathematics/"
+  },
+  {
+    "source_id": "theory-calculation-alternating-current-phenomena",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "year": 1916,
+    "source_status": "seeded",
+    "processed_status": "chapter splits and candidate catalogs from OCR; edition alignment needs review",
+    "internet_archive_id": "5edtheorycalculatisteiuoft",
+    "local_raw_file": "sources/theory-calculation-alternating-current-phenomena/raw/alternating-current-phenomena-local.pdf",
+    "site_path": "/sources/theory-calculation-alternating-current-phenomena/"
+  },
+  {
+    "source_id": "theoretical-elements-electrical-engineering",
+    "title": "Theoretical Elements of Electrical Engineering",
+    "year": 1915,
+    "source_status": "seeded",
+    "processed_status": "OCR and candidate catalogs; structural split needs custom part/section parser",
+    "internet_archive_id": "theoreticalelect00steirich",
+    "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
+    "site_path": "/sources/theoretical-elements-electrical-engineering/"
+  },
+  {
+    "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+    "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+    "year": 1909,
+    "source_status": "seeded",
+    "processed_status": "chapter splits and candidate catalogs from OCR; multi-section numbering requires review",
+    "internet_archive_id": "transelectricphenom00steirich",
+    "local_raw_file": "sources/theory-calculation-transient-electric-phenomena-oscillations/raw/transient-electric-phenomena-local.pdf",
+    "site_path": "/sources/theory-calculation-transient-electric-phenomena-oscillations/"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+    "year": null,
+    "source_status": "raw",
+    "processed_status": "local PDF copied; OCR and bibliographic verification pending",
+    "internet_archive_id": null,
+    "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+    "site_path": "/sources/commonwealth-edison-generating-system-trouble/"
+  }
+]

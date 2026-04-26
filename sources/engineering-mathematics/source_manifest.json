@@ -1,0 +1,32 @@
+{
+  "source_id": "engineering-mathematics",
+  "canonical_title": "Engineering Mathematics",
+  "subtitle": "A Series of Lectures Delivered at Union College",
+  "primary_author": "Charles Proteus Steinmetz",
+  "first_publication_year": 1911,
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/engineering-mathematics/raw/engineering-mathematics-local.pdf",
+    "sha256": "0A0333C44EEEE315A975794BD043A3B98021CAC93077A274DF04DE015841B060",
+    "bytes": 17391626,
+    "local_origin": "../books/Engineering mathematics a series of lectures delivered at Union College.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "ocr_seed": {
+    "path": "processed/engineering-mathematics/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "9301D38A77A622B46EFCFEF033A61986425AACC7C0BD7B42FCA850044A167B1A",
+    "bytes": 481007,
+    "external_source": "https://archive.org/download/engineeringmathe00steirich/engineeringmathe00steirich_djvu.txt",
+    "status": "ocr"
+  },
+  "processing_status": {
+    "structural_split": "candidate",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "site_pages": "seeded"
+  }
+}

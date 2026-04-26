@@ -1,0 +1,23 @@
+{
+  "source_id": "commonwealth-edison-generating-system-trouble",
+  "canonical_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+  "primary_author": "Charles Proteus Steinmetz",
+  "edition_notes": "Bibliographic metadata and OCR source still need verification.",
+  "public_domain_status": {
+    "united_states": "Needs verification",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+    "sha256": "A8A8DD905CD493A22A5443F2E496038FB1FE0EE75BDCAB2BBAFA6547778748C6",
+    "bytes": 2912083,
+    "local_origin": "../books/Investigation of some trouble in the generating system of the Commonwealth Edison Co.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "processing_status": {
+    "ocr": "pending",
+    "structural_split": "pending",
+    "site_pages": "seeded"
+  }
+}

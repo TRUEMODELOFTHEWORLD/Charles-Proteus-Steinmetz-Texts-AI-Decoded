@@ -1,0 +1,31 @@
+{
+  "source_id": "theory-calculation-alternating-current-phenomena",
+  "canonical_title": "Theory and Calculation of Alternating Current Phenomena",
+  "primary_author": "Charles Proteus Steinmetz",
+  "edition_notes": "OCR seed uses the Internet Archive item 5edtheorycalculatisteiuoft. Local PDF edition alignment requires scan review.",
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/theory-calculation-alternating-current-phenomena/raw/alternating-current-phenomena-local.pdf",
+    "sha256": "ADD6EEC931043C5FD4B298BD06AFB72677C4FC246464EFB6AC8811A42DAD43B0",
+    "bytes": 27159598,
+    "local_origin": "../books/Theory and calculation of alternating current phenomena.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "ocr_seed": {
+    "path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "8AD2916FBBD554BA2964E6FFC6A42CAB0326504085155DCC4E0151C69B2DBB99",
+    "bytes": 874664,
+    "external_source": "https://archive.org/download/5edtheorycalculatisteiuoft/5edtheorycalculatisteiuoft_djvu.txt",
+    "status": "ocr"
+  },
+  "processing_status": {
+    "structural_split": "candidate",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "site_pages": "seeded"
+  }
+}

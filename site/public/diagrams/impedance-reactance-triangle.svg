@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Impedance and reactance triangle</title>
+  <desc id="desc">Recreated guide showing resistance, reactance, impedance magnitude, and phase angle.</desc>
+  <rect width="900" height="360" fill="#fbfaf6"/>
+  <g stroke="#ddd8cd" stroke-width="1">
+    <path d="M80 280H820"/>
+    <path d="M120 60V310"/>
+    <path d="M120 280H620V95Z" fill="#f6f2e8"/>
+  </g>
+  <path d="M120 280H620" stroke="#a9822a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M620 280V95" stroke="#9b4d32" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 280L620 95" stroke="#2f6f67" stroke-width="10" stroke-linecap="round"/>
+  <path d="M190 280a70 70 0 0 1 23-52" fill="none" stroke="#4f554f" stroke-width="4"/>
+  <g font-family="Georgia, serif" fill="#151b1c">
+    <text x="330" y="322" font-size="30">R: resistance</text>
+    <text x="650" y="195" font-size="30">X: reactance</text>
+    <text x="370" y="155" font-size="34">Z = R + jX</text>
+    <text x="220" y="247" font-size="24">phase angle</text>
+    <text x="72" y="42" font-size="30" font-weight="700">Symbolic AC Geometry</text>
+    <text x="72" y="76" font-size="16">Recreated guide; verify against source diagrams before canonical correlation.</text>
+  </g>
+</svg>

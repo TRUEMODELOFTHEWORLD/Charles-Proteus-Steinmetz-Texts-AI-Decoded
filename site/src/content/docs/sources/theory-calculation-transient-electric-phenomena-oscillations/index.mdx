@@ -1,0 +1,69 @@
+---
+title: Transient Electric Phenomena
+description: Steinmetz on transients, oscillations, surges, standing waves, traveling waves, and distributed circuits.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="OCR seed: transelectricphenom00steirich" status="candidate OCR" />
+
+## Why This Source Matters
+
+This is the major source for the archive's transient, oscillation, surge, and wave-propagation work. It is where Steinmetz moves beyond steady-state AC and treats what happens when circuits change, when fields redistribute, when oscillations arise, and when lines behave as distributed systems rather than simple lumped elements.
+
+For the site's mission, this book is a natural bridge between electrical engineering, Tesla-era high-frequency phenomena, lightning/surge research, and field-based interpretation.
+
+## Candidate Structural Map
+
+The OCR table of contents and split suggest four large domains:
+
+- Transients in time
+- Periodic transients
+- Transients in space
+- Transients in time and space
+
+Within those domains, the book touches resistance, inductance, capacity, oscillating currents, divided circuits, mutual inductance, magnetic saturation, short-circuit currents, rectification, long-distance transmission lines, distributed capacity, standing waves, traveling waves, and free oscillations.
+
+## Concepts to Extract First
+
+- Transient term
+- Permanent term
+- Oscillation
+- Damping
+- Distributed capacity
+- Natural period
+- Surge
+- Standing wave
+- Traveling wave
+- Propagation velocity
+- Quarter-wave and half-wave behavior
+- Lightning and high-potential transmission
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern readers should connect this book to RLC transient response, eigenmodes, transmission-line theory, surge impedance, traveling waves, and protection engineering. Steinmetz's language often makes the physical transition from lumped circuit to distributed field behavior unusually visible.
+</LayeredReading>
+
+<LayeredReading label="Tesla-Era Comparison">
+This source should be compared carefully with Tesla-era work on high-frequency currents, resonance, disruptive discharge, wireless transmission, and oscillation. The comparison must be passage-by-passage rather than assumed.
+</LayeredReading>
+
+## Visual Guides
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/diagrams/transient-decay-oscillation.svg" alt="Recreated transient decay and oscillation guide" />
+    <div><strong>Transient term</strong><p>How a temporary term rides on top of or decays toward a permanent state.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/diagrams/field-wave-line.svg" alt="Recreated field propagation guide" />
+    <div><strong>Distributed line</strong><p>Field propagation, standing waves, traveling waves, and surge behavior.</p></div>
+  </div>
+</div>
+
+## Processing State
+
+- Structural split: 58 chapter candidates
+- Figure candidates: 1 from OCR caption detection, likely under-detected
+- Equation candidates: 300 capped
+- OCR quality: useful for discovery; equations require heavy review

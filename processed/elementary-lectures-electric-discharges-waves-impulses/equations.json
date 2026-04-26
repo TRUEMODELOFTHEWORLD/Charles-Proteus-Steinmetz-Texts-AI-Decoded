@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0001",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "imposed upon each other. For instance, if in the circuit Fig. 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 508,
+      "line_end": 508,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0002",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "of the fan motor in instance Fig. 1, a transient period of speed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 591,
+      "line_end": 591,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0003",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "But since -^ and i2 at t\\ are the same as -r and i at time t, it",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 692,
+      "line_end": 692,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0004",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where c = — - -r;1 = constant, and the minus sign is chosen, as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 707,
+      "line_end": 707,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0005",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "1^ dii _ tan <f> _ _1_ .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 720,
+      "line_end": 720,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0006",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "An instance of the second case is the pendulum, Fig. 6 : with the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 808,
+      "line_end": 808,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0007",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "p = e'i. (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 954,
+      "line_end": 954,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0008",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": ":' ; (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 969,
+      "line_end": 969,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0009",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "w = T (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 988,
+      "line_end": 988,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0010",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "9. Exactly analogous relations exist in the dielectric field.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 996,
+      "line_end": 996,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0011",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "f = Ce. (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1002,
+      "line_end": 1002,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0012",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "p = i'e. (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1008,
+      "line_end": 1008,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0013",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i' = C^. (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1027,
+      "line_end": 1027,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0014",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "w=j*pdt, (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1035,
+      "line_end": 1035,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0015",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "F = ni. (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1096,
+      "line_end": 1096,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0016",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "/ = 7 (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1101,
+      "line_end": 1101,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0017",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "of magnetic circuit produce 3C = 4 TT/ 10\"1 lines of magnetic force",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1108,
+      "line_end": 1108,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0018",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "& = /z3C, (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1129,
+      "line_end": 1129,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0019",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and is called the permeability. ^ = 1 or very nearly so for most",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1132,
+      "line_end": 1132,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0020",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "$ = A®. (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1140,
+      "line_end": 1140,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0021",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Obviously, if the magnetic field is not uniform, equations (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1142,
+      "line_end": 1142,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0022",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "G = f- (18)-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1160,
+      "line_end": 1160,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0023",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "D = KK (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1185,
+      "line_end": 1185,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0024",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "v = 3 X 1010",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1202,
+      "line_end": 1202,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0025",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "tivity of empty space as unity: K = 1. This changes the unit of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1207,
+      "line_end": 1207,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0026",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "= T^-oJ (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1215,
+      "line_end": 1215,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0027",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "D = KK, (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1220,
+      "line_end": 1220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0028",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where K = 1 for empty space, and between 2 and 6 for most solids",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1222,
+      "line_end": 1222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0029",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and liquids, rarely increasing beyond 6.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1223,
+      "line_end": 1223,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0030",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "^ = AD. (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1226,
+      "line_end": 1226,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0031",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "4> = Li 108 lines of magnetic force.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1249,
+      "line_end": 1249,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0032",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e'^n-^. 1Q-8 = L -jj volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1256,
+      "line_end": 1256,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0033",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "3C = 47r/10-1 lines of magnetic",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1293,
+      "line_end": 1293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0034",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "(B = M5C lines of magnetic force",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1304,
+      "line_end": 1304,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0035",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "v = 3 X 10 10 = velocity of light.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1321,
+      "line_end": 1321,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0036",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "p = ri2 = ge2 — ei",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1429,
+      "line_end": 1429,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0037",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "(B = -j =/z JClinespercm2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1440,
+      "line_end": 1440,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0038",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "D = ^ = K/ninespercm2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1444,
+      "line_end": 1444,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0039",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "7 = -j = yG am-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1446,
+      "line_end": 1446,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0040",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Po = p/2 = G2 = GI",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1517,
+      "line_end": 1517,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0041",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "charge of the Leyden jar. Fig 10._Magnetie Single.energy",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1564,
+      "line_end": 1564,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0042",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a magnetic field $0 10~8 = - - interlinks with the coil. Assuming",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1577,
+      "line_end": 1577,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0043",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "11 A, the flux is constant and denoted by $0 up to the moment of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1595,
+      "line_end": 1595,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0044",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 11. — Characteristics of Magnetic Single-energy Transient.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1598,
+      "line_end": 1598,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0045",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "CQ up to t0, and drops to 0 at t0. However, since after t0 a current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1606,
+      "line_end": 1606,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0046",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 21",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1613,
+      "line_end": 1613,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0047",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the initial current i0 times the inductance L:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1650,
+      "line_end": 1650,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0048",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Zet = w£010-8 = LiQ. (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1653,
+      "line_end": 1653,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0049",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "be the same, and equal to w£0 = Li0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1657,
+      "line_end": 1657,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0050",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "rate, as shown dotted in Fig. 115 (as could be caused, for instance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1660,
+      "line_end": 1660,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0051",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "would be e0T, and since it is the same as that of the curve e, as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1669,
+      "line_end": 1669,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0052",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": ": • .:' :V : T-\\- >•'••; • (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1677,
+      "line_end": 1677,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0053",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "y = e~x. e = 2.71828.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1730,
+      "line_end": 1730,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0054",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and the equations of the single-energy magnetic transient, (1),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1876,
+      "line_end": 1876,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0055",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = e0e~c('~'o) = e0e",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1882,
+      "line_end": 1882,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0056",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "zero of time, Zo = 0, and equations (5) then assume the simpler",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1898,
+      "line_end": 1898,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0057",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and, as for t = 0: i = to, it is: C = i0; hence",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1927,
+      "line_end": 1927,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0058",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "14. Usually single-energy transients last an appreciable time,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1930,
+      "line_end": 1930,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0059",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "iQ2r = 500,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1946,
+      "line_end": 1946,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0060",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 25",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1953,
+      "line_end": 1953,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0061",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "The magnetic flux is $0 = 8 X 106, and with 4 n total turns",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1955,
+      "line_end": 1955,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0062",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "4 n$0 = 32 n X 106,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1958,
+      "line_end": 1958,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0063",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ra'o = 6000 ampere turns,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 1977,
+      "line_end": 1977,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0064",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "gins the resistance of the coil in Fig. 10 is increased, that is, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2013,
+      "line_end": 2013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0065",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 12. — Magnetic Single-energy Transient.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2019,
+      "line_end": 2019,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0066",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "resistance r1 '. Such would, for instance, be the case in Fig. 12,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2022,
+      "line_end": 2022,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0067",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "on curves which must be steeper than those in Fig. 11, since the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2033,
+      "line_end": 2033,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0068",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 13. — Characteristics of Magnetic Single-energy Transient.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2038,
+      "line_end": 2038,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0069",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 27",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2061,
+      "line_end": 2061,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0070",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T = 7+-r\"",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2067,
+      "line_end": 2067,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0071",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "would be : e0f = co ; that is, an infinite voltage would be induced.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2074,
+      "line_end": 2074,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0072",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "16. Similar transients as discussed above occur when closing a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2089,
+      "line_end": 2089,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0073",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 14. — Single-energy Starting Transient of Magnetic Circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2127,
+      "line_end": 2127,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0074",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "For instance, in the coil shown in Fig. 10, let the short circuit A",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2129,
+      "line_end": 2129,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0075",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 29",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2139,
+      "line_end": 2139,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0076",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "graph 13, that is, with a duration T = — -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2186,
+      "line_end": 2186,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0077",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "t'i, in Fig. 15 A, the conditions be changed, at the moment t = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2194,
+      "line_end": 2194,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0078",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "so as to produce the current i2. The instantaneous value of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2195,
+      "line_end": 2195,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0079",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "current ii at the moment t = 0 can be considered as consisting",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2196,
+      "line_end": 2196,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0080",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "of the instantaneous value of the permanent current i2, shown",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2197,
+      "line_end": 2197,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0081",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 15. — Single-energy Transient of Alternating-current Circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2220,
+      "line_end": 2220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0082",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "or 90 degrees distant from the intersection of i\\ and 12, as shown",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2229,
+      "line_end": 2229,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0083",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 16. — Single-energy Starting Transient of Alternating-current Circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2252,
+      "line_end": 2252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0084",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "of the zero line. This is obvious: if ii, i2', and is' are the instan-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2275,
+      "line_end": 2275,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0085",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 17. — Single-energy Starting Transient of Three-phase Circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2280,
+      "line_end": 2280,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0086",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "also is zero. Since the three transient curves ii°, i'2°, iz° are pro-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2284,
+      "line_end": 2284,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0087",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "as is done in the preceding. Let ii, i2) is be the instantaneous",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2328,
+      "line_end": 2328,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0088",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "circuit, t = 0. Combined, these would give the resultant field",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2330,
+      "line_end": 2330,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0089",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "are i'i° =—ii, i^_== — i2, 13° =—i^', and combined these give a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2332,
+      "line_end": 2332,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0090",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "resultant field OB0, equal and opposite to OA0 in Fig. 18. The",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2333,
+      "line_end": 2333,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0091",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the transient field OB remains constant in the direction OB0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2335,
+      "line_end": 2335,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0092",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "time, and plotted in rectangular coordinates, as done in Fig. 20.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2364,
+      "line_end": 2364,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0093",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 20. — Starting Transient of Rotating Field: Rectangular Form.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2374,
+      "line_end": 2374,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0094",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "which they start, as shown in Fig. 17, their polyphase resultant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2389,
+      "line_end": 2389,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0095",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 37",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2406,
+      "line_end": 2406,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0096",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "19. As instance of the use of the single-energy transient in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2413,
+      "line_end": 2413,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0097",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and the armature current thus is i\\ = — , where e0 is the induced",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2472,
+      "line_end": 2472,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0098",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "sented by the synchronous reactance x0, and the short-circuit cur-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2479,
+      "line_end": 2479,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0099",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "rent decreases to the value i'0 = — •",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2480,
+      "line_end": 2480,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0100",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 39",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2506,
+      "line_end": 2506,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0101",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "20. Let $1 = field flux of a three-phase alternator (or, in general,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2515,
+      "line_end": 2515,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0102",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "circuited at the time t = 0. The field flux then gradually dies",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2517,
+      "line_end": 2517,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0103",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "it is $1 = m$0, and the initial value of the field flux consists of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2525,
+      "line_end": 2525,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0104",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "permanent part <i>0, and the transient part <£' = $1 — <£0 = (m—l)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2526,
+      "line_end": 2526,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0105",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "reaction F0, which is demagnetizing, to a resultant m.m.f., which",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2542,
+      "line_end": 2542,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0106",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the field flux $ is higher than 3>0, and the resultant m.m.f. must",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2544,
+      "line_end": 2544,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0107",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "proportional to $>. Thus, as it is i = iQ at <£0, during the transition",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2559,
+      "line_end": 2559,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0108",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 41",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2588,
+      "line_end": 2588,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0109",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "transient, starts with the value ij = mi0, and if eQ is the e.m.f.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2600,
+      "line_end": 2600,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0110",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "is, in addition to the constant exciter voltage e0, a voltage (m — I)e0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2604,
+      "line_end": 2604,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0111",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where L0 = inductance, r0 = total resistance of field-exciting cir-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2617,
+      "line_end": 2617,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0112",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 43",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2676,
+      "line_end": 2676,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0113",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T = ~ = .1 sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2722,
+      "line_end": 2722,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0114",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "self-induction, that is, the synchronous reactance is 6 times the self-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2727,
+      "line_end": 2727,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0115",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "inductive reactance, — = m = 6. The frequency is 25 cycles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2728,
+      "line_end": 2728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0116",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "circuit flux is <J>0 = — = ~ $1, and the field transient $ is a tran-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2736,
+      "line_end": 2736,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0117",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "sient of duration 1 sec., connecting $1 and <£0, Fig. 22 A, repre-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2739,
+      "line_end": 2739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0118",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "metrical resultant currents, Fig. 225.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2756,
+      "line_end": 2756,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0119",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "starting with i0f = miQ, and tapering to the final value i0. Upon",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2759,
+      "line_end": 2759,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0120",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T = .1 sec., is constructed as in paragraph 18, and for its instan-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2762,
+      "line_end": 2762,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0121",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "since i0 is the permanent component) then are increased or de-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2767,
+      "line_end": 2767,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0122",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "21. The conditions with a single-phase short circuit are differ-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2790,
+      "line_end": 2790,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0123",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 23. — Symmetrical Momentary Single-phase Short Circuit of Alternator.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2802,
+      "line_end": 2802,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0124",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "by Fig. 23C; passing a maximum for every maximum of armature",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2831,
+      "line_end": 2831,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0125",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 24. — Asymmetrical Momentary Single-phase Short Circuit of Alternator.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2834,
+      "line_end": 2834,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0126",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "recorded by the oscillograph, as shown in Fig. 27. Usually, how-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2841,
+      "line_end": 2841,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0127",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 24 for the case of closing the circuit at the moment where the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2846,
+      "line_end": 2846,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0128",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 47",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2849,
+      "line_end": 2849,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0129",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "In the particular instance of Fig. 24, the double-frequency and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2873,
+      "line_end": 2873,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0130",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 49",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2900,
+      "line_end": 2900,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0131",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the oscillograms Figs. 26 to 28.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2907,
+      "line_end": 2907,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0132",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 27 shows the single-phase short circuit of a pair of machines",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2926,
+      "line_end": 2926,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0133",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 27. — CD5128. — Symmetrical. Momentary Single-phase Short Circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2938,
+      "line_end": 2938,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0134",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 28. — CD6565. — Asymmetrical. Momentary Single-phase Short Circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2943,
+      "line_end": 2943,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0135",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 28 shows the single-phase short circuit of a 6-polar 5000-kw.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2947,
+      "line_end": 2947,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0136",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENTS. 51",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2953,
+      "line_end": 2953,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0137",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 25 shows a single-phase short circuit of a quarter-phase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 2966,
+      "line_end": 2966,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0138",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENT OF IRONCLAD CIRCUIT. 53",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3014,
+      "line_end": 3014,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0139",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "p = - = a + crOC; (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3033,
+      "line_end": 3033,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0140",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a component (B' = (B — 3C, which is the additional flux density",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3042,
+      "line_end": 3042,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0141",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "density.\" With increasing 3C, (B' reaches a finite limiting value,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3044,
+      "line_end": 3044,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0142",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "&x' = 20,000 lines per cm2. *",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3047,
+      "line_end": 3047,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0143",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "For OC = 0 in equation (1), ^ = - ; for 3C = oo » = - ; that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3075,
+      "line_end": 3075,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0144",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "in equation (1), - = initial permeability, - = saturation value of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3079,
+      "line_end": 3079,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0145",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "iron part is given by equation (2), that of the air part is constant,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3086,
+      "line_end": 3086,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0146",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where 3 = a plus the reluctance of the air gap. Equation (1),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3091,
+      "line_end": 3091,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0147",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "L2 = nc 10-8, i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3116,
+      "line_end": 3116,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0148",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "linked with the magnetic circuit, L2 is the inductance of the air",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3119,
+      "line_end": 3119,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0149",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENT OF IRONCLAD CIRCUIT. 55",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3124,
+      "line_end": 3124,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0150",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "That is, for i = 0, — r- = Z/i ; and for i = oo , <£' = T .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3129,
+      "line_end": 3129,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0151",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "_ L2 nc 10~8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3136,
+      "line_end": 3136,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0152",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "na 10~8 di . .,_ a di ' .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3149,
+      "line_end": 3149,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0153",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "If then, for the time t = tQ, the current is i = i0, these values",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3171,
+      "line_end": 3171,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0154",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "substituted in (8) give the integration constant C:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3172,
+      "line_end": 3172,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0155",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T1log- + !T2logio + T- + ^o + C = 0, (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3174,
+      "line_end": 3174,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0156",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "(dotted: t = 1.0851g i— .50?)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3216,
+      "line_end": 3216,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0157",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Such is done in Fig. 29, for the values of the constants",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3227,
+      "line_end": 3227,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0158",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a = 4 X 105,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3230,
+      "line_end": 3230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0159",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "c = 4 X 104,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3231,
+      "line_end": 3231,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0160",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "n = 300.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3233,
+      "line_end": 3233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0161",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "SINGLE-ENERGY TRANSIENT OF IRONCLAD CIRCUIT. 57",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3236,
+      "line_end": 3236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0162",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Assuming i0 = 10 amperes for t0 = 0, gives from (10) the equa-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3244,
+      "line_end": 3244,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0163",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T = 2.92 - 1 9.21 log10 ^ + .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3250,
+      "line_end": 3250,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0164",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Herein, the logarithms have been reduced to the base 10 by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3259,
+      "line_end": 3259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0165",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "division with logwe = .4343.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3260,
+      "line_end": 3260,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0166",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "t = 1.0S5log™i- .507.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3266,
+      "line_end": 3266,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0167",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "An oscillogram of the voltage and current waves in an 11,000-kw.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3278,
+      "line_end": 3278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0168",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "y = i/oe T°, (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3309,
+      "line_end": 3309,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0169",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T0 = £, (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3323,
+      "line_end": 3323,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0170",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "TJ = -, (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3330,
+      "line_end": 3330,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0171",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = e0e~£ct. (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3346,
+      "line_end": 3346,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0172",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T = -°, (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3353,
+      "line_end": 3353,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0173",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "v = v0(l-6~r}. (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3358,
+      "line_end": 3358,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0174",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "'T+-2-'£ (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3375,
+      "line_end": 3375,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0175",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where t'0 = maximum transient current.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3409,
+      "line_end": 3409,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0176",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where e0 = maximum transient voltage.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3419,
+      "line_end": 3419,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0177",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "#0 = 'Z'O V/ 7> = i&Qj (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3451,
+      "line_end": 3451,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0178",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "io = eo y j = e02/o. (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3456,
+      "line_end": 3456,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0179",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "short-circuit current is e0 = igZo.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3465,
+      "line_end": 3465,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0180",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "io = eo2/o, where e0 = voltage between cable conductor and ground.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3469,
+      "line_end": 3469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0181",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "discharge current in the line is limited to i0 = e<>yo.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3474,
+      "line_end": 3474,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0182",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "circuit of distributed capacity, inductance, and resistance), z0 is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3478,
+      "line_end": 3478,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0183",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = locosfa -7), (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3533,
+      "line_end": 3533,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0184",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "<t> = 27Tft, (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3537,
+      "line_end": 3537,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0185",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ii = IQ cos 7 = initial transient current. (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3543,
+      "line_end": 3543,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0186",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = e0 sin (0 - 7), (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3555,
+      "line_end": 3555,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0187",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ei = — e0 sin 7 = initial value of transient voltage. (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3559,
+      "line_end": 3559,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0188",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Fig. 31. — CD10017. — Oscillogram of Stationary Oscillation of Varying",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3572,
+      "line_end": 3572,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0189",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "lation may not be of constant frequency. Thus in Fig. 31 is shown",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3577,
+      "line_end": 3577,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0190",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Ce = it (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3609,
+      "line_end": 3609,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0191",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "2eQC = -io o7»",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3625,
+      "line_end": 3625,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0192",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a = VLC (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3641,
+      "line_end": 3641,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0193",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "on the oscillogram Fig. 31.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3653,
+      "line_end": 3653,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0194",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "written down by substituting (13), (19), (14), and (16) into (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3656,
+      "line_end": 3656,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0195",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = io cos (0 — 7) = io cos 7 cos <j> + i0 sin 7 sin",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3660,
+      "line_end": 3660,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0196",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = i\\ cos 1/001 sin - , (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3671,
+      "line_end": 3671,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0197",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = e\\ cos - + z0ii sin - , (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3677,
+      "line_end": 3677,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0198",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "7\\=2T0 = ^=, (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3717,
+      "line_end": 3717,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0199",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "T2 = 2 T0' = — , (24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3744,
+      "line_end": 3744,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0200",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "hk = € T^ T,= € \\T^TJt (25)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3758,
+      "line_end": 3758,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0201",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "This is correct only if g = 0, that is, the conductance, which rep-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3789,
+      "line_end": 3789,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0202",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "CCS - + z0ii sin / '",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3826,
+      "line_end": 3826,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0203",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a = VLC, (30)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3839,
+      "line_end": 3839,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0204",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "As instance are constructed, in Fig. 33, the transients of current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3844,
+      "line_end": 3844,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0205",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "L = 1.25 mh = 1.25 X 10~3 henrys;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3848,
+      "line_end": 3848,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0206",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "C = 2 mf = 2 X lO\"6 \"farads;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3849,
+      "line_end": 3849,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0207",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "r = 2.5 ohms;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3851,
+      "line_end": 3851,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0208",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "g = 0.008 mho,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3853,
+      "line_end": 3853,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0209",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "The initial transient current, ii = 140 amperes;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3863,
+      "line_end": 3863,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0210",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "The initial transient voltage, e\\ = 2000 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3864,
+      "line_end": 3864,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0211",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a = Vie = 5 x io-5,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3868,
+      "line_end": 3868,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0212",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "/ = - — = 3180 cycles per second,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3870,
+      "line_end": 3870,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0213",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ZQ = y ~ = 25 ohms,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3875,
+      "line_end": 3875,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0214",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "2/o = y T = 0.04 mho,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3878,
+      "line_end": 3878,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0215",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Tl = — = 0.001 sec. = 1 millisecond,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3884,
+      "line_end": 3884,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0216",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "= 0.0005 sec. = 0.5 millisecond,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3890,
+      "line_end": 3890,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0217",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "0.000333 sec. = 0.33 millisecond;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3896,
+      "line_end": 3896,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0218",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = €-3<S140cos0.2£-80sin0.2Zj,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3933,
+      "line_end": 3933,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0219",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = e-3<S2000 cos 0.2 1 + 3500 sin 0.2 «},",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3934,
+      "line_end": 3934,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0220",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "if = 140 cos 0.2 1 - 80 sin 0.2 1,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3943,
+      "line_end": 3943,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0221",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "er = 2000 cos 0.2 1 + 3500 sin 0.2 1.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3944,
+      "line_end": 3944,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0222",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "The dielectric-energy transient, k = e~2<,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3949,
+      "line_end": 3949,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0223",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "And the resultant transient, hk — e~3<.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3950,
+      "line_end": 3950,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0224",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "And Fig. 33(7 gives the transient current, i = hki', and the tran-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3952,
+      "line_end": 3952,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0225",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "28. In a circuit containing inductance and capacity, the tran-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3959,
+      "line_end": 3959,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0226",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "where i0 = maximum transient current, e0 = maximum transient",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3976,
+      "line_end": 3976,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0227",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i-0 = \\C-ZQ-yQ'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3982,
+      "line_end": 3982,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0228",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ii = IQ cos (</> — 7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3992,
+      "line_end": 3992,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0229",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ei = e0 sin (0 — 7) l",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3995,
+      "line_end": 3995,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0230",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "# = 2»ft (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 3998,
+      "line_end": 3998,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0231",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "' = 27^ (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4002,
+      "line_end": 4002,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0232",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "hk = e-*, (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4007,
+      "line_end": 4007,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0233",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "e = — €Q sin 7",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4017,
+      "line_end": 4017,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0234",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = loe-^cos (0 - 7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4021,
+      "line_end": 4021,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0235",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "6 = eoe-^sinfa - 7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4022,
+      "line_end": 4022,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0236",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "at £ = Oor 0 = 0:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4025,
+      "line_end": 4025,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0237",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = c<rui cos (0 - 7) ) n 1 x",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4057,
+      "line_end": 4057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0238",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "sin(0 -7) )",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4059,
+      "line_end": 4059,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0239",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "v = 3 X 1010, (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4084,
+      "line_end": 4084,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0240",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "3 X 1010 ( .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4090,
+      "line_end": 4090,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0241",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "v =5 - T=^> (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4092,
+      "line_end": 4092,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0242",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": ";•; • .v •'.,. a-j, ffifil (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4098,
+      "line_end": 4098,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0243",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "ti = al; (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4102,
+      "line_end": 4102,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0244",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "co = 27rM (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4106,
+      "line_end": 4106,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0245",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "we get, substituting t =F t\\ for Z and 0 =F co for $ into the equation",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4109,
+      "line_end": 4109,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0246",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "i = ce~ut cos (0 T co - 7) ) ,17,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4112,
+      "line_end": 4112,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0247",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "6 = Z0ce-u( sin (</> =F co — 7) )",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4114,
+      "line_end": 4114,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0248",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "0 = 2 7T/Z ^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4118,
+      "line_end": 4118,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0249",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "is the time angle, and (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4120,
+      "line_end": 4120,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0250",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "co = 2 7r/aZ )",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4122,
+      "line_end": 4122,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0251",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "cos 0 cos co,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4135,
+      "line_end": 4135,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0252",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "sin 0 cos co,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4136,
+      "line_end": 4136,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0253",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "cos 0 sin co,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4137,
+      "line_end": 4137,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0254",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "sin 0 sin co.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4138,
+      "line_end": 4138,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0255",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "distance angle co: (0 ± co), as in (17); or as products of functions",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4142,
+      "line_end": 4142,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0256",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "In Figs. 35 and 36 are shown oscillograms of such line oscilla-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4148,
+      "line_end": 4148,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0257",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "gressively along the line Z, so that at some distance 1Q current and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4156,
+      "line_end": 4156,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0258",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "point, that is, are again in the same phase. This distance Z0 is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4158,
+      "line_end": 4158,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0259",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "f = 4 Vic *",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4209,
+      "line_end": 4209,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0260",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "(7 = VLC. (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4216,
+      "line_end": 4216,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0261",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "LO, Co, TO, go (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4221,
+      "line_end": 4221,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0262",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "o- = Z*ro, (24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4236,
+      "line_end": 4236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0263",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "/.-rrr- (26)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4249,
+      "line_end": 4249,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0264",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Z0 = 4 ZL (27)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4267,
+      "line_end": 4267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0265",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Po = avg ei = 0 (28)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4274,
+      "line_end": 4274,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0266",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "is always zero, since voltage and current are 90 degrees apart.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4276,
+      "line_end": 4276,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0267",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "p = ei, (29)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4279,
+      "line_end": 4279,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0268",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "1. e = 0 at both ends of Zx;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4291,
+      "line_end": 4291,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0269",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "2. i = 0 at both ends of Zi;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4293,
+      "line_end": 4293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0270",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "3. e = 0 at one end, i = 0 at the other end of Zi.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4295,
+      "line_end": 4295,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0271",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "In the third case, i = 0 at one end, e = 0 at the other end of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4297,
+      "line_end": 4297,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0272",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "In the case 2, i = 0 at both ends of the line, the current and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4322,
+      "line_end": 4322,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0273",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "30. Substituting /0 = 4 li into (26) gives as the frequency of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4340,
+      "line_end": 4340,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0274",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "/ = ^r • (30)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4343,
+      "line_end": 4343,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0275",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the wave length 1Q is the distance traveled during one period:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4348,
+      "line_end": 4348,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0276",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Zo = trfo = ^., (32)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4360,
+      "line_end": 4360,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0277",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a = (70, (33)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4364,
+      "line_end": 4364,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0278",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "C0 = ^ , (35)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4375,
+      "line_end": 4375,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0279",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and thereby i = 0 at one end, e = 0 at the other end, the oscilla-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4396,
+      "line_end": 4396,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0280",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "length Z0 = 4 Zi, and therefore the period tQ = cr0/o = 4 o-0/i, that",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4400,
+      "line_end": 4400,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0281",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "is, the frequency /0 = -A —r . This is called the fundamental wave",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4402,
+      "line_end": 4402,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0282",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "the frequencies (2 k — 1)/0, where k = 1, 2, 3 . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4408,
+      "line_end": 4408,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0283",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "If then 0 denotes the time angle and co the distance angle of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4413,
+      "line_end": 4413,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0284",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "fundamental wave, that is, 0 = 2 TT represents a complete cycle",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4414,
+      "line_end": 4414,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0285",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "and co = 2ir a complete wave length of the fundamental wave,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4415,
+      "line_end": 4415,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0286",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "«i cos (0 =F co — 71) + a3 cos 3 (0 =F co — 73)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4425,
+      "line_end": 4425,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0287",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "+ a5 cos 5 (0 T co - 75) + . . . , (37)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4427,
+      "line_end": 4427,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0288",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "teristics, that is, e = 0 at both ends, or i = 0, the longest possible",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4433,
+      "line_end": 4433,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0289",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "wave has the length 10 = 2 l\\, and the frequency",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4434,
+      "line_end": 4434,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0290",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "If then 0 and co again represent the time and the distance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4445,
+      "line_end": 4445,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0291",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "a\\ cos (0 =F co — 71) + «2 cos 2 (0 T co — 72)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4455,
+      "line_end": 4455,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0292",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "+ a3 cos 3 (0 =F co - 73) + . . . , (38)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4457,
+      "line_end": 4457,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0293",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "32. The line constants r0, go, L0, C0 are given per unit length,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4486,
+      "line_end": 4486,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0294",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "as per cm., mile, 1000 feet, etc.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4487,
+      "line_end": 4487,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0295",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "in unit time, or 3 X 1010 cm. in overhead circuits, this gives v = 1,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4493,
+      "line_end": 4493,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0296",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Using this unit of length, <70 disappears from the equations of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4513,
+      "line_end": 4513,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0297",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "about one-half what it is in the overhead line (K = 4) and coiled",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4520,
+      "line_end": 4520,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0298",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "Substituting O-Q = 1 in equations (30) and (31) gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4529,
+      "line_end": 4529,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0299",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "CO = 2 7T/X = — — ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4535,
+      "line_end": 4535,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "elementary-lectures-electric-discharges-waves-impulses-eq-candidate-0300",
+    "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+    "original_form": "z° = V r = L° = T = ?T = T (41)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "line_start": 4548,
+      "line_end": 4548,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

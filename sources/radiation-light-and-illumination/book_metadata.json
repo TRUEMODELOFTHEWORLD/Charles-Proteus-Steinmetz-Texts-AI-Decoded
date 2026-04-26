@@ -1,0 +1,59 @@
+{
+  "source_id": "radiation-light-and-illumination",
+  "title": "Radiation, Light and Illumination",
+  "subtitle": "A Series of Engineering Lectures Delivered at Union College",
+  "author": {
+    "name": "Charles Proteus Steinmetz",
+    "birth_year": 1865,
+    "death_year": 1923
+  },
+  "editor": "Joseph LeRoy Hayden",
+  "publisher": "McGraw-Hill Book Company",
+  "place": "New York",
+  "year": 1909,
+  "source_type": "book",
+  "discipline_tags": [
+    "radiation",
+    "light",
+    "illumination",
+    "electric waves",
+    "optics",
+    "photometry",
+    "arc lamps",
+    "engineering lectures"
+  ],
+  "known_editions": [
+    {
+      "year": 1909,
+      "edition": "First edition",
+      "notes": "Canonical local scan for initial processing."
+    },
+    {
+      "year": 1910,
+      "edition": "Second edition",
+      "notes": "Google Books reports a 1910 second edition with 305 pages."
+    },
+    {
+      "year": 1918,
+      "edition": "Third edition",
+      "notes": "Several public scans identify a 1918 third edition."
+    }
+  ],
+  "external_identifiers": {
+    "internet_archive": "radiationlightil00steirich",
+    "oclc_from_commons": "1051759498"
+  },
+  "public_domain_notes": [
+    "The 1909 edition is a United States publication before 1931.",
+    "Wikimedia Commons marks the Internet Archive scan as public domain in the United States.",
+    "Repository-wide license review is still recommended before final public release."
+  ],
+  "ocr_quality": {
+    "initial_rating": "mixed",
+    "notes": [
+      "Text is readable enough for discovery and candidate extraction.",
+      "Mathematical notation, Greek letters, fractions, and page headers require manual verification.",
+      "Scanned figures are represented only by OCR captions and must be extracted from the PDF or IA image files."
+    ]
+  }
+}

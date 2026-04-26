@@ -1,0 +1,142 @@
+[
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-011",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 11,
+    "caption": "e\\ = — r/0 sin 0, opposite in phase to the current, shown as e\\ in dotted line in Fig. 11. The counter e.m.f. of resistance and the e.m.f. consumed by resistance have the same relation to each other as the counter",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2374,
+      "line_end": 2374,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-016",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 16,
+    "caption": "of the current by angle EOI = 0 would come into the position OE, Fig. 16. This vector diagram then shows graphically, by the projections of the vectors on the horizontal, the instantaneous values of the",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 2924,
+      "line_end": 2924,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-031",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 31,
+    "caption": "Taking i from Fig. 31 and substituting, gives (a) the values of e0 for e = 2000, which are recorded in the table, and plotted in Fig. 31. JTPUT",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 4090,
+      "line_end": 4090,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-045",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 45,
+    "caption": "and dielectric fields of the space surrounding two conductors which are; carrying energy. FIG. 45. FIELDS OF FORCE",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 7819,
+      "line_end": 7819,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-110",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 110,
+    "caption": "1231567 FIG. 110. 9 10 11 12 13 14 .15 16 17 18 19 20 21",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 12379,
+      "line_end": 12379,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-121",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 121,
+    "caption": "10 60 FIG. 121 100 120 _110 160 ISO",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 12947,
+      "line_end": 12947,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-127",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 127,
+    "caption": "alternating current in the armature section between a\\ and a2, will reach a maximum when this section is midway between the brushes BI and Bz, as shown in Fig. 127. The direct current in every armature coil reverses at the mo-",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 13908,
+      "line_end": 13908,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-154",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 154,
+    "caption": "I. Low core-loss type, Fig. 154 II. Low t*r loss type, Fig. 155",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 17028,
+      "line_end": 17028,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-155",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 155,
+    "caption": "Fig. 154 II. Low t*r loss type, Fig. 155 Exciting current",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 17031,
+      "line_end": 17031,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-fig-161",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "figure_number": 161,
+    "caption": "the coils, it follows that in Fig. 162 the leakage flux interlinked with each turn of each winding, and thus the reactance of the transformer, is materially less than one-quarter of what it is in Fig. 161. The regulation of the transformer at anti-inductive load, that is, for leading secondary current, obviously is given by the same",
+    "source_ref": {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "line_start": 18391,
+      "line_end": 18391,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  }
+]

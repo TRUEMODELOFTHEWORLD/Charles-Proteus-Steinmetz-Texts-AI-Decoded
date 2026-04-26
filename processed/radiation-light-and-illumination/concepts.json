@@ -1,0 +1,222 @@
+[
+  {
+    "id": "radiation",
+    "label": "Radiation",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 808,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "light",
+    "label": "Light",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 1640,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "illumination",
+    "label": "Illumination",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 627,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "electric-waves",
+    "label": "Electric waves",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 16,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "ether",
+    "label": "Ether",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 9,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "wave-length",
+    "label": "Wave length",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 71,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "frequency",
+    "label": "Frequency",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 155,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "velocity-of-light",
+    "label": "Velocity of light",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 10,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "refraction",
+    "label": "Refraction",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 19,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "refractive-index",
+    "label": "Refractive index",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 12,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "permeability",
+    "label": "Magnetic permeability",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "dielectric-constant",
+    "label": "Dielectric constant",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 4,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "spectrum",
+    "label": "Spectrum",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 130,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "ultraviolet",
+    "label": "Ultra-violet radiation",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 9,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "ultrared",
+    "label": "Ultra-red radiation",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "luminescence",
+    "label": "Luminescence",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 84,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "arc-lamp",
+    "label": "Arc lamp",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 60,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "photometry",
+    "label": "Photometry",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 15,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "brilliancy",
+    "label": "Brilliancy",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 69,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  },
+  {
+    "id": "light-flux-density",
+    "label": "Light flux density",
+    "source_id": "radiation-light-and-illumination",
+    "occurrence_count_in_ocr": 19,
+    "steinmetz_usage": "",
+    "modern_equivalent": "",
+    "interpretive_reading": "",
+    "related": [],
+    "status": "seeded"
+  }
+]

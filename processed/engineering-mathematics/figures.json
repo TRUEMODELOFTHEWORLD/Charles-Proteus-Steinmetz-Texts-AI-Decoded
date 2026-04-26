@@ -1,0 +1,128 @@
+[
+  {
+    "id": "engineering-mathematics-fig-005",
+    "source_id": "engineering-mathematics",
+    "figure_number": 5,
+    "caption": "■e- FiG. 5. tance in the direction rotated 90 deg. from +2, or in quadrature",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 1635,
+      "line_end": 1635,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-006",
+    "source_id": "engineering-mathematics",
+    "figure_number": 6,
+    "caption": "+3 Fig. 6. For instance, in problems dealing with plain geometry, as in",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 1689,
+      "line_end": 1689,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-010",
+    "source_id": "engineering-mathematics",
+    "figure_number": 10,
+    "caption": "There are therefore n different valuesof av^ + 1, which lie equidistant on a circle with radius 1, as shown for n = 9 in Fig. 10. 14. In the operation of addition, a + 6 = c, the problem is, a and 6 being given, to find c.",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 1872,
+      "line_end": 1872,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-020",
+    "source_id": "engineering-mathematics",
+    "figure_number": 20,
+    "caption": "d) — I — 1 0 (D — I — I — I — I — I — I — I — © — I — • — I O A B C Fig. 20. horses, multiplication has no physical meaning. If they repre- sent feet, the product of multiphcation has a physical meaning,",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 2895,
+      "line_end": 2895,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-046",
+    "source_id": "engineering-mathematics",
+    "figure_number": 46,
+    "caption": "of the exactness of the results resulting from the limited num- FiG. 46. ber of numerical values of i, on which the calculation is based.",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 11540,
+      "line_end": 11540,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-047",
+    "source_id": "engineering-mathematics",
+    "figure_number": 47,
+    "caption": "able to supply the charging current of the line, due to the Fig. 47. wave shape distortion, more than two generators are required.",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 12032,
+      "line_end": 12032,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-048",
+    "source_id": "engineering-mathematics",
+    "figure_number": 48,
+    "caption": "purposes, as short-distance distribution. Fig. 48. In Figs. 47 and 48 are plotted the voltage wave and the current wave, from equations (9) and (14) repsectively, and",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 12041,
+      "line_end": 12041,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-049",
+    "source_id": "engineering-mathematics",
+    "figure_number": 49,
+    "caption": "As seen from Fig. 49, the fundamental wave has practically Fig. 49. vanished, and the voltage wave is the seventh harmonic, modi-",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 12109,
+      "line_end": 12109,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "engineering-mathematics-fig-057",
+    "source_id": "engineering-mathematics",
+    "figure_number": 57,
+    "caption": "?ro (62) Fig. 57. Substituting (61) into (62) gives,",
+    "source_ref": {
+      "source_id": "engineering-mathematics",
+      "line_start": 13829,
+      "line_end": 13829,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  }
+]

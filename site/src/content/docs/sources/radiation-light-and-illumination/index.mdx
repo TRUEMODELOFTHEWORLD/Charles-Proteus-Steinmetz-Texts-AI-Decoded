@@ -1,0 +1,88 @@
+---
+title: Radiation, Light and Illumination
+description: First canonical source in the Steinmetz Decoded archive.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Charles Proteus Steinmetz, Radiation, Light and Illumination, McGraw-Hill, 1909" location="source_id: radiation-light-and-illumination" status="seeded" />
+
+## Overview
+
+_Radiation, Light and Illumination_ is a sequence of engineering lectures delivered at Union College. It treats radiation, light, electric waves, photometry, arc lamps, illumination, and visual physiology as one engineering field.
+
+This makes it a strong first source for the archive: it contains explicit radiation and ether language, a frequency/wavelength scale connecting electric waves and light, and later chapters that force a careful distinction between physical power and human perception.
+
+## Deep Reading Strategy
+
+The book should not be read as an isolated lighting manual. It begins with radiation as a general physical phenomenon, then narrows toward light, vision, photometry, lamps, and practical illumination. That arc is valuable because it shows Steinmetz refusing to collapse different layers of reality into one word: radiation is not automatically heat, light is not automatically illumination, physical energy is not automatically human visual effect, and measurement is not automatically experience.
+
+For this archive, that means each lecture needs two kinds of decoding. The first is physical and mathematical: waves, frequency, wavelength, emission, absorption, reflection, refraction, flux, intensity, and distribution. The second is conceptual and historical: how early electrical engineering organized radiation, light, high-frequency electrical phenomena, and practical lighting before later textbook language standardized the vocabulary.
+
+## Processed Artifacts
+
+- Raw scan PDF in `sources/radiation-light-and-illumination/raw/`
+- Internet Archive OCR in `processed/radiation-light-and-illumination/cleaned_text/internet-archive-ocr.txt`
+- Lecture splits in `processed/radiation-light-and-illumination/cleaned_text/lecture-XX.md`
+- `chapters.json`, `equations.json`, `figures.json`, `concepts.json`, `glossary.json`, `quotes.json`
+
+## Lecture Map
+
+1. Nature and Different Forms of Radiation
+2. Relation of Bodies to Radiation
+3. Physiological Effects of Radiation
+4. Chemical and Physical Effects of Radiation
+5. Temperature Radiation
+6. Luminescence
+7. Flames as Illuminants
+8. Arc Lamps and Arc Lighting
+9. Measurement of Light and Radiation
+10. Distribution of Light
+11. Light Intensity and Illumination
+12. Illumination and Illuminating Engineering
+13. Physiological Problems of Illuminating Engineering
+
+## First Concepts To Promote
+
+<div class="research-passages">
+  <section>
+    <h3>Radiation</h3>
+    <p>Promote first because it anchors the entire book and gives the archive its first example of Steinmetz separating an energy process from the effect produced after absorption.</p>
+  </section>
+  <section>
+    <h3>Electric Waves</h3>
+    <p>Promote first because the opening lecture connects ordinary AC fields, Hertzian waves, wireless waves, visible light, ultraviolet, and X-rays through frequency and wavelength.</p>
+  </section>
+  <section>
+    <h3>Illumination</h3>
+    <p>Promote first because the later lectures show how physical radiation becomes practical lighting only after geometry, source distribution, measurement, and visual response are considered.</p>
+  </section>
+</div>
+
+## Visual Reading Aids
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/diagrams/spectrum-of-radiation.svg" alt="Recreated spectrum of radiation guide" />
+    <div>
+      <strong>Spectrum guide</strong>
+      <p>Lecture I reading aid for frequency, wavelength, and the continuity of electric waves and light.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/diagrams/illumination-inverse-square.svg" alt="Recreated illumination distance guide" />
+    <div>
+      <strong>Illumination guide</strong>
+      <p>Later-lecture reading aid for flux, distance, receiving area, and useful illumination.</p>
+    </div>
+  </div>
+</div>
+
+<LayeredReading label="Quality Note" open>
+The current source text is OCR-derived. It is good enough for discovery, but equations, page references, Greek letters, figure captions, and exact quotations must be checked against the scan before canonical publication.
+</LayeredReading>
+
+## First Deep-Decoding Entry
+
+[Lecture I: Nature and Different Forms of Radiation](/sources/radiation-light-and-illumination/lecture-01/)

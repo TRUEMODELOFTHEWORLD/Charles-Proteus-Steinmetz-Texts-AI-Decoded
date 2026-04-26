@@ -1,0 +1,15 @@
+---
+interface Props {
+  label: string;
+  open?: boolean;
+}
+
+const { label, open = false } = Astro.props;
+---
+
+<details class="layered-reading" open={open}>
+  <summary>{label}</summary>
+  <div class="body">
+    <slot />
+  </div>
+</details>

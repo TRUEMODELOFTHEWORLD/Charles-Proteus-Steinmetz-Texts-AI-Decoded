@@ -1,0 +1,15 @@
+---
+interface Props {
+  source: string;
+  location?: string;
+  status?: string;
+}
+
+const { source, location = '', status = 'needs verification' } = Astro.props;
+---
+
+<aside class="source-ref">
+  <strong>Source:</strong> {source}
+  {location && <> - <strong>Location:</strong> {location}</>}
+  <span class="verification-label">{status}</span>
+</aside>

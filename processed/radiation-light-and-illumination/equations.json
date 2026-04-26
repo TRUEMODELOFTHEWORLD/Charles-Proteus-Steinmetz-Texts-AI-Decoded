@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0001",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "when seen from the earth E, by passing behind Jupiter, 7 (Fig. 1),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 658,
+      "line_end": 658,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0002",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "sec. and 195,000,000 miles in 1040 sec. thus gives a velocity of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 672,
+      "line_end": 672,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0003",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "light of » or 188,000 miles per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 675,
+      "line_end": 675,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0004",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "of different ways. For instance, let, in Fig. 2, D be a disk per-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 679,
+      "line_end": 679,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0005",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "siderable distance, for instance 5 miles; there the light is reflected",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 682,
+      "line_end": 682,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0006",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "through the next hole H2, that is, the disk has moved a distance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 721,
+      "line_end": 721,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0007",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Assume, for instance, that the disk D has 200 holes and makes",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 723,
+      "line_end": 723,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0008",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "94 rev. per sec. at the moment when the light has again reached",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 728,
+      "line_end": 728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0009",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "full brilliancy* In this case, 200 X 94 = 18,800 holes pass the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 729,
+      "line_end": 729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0010",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "or 188,000 miles per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 740,
+      "line_end": 740,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0011",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "188,000 miles or 3 X 1010 cm. per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 743,
+      "line_end": 743,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0012",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "in phase, their resultant C2 is less than their sum, and if the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 766,
+      "line_end": 766,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0013",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "length, instead of the meter, which was intended to be 10~7 of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 822,
+      "line_end": 822,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0014",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "lw = 60 microcentimeters,* that is, 60 X 10~8 cm. (or about",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 859,
+      "line_end": 859,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0015",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "^<y^<5-<y in.) and since the speed is S = 3 X 1010 cm. the frequency",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 860,
+      "line_end": 860,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0016",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "is / = r- = 500 X 1012, or 500 millions of millions of cycles per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 864,
+      "line_end": 864,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0017",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "polarized ; that is, for instance, the reflection from the mirror m0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 955,
+      "line_end": 955,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0018",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "In a second crystal, K2, beam b would then enter as a single",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 969,
+      "line_end": 969,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0019",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "motions of very high speed, S = 3 X 1010 cm. per sec. in a hypo-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 978,
+      "line_end": 978,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0020",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "only: between 400 X 1012 and 770 X 1012 cycles per sec. cor-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 983,
+      "line_end": 983,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0021",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "responding to wave lengths from 76 X 10\"6 cm. to 39 X 10\"' cm.*",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 984,
+      "line_end": 984,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0022",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "diameter, having a resistance of about 10 ohms each), connected",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 989,
+      "line_end": 989,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0023",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "* The visibility of radiation is greatest between the wave lengths 50 X 10~*",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 991,
+      "line_end": 991,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0024",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "to 60 X 10~e and good between the wave lengths 41 X 10~e to 76 X 10~8,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 992,
+      "line_end": 992,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0025",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "33 X 10~6 to 77 X 10~6 and faintly even as far as 30 X 10~fl to 100 X",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 994,
+      "line_end": 994,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0026",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "resistance in a 120-volt circuit. When I establish a current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1004,
+      "line_end": 1004,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0027",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "of 2000 ohms resistance in a 240-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1056,
+      "line_end": 1056,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0028",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "3000 X 1012 cycles per sec., or to wave lengths of about 10 X 10~6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1166,
+      "line_end": 1166,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0029",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "estimated as 0.01 X 10~6 cm., giving a frequency of 3 X 1018",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1179,
+      "line_end": 1179,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0030",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "cm. length, or frequencies of only 10 12 cycles per sec. The ultra-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1205,
+      "line_end": 1205,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0031",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "to 107 to 105 cycles per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1240,
+      "line_end": 1240,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0032",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "3 X 1010",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1247,
+      "line_end": 1247,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0033",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "a 60-cycle alternating current gives a wave length of ^ =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1248,
+      "line_end": 1248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0034",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "500 X 10\" cm. or 3100 miles — the distance to which the field of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1250,
+      "line_end": 1250,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0035",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "separated by a narrow gap. It probably is at about 5 X 1010",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1277,
+      "line_end": 1277,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0036",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "cycles, or 0.6 cm. wave length.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1278,
+      "line_end": 1278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0037",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "from 0.6 to 0.03 cm., or only about four octaves.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1282,
+      "line_end": 1282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0038",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "given in octaves, choosing as zero1 point the middle c of the piano,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1286,
+      "line_end": 1286,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0039",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "or a frequency of 128 cycles per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1287,
+      "line_end": 1287,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0040",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Zero point chosen at c = 128 cycles per second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1303,
+      "line_end": 1303,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0041",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Speed of radiation S = 3 X lu10 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1304,
+      "line_end": 1304,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0042",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "20,000 km. = 12,500 mi.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1324,
+      "line_end": 1324,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0043",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "12.000 km. = 7, 500 mi.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1328,
+      "line_end": 1328,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0044",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "5, 000 km. = 3, 100 mi.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1334,
+      "line_end": 1334,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0045",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "2,250 km. = 1,400 mi.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1338,
+      "line_end": 1338,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0046",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "3 km. = 10,000 ft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1358,
+      "line_end": 1358,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0047",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "30 m. = 100 ft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1366,
+      "line_end": 1366,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0048",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "30 m. = 100 ft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1375,
+      "line_end": 1375,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0049",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "30 cm. = 1 ft.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1376,
+      "line_end": 1376,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0050",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "0.6 cm. = 0.25 in.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1385,
+      "line_end": 1385,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0051",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "30,000x10-\" =0.03 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1399,
+      "line_end": 1399,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0052",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "76xlO~8 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1400,
+      "line_end": 1400,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0053",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "76xlO-6cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1409,
+      "line_end": 1409,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0054",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "39xlO~e cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1410,
+      "line_end": 1410,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0055",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "39X10-6 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1422,
+      "line_end": 1422,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0056",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "10 x 10\"8 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1423,
+      "line_end": 1423,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0057",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "0.01 xlO~J cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1436,
+      "line_end": 1436,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0058",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "The velocity of light in empty space is 3 X 1010 cm. per sec.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1634,
+      "line_end": 1634,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0059",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Let then Sl = speed of propagation in medium A, S2 = speed of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1657,
+      "line_end": 1657,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0060",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "medium TF, only the distance CK = — 2 GH, and the wave front",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1674,
+      "line_end": 1674,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0061",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and a2 = angle of refraction, that is, the angle between the out-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1690,
+      "line_end": 1690,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0062",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "FDH = a, and LHD = a2 ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1694,
+      "line_end": 1694,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0063",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "FH = DH sin a, and DL = DH sin av (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1697,
+      "line_end": 1697,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0064",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "FH + DL = S, - S3; (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1703,
+      "line_end": 1703,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0065",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "sin «1 Sl",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1708,
+      "line_end": 1708,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0066",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "where S is the velocity of light in empty space = 3 X 1010, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1729,
+      "line_end": 1729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0067",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "between medium 2 and medium 3, dl-3 = £2_3 -*- ^_2 = refractive",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1735,
+      "line_end": 1735,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0068",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "S = -L= , (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1750,
+      "line_end": 1750,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0069",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "for empty space, fj. = 1 and « = 1;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1774,
+      "line_end": 1774,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0070",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Vl = d*-, (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1785,
+      "line_end": 1785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0071",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Since for most media the permeability /JL = 1, for all except",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1790,
+      "line_end": 1790,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0072",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(26). The spectrum of an arc between titanium carbide elec-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 1890,
+      "line_end": 1890,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0073",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "20. The most important physiological effect is the visibility of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2371,
+      "line_end": 2371,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0074",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "wave length 76 X 10~6 and 39 X 1Q-6.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2373,
+      "line_end": 2373,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0075",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(3). By the logarithmic law of sensation. The impression made",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2452,
+      "line_end": 2452,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0076",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 39",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2457,
+      "line_end": 2457,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0077",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "1 to 2, but the change of sensation in the first case, log 1000 = 3,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2464,
+      "line_end": 2464,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0078",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "log 2 - 0.301.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2466,
+      "line_end": 2466,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0079",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 43",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2631,
+      "line_end": 2631,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0080",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "distance of 100 feet, by going nearer to the lamps the orange",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2664,
+      "line_end": 2664,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0081",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 45",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2719,
+      "line_end": 2719,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0082",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Wave length lw = 67 60.5 57.5 50.5 47 . 43 x 10~fl",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2726,
+      "line_end": 2726,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0083",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tensity .... i0 = 0.06 0.0056 0.0029 0.00017 0.00012 0.00012",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2729,
+      "line_end": 2729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0084",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "power po = 10,000 1000 100 1 2 20",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2733,
+      "line_end": 2733,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0085",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "I = 45.0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2787,
+      "line_end": 2787,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0086",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "of light intensity at 1 meter distance; N meter-candles, thus, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2813,
+      "line_end": 2813,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0087",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "meter distance or of 1 candle power at— -= meter distance, etc.).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2816,
+      "line_end": 2816,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0088",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "As seen, curve (a) ends at wave length /„, = 61 X 10~fl; that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2820,
+      "line_end": 2820,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0089",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Z0 = 51.1, bluish green for very low intensity, curve (a).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2827,
+      "line_end": 2827,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0090",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Z0 = 53.7, yellowish green for medium intensity, curve (b).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2828,
+      "line_end": 2828,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0091",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "10 = 56.5, yellow for high intensity, curve (c).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2829,
+      "line_end": 2829,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0092",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "shown in Fig. 25; that is, it is constant in the bluish green for",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2832,
+      "line_end": 2832,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0093",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tween 0.5 and 50 meter-candles and again remains constant in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2834,
+      "line_end": 2834,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0094",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tivity and ks is a constant which is approximately 120 for low,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 2850,
+      "line_end": 2850,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0095",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 51",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3093,
+      "line_end": 3093,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0096",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 53",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3187,
+      "line_end": 3187,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0097",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 55",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3286,
+      "line_end": 3286,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0098",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 57",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3384,
+      "line_end": 3384,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0099",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 59",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3478,
+      "line_end": 3478,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0100",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "PHYSIOLOGICAL EFFECTS OF RADIATION. 61",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3571,
+      "line_end": 3571,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0101",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and these free atoms then join existing molecules: 0 + 02 = 03,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3701,
+      "line_end": 3701,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0102",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "oxygen 02 and using the carbon in producing the complex carbon",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3740,
+      "line_end": 3740,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0103",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tor and T2 = absolute temperature of the surrounding objects",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3972,
+      "line_end": 3972,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0104",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Pr = kA (TV - ?V), (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3976,
+      "line_end": 3976,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0105",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "k = 5 X 1(T12; (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3981,
+      "line_end": 3981,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0106",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Pr = kA (T, - T2) (TV + T*T2 + 7\\7y + 7y);",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 3997,
+      "line_end": 3997,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0107",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Pr = 4 kAT* (T, - T), (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4000,
+      "line_end": 4000,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0108",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "temperature rise, as long as the latter is moderate, equation (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4013,
+      "line_end": 4013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0109",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "stationary air A^ reaches values as high as fct = 25 X 10~12 to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4016,
+      "line_end": 4016,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0110",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "50 X 10~12.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4017,
+      "line_end": 4017,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0111",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "comparable with the absolute temperature T, the equation (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4020,
+      "line_end": 4020,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0112",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Pr = kATf; (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4027,
+      "line_end": 4027,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0113",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "For instance, assuming a temperature rise of 50 deg. cent, per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4088,
+      "line_end": 4088,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0114",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "35. With increasing temperature of the radiator, the intensity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4094,
+      "line_end": 4094,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0115",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the lamp to 10 times the previous distance, we get only T^ the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4123,
+      "line_end": 4123,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0116",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "where a = 5 for normal temperature radiation or black body",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4179,
+      "line_end": 4179,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0117",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "radiation; b = 1.42, and A = surface area of the radiator.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4180,
+      "line_end": 4180,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0118",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "P- f °°P (lw)dlw = Mr-1;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4186,
+      "line_end": 4186,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0119",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "thus, for a = 5;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4189,
+      "line_end": 4189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0120",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "lmT =- = 0.284;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4205,
+      "line_end": 4205,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0121",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 50 X 10~6 thus gives:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4213,
+      "line_end": 4213,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0122",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "T - = 5680 deg.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4214,
+      "line_end": 4214,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0123",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "length of useful life: 500 hours with the carbon filament, since",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4408,
+      "line_end": 4408,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0124",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(6). Ring carbon: low resistance (within the range of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4604,
+      "line_end": 4604,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0125",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "have the same radiation constant k in equation (1) ; these bodies",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4639,
+      "line_end": 4639,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0126",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tion (1), but with a constant k, which is a fraction of the constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4647,
+      "line_end": 4647,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0127",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "k = bk0 = (1 - a) fcc,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4674,
+      "line_end": 4674,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0128",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tion constant of the black body multiplied by 1 minus its albedo a.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4677,
+      "line_end": 4677,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0129",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "For instance, if in Fig. 29, 1 is the curve of distribution of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4698,
+      "line_end": 4698,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0130",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Curve II, for albedo a = 0.3, has the height 1 - a = 0.7 times",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4703,
+      "line_end": 4703,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0131",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "body. Curve III corresponds to albedo a = 0.6, or a radiation",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4714,
+      "line_end": 4714,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0132",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "constant 1 - a = 0.4 times that of the black body. Colored",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4715,
+      "line_end": 4715,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0133",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "again by the mirror Ml and M2 we get a resultant green color",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4899,
+      "line_end": 4899,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0134",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "able shutter S2 below Sl with a single opening, we can by it cut",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4906,
+      "line_end": 4906,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0135",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "out a single green color, and by moving the shutter S2 bring this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 4907,
+      "line_end": 4907,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0136",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "quency range, and curve V in Fig. 29, for instance, would be the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5064,
+      "line_end": 5064,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0137",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "in carbon bisulphide, CS2, which ignites spontaneously at about",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5168,
+      "line_end": 5168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0138",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "45. Industrially this is the most important form of lumines-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5293,
+      "line_end": 5293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0139",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "spheres of a diameter 1.5 or more times their distance, with",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5402,
+      "line_end": 5402,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0140",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "I have two needle-shaped terminals, 5 cm. distant from each other,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5437,
+      "line_end": 5437,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0141",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "If the Geissler tube has a considerable diameter, 3 to 5 cm.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5450,
+      "line_end": 5450,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0142",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "less luminous spaces, about as shown in Fig. 32. The distance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5461,
+      "line_end": 5461,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0143",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "distances of 10 cm. and over very closely 4000 volts effective",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5488,
+      "line_end": 5488,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0144",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "alternating per cm. (10,000 volts per inch) are required (a 2-cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5489,
+      "line_end": 5489,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0145",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "as 2 volts per cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5508,
+      "line_end": 5508,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0146",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "drop of 2000 volts, and two volts per cm. in the conducting gas",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5548,
+      "line_end": 5548,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0147",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "requires a tube length of — — - = 1000 cm. = 10 m. or 33 feet,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5552,
+      "line_end": 5552,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0148",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the terminals, requires a tube length of — — = 40 m. or 133 feet.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5561,
+      "line_end": 5561,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0149",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(2.) By raising the voltage between the terminals so high that",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5630,
+      "line_end": 5630,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0150",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(4.) By raising the space between the terminals to a very high",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5650,
+      "line_end": 5650,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0151",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and 2 through a resistance, to 'a direct current supply, and tilt",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5685,
+      "line_end": 5685,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0152",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "3J=10 OHMS",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5716,
+      "line_end": 5716,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0153",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(1) Because carbon is one of the very few substances which",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5762,
+      "line_end": 5762,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0154",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(2) Carbon is the most refractory substance and the tempera-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5766,
+      "line_end": 5766,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0155",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "49. Since the arc conduction issues as a rapidly moving vapor",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5848,
+      "line_end": 5848,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0156",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "separated by 2.5 cm., and connected into a 220- volt direct-cur-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5872,
+      "line_end": 5872,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0157",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "I draw this arc to about 4 cm. length, and without touching C",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5884,
+      "line_end": 5884,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0158",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "r =20 OHMS",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5936,
+      "line_end": 5936,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0159",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "T= 30 OHMS",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5983,
+      "line_end": 5983,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0160",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "ing .the other. I show you this experimentally, using 50 volts",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 5991,
+      "line_end": 5991,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0161",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "2-cm. arc between these terminals, with 1000 volts alternating",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6027,
+      "line_end": 6027,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0162",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "i = iu unM5",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6036,
+      "line_end": 6036,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0163",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "point of titanium carbide (3000 deg. cent.), 40 volts at the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6059,
+      "line_end": 6059,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0164",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and thereby increasing radiation, etc. For a 13-mm. (0.5-in.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6077,
+      "line_end": 6077,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0165",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "magnetite arc, 75 volts for the titanium carbide arc, 80 volts",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6099,
+      "line_end": 6099,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0166",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "produced by 4 amperes direct current across a gap of 2 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6190,
+      "line_end": 6190,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0167",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "when the vapor pressure has risen to about 5 cm., the three",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6267,
+      "line_end": 6267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0168",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "2 = 10 OHM",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6337,
+      "line_end": 6337,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0169",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(1) By electro-conduction, that is, using the material as the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6427,
+      "line_end": 6427,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0170",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "open carbon arc of old consumes about 5 cm. of electrodes per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6467,
+      "line_end": 6467,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0171",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "mon titanium compound, Ti02, or rutile, is not directly suitable,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6487,
+      "line_end": 6487,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0172",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "5 cm. (1 to 2 in.) per hour, and the flame-carbon arc even with",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6561,
+      "line_end": 6561,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0173",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "cannot be produced at all. Thus, for instance, while a 500-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6596,
+      "line_end": 6596,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0174",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Thus methane, CH4, does not give a luminous flame, since it con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6663,
+      "line_end": 6663,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0175",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "carbon atom. Ethane, C2H6, with a = 3, still gives a luminous",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6879,
+      "line_end": 6879,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0176",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "side, the gasolene flame, a = 2.33, is slightly smoky. However,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6881,
+      "line_end": 6881,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0177",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "flame of the parafnne candle a = 2.08 is still smokeless but",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6885,
+      "line_end": 6885,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0178",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "J in. or less diameter, even acetylene, a = 1, gives smokeless",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6887,
+      "line_end": 6887,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0179",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "gives smokeless flames even up to b = 50, or one carbon atom",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6893,
+      "line_end": 6893,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0180",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "to two hydrocarbon atoms, a = 2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6894,
+      "line_end": 6894,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0181",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Thus kerosene, which, due to its high carbon content a = 2.14,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6896,
+      "line_end": 6896,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0182",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "as acetylene or benzol a = 1, artificial draft and large flame",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6905,
+      "line_end": 6905,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0183",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "smoky luminous flame: 5 C to 14 H, or a = 2.8.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6919,
+      "line_end": 6919,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0184",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "bon atom is a = 2, corresponding to a luminous but smoky",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6947,
+      "line_end": 6947,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0185",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "carbon atom in the aldehyde : C2H40 = CO + CH4, and in CH4 :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6952,
+      "line_end": 6952,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0186",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "a = 4, corresponding to a non-luminous flame, as observed. In",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6953,
+      "line_end": 6953,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0187",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "C7H1402 = 2 CO + C5H14, and the ratio of hydrogen to carbon",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6955,
+      "line_end": 6955,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0188",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "atoms is a = 2.8, or b = 30, corresponding to a luminous non-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 6956,
+      "line_end": 6956,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0189",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "59. Since, as discussed in Lecture VI, chemical luminescence",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7010,
+      "line_end": 7010,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0190",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "62. The voltage consumed by an arc, at constant current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7147,
+      "line_end": 7147,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0191",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "intersect in a point which lies at I = — 0.125 cm. = — 0.05 in.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7199,
+      "line_end": 7199,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0192",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and e = 30 volts; that is, the voltage consumed by the arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7200,
+      "line_end": 7200,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0193",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "consists of a part, e0 = 30 (for the magnetite arc), which is con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7201,
+      "line_end": 7201,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0194",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the arc length plus a small quantity, 1L= 0.125 (for the magne-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7209,
+      "line_end": 7209,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0195",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "tite arc): e^ = \\(l + 0.125), and depends upon the current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7210,
+      "line_end": 7210,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0196",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "magnetite arc, for I = 0.3, 1.25, 2.5, 3.75 cm. = 0.125, 0.5, 1 and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7220,
+      "line_end": 7220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0197",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "stant part, e0 = 30 volts, which apparently represents the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7222,
+      "line_end": 7222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0198",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "cubic hyperbolas: e^i = kz2; or, el =— £j and since we find for",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7233,
+      "line_end": 7233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0199",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "constant value of current: el = k^ (I + 0.12), as function of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7237,
+      "line_end": 7237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0200",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "ei = TT1-' (1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7241,
+      "line_end": 7241,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0201",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "where e0, k and Zt are constants of the terminal material (k, how-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7252,
+      "line_end": 7252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0202",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "proportional to the current, i\\ and, as the power is p0 = eQi, it",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7267,
+      "line_end": 7267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0203",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "which is equation (1), and herefrom, since e = e0 + eir follows",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7295,
+      "line_end": 7295,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0204",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "63. Since e0 represents the power consumed in producing the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7298,
+      "line_end": 7298,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0205",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e0 = 13 volts for mercury,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7305,
+      "line_end": 7305,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0206",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 16 volts for zinc and cadmium,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7307,
+      "line_end": 7307,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0207",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 30 volts for magnetite,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7308,
+      "line_end": 7308,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0208",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 36 volts for carbon,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7309,
+      "line_end": 7309,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0209",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "k = 31 for magnetite (123 in inch measure),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7311,
+      "line_end": 7311,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0210",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 35 for carbon (130 in inch measure).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7312,
+      "line_end": 7312,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0211",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "as done for the magnetite arc in Fig. 45, — when using only the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7333,
+      "line_end": 7333,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0212",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e0 = 36 volts, but I, = - 0.8 cm. = - 0.33 in.; that is, a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7336,
+      "line_end": 7336,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0213",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "point, at zero arc length, or e0' = 28 volts. This looks as if, of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7368,
+      "line_end": 7368,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0214",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the potential drop of e0 = 36 volts of the carbon arc, only a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7369,
+      "line_end": 7369,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0215",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "part, e0' = 28 volts, occurs at the surface of the terminals, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7370,
+      "line_end": 7370,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0216",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the remaining part, e\" = 8 volts, occurs in the space within",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7371,
+      "line_end": 7371,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0217",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "drop e0' occurs. Possibly the voltage e0' = 28 is consumed at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7376,
+      "line_end": 7376,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0218",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "while the voltage e\" = 8 is consumed by the moving vapor",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7382,
+      "line_end": 7382,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0219",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "for a magnetite arc of 1.8 cm. (about 0.75 in.) length, it follows",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7391,
+      "line_end": 7391,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0220",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Inserting in series with the arc, curve I, in Fig. 48, a constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7408,
+      "line_end": 7408,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0221",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "resistance of 10 ohms, the voltage consumed by this resistance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7409,
+      "line_end": 7409,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0222",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "of current, for values of current below i0 = 2.9 amperes, and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7414,
+      "line_end": 7414,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0223",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "current larger than i0 = 2.9 amperes, the voltage increases with",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7416,
+      "line_end": 7416,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0224",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "increase of current. The point i0 = 2.9 amperes thus separates",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7417,
+      "line_end": 7417,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0225",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "part. With a series resistance of r = 10 ohms, a 1.8-cm. mag-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7419,
+      "line_end": 7419,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0226",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "netite arc thus requires at least e = 117 volts supply voltage,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7420,
+      "line_end": 7420,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0227",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and i0 = 2.9 amperes for steady operation. With a larger",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7421,
+      "line_end": 7421,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0228",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "series resistance, as r = 20 ohms, represented by curve II' and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7422,
+      "line_end": 7422,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0229",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "be operated ; with a lower series resistance, r = 5 ohms, curves",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7424,
+      "line_end": 7424,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0230",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Fig. 48 is horizontal, that is, the slope of the resistance curve",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7459,
+      "line_end": 7459,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0231",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "or, E^e+ti. (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7491,
+      "line_end": 7491,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0232",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Thus, in an arc requiring 80 volts, of which e0 = 30 volts are",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7498,
+      "line_end": 7498,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0233",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "consumed at the terminals, ^ = 50 volts in the arc stream,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7499,
+      "line_end": 7499,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0234",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 80 + 25 = 105 volts is required.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7502,
+      "line_end": 7502,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0235",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "pi = 6li = kli, (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7531,
+      "line_end": 7531,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0236",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "thus gives e1 = klf or independent of the current; and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7533,
+      "line_end": 7533,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0237",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e = e0 + ev",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7535,
+      "line_end": 7535,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0238",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= e0 + A*; (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7536,
+      "line_end": 7536,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0239",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "rent, and consists of a constant part, the terminal drop e0, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7540,
+      "line_end": 7540,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0240",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e0 = 13 volts ; k = -y-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7547,
+      "line_end": 7547,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0241",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e0 = 13 volts,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7579,
+      "line_end": 7579,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0242",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "a = 1.68,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7581,
+      "line_end": 7581,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0243",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "6 = 0.29 for mercury anode,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7583,
+      "line_end": 7583,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0244",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 0.167 for graphite or metal anode,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7585,
+      "line_end": 7585,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0245",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "c = 0.52.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7587,
+      "line_end": 7587,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0246",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "L = k'li, (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7735,
+      "line_end": 7735,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0247",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "ei = p] (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7739,
+      "line_end": 7739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0248",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e=e0 + ^ (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7743,
+      "line_end": 7743,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0249",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "L = - (pVi - ejVi), (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7764,
+      "line_end": 7764,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0250",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "Assuming p = 300 watts, and the constants of the magnetite",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7782,
+      "line_end": 7782,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0251",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "arc: eQ = 30, k = 31, gives:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7783,
+      "line_end": 7783,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0252",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "i = 3.33 amperes,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7785,
+      "line_end": 7785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0253",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "e = 90 volts,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7786,
+      "line_end": 7786,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0254",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "I = 2.21 cm. = 0.885 in.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7787,
+      "line_end": 7787,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0255",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(2) The shorter arc gives lower voltage, and this, in constant-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7801,
+      "line_end": 7801,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0256",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "i = 4: e = 75 volts, and I + l^ = 0.73 in., or about f-in. arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7808,
+      "line_end": 7808,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0257",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(2) Since the arc does not start itself, but has to be started",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7875,
+      "line_end": 7875,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0258",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "69. For illustration, the operating mechanism of a constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 7936,
+      "line_end": 7936,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0259",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "closes a shunt circuit from terminal 1 over resistance R, con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8021,
+      "line_end": 8021,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0260",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "550 volts, a steadying resistance R0 would be inserted, as indi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8051,
+      "line_end": 8051,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0261",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "as in Fig. 50. A reactance x in series",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8108,
+      "line_end": 8108,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0262",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "and resistance R, to terminal 2. The solenoid 0 pulls up its",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8172,
+      "line_end": 8172,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0263",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "constant direct-current circuits of 9.6 and 6.6 amp. with 40 to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8255,
+      "line_end": 8255,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0264",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "ated on constant-current circuits of 5 amp. and 6.6 amp.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8259,
+      "line_end": 8259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0265",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "single lamps, of 5 to 9 amp. on direct- or alternating-current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8262,
+      "line_end": 8262,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0266",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "constant potential circuits of 110 to 125 volts, or two lamps in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8263,
+      "line_end": 8263,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0267",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "operated two in series on constant-potential circuits of 110 to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8267,
+      "line_end": 8267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0268",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "The luminous arcs are operated on 4- and 6.6-amp. constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8271,
+      "line_end": 8271,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0269",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "lamp, and on 3- and 4.5-amp. constant alternating-current cir-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8273,
+      "line_end": 8273,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0270",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "cuits (titanium-carbide arc), with 80 volts per lamp.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8274,
+      "line_end": 8274,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0271",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "72. Arc lamps are built for, and operated on, constant-poten-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8278,
+      "line_end": 8278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0272",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "while the remaining 71 per cent is wasted in the resistance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8308,
+      "line_end": 8308,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0273",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "single lamps on 220 to 250 volts supply, with extra great arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8320,
+      "line_end": 8320,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0274",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "In constant-current arc circuits, usually from 50 to 100",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8388,
+      "line_end": 8388,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0275",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "73. Constant direct current was produced by so-called \"arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8393,
+      "line_end": 8393,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0276",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "74. Since radiation is energy, it can be measured as such",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8514,
+      "line_end": 8514,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0277",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "of resistance of 1 in a million and, with very sensitive measure-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8541,
+      "line_end": 8541,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0278",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "1 deg. cent, produces a resistance change of about 0.4 per cent,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8543,
+      "line_end": 8543,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0279",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "logical effect exerted on the human eye by 5 sq. mm. of melting",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8618,
+      "line_end": 8618,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0280",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "as a calibrated or standardized 16-cp. incandescent lamp, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8716,
+      "line_end": 8716,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0281",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "L -T- S = x2 -T- 7/2, where x and y are the two distances of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 8720,
+      "line_end": 8720,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0282",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "where i0 is the illumination or light flux density when using",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9037,
+      "line_end": 9037,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0283",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "81. Since light is a physiological effect, the measurement of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9040,
+      "line_end": 9040,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0284",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "light at right angles from 1 sq. cm. of melting platinum. (Ap-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9057,
+      "line_end": 9057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0285",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "82. A number of primary standards have lately been pro-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9103,
+      "line_end": 9103,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0286",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "ian only, for instance, from 10 to 10 degrees. To get herefrom",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9201,
+      "line_end": 9201,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0287",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "covers a zone of 10 degrees width and 2 it cos $ circumference,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9207,
+      "line_end": 9207,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0288",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "covers, 2 nd cos <j>, where d is the angular width of the zone",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9215,
+      "line_end": 9215,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0289",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(10 deg., for instance), and then added. The average or mean",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9216,
+      "line_end": 9216,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0290",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "10 deg. gives d = — - TT. This usually is done graphically.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9232,
+      "line_end": 9232,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0291",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "4 it lumens (since the area at unit distance from a point is the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9409,
+      "line_end": 9409,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0292",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "the downward beam would be given by (f> = 0, the horizontal",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9472,
+      "line_end": 9472,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0293",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "beam by ^ = 90 deg., and the upward beam by <j> = 180 deg.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9473,
+      "line_end": 9473,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0294",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "(<£ = 90 deg.) covers a zone of 2 rn circumference, while the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9497,
+      "line_end": 9497,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0295",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "intensity in any other direction (f> covers a zone of 2 rn sin <j>",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9498,
+      "line_end": 9498,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0296",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "dA = 2 n sin",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9546,
+      "line_end": 9546,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0297",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "= 27r/sin<M^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9556,
+      "line_end": 9556,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0298",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "<£ = 2 TT / /sin (f>d(/>.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9559,
+      "line_end": 9559,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0299",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "The light flux in the space from the downward direction </> = 0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9569,
+      "line_end": 9569,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "radiation-light-and-illumination-eq-candidate-0300",
+    "source_id": "radiation-light-and-illumination",
+    "original_form": "fc1 = 2 TT / sin <t>dfa (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "radiation-light-and-illumination",
+      "line_start": 9574,
+      "line_end": 9574,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

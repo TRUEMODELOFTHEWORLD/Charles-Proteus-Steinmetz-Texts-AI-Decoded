@@ -1,0 +1,31 @@
+{
+  "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+  "canonical_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+  "primary_author": "Charles Proteus Steinmetz",
+  "first_publication_year": 1911,
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/elementary-lectures-electric-discharges-waves-impulses/raw/elementary-lectures-local.pdf",
+    "sha256": "DC78DDE4A8844357F91FA8E39B7F3E3C41E21D1E567889E95F6A51C882283ED8",
+    "bytes": 27136966,
+    "local_origin": "../books/Elementary lectures.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "ocr_seed": {
+    "path": "processed/elementary-lectures-electric-discharges-waves-impulses/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "265468AE952D6D6DEF0E3625FD47D16B3D74DC67C06DABED4FA18E6CCB9D7D2E",
+    "bytes": 270566,
+    "external_source": "https://archive.org/download/elementarylectur00steirich/elementarylectur00steirich_djvu.txt",
+    "status": "ocr"
+  },
+  "processing_status": {
+    "structural_split": "candidate",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "site_pages": "seeded"
+  }
+}

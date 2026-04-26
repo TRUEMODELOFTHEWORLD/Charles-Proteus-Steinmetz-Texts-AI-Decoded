@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://steinmetz-decoded.local/schemas/archive.schema.json",
+  "title": "Steinmetz Decoded Archive Data",
+  "type": "object",
+  "$defs": {
+    "reviewStatus": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "ocr",
+        "candidate",
+        "seeded",
+        "needs-verification",
+        "reviewed",
+        "canonical"
+      ]
+    },
+    "sourceRef": {
+      "type": "object",
+      "required": ["source_id"],
+      "properties": {
+        "source_id": { "type": "string" },
+        "chapter_id": { "type": "string" },
+        "page": { "type": ["integer", "string", "null"] },
+        "line_start": { "type": ["integer", "null"] },
+        "line_end": { "type": ["integer", "null"] },
+        "quote": { "type": "string" },
+        "verification": { "$ref": "#/$defs/reviewStatus" }
+      },
+      "additionalProperties": true
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["id", "title", "source_id", "status"],
+      "properties": {
+        "id": { "type": "string" },
+        "source_id": { "type": "string" },
+        "number": { "type": ["integer", "string"] },
+        "title": { "type": "string" },
+        "source_page_start": { "type": ["integer", "null"] },
+        "source_page_end": { "type": ["integer", "null"] },
+        "text_path": { "type": "string" },
+        "summary": { "type": "string" },
+        "concept_tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "status": { "$ref": "#/$defs/reviewStatus" }
+      },
+      "additionalProperties": true
+    },
+    "equation": {
+      "type": "object",
+      "required": ["id", "source_id", "original_form", "status"],
+      "properties": {
+        "id": { "type": "string" },
+        "source_id": { "type": "string" },
+        "chapter_id": { "type": "string" },
+        "original_form": { "type": "string" },
+        "modern_form": { "type": "string" },
+        "variables": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "symbol": { "type": "string" },
+              "meaning": { "type": "string" },
+              "unit": { "type": "string" }
+            },
+            "additionalProperties": true
+          }
+        },
+        "physical_meaning": { "type": "string" },
+        "source_ref": { "$ref": "#/$defs/sourceRef" },
+        "status": { "$ref": "#/$defs/reviewStatus" }
+      },
+      "additionalProperties": true
+    },
+    "figure": {
+      "type": "object",
+      "required": ["id", "source_id", "caption", "status"],
+      "properties": {
+        "id": { "type": "string" },
+        "source_id": { "type": "string" },
+        "chapter_id": { "type": "string" },
+        "figure_number": { "type": ["integer", "string"] },
+        "caption": { "type": "string" },
+        "original_image_path": { "type": "string" },
+        "recreated_image_path": { "type": "string" },
+        "source_ref": { "$ref": "#/$defs/sourceRef" },
+        "linked_concepts": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "status": { "$ref": "#/$defs/reviewStatus" }
+      },
+      "additionalProperties": true
+    },
+    "concept": {
+      "type": "object",
+      "required": ["id", "label", "status"],
+      "properties": {
+        "id": { "type": "string" },
+        "label": { "type": "string" },
+        "steinmetz_usage": { "type": "string" },
+        "modern_equivalent": { "type": "string" },
+        "interpretive_reading": { "type": "string" },
+        "source_refs": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/sourceRef" }
+        },
+        "related": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "status": { "$ref": "#/$defs/reviewStatus" }
+      },
+      "additionalProperties": true
+    },
+    "glossaryTerm": {
+      "type": "object",
+      "required": ["term", "status"],
+      "properties": {
+        "term": { "type": "string" },
+        "steinmetz_usage": { "type": "string" },
+        "modern_equivalent": { "type": "string" },
+        "mathematical_meaning": { "type": "string" },
+        "conceptual_meaning": { "type": "string" },
+        "status": { "$ref": "#/$defs/reviewStatus" },
+        "source_refs": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/sourceRef" }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}

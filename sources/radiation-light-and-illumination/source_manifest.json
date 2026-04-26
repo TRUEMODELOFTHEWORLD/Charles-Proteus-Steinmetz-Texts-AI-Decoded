@@ -1,0 +1,52 @@
+{
+  "source_id": "radiation-light-and-illumination",
+  "canonical_title": "Radiation, Light and Illumination",
+  "subtitle": "A Series of Engineering Lectures Delivered at Union College",
+  "primary_author": "Charles Proteus Steinmetz",
+  "compiled_and_edited_by": "Joseph LeRoy Hayden",
+  "first_publication_year": 1909,
+  "publisher": "McGraw-Hill Book Company",
+  "public_domain_status": {
+    "united_states": "Public domain: published before 1931",
+    "verification_source": "Wikimedia Commons file page for Internet Archive item radiationlightil00steirich",
+    "status": "needs-legal-review-before-public-release"
+  },
+  "canonical_raw_file": {
+    "path": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf",
+    "sha256": "BDE2337E437E46C6BEB36ED4DAC6ED55F959E715DDF2C02149A183CB2B3472E9",
+    "bytes": 21976956,
+    "local_origin": "../books/Radiation light and illumination.pdf",
+    "external_source": "https://archive.org/download/radiationlightil00steirich/radiationlightil00steirich.pdf",
+    "format": "pdf",
+    "status": "raw"
+  },
+  "alternate_raw_files": [
+    {
+      "path": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-hathitrust-export.pdf",
+      "sha256": "3C0B8DAEDBDE7337E90AAA24DD90021D6F24BA62195D7F3630B34E097B603909",
+      "bytes": 97374,
+      "local_origin": "../books/radiation, light, and illumination.pdf",
+      "format": "pdf",
+      "status": "raw",
+      "notes": "Small HathiTrust export found in the local books folder; retained for custody comparison, not chosen as canonical scan."
+    }
+  ],
+  "ocr_seed": {
+    "path": "processed/radiation-light-and-illumination/cleaned_text/internet-archive-ocr.txt",
+    "sha256": "EFE20670D445EABF4982DA21FC2356FBF862F78F936EE8E48E99EC78AAA44F7D",
+    "bytes": 670161,
+    "external_source": "https://archive.org/download/radiationlightil00steirich/radiationlightil00steirich_djvu.txt",
+    "status": "ocr",
+    "notes": "Internet Archive OCR. Useful for discovery and first-pass extraction; quotations and equations require scan verification."
+  },
+  "processing_status": {
+    "raw_pdf_copied": true,
+    "ocr_downloaded": true,
+    "chapter_split": "candidate",
+    "equation_extraction": "candidate",
+    "figure_extraction": "candidate",
+    "concept_extraction": "seeded",
+    "glossary_extraction": "seeded",
+    "site_pages": "seeded"
+  }
+}
