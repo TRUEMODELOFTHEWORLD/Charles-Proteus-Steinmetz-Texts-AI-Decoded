@@ -41,6 +41,41 @@ python pipeline/scripts/seed_source_from_ocr.py `
 
 The script uses only the Python standard library. It creates lecture splits and candidate JSON catalogs from the Internet Archive OCR seed.
 
+## PDF Image Extraction
+
+For original Steinmetz diagrams, use the PyMuPDF-based extraction tool:
+
+```powershell
+python -m pip install -r pipeline/requirements.txt
+
+python pipeline/scripts/extract_pdf_images.py `
+  --source-id radiation-light-and-illumination `
+  --pdf sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf `
+  --mode pages `
+  --pages 1-20 `
+  --dpi 220
+```
+
+Generated full-page renders and embedded image dumps are review candidates, not canonical diagrams. Curated figure crops should be promoted into:
+
+```text
+diagrams/original/<source-id>/figures/
+```
+
+with exact source-page metadata and a matching diagram analysis page.
+
+To crop a verified region from a rendered page:
+
+```powershell
+python pipeline/scripts/crop_image_region.py `
+  --source-id radiation-light-and-illumination `
+  --figure-id rli-fig-14-spectrum-of-radiation `
+  --source-image processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0038-220dpi.png `
+  --source-location "Radiation, Light and Illumination, printed page 18, Fig. 14" `
+  --box 120,620,1010,930 `
+  --out diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png
+```
+
 ## Review Standard
 
 Machine output is useful but not authoritative. Quotations, formulas, and figure descriptions must be checked against the scan before being treated as canonical.

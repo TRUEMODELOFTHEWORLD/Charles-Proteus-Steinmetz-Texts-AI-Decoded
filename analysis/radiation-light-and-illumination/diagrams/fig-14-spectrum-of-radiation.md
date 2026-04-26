@@ -1,13 +1,17 @@
 # Fig. 14: Spectrum of Radiation
 
-Status: recreated seed diagram; original scan crop still needed.
+Status: first original scan crop extracted; recreated guide available.
 
 ## Source Anchor
 
 - Source: `radiation-light-and-illumination`
 - Lecture: I
+- Printed page: 18
+- PDF page render: `processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0038-220dpi.png`
 - Candidate figure ID: `radiation-light-and-illumination-fig-014`
-- OCR vicinity: lines around 1466-1506.
+- Original crop: `diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png`
+- Crop metadata: `diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png.json`
+- OCR vicinity: `processed/radiation-light-and-illumination/cleaned_text/lecture-01.md`, lines around 859-899.
 
 ## What Steinmetz Is Showing
 
@@ -23,6 +27,6 @@ Interpretive only: The diagram supports a field-continuity reading because it pl
 
 ## Next Tasks
 
-- Extract original Fig. 14 from the PDF.
 - Align its historical octave scale with the recreated SVG.
-- Add page image citation and crop coordinates.
+- Verify the crop against the scan at higher DPI.
+- Add detailed label-by-label annotations and concept links.
