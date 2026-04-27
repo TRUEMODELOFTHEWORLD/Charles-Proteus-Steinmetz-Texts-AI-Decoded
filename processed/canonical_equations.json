@@ -1,0 +1,186 @@
+{
+  "quality_note": "First promoted equation canon. Records are source-located candidates unless explicitly marked reviewed. Exact typography and page anchors still require scan verification.",
+  "total_records": 12,
+  "records": [
+    {
+      "id": "rli-velocity-frequency-wavelength",
+      "title": "Velocity, Frequency, and Wave Length",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "original_form": "f = S / lambda; equivalently S = f lambda",
+      "modern_form": "v = f lambda",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Lecture I, cleaned OCR lines 248-259 and 697-703",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/velocity-frequency-wavelength/",
+      "why_canonical": "This relation ties electric waves, visible light, ultraviolet, X-rays, and low-frequency AC fields into one radiation scale."
+    },
+    {
+      "id": "ac-symbolic-rectangular-form",
+      "title": "Rectangular Complex Quantity",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "I = i + ji'",
+      "modern_form": "I = I_real + j I_quadrature",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 285-290",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/symbolic-rectangular-components/",
+      "why_canonical": "This is the bridge from sine-wave geometry to algebraic AC calculation."
+    },
+    {
+      "id": "ac-symbolic-operator-j",
+      "title": "The Operator j",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "j^2 = -1",
+      "modern_form": "j = sqrt(-1), used as a 90 degree rotation operator in phasor analysis",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333 and promoted Fig. 24 crop",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/symbolic-operator-j/",
+      "why_canonical": "Steinmetz makes the imaginary unit a physical phase operator before it becomes mere algebra."
+    },
+    {
+      "id": "ac-inductive-reactance",
+      "title": "Inductive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "x = 2 pi f L",
+      "modern_form": "X_L = omega L = 2 pi f L",
+      "status": "source-located candidate; OCR symbol defects present",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 292-315 and 373-376",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/reactance-forms/",
+      "why_canonical": "It fixes reactance as frequency-dependent field opposition rather than resistance."
+    },
+    {
+      "id": "ac-condensive-reactance",
+      "title": "Condensive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "x_1 = 1 / (2 pi f C)",
+      "modern_form": "X_C = 1 / (omega C) = 1 / (2 pi f C)",
+      "status": "source-located candidate; OCR symbol defects present",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 351-380",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/reactance-forms/",
+      "why_canonical": "It preserves Steinmetz's older term for capacitive reactance and its opposite sign from inductive reactance."
+    },
+    {
+      "id": "ac-impedance-complex-form",
+      "title": "Complex Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "Z = r + jx",
+      "modern_form": "Z = R + jX",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/impedance-reactance/",
+      "why_canonical": "This is the compact formula behind modern AC circuit analysis."
+    },
+    {
+      "id": "ac-symbolic-ohms-law",
+      "title": "Symbolic Ohm's Law",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "E = ZI, I = E / Z, Z = E / I",
+      "modern_form": "V = ZI",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 326-383",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/impedance-reactance/",
+      "why_canonical": "It restores Ohm's law for alternating quantities by carrying phase inside the symbols."
+    },
+    {
+      "id": "ac-admittance-reciprocal",
+      "title": "Admittance As Reciprocal Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "Y = 1 / Z = g - jb",
+      "modern_form": "Y = 1 / Z; sign convention depends on reactance convention",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter VIII, Admittance, Conductance, Susceptance, cleaned OCR lines 48-222",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/admittance-conductance-susceptance/",
+      "why_canonical": "It prevents the common error of treating conductance and susceptance as shallow reciprocals of resistance and reactance."
+    },
+    {
+      "id": "ac-admittance-components",
+      "title": "Conductance and Susceptance From Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "g = r / (r^2 + x^2), b = x / (r^2 + x^2)",
+      "modern_form": "For Z = R + jX and Y = G - jB: G = R/(R^2+X^2), B = X/(R^2+X^2)",
+      "status": "mathematical reconstruction from source relation",
+      "source_ref": {
+        "location": "Chapter VIII relation plus algebraic reciprocal; existing public derivation",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/admittance-conductance-susceptance/",
+      "why_canonical": "It explains why admittance is structurally different from resistance alone."
+    },
+    {
+      "id": "ac-power-factor-equation",
+      "title": "AC Power Equation",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "P_o = ei cos theta",
+      "modern_form": "P = VI cos phi",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter I, Introduction, cleaned OCR lines 248-254",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/power-effective-resistance/",
+      "why_canonical": "It makes power factor a physical and mathematical term, not a billing afterthought."
+    },
+    {
+      "id": "ac-effective-resistance-power",
+      "title": "Effective Resistance From Real Power",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "P = i^2 r",
+      "modern_form": "R_eff = P / I^2",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter I, Introduction, cleaned OCR lines 236-246 and Chapter XII lines 64-85",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/power-effective-resistance/",
+      "why_canonical": "It captures Steinmetz's distinction between true ohmic resistance and total real-power loss."
+    },
+    {
+      "id": "ac-dielectric-capacity-susceptance",
+      "title": "Capacity Susceptance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "b = 2 pi f C",
+      "modern_form": "B_C = omega C = 2 pi f C",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter XIV, Dielectric Losses, cleaned OCR lines 209-221 and 595-599",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/capacity-susceptance/",
+      "why_canonical": "It links electrostatic capacity to admittance language and dielectric loss analysis."
+    }
+  ]
+}

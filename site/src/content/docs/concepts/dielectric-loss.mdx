@@ -1,0 +1,64 @@
+---
+title: Dielectric Loss
+description: Steinmetz's treatment of leakage, dielectric hysteresis, conductance, and capacity current.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter XIV, Dielectric Losses, cleaned OCR lines 81-107, 209-221, and 588-599" status="source-located candidate; scan verification needed" />
+
+## Steinmetz Usage
+
+In the dielectric-loss chapter, Steinmetz treats the dielectric path with an admittance language. The dielectric may carry a capacity current, but it can also consume real power through leakage, dielectric hysteresis, corona, and related loss effects.
+
+## Modern Equivalent
+
+Modern engineering may describe these effects as:
+
+- dielectric loss,
+- leakage conductance,
+- loss tangent,
+- equivalent parallel conductance,
+- equivalent series resistance,
+- insulation loss.
+
+## Mathematical Structure
+
+The dielectric has an electrostatic capacity:
+
+```math
+C
+```
+
+and a capacity susceptance:
+
+```math
+b = 2\pi f C
+```
+
+The real loss path is represented by conductance:
+
+```math
+g
+```
+
+Together they form a dielectric admittance model.
+
+## Why It Matters
+
+This is one of the archive's key field-language bridges. Steinmetz does not treat a dielectric as a perfect empty insulator. It has storage, leakage, loss, and frequency behavior.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern capacitor models often hide dielectric behavior behind ideal capacitance plus ESR or loss tangent. Steinmetz's treatment keeps the dielectric material and its field behavior closer to the surface.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a Wheeler-style reading may treat dielectric loss as field compression/storage with lag, leakage, or internal dissipation. The source-grounded layer is that Steinmetz explicitly models dielectric capacity current and real-power loss in dielectric media.
+</LayeredReading>
+
+## Related Pages
+
+- [Electrostatic Capacity](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/electrostatic-capacity/)
+- [Capacity Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/capacity-susceptance/)
+- [Effective Resistance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/effective-resistance/)

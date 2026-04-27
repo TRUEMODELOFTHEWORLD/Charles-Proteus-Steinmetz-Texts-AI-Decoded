@@ -1,0 +1,69 @@
+---
+title: Susceptance
+description: The wattless or quadrature component of admittance.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter VIII, Chapter XII, and Chapter XIV OCR candidates" status="source-located candidate; scan verification needed" />
+
+## Steinmetz Usage
+
+Susceptance is the quadrature component of admittance. In the same way reactance belongs to the wattless component of e.m.f. in the impedance view, susceptance belongs to the wattless component of current in the admittance view.
+
+For electrostatic capacity, Steinmetz gives:
+
+```math
+b = 2\pi f C
+```
+
+## Modern Equivalent
+
+Modern notation often writes:
+
+```math
+Y = G + jB
+```
+
+Steinmetz's pages often use a different sign convention:
+
+```math
+Y = g - jb
+```
+
+The archive preserves the source convention first, then translates.
+
+## Mathematical Meaning
+
+For:
+
+```math
+Z = r + jx
+```
+
+one useful Steinmetz-sign reconstruction is:
+
+```math
+Y = \frac{r - jx}{r^2 + x^2}
+```
+
+therefore:
+
+```math
+g = \frac{r}{r^2+x^2},\quad b = \frac{x}{r^2+x^2}
+```
+
+## Why It Matters
+
+Susceptance keeps the current-side view of field storage visible. It is central for parallel circuits, dielectric circuits, line charging, and distributed capacity.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: susceptance can be read as a measure of how readily a field-storage path accepts quadrature current. Steinmetz's source language supports the admittance and wattless-current structure; it does not by itself prove a later ether-field ontology.
+</LayeredReading>
+
+## Related Pages
+
+- [Capacity Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/capacity-susceptance/)
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Wattless Component](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/wattless-component/)

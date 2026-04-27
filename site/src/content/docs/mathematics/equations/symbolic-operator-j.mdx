@@ -1,0 +1,49 @@
+---
+title: Symbolic Operator j
+description: Steinmetz's imaginary operator as a quarter-period rotation in AC calculation.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter V, Symbolic Method; promoted Fig. 24 crop" status="source-located candidate; scan verification needed" />
+
+## Original Form To Preserve
+
+```math
+j^2 = -1
+```
+
+```math
+j = \sqrt{-1}
+```
+
+## Steinmetz Meaning
+
+Steinmetz does not introduce `j` as abstract algebra alone. It appears as the operator that carries a sine-wave quantity into quadrature. Multiplication by `j` is the symbolic form of a quarter-period displacement.
+
+## Modern Equivalent
+
+Modern electrical engineering keeps `j` for the imaginary unit because `i` is usually current:
+
+```math
+j^2 = -1
+```
+
+What is easy to lose is the physical meaning: in AC phasors, `j` is a 90 degree rotation.
+
+## Source Figure
+
+<div class="diagram-frame">
+  <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png" alt="Original scan crop of Steinmetz Fig. 24 quarter-period rotation" />
+</div>
+
+<LayeredReading label="Conceptual Reading" open>
+The imaginary unit is a compact way to keep two facts together: magnitude and phase. Without it, AC calculation either becomes diagram-heavy or loses the physical phase relation.
+</LayeredReading>
+
+## Related Pages
+
+- [Imaginary Unit j](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/imaginary-unit-j/)
+- [Complex Quantities](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/complex-quantities/)
+- [Symbolic Components](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-rectangular-components/)

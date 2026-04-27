@@ -40,6 +40,23 @@ This file turns the project charter into a practical review queue. It is meant t
 8. Extract Fig. 49 and any related conductance/susceptance curves.
 9. Build a scan-checked worked example converting impedance to admittance.
 
+## Priority 3A: First Canonical Equation Set
+
+9a. Scan-verify the first twelve-equation canon in `processed/canonical_equations.json`:
+   - `S = f lambda`
+   - `I = i + ji'`
+   - `j^2 = -1`
+   - `x = 2 pi f L`
+   - `x_1 = 1 / (2 pi f C)`
+   - `Z = r + jx`
+   - `E = ZI`
+   - `Y = 1/Z = g - jb`
+   - conductance/susceptance reciprocal components
+   - `P = EI cos theta`
+   - `P = I^2 r_eff`
+   - `b = 2 pi f C`
+   - 2026-04-27 progress: the equation canon was created as source-located candidate data and public pages. Several OCR symbols, especially pi, frequency, and square-root forms, still need scan correction.
+
 ## Priority 4: Transient Theory Core
 
 10. Verify transient source Chapter 24:

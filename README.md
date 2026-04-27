@@ -151,6 +151,7 @@ The archive now includes:
 - Seven source records in `sources/source_catalog.json`.
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
+- A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
 - A generated source-processing dashboard.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
@@ -170,7 +171,7 @@ The public site currently builds more than fifty pages, including:
 - Source overviews for the seeded Steinmetz corpus.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, ether, illumination, transients, symbolic method, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, and inductance/capacity.
-- Equation pages for wavelength/frequency, impedance/reactance, admittance, transient terms, and RLC oscillation.
+- Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, and condenser decrement.
 - Glossary pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
 - Interactive tools for frequency/wavelength, impedance/reactance, and power factor.

@@ -86,7 +86,10 @@ export default defineConfig({
             { label: 'Impedance', slug: 'concepts/impedance' },
             { label: 'Reactance', slug: 'concepts/reactance' },
             { label: 'Admittance', slug: 'concepts/admittance' },
+            { label: 'Conductance', slug: 'concepts/conductance' },
+            { label: 'Susceptance', slug: 'concepts/susceptance' },
             { label: 'Power Factor', slug: 'concepts/power-factor' },
+            { label: 'Dielectric Loss', slug: 'concepts/dielectric-loss' },
             { label: 'Distributed Constants', slug: 'concepts/distributed-constants' },
             { label: 'Oscillation And Damping', slug: 'concepts/oscillation-damping' },
             { label: 'Inductance And Capacity', slug: 'concepts/inductance-capacity' }
@@ -96,10 +99,15 @@ export default defineConfig({
           label: 'Mathematics',
           items: [
             { label: 'Equation Catalog', slug: 'mathematics' },
+            { label: 'First Canonical Set', slug: 'mathematics/canonical-equation-canon' },
             { label: 'Velocity, Frequency, Wavelength', slug: 'mathematics/equations/velocity-frequency-wavelength' },
             { label: 'Symbolic Components', slug: 'mathematics/equations/symbolic-rectangular-components' },
+            { label: 'Operator j', slug: 'mathematics/equations/symbolic-operator-j' },
+            { label: 'Reactance Forms', slug: 'mathematics/equations/reactance-forms' },
             { label: 'Impedance And Reactance', slug: 'mathematics/equations/impedance-reactance' },
             { label: 'Admittance', slug: 'mathematics/equations/admittance-conductance-susceptance' },
+            { label: 'Power And Effective Resistance', slug: 'mathematics/equations/power-effective-resistance' },
+            { label: 'Capacity Susceptance', slug: 'mathematics/equations/capacity-susceptance' },
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
             { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' },
             { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' }

@@ -1,0 +1,49 @@
+---
+title: Conductance
+description: The real or power component of admittance in Steinmetz's AC language.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter VIII and Chapter XII OCR candidates; Chapter XIV dielectric-loss passage" status="source-located candidate; scan verification needed" />
+
+## Steinmetz Usage
+
+Conductance is the active component of admittance. It belongs to the part of current in phase with voltage and therefore to real power consumption.
+
+In the dielectric-loss chapter, Steinmetz also uses conductance for leakage and effective dielectric losses.
+
+## Modern Equivalent
+
+```math
+G = \Re(Y)
+```
+
+For a simple resistor:
+
+```math
+G = \frac{1}{R}
+```
+
+But in a general AC circuit:
+
+```math
+Y = \frac{1}{Z}
+```
+
+so conductance is the real component of the reciprocal of the whole impedance.
+
+## Why It Matters
+
+Conductance is not just a flipped resistance. In Steinmetz's AC language it is the mathematical home of real-power effects when using the admittance view, especially parallel circuits and dielectric paths.
+
+<LayeredReading label="Interpretive Boundary" open>
+Source fact: conductance is tied to power or energy components. Interpretive reading: field-centered researchers may see conductance as the measurable channel by which field processes become real power loss. That broader reading should remain labeled.
+</LayeredReading>
+
+## Related Pages
+
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/)
+- [Power and Effective Resistance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/power-effective-resistance/)
