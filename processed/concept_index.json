@@ -1,0 +1,926 @@
+{
+  "quality_note": "Concept counts are OCR occurrence aids, not conceptual conclusions.",
+  "total_concepts": 20,
+  "records": [
+    {
+      "id": "light",
+      "label": "Light",
+      "total_occurrence_count_in_ocr": 1711,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 8,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 1640,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 17,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 24,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "frequency",
+      "label": "Frequency",
+      "total_occurrence_count_in_ocr": 1073,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 99,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 25,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 155,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 198,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 216,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 380,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "radiation",
+      "label": "Radiation",
+      "total_occurrence_count_in_ocr": 856,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 6,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 808,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 3,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 36,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "illumination",
+      "label": "Illumination",
+      "total_occurrence_count_in_ocr": 632,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 627,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "wave-length",
+      "label": "Wave length",
+      "total_occurrence_count_in_ocr": 195,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 14,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 71,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 109,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "spectrum",
+      "label": "Spectrum",
+      "total_occurrence_count_in_ocr": 130,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 130,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "luminescence",
+      "label": "Luminescence",
+      "total_occurrence_count_in_ocr": 84,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 84,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "brilliancy",
+      "label": "Brilliancy",
+      "total_occurrence_count_in_ocr": 69,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 69,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "arc-lamp",
+      "label": "Arc lamp",
+      "total_occurrence_count_in_ocr": 64,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 60,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "refraction",
+      "label": "Refraction",
+      "total_occurrence_count_in_ocr": 30,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 19,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 11,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "velocity-of-light",
+      "label": "Velocity of light",
+      "total_occurrence_count_in_ocr": 23,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 10,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "light-flux-density",
+      "label": "Light flux density",
+      "total_occurrence_count_in_ocr": 19,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 19,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "electric-waves",
+      "label": "Electric waves",
+      "total_occurrence_count_in_ocr": 18,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 16,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "photometry",
+      "label": "Photometry",
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "dielectric-constant",
+      "label": "Dielectric constant",
+      "total_occurrence_count_in_ocr": 13,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 4,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "refractive-index",
+      "label": "Refractive index",
+      "total_occurrence_count_in_ocr": 12,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 12,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "ether",
+      "label": "Ether",
+      "total_occurrence_count_in_ocr": 9,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 9,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "ultraviolet",
+      "label": "Ultra-violet radiation",
+      "total_occurrence_count_in_ocr": 9,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 9,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "permeability",
+      "label": "Magnetic permeability",
+      "total_occurrence_count_in_ocr": 7,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    },
+    {
+      "id": "ultrared",
+      "label": "Ultra-red radiation",
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 6
+      }
+    }
+  ]
+}

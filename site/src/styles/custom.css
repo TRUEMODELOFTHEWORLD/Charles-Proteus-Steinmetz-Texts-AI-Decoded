@@ -315,3 +315,8 @@ a[data-variant='primary']:hover {
   background: #e9dfcd;
   color: var(--codex-panel-text);
 }
+
+.codex-status-table code {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}

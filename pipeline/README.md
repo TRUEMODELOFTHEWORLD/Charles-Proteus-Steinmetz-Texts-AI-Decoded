@@ -41,6 +41,26 @@ python pipeline/scripts/seed_source_from_ocr.py `
 
 The script uses only the Python standard library. It creates lecture splits and candidate JSON catalogs from the Internet Archive OCR seed.
 
+## Cross-Source Research Indexes
+
+After sources have candidate catalogs, rebuild the corpus-wide indexes:
+
+```powershell
+python pipeline/scripts/build_research_indexes.py
+```
+
+This writes:
+
+- `processed/research_index.json`
+- `processed/equation_index.json`
+- `processed/figure_index.json`
+- `processed/glossary_index.json`
+- `processed/concept_index.json`
+- `processed/quote_index.json`
+- `processed/source_processing_status.md`
+
+These indexes are inventory and review tools. They count candidates, promoted original scan crops, glossary terms, concept seeds, quote candidates, and next actions. They do not promote OCR output to canonical truth.
+
 ## PDF Image Extraction
 
 For original Steinmetz diagrams, use the PyMuPDF-based extraction tool:

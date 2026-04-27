@@ -1,0 +1,20 @@
+{
+  "id": "radiation-light-and-illumination-fig-019-original-crop",
+  "source_id": "radiation-light-and-illumination",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; needs second-pass bibliographic verification",
+  "source_image": "processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0049-220dpi.png",
+  "source_location": "Radiation, Light and Illumination, printed page 29, PDF page 49; Fig. 19",
+  "crop_box_pixels": [
+    130,
+    740,
+    975,
+    1110
+  ],
+  "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-19-irregular-reflection.png",
+  "width": 845,
+  "height": 370,
+  "sha256": "6051eb7ff64b203dde42a6430095d66eae65e015bb5b50890cf4ffc369ea23a3",
+  "generated_at_utc": "2026-04-27T03:38:22+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

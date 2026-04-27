@@ -1,0 +1,20 @@
+{
+  "id": "radiation-light-and-illumination-spectrum-table-original-crop",
+  "source_id": "radiation-light-and-illumination",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; needs second-pass bibliographic verification",
+  "source_image": "processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0037-220dpi.png",
+  "source_location": "Radiation, Light and Illumination, printed page 17, PDF page 37; Spectrum of Radiation table preceding Fig. 14",
+  "crop_box_pixels": [
+    40,
+    180,
+    1010,
+    1165
+  ],
+  "output_path": "diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png",
+  "width": 970,
+  "height": 985,
+  "sha256": "f66b69b9332e620c0eb8cd9b2114e8aba216a7a5e3f78a2aac9eaef231e47073",
+  "generated_at_utc": "2026-04-27T03:38:22+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

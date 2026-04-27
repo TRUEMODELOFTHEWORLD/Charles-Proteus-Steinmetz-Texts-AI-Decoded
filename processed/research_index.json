@@ -1,0 +1,448 @@
+{
+  "quality_note": "Repository-wide index of processed source custody and candidate review state.",
+  "source_count": 7,
+  "sources": [
+    {
+      "source_id": "radiation-light-and-illumination",
+      "title": "Radiation, Light and Illumination",
+      "year": 1909,
+      "source_status": "seeded",
+      "processed_status": "lecture splits, candidate equations, figures, concepts, glossary, quotes",
+      "internet_archive_id": "radiationlightil00steirich",
+      "local_raw_file": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf",
+      "site_path": "/sources/radiation-light-and-illumination/",
+      "raw_file_count": 3,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 13,
+      "record_counts": {
+        "chapters": 13,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 98,
+        "glossary": 12,
+        "quotes": 3,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 13
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 98
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {
+          "candidate": 3
+        },
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 13
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 98
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {
+          "needs-verification": 3
+        },
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 5,
+      "next_action": "Triage candidate equations into canonical, false positive, and needs-review groups."
+    },
+    {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1911,
+      "source_status": "seeded",
+      "processed_status": "lecture splits and candidate catalogs from OCR",
+      "internet_archive_id": "elementarylectur00steirich",
+      "local_raw_file": "sources/elementary-lectures-electric-discharges-waves-impulses/raw/elementary-lectures-local.pdf",
+      "site_path": "/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 20,
+      "record_counts": {
+        "chapters": 10,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 16,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 10
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 16
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 10
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 16
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "engineering-mathematics",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "year": 1911,
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR",
+      "internet_archive_id": "engineeringmathe00steirich",
+      "local_raw_file": "sources/engineering-mathematics/raw/engineering-mathematics-local.pdf",
+      "site_path": "/sources/engineering-mathematics/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 7,
+      "record_counts": {
+        "chapters": 6,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 9,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 6
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 9
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 6
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 9
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1916,
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR; edition alignment needs review",
+      "internet_archive_id": "5edtheorycalculatisteiuoft",
+      "local_raw_file": "sources/theory-calculation-alternating-current-phenomena/raw/alternating-current-phenomena-local.pdf",
+      "site_path": "/sources/theory-calculation-alternating-current-phenomena/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 40,
+      "record_counts": {
+        "chapters": 37,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 145,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 37
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 145
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 37
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 145
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "year": 1915,
+      "source_status": "seeded",
+      "processed_status": "OCR and candidate catalogs; structural split needs custom part/section parser",
+      "internet_archive_id": "theoreticalelect00steirich",
+      "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
+      "site_path": "/sources/theoretical-elements-electrical-engineering/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 0,
+      "record_counts": {
+        "chapters": 0,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 10,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {},
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 10
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {},
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 10
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Review structural parser; no chapter or lecture records were found."
+    },
+    {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "year": 1909,
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR; multi-section numbering requires review",
+      "internet_archive_id": "transelectricphenom00steirich",
+      "local_raw_file": "sources/theory-calculation-transient-electric-phenomena-oscillations/raw/transient-electric-phenomena-local.pdf",
+      "site_path": "/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 60,
+      "record_counts": {
+        "chapters": 58,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 1,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 58
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 1
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 58
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 1
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "year": null,
+      "source_status": "raw",
+      "processed_status": "local PDF copied; OCR and bibliographic verification pending",
+      "internet_archive_id": null,
+      "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+      "site_path": "/sources/commonwealth-edison-generating-system-trouble/",
+      "raw_file_count": 1,
+      "has_processing_report": false,
+      "has_ocr_seed": false,
+      "cleaned_text_file_count": 0,
+      "record_counts": {
+        "chapters": 0,
+        "concepts": 0,
+        "equations": 0,
+        "figures": 0,
+        "glossary": 0,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {},
+        "concepts": {},
+        "equations": {},
+        "figures": {},
+        "glossary": {},
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {},
+        "concepts": {},
+        "equations": {},
+        "figures": {},
+        "glossary": {},
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Run OCR, create bibliographic metadata, then seed candidate catalogs."
+    }
+  ]
+}

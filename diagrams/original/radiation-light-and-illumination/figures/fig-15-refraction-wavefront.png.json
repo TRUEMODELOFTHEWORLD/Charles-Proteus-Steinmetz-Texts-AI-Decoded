@@ -1,0 +1,20 @@
+{
+  "id": "radiation-light-and-illumination-fig-015-original-crop",
+  "source_id": "radiation-light-and-illumination",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; needs second-pass bibliographic verification",
+  "source_image": "processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0042-220dpi.png",
+  "source_location": "Radiation, Light and Illumination, printed page 22, PDF page 42; Fig. 15",
+  "crop_box_pixels": [
+    210,
+    370,
+    1035,
+    1025
+  ],
+  "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-15-refraction-wavefront.png",
+  "width": 825,
+  "height": 655,
+  "sha256": "6bd262eedcc4bf2274f73a5321a4e41656176078e141a13985ee89ee09f0da39",
+  "generated_at_utc": "2026-04-27T03:37:06+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

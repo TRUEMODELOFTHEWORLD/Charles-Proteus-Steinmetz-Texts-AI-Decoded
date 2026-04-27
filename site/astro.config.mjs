@@ -31,6 +31,7 @@ export default defineConfig({
           label: 'Source Library',
           items: [
             { label: 'Library Index', slug: 'source-library' },
+            { label: 'Processing Dashboard', slug: 'research-status' },
             {
               label: 'Radiation, Light and Illumination',
               items: [
@@ -70,6 +71,7 @@ export default defineConfig({
           label: 'Archives',
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
+            { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
             { label: 'Glossary', slug: 'glossary' },
             { label: 'Hidden Gems', slug: 'hidden-gems' },
             { label: 'Research Questions', slug: 'research-questions' }

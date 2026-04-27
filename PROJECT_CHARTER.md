@@ -51,3 +51,9 @@ Every major concept page should eventually include:
 ## Tone
 
 The archive should be reverent toward Steinmetz's genius, technically serious, historically careful, mathematically explicit, and readable enough to invite non-specialists into the work.
+
+## Future Scope
+
+The immediate charter remains Steinmetz-first. The repository architecture, however, should leave room for a larger electroscience codex that may eventually include Nikola Tesla, Eric Dollard, Walter Russell, and other historically or conceptually adjacent researchers.
+
+That expansion must not blur authors together. Each figure, equation, quote, comparison, and interpretation must remain attached to its source, author, date, and review state. Cross-author pages should be comparative maps, not forced harmonizations.

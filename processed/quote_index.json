@@ -1,0 +1,54 @@
+{
+  "quality_note": "Quote candidates preserve promising OCR lines; canonical quote pages require scan verification.",
+  "total_records": 3,
+  "status_counts": {
+    "candidate": 3
+  },
+  "verification_counts": {
+    "needs-verification": 3
+  },
+  "records": [
+    {
+      "id": "radiation-light-and-illumination-quote-radiation-not-heat-627",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "quote_candidate": "used, therefore are wrong: the so-called radiant heat is not heat",
+      "why_it_matters": "",
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 627,
+        "line_end": 627,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-quote-ether-seat-of-energy-883",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "quote_candidate": "is that it is the seat of energy) , then the ether is matter, as it is a",
+      "why_it_matters": "",
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 883,
+        "line_end": 883,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-quote-electric-waves-and-light-1553",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "quote_candidate": "be divided into two classes, the electric waves and the light waves,",
+      "why_it_matters": "",
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1553,
+        "line_end": 1553,
+        "verification": "needs-verification"
+      }
+    }
+  ]
+}

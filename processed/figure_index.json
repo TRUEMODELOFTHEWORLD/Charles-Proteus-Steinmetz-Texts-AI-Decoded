@@ -1,0 +1,4265 @@
+{
+  "quality_note": "Candidate figure records come from OCR. Promoted crops are separate scan-derived assets.",
+  "candidate_total_records": 279,
+  "promoted_original_figure_count": 5,
+  "status_counts": {
+    "candidate": 279
+  },
+  "verification_counts": {
+    "needs-verification": 279
+  },
+  "candidate_records": [
+    {
+      "id": "radiation-light-and-illumination-fig-001",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 1,
+      "caption": "tion, the time at which the moon M should disappear from sight, FIG. 1. when seen from the earth E, by passing behind Jupiter, 7 (Fig. 1), could be exactly calculated. It was found, however, that some-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 656,
+        "line_end": 656,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-002",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 2,
+      "caption": "5_MOE_S FIG. 2. direction the light reappears. If the disk is slowly revolved, alter- nate light and darkness will be observed, but when the speed in-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 697,
+        "line_end": 697,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-003",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 3,
+      "caption": "from the upper surface of the plain glass plate A. A beam of FIG. 3. reflected light a, thus is a combination of a beam b and a beam c.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 785,
+        "line_end": 785,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-004",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 4,
+      "caption": "glass plates. At those points dv dv etc. at which the distance FIG. 4. between the two glass plates is J wave length, or j, J, etc., the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 794,
+        "line_end": 794,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-005",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 5,
+      "caption": "etc. in the plane of the paper, and thus perpendicular to the ray FIG. 5. of light. In the former case (a longitudinal vibration, as sound) there obviously can be no difference between the directions at",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 922,
+        "line_end": 922,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-009",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 9,
+      "caption": "it to you, by bringing the rods near to this Crookes' radiometer, FIG. 9. which is an instrument showing the energy of radiation. It con- sists (Fig. 10) of four aluminum vanes, mounted in a moderately",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1016,
+        "line_end": 1016,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-010",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 10,
+      "caption": "(red, orange and yellow) with increase in temperature, the light FIG. 10. 12",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1075,
+        "line_end": 1075,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-011",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 11,
+      "caption": "of the lower frequencies of visible radiation, red or orange. FIG. 11. In the tungsten lamp at high brilliancy and more still in the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1094,
+        "line_end": 1094,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-012",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 12,
+      "caption": "They are used in wireless telegraphy, etc. I here connect (Fig. 12) FIG. 12. the condenser C of the apparatus which I used for operating the ultra-violet arc, to a spark gap Gv of which the one side is con-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1220,
+        "line_end": 1220,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-013",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 13,
+      "caption": "o — ^^ — o FIG. 13. has been measured by Herz by producing standing waves by combination of main wave and reflected wave.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1268,
+        "line_end": 1268,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-014",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 14,
+      "caption": "as far as possible when producing light, as they consume power FIG. 14. and so lower the efficiency; the ultra-violet rays are of importance in medicine as germ killers. They are more or less destructive",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1506,
+        "line_end": 1506,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-015",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 15,
+      "caption": "edge of the beam reaches the boundary at D its speed changes FIG. 15. by entering the medium W — decreases in the present instance. Let then Sl = speed of propagation in medium A, S2 = speed of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1654,
+        "line_end": 1654,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-016",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 16,
+      "caption": "medium into another, and the higher frequencies are deflected FIG. 16. more than the lower frequencies, thus showing that the velocity of propagation decreases with an increase of frequency, that is,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1819,
+        "line_end": 1819,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-017",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 17,
+      "caption": "VIOLET FIG. 17. a number of very faint red and orange lines, of which three are indicated dotted in Fig. 17.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1885,
+        "line_end": 1885,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-018",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 18,
+      "caption": "perature rise, their brilliancy is greatly increased. FIG. 18. Combinations of the different types of spectra: continuous spectrum, line spectrum, band spectrum, reversed spectrum,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 1974,
+        "line_end": 1974,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-019",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 19,
+      "caption": "and the body thus acts as a mirror, that is, gives a virtual image FIG. 19. back of it as shown in dotted line in Fig. 18. In the latter case (Fig. 19) the light is reflected irregularly in all directions.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2013,
+        "line_end": 2013,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-021",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 21,
+      "caption": "VIOLET FIG. 21. in the ultra-red and ultra-violet, where no power of radiation can produce visibility. It thus varies about as indicated in Fig. 22.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2582,
+        "line_end": 2582,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-022",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 22,
+      "caption": "the basis of equal ease in distinguishing objects. As the pur- FIG. 22. pose for which light is used is to distinguish objects, the correct comparison of lights obviously is on the basis of equal distinctness",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2618,
+        "line_end": 2618,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-023",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 23,
+      "caption": "v FIG. 23. meter candles (or rather log i) as abscissas, for red light, wave length 65.0; orange yellow light, wave length 59; bluish green",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2694,
+        "line_end": 2694,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-024",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 24,
+      "caption": "\\ FIG. 24. (1 meter-candle is the illumination produced by 1 candle power",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2809,
+        "line_end": 2809,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-025",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 25,
+      "caption": "S FIG. 25. 62 for high intensities and changes in approximately the same range of intensities in which lwo changes; ks is also plotted in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 2945,
+        "line_end": 2945,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-026",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 26,
+      "caption": "YELLOW GREEN FIG. 26. carbon filament would be somewhat like C. That is, the physio-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 3036,
+        "line_end": 3036,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-027",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 27,
+      "caption": "fore, increase enormously with the increase of temperature. FIG. 27. With bodies in a vacuum, the radiation power is the power input and this above law can be used to calculate the tempera-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 4062,
+        "line_end": 4062,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-028",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 28,
+      "caption": "weight, exhibit a periodicity in their properties which permits FIG. 28. a systematic study of their properties. In diagram Fig. 28 the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 4310,
+        "line_end": 4310,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-029",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 29,
+      "caption": "\\\\ FIG. 29. power required to maintain the temperature is correspondingly less, hence the efficiency is the same and merely a larger radiator",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 4741,
+        "line_end": 4741,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-030",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 30,
+      "caption": "where colored radiation or luminescence is present. Thus the FIG. 30. radiation given by the interior of a closed body of uniform tem- perature ceases to be black body radiation if the interior is filled",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 4923,
+        "line_end": 4923,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-031",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 31,
+      "caption": "one, the other from the other terminal. They are stationary FIG. 31. only if the gas pressure is perfectly constant, but separate and contract with the slightest change of pressure, hence are almost",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5467,
+        "line_end": 5467,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-032",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 32,
+      "caption": "II II FIG. 32. decreasing gas pressure the voltage consumed in the space be-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5499,
+        "line_end": 5499,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-033",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 33,
+      "caption": "and you see the striated Geissler discharge through mercury FIG. 33. vapor appear between terminals 2 and 3, giving the green light> of the mercury spectrum. The terminals are quiet, as they do",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5680,
+        "line_end": 5680,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-034",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 34,
+      "caption": "3J=10 OHMS FIG. 34. and the spectrum of the arc is the spectrum of the negative ter- minal. An exception herefrom, occurs only in those cases in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5719,
+        "line_end": 5719,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-035",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 35,
+      "caption": "tendency exists of shifting the starting point, and the arc becomes FIG. 35. LUMINESCENCE.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5836,
+        "line_end": 5836,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-036",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 36,
+      "caption": "lished by the vapor stream coming from the negative. Thus the FIG. 36. arc can be started by merely starting a conducting vapor stream from the negative, as by an auxiliary arc. As soon as this con-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5860,
+        "line_end": 5860,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-037",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 37,
+      "caption": "draw it out until the arc flame wraps itself all around terminal FIG. 37. B} but the arc does not transfer. I even insert 10 ohms resist- ance rl in series with C (Fig. 37), so that the voltage AB is about",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5898,
+        "line_end": 5898,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-038",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 38,
+      "caption": "ws FIG. 38. negative, that is, at a higher potential difference and a shorter distance against A than B is. I even hold C for some time in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5941,
+        "line_end": 5941,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-039",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 39,
+      "caption": "MAA FIG. 39. current during one half-wave only, but no current at all dur- ing .the other. I show you this experimentally, using 50 volts",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 5988,
+        "line_end": 5988,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-040",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 40,
+      "caption": "60 CYCLES FIG. 40. terminals. The cause is obvious: to maintain an arc between",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 6045,
+        "line_end": 6045,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-041",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 41,
+      "caption": "and thereby increasing radiation, etc. For a 13-mm. (0.5-in.) FIG. 41. arc it is approximately shown as Curve II in Fig. 41 : 20 volts",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 6080,
+        "line_end": 6080,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-043",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 43,
+      "caption": "cannot freely condense, the mercury vapor pressure rises and FIG. 43. presses the mercury level down in the center tubes, up in the outside tubes, as indicated at b in Fig. 43, and thereby",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 6261,
+        "line_end": 6261,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-044",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 44,
+      "caption": "*m FIG. 44. to a bright pinkish-red arc, and the spectroscope shows that the spectrum lines in the red and orange have greatly increased in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 6344,
+        "line_end": 6344,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-045",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 45,
+      "caption": "1 0 FIG. 45. arc length, I, we get tor every value of current, i, a practically straight line, as shown for the magnetite arc in Fig. 45, for values",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 7181,
+        "line_end": 7181,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-047",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 47,
+      "caption": "1J5 IN. FIG. 47. lengths, however, the observed values of voltage drop below the straight line, as shown in Fig. 47, and converge towards a",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 7364,
+        "line_end": 7364,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-049",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 49,
+      "caption": "arc. Thus comparing in Fig. 49 a 1-in. carbon arc A with a FIG. 49. 0.5-in. carbon arc B, the former requires, at 5 amperes, 112 volts and 560 watts, the latter only 84 volts and 420 watts,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 7635,
+        "line_end": 7635,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-050",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 50,
+      "caption": "154 RADIATION, LIGHT, AND ILLUMINATION. FIG. 50. FIG. 51a.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 7964,
+        "line_end": 7964,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-052",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 52,
+      "caption": "70. With the luminous arc, in which the light is proportional FIG. 52. 158",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 8127,
+        "line_end": 8127,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-054",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 54,
+      "caption": "\\r FIG. 54. ous height follow each other. Thus with an average arc volt- age of 75, momentary peaks of 85 volts will probably be reached",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 8224,
+        "line_end": 8224,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-055",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 55,
+      "caption": "as shown diagrammatically in its simplest form in Fig. 55, the FIG. 55. two white screens A and B are illuminated, the one, A, by the light, L, which is to be tested, the other, B, by the standard S,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 8712,
+        "line_end": 8712,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-057",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 57,
+      "caption": "accuracy. FIG. 57. 78. When comparing lamps giving light of the same color, as incandescent lamps of the same filament temperature, that is,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 8797,
+        "line_end": 8797,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-058",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 58,
+      "caption": "MEASUREMENT OF LIGHT AND RADIATION. 175 FIG. 58. the photometer may be used as far as it agrees with the lumi-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 8928,
+        "line_end": 8928,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-059",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 59,
+      "caption": "Fig. 59, is the distribution curve in one meridian, it is the same FIG. 59. in every other meridian, and for photometric test of the illumi- nant it is sufficient to measure the light intensities in one merid-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9197,
+        "line_end": 9197,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-060",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 60,
+      "caption": "the former, giving a horizontal or equatorial distribution of FIG. 60. light intensity about as shown in Fig. 60. In this case the horizontal distribution curve may also be determined photo-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9242,
+        "line_end": 9242,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-061",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 61,
+      "caption": "side — minimum — intensity. Such curves are shown in Fig. 61. FIG. 61. This, however, carried out for every angle in the meridian, makes arc-light photometry rather laborious, especially as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9306,
+        "line_end": 9306,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-062",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 62,
+      "caption": "is: FIG. 62. = 27r/sin<M^",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9553,
+        "line_end": 9553,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-064",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 64,
+      "caption": "192 RADIATION, LIGHT, AND ILLUMINATION. FIG. 64. FIG. 65.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9724,
+        "line_end": 9724,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-065",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 65,
+      "caption": "FIG. 64. FIG. 65. FIG. 66.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9727,
+        "line_end": 9727,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-066",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 66,
+      "caption": "FIG. 65. FIG. 66. LIGHT FLUX AND DISTRIBUTION. 193",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9730,
+        "line_end": 9730,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-067",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 67,
+      "caption": "direction. FIG. 67. Straight Line or Cylindrical Radiator.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9851,
+        "line_end": 9851,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-068",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 68,
+      "caption": "24 deg. above the horizontal, or in the space between a and a' in Fig. 68. It is interesting to compare the three radiators, (1), (2), and (5), on the basis of equal maximum intensity, and on the basis of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 9930,
+        "line_end": 9930,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-070",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 70,
+      "caption": "> FIG. 70. FIG. 71.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10274,
+        "line_end": 10274,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-071",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 71,
+      "caption": "FIG. 70. FIG. 71. In Fig. 72 is plotted the intensity distribution in the meridian",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10277,
+        "line_end": 10277,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-072",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 72,
+      "caption": "(7) Single-Loop Filament. FIG. 72. 200",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10313,
+        "line_end": 10313,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-073",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 73,
+      "caption": "meridianal distribution of the sides A + B is : FIG. 73. 7 = 4 r/",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10367,
+        "line_end": 10367,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-074",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 74,
+      "caption": "Figs. 70 and 71. FIG. 74. In the meridian of minimum intensity, the light intensity 73 produced by the projection of the half circle in its own plane,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10396,
+        "line_end": 10396,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-075",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 75,
+      "caption": "has from the center 0 of the radiator the distance FIG. 75. a = 00",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10713,
+        "line_end": 10713,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-078",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 78,
+      "caption": "^ FIG. 78. 94. In Table III are given",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 10952,
+        "line_end": 10952,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-081",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 81,
+      "caption": "V////A W/\\ v////\\ FIG. 81. FIG. 82.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 11172,
+        "line_end": 11172,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-082",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 82,
+      "caption": "FIG. 81. FIG. 82. LIGHT FLUX AND DISTRIBUTION.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 11175,
+        "line_end": 11175,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-084",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 84,
+      "caption": "As illustrations are plotted in Fig. 84 and recorded in Table IV, FIG. 84. 212 RADIATION, LIGHT, AND ILLUMINATION.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 11507,
+        "line_end": 11507,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-086",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 86,
+      "caption": "I = I' = 70 (sin ^ - tan w cos 0). (10) FIG. 86. For to = 75 deg. = and a = 0.7, the intensity distribution",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 11661,
+        "line_end": 11661,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-087",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 87,
+      "caption": "co2 the angle subtended by the outer edge of the reflector, from FIG. 87. the base of the arc, as diagrammatically illustrated in Fig. 87; then the intensity of the light flux of the main radiator",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 11890,
+        "line_end": 11890,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-088",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 88,
+      "caption": "Table V. FIG. 88. Substituting the numerical values in the foregoing, we have:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12048,
+        "line_end": 12048,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-089",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 89,
+      "caption": "(36) FIG. 89. The distribution curve of such an illuminant is plotted in Fig. 89 and recorded in Table V for the values",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12159,
+        "line_end": 12159,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-090",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 90,
+      "caption": "(36) 7 = 70 (sin <j> - 11.43 cos <j>). FIG. 90. As comparison is given in Fig. 90 the distribution curve of the magnetite arc, which is designed of the type of Fig. 89",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12193,
+        "line_end": 12193,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-091",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 91,
+      "caption": "the point P receives light from all points of the envelope G as FIG. 91. 3-B",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12262,
+        "line_end": 12262,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-092",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 92,
+      "caption": "a radiator giving the distribution curve shown in Fig. 92, curve I, FIG. 92. the distribution curve is changed by diffraction (frosted en- velope), to that shown in Fig. 92, curve II, but changed to that",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12302,
+        "line_end": 12302,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-093",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 93,
+      "caption": "^ FIG. 93. be directed into the horizontal (or any other desired) direction, and the entire lens then appears luminous, as virtual radiator.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12555,
+        "line_end": 12555,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-094",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 94,
+      "caption": "tions thereof are used, as prisms, as shown in Fig. 94, and this FIG. 94. method of light control thus called \"prismatic refraction,\" or, where the light does not pass through, but is reflected and turned",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12564,
+        "line_end": 12564,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-095",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 95,
+      "caption": "a horizontal plane P, then, for a point A at the horizontal dis- FIG. 95. tance lh from the lamp, L (that is, the distance lh from the point",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12627,
+        "line_end": 12627,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-096",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 96,
+      "caption": "230 RADIATION, LIGHT, AND ILLUMINATION. FIG. 96. FIG. 97,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 12973,
+        "line_end": 12973,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-098",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 98,
+      "caption": "side illumination, and are rounded off where the branches join. FIG. 98. Fig. 99 gives the intensity curves for the same angles, w = 30,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 13427,
+        "line_end": 13427,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-099",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 99,
+      "caption": "45, 60, and 75 deg., for uniform illumination only in the hori- FIG. 99. zontal plane beneath the lamp, but no illumination beyond",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 13434,
+        "line_end": 13434,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-100",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 100,
+      "caption": "candle power: FIG. 100. I. The direct-current enclosed carbon arc, with clear inner",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 14004,
+        "line_end": 14004,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-101",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 101,
+      "caption": "08 0,4 06 08 10 12 It 16 18 20 22 24 26 28 FIG. 101. curve of the character discussed in Fig. 92. III. The magnetite",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 14030,
+        "line_end": 14030,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-102",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 102,
+      "caption": "105. With lamps placed at equal distances 4o, and equal FIG. 102. heights lv, as shown diagrammatically in Fig. 102, the illumina- tion of any point A of the street surface is due to the light flux",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 14060,
+        "line_end": 14060,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-107",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 107,
+      "caption": "lamp. Such a distribution curve can, for instance, be produced FIG. 107. by a spiral filament F (Fig. 108) located eccentric in a spher- ical globe G, of which the upper part is clear glass and covered",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 14597,
+        "line_end": 14597,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-108",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 108,
+      "caption": "of table, etc.). FIG. 108. 244 RADIATION, LIGHT, AND ILLUMINATION.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 14662,
+        "line_end": 14662,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-111",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 111,
+      "caption": "by 7. It is given in Fig. 111. FIG. 111. The illumination, i, at any point, P, then is derived by adding the illumination ia, ib, ic, id of the four lamps a, 6, c, d, taken",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 15096,
+        "line_end": 15096,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-116",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 116,
+      "caption": "/ FIG. 116. 108. Adding this diffuse illumination, shown as G, to the directed illumination, gives the total illumination, i, shown",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 15990,
+        "line_end": 15990,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-117",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 117,
+      "caption": "room. FIG. 117 TABLE VII.— (Fig. 117.) EQUI-POTENTIAL CURVES.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 16016,
+        "line_end": 16016,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-118",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 118,
+      "caption": "6 FIG. 118. TABLE VIII.— (Figs. 118 to 121.) HORIZONTAL ILLUMI-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 16235,
+        "line_end": 16235,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-119",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 119,
+      "caption": "141 FIG. 119. 4.0",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 16434,
+        "line_end": 16434,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-120",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 120,
+      "caption": "i FIG. 120. FIG. 121.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 16479,
+        "line_end": 16479,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-121",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 121,
+      "caption": "FIG. 120. FIG. 121. LECTURE XII.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 16482,
+        "line_end": 16482,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-122",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 122,
+      "caption": "M/w///^^^^^ FIG. 122. face of the ground and A a flat circular shade at distance I above the ground, the intensity distribution of the light in plane P is as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17594,
+        "line_end": 17594,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-123",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 123,
+      "caption": "from directed to diffused light. Thus, no sharp dividing line FIG. 123. PHYSIOLOGICAL PROBLEMS. 281",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17626,
+        "line_end": 17626,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-124",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 124,
+      "caption": "combining A and B by the parallelogram law. FIG. 124. FIG. 125.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17831,
+        "line_end": 17831,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-125",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 125,
+      "caption": "FIG. 124. FIG. 125. In some respects the action of the two separate flux densities",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17834,
+        "line_end": 17834,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-126",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 126,
+      "caption": "nator mn. The actual illumination as shown in Fig. 127 gives a FIG. 126. FIG. 127.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17879,
+        "line_end": 17879,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-127",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "figure_number": 127,
+      "caption": "FIG. 126. FIG. 127. black segment of angle <D, while more than half the circumference",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "radiation-light-and-illumination",
+        "line_start": 17882,
+        "line_end": 17882,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-001",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 1,
+      "caption": "G, the line A, and the load L, a current i flows, and voltages e Fig. 1. exist, which are constant, or permanent, as long as the conditions of the circuit remain the same. If we connect in some more",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 472,
+        "line_end": 472,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-003",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 3,
+      "caption": "permanent condition corresponding to the closed switch can occur, Fig. 3. the stored energy has to be supplied from the source of power; that is, for a short time power, in supplying the stored energy, flows not",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 549,
+        "line_end": 549,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-006",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 6,
+      "caption": "changes between potential gravitational and kinetic mechanical Fig. 6. Double-energy Transient",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 829,
+        "line_end": 829,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-025",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 25,
+      "caption": "frequency, and as the result an increase of voltage and a distor- tion of the quadrature phase occurs, as shown in the oscillogram Fig. 25. Various momentary short-circuit phenomena are illustrated by the oscillograms Figs. 26 to 28.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 2904,
+        "line_end": 2904,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-029",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 29,
+      "caption": "2 3 4 5 Fig. 29. 6 seconds",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 3221,
+        "line_end": 3221,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-033",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 33,
+      "caption": "\\ Fig. 33. hence, substituted in equation (28),",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 3929,
+        "line_end": 3929,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-034",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 34,
+      "caption": "A B Fig. 34. However, if (8) are the equations of current and voltage at a point A of a line, shown diagrammatically in Fig. 34, at any other",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 4048,
+        "line_end": 4048,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-037",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 37,
+      "caption": "section /i consists of 4 quarter- wave units, etc. Fig. 37. Fig. 38.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 4331,
+        "line_end": 4331,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-038",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 38,
+      "caption": "Fig. 37. Fig. 38. The same applies to case 1, and it thus follows that the wave",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 4334,
+        "line_end": 4334,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-040",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 40,
+      "caption": "Line Fig. 40. former, the high-tension switches are opened at the generator end of the transmission line. The energy stored magnetically and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 4863,
+        "line_end": 4863,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-042",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 42,
+      "caption": "constant in the direction of propagation, as indicated by A in Fig. 42. B",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 4936,
+        "line_end": 4936,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-054",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 54,
+      "caption": "which it can draw in supplying power. In permanent condition the line could not add to the power, but must consume, that is, the permanent power-transmission diagram must always be like Fig. 54. Not so, as seen, with the transient of the stationary oscillation. Assume, for instance, that we reduce the power dissipation in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 5739,
+        "line_end": 5739,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-056",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 56,
+      "caption": "Line Fig. 56. The diagram of the power of the two waves of opposite direc- tions, and of the resultant power, is shown in Fig. 57, assuming",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 5842,
+        "line_end": 5842,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-008",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 8,
+      "caption": "tance, the lines of magnetic force are concentric circles, shown by drawn lines in Fig. 8, page 10, and the lines of dielectric force are straight lines radiating from the conductor, shown dotted in Fig. 8. Due to the return conductor, in a two-wire circuit, the lines of magnetic and dielectric force are crowded together between the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 6123,
+        "line_end": 6123,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-066",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 66,
+      "caption": "approximately Fig. 66. Aa = D -f- £ cos 0 + - cos",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 6823,
+        "line_end": 6823,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-fig-068",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 68,
+      "caption": "o Fig. 68. 1\\ 12 ^3",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+        "line_start": 7245,
+        "line_end": 7245,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-005",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 5,
+      "caption": "■e- FiG. 5. tance in the direction rotated 90 deg. from +2, or in quadrature",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 1635,
+        "line_end": 1635,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-006",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 6,
+      "caption": "+3 Fig. 6. For instance, in problems dealing with plain geometry, as in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 1689,
+        "line_end": 1689,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-010",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 10,
+      "caption": "There are therefore n different valuesof av^ + 1, which lie equidistant on a circle with radius 1, as shown for n = 9 in Fig. 10. 14. In the operation of addition, a + 6 = c, the problem is, a and 6 being given, to find c.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 1872,
+        "line_end": 1872,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-020",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 20,
+      "caption": "d) — I — 1 0 (D — I — I — I — I — I — I — I — © — I — • — I O A B C Fig. 20. horses, multiplication has no physical meaning. If they repre- sent feet, the product of multiphcation has a physical meaning,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 2895,
+        "line_end": 2895,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-046",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 46,
+      "caption": "of the exactness of the results resulting from the limited num- FiG. 46. ber of numerical values of i, on which the calculation is based.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 11540,
+        "line_end": 11540,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-047",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 47,
+      "caption": "able to supply the charging current of the line, due to the Fig. 47. wave shape distortion, more than two generators are required.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 12032,
+        "line_end": 12032,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-048",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 48,
+      "caption": "purposes, as short-distance distribution. Fig. 48. In Figs. 47 and 48 are plotted the voltage wave and the current wave, from equations (9) and (14) repsectively, and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 12041,
+        "line_end": 12041,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-049",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 49,
+      "caption": "As seen from Fig. 49, the fundamental wave has practically Fig. 49. vanished, and the voltage wave is the seventh harmonic, modi-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 12109,
+        "line_end": 12109,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "engineering-mathematics-fig-057",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "figure_number": 57,
+      "caption": "?ro (62) Fig. 57. Substituting (61) into (62) gives,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "engineering-mathematics",
+        "line_start": 13829,
+        "line_end": 13829,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-006",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 6,
+      "caption": "maximum variation of the sine is equal to the variation of the Fig. 6. Fig. 7.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 1864,
+        "line_end": 1864,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-007",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 7,
+      "caption": "Fig. 6. Fig. 7. corresponding arc, and consequently the maximum variation of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 1867,
+        "line_end": 1867,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-010",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 10,
+      "caption": "21 Fig. 10. phase angle — /3' = — (a' — ??]) = 10 A, and the equations of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 2262,
+        "line_end": 2262,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-016",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 16,
+      "caption": "^E, Fig. 16. Fig. 17.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 2534,
+        "line_end": 2534,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-017",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 17,
+      "caption": "Fig. 16. Fig. 17. the current by the angle, Q. The voltage consumed by the resist-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 2537,
+        "line_end": 2537,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-019",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 19,
+      "caption": "Ei-< «; Fig. 19. The primary impressed e.m.f., Ep, must thus consist of the three components OEi, OEr, and OE^, and is, therefore, their",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 2704,
+        "line_end": 2704,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-024",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 24,
+      "caption": "33 Fig. 24. polar coordinates by a vector of opposite direction, and denoted",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 2937,
+        "line_end": 2937,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-025",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 25,
+      "caption": ",,U— — L Fig. 25. Fig. 26.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3289,
+        "line_end": 3289,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-026",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 26,
+      "caption": "Fig. 25. Fig. 26. in the opposite direction, from terminal B to terminal A in op-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3292,
+        "line_end": 3292,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-029",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 29,
+      "caption": "NON-INDUCTIVE LOAD Fig. 29. Fig. 30.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3392,
+        "line_end": 3392,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-030",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 30,
+      "caption": "Fig. 29. Fig. 30. these currents are represented in Fig. 29 by the vectors 01 1 =",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3395,
+        "line_end": 3395,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-031",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 31,
+      "caption": "CAPACIir AND RESISTANCE Fig. 31. Fig. 32.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3446,
+        "line_end": 3446,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-032",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 32,
+      "caption": "Fig. 31. Fig. 32. triangle, Ei^E^^Ez^, the voltages at the receiver's circuit, Ei, E2,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3449,
+        "line_end": 3449,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-033",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 33,
+      "caption": "RESISTANCE AND LEAKAGE Fig. 33. 16 I TRANSMISSION",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3554,
+        "line_end": 3554,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-034",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 34,
+      "caption": "90\" LAG Fig. 34. and generator currents, /i\", 72°, I^, over the topographical char-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3566,
+        "line_end": 3566,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-035",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 35,
+      "caption": "RESISTANCE AND LEAKAGE Fig. 35. their difference of phase are plotted in Fig. 35 in rectangular",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3605,
+        "line_end": 3605,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-037",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 37,
+      "caption": "represented by an increase of angle B in counter-clockwise rota- FiG. 37 tion. That is, the positive direction, or increase of time, is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3691,
+        "line_end": 3691,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-041",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 41,
+      "caption": "^i Fig. 41. Fig. 42.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3828,
+        "line_end": 3828,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-042",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 42,
+      "caption": "Fig. 41. Fig. 42. then appear in the vector representation of the time diagram or",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3831,
+        "line_end": 3831,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-043",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 43,
+      "caption": "E^-^ Fig. 43. Fig. 45.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3856,
+        "line_end": 3856,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-045",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 45,
+      "caption": "Fig. 43. Fig. 45. lagging behind the voltage:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3859,
+        "line_end": 3859,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-046",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 46,
+      "caption": "then means: Fig. 46. POLAR COORDINATES AND POLAR DIAGRAMS 51",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 3872,
+        "line_end": 3872,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-048",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 48,
+      "caption": "^ Fig. 48. R'",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 4049,
+        "line_end": 4049,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-049",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 49,
+      "caption": "7 1.8 Fig. 49. The sign in the complex expression of admittance is always opposite to that of impedance; this is obvious, since if the cur-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 4618,
+        "line_end": 4618,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-051",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 51,
+      "caption": "Eo E Fig. 51. M",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5008,
+        "line_end": 5008,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-052",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 52,
+      "caption": "Eo Fig. 52. Fig. 53.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5025,
+        "line_end": 5025,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-053",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 53,
+      "caption": "Fig. 52. Fig. 53. 2. Reactance in Series with a Circuit",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5028,
+        "line_end": 5028,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-054",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 54,
+      "caption": "ohms inductance-'— reactance-^condensance Fig. 54. E^, are shown for various conditions of a receiver circuit and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5409,
+        "line_end": 5409,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-055",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 55,
+      "caption": "0 Fig. 55. Fig. 56.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5474,
+        "line_end": 5474,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-056",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 56,
+      "caption": "Fig. 55. Fig. 56. Fig. 57.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5477,
+        "line_end": 5477,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-057",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 57,
+      "caption": "Fig. 56. Fig. 57. is, the current and e.m.f. in the supply circuit are in phase with",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5480,
+        "line_end": 5480,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-058",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 58,
+      "caption": "^w=+90 80 70 60 50 40 30 20 10 0 10 20 30 40 50 60 70 80 90 degrees lag-«- phase difference in consumer circuit-*- lead Fig. 58. In Figs. 59 and 60, the same curves are plotted as in Fig. 58, but in Fig. 59 with the reactance, x, of the receiver circuit as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5572,
+        "line_end": 5572,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-059",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 59,
+      "caption": "+1 +.9 +.8 +.7 +.6 +.5 +.4 +.3 +.2 +.1 0 -.1 -.2 -.3 -.4 -.5 -.6 reactance of consumer circuit Fig. 59. -.7 -.8 -.9-10",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 5894,
+        "line_end": 5894,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-060",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 60,
+      "caption": "_ resistance of . consumer circuit Fig. 60. ,7 .6 .5 .4 .3 .2 .1 .0",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6052,
+        "line_end": 6052,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-061",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 61,
+      "caption": "1. .9 .8 .7 .6 .5 ,4 .3 .2 .1 0 -.1 -.2 -.3 -.1 -.5 -.6 -.7 -.8 -.9-L X — ^ Fig. 61. E",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6302,
+        "line_end": 6302,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-062",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 62,
+      "caption": "tro Fig. 62. Fig. 63.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6333,
+        "line_end": 6333,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-063",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 63,
+      "caption": "Fig. 62. Fig. 63. 72",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6336,
+        "line_end": 6336,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-065",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 65,
+      "caption": "loss of power. Fig. 65. Then, if Eo = impressed e.m.f., the current in receiver circuit is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6409,
+        "line_end": 6409,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-067",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 67,
+      "caption": "1 Fig. 67. 5. Constant Potential — Constant-current Transformation",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6939,
+        "line_end": 6939,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-068",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 68,
+      "caption": "supply, and inversely. Fig. 68 The generation of alternating-current electric power almost always takes place at constant potential. For some purposes,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 6973,
+        "line_end": 6973,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-072",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 72,
+      "caption": "0 Fig. 72. .03 ,03 M. .05 .00 .07 .OS",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 8597,
+        "line_end": 8597,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-076",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 76,
+      "caption": "» Fig. 76. 10 20 30 10 50 60 7.0 .80 90 100",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 9705,
+        "line_end": 9705,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-077",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 77,
+      "caption": "AMPERES LOAD « l Fig. 77. and the leading quadrature component of current required to compensate for the line reactance x at maximum current, im, is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 10085,
+        "line_end": 10085,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-078",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 78,
+      "caption": "::} Fig. 78. 87. Equation (28) shows that there are two values of x: Xi and X2; and corresponding thereto two values of 60:^01 and 602,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 10552,
+        "line_end": 10552,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-081",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 81,
+      "caption": "^ Fig. 81. The general character of these current waves is, that the maxi-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 11510,
+        "line_end": 11510,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-082",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 82,
+      "caption": "then Fig. 82. — X^",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 12025,
+        "line_end": 12025,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-086",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 86,
+      "caption": "n = NUMBER OF TURNS Fig. 86. 350",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 12600,
+        "line_end": 12600,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-087",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 87,
+      "caption": "/ = FREQUENCY Fig. 87. 400",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 12686,
+        "line_end": 12686,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-088",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 88,
+      "caption": "200 250 Fig. 88. 300",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 12813,
+        "line_end": 12813,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-089",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 89,
+      "caption": "/=CYCLES Fig. 89. 300",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 12940,
+        "line_end": 12940,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-090",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 90,
+      "caption": "n=NUMBER OF TURNS Fig. 90. 350",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 13034,
+        "line_end": 13034,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-092",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 92,
+      "caption": "magnetic flux inclosed by the zone is SuV. Fig. 92. Hence, the e.m.f. generated in this zone is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 13742,
+        "line_end": 13742,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-093",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 93,
+      "caption": "93. Fig. 93. 110. Demagnetizing, or screening effect of eddy currents.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 13860,
+        "line_end": 13860,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-094",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 94,
+      "caption": "du Fig. 94. The current inclosed by this zone is /„",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 14074,
+        "line_end": 14074,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-096",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 96,
+      "caption": "^ m Fig. 96. )J",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15113,
+        "line_end": 15113,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-097",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 97,
+      "caption": "' m Fig. 97. throughout the field section, but the voltage gradient in the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15131,
+        "line_end": 15131,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-098",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 98,
+      "caption": "do so. Fig. 98. Fig. 99.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15252,
+        "line_end": 15252,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-099",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 99,
+      "caption": "Fig. 98. Fig. 99. h'5",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15255,
+        "line_end": 15255,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-100",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 100,
+      "caption": "JTTTTTTTTTTTTTTTTTTTTTTT- Fig. 100. In this case the intensity as well as phase of the current, and consequently of the counter e.m.f. of inductive reactance and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15474,
+        "line_end": 15474,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-101",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 101,
+      "caption": "iEo Fig. 101. Denoting in Fig. 101.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 15606,
+        "line_end": 15606,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-102",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 102,
+      "caption": "phase (for convenience, as intensities, the effective values are Fig. 102. used throughout), assuming its phase as the downwards vertical; that is, counting the time from the moment where the rising",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16703,
+        "line_end": 16703,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-103",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 103,
+      "caption": "Eo Fig. 103. Figs. 103 to 109 give the polar diagram of a transformer having",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16830,
+        "line_end": 16830,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-104",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 104,
+      "caption": "ALTERNATING-CURRENT TRANSFORMER 193 Fig. 104. ./ ^^0",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16861,
+        "line_end": 16861,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-105",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 105,
+      "caption": "./ ^^0 Fig. 105. 13",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16867,
+        "line_end": 16867,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-106",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 106,
+      "caption": "13 Fig. 106. 194 ALTERNATING-CURRENT PHENOMENA",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16873,
+        "line_end": 16873,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-107",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 107,
+      "caption": "194 ALTERNATING-CURRENT PHENOMENA Fig. 107. Fia. 108.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16879,
+        "line_end": 16879,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-113",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 113,
+      "caption": "gram of Fig. 110, the diagrams for the constant primary im- FiG. 113. pressed e.m.f. (Fig. Ill), and for constant secondary terminal",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 16908,
+        "line_end": 16908,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-114",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 114,
+      "caption": "Circuit Fig. 114. 152. Separating now the internal secondary impedance from the external secondary impedance, or the impedance of the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 17408,
+        "line_end": 17408,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-116",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 116,
+      "caption": "\"El Fig. 116. It is obvious, therefore, that if the transformer contains sev-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 17474,
+        "line_end": 17474,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-117",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 117,
+      "caption": "of admittance Yq. Thus, double transformation will be represented by diagram. Fig. 117. With this the discussion of the alternate-current transformer ends, by becoming identical with that of a divided circuit con-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 17508,
+        "line_end": 17508,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-118",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 118,
+      "caption": "is the angle of secondary lag. Fig. 118. The secondary m.m.f., OGi, is in the direction of the vector,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 18102,
+        "line_end": 18102,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-119",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 119,
+      "caption": "determined thus, Fig. 119. Let",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 18133,
+        "line_end": 18133,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-120",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 120,
+      "caption": "AMPERES Fig. 120. 90",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 19057,
+        "line_end": 19057,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-121",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 121,
+      "caption": "AMPERES Fig. 121. 250",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 19500,
+        "line_end": 19500,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-122",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 122,
+      "caption": ". Fig. 122. On the same figure is shown the current per line, in dotted lines, with the verticals or torque as abscissas, and the hori-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 19753,
+        "line_end": 19753,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-123",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 123,
+      "caption": "DO Fig. 123. hence, the efficiency is, Pi_ ^ ai (1 - s)",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 20132,
+        "line_end": 20132,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-124",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 124,
+      "caption": "0 Fig. 124. and the apparent torque efficiency,^",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 20407,
+        "line_end": 20407,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-125",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 125,
+      "caption": "KX) Fig. 125. voltage will rise until by magnetic saturation in the induction generator its power-factor has fallen to equality with that of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 20763,
+        "line_end": 20763,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-126",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 126,
+      "caption": ")00 Fig. 126. the efficiency.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 21111,
+        "line_end": 21111,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-127",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 127,
+      "caption": "0 Fig. 127. and the terminal voltage at the synchronous motor,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 21509,
+        "line_end": 21509,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-128",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 128,
+      "caption": "Eo.U.Yj Fig. 128. shading coil is commonly used) is the monocyclic starting device. It consists in producing externally to the motor a system of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 22028,
+        "line_end": 22028,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-129",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 129,
+      "caption": "former; hence fixed in space relative to the field m.m.f., or uni- FiG. 129. directional; but pulsating in a single-phase alternator. In the polyphase alternator, when evenly loaded or balanced, the result-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 22319,
+        "line_end": 22319,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-130",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 130,
+      "caption": "be assumed as constant. Fig. 130. The relative position of the armature m.m.f. with respect to",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 22363,
+        "line_end": 22363,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-131",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 131,
+      "caption": "excitation, increases the voltage; with lagging current it weakens Fig. 131. the field, and thereby decreases the voltage in a generator. Ob- viously, the opposite holds for a synchronous motor, in which the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 22406,
+        "line_end": 22406,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-139",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 139,
+      "caption": "phase, the virtual generated e.m.f. Fig. 139. The armature self-induction consumes an e.m.f., OE3, 90°",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 24075,
+        "line_end": 24075,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-140",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 140,
+      "caption": "OFi', and OF\" = OFi\". Fig. 140. Let now (P' = permeance of the field magnetic circuit;",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 24385,
+        "line_end": 24385,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-141",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 141,
+      "caption": "actual value of the field onward Fig. 141. -as shown by Fig, 141.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 24490,
+        "line_end": 24490,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-142",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 142,
+      "caption": "AMPERES Fig. 142. an alternator of pulsating synchronous reactance, the wave-shape of the machine changes more or less with the load and the char-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25128,
+        "line_end": 25128,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-143",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 143,
+      "caption": "mnrmnmnwv Fig. 143. allel; as, for instance, by the arrangement shown in Fig. 143,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25260,
+        "line_end": 25260,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-144",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 144,
+      "caption": "nal admittance of the second machine. Fig. 144. Then, er + e'r = al^•",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25324,
+        "line_end": 25324,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-145",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 145,
+      "caption": "impedance of the line, and the e.m.f., Es^E = E4, consumed by Fig. 145. the impedance of the generator. Hence, dividing the opposite",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25805,
+        "line_end": 25805,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-146",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 146,
+      "caption": "304 ALTERNATING-CURRENT PHENOMENA Fig. 146. Fig. 147.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25830,
+        "line_end": 25830,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-147",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 147,
+      "caption": "Fig. 146. Fig. 147. SYNCHRONOUS MOTOR",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25833,
+        "line_end": 25833,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-148",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 148,
+      "caption": "305 Fig. 148. Fig. 149.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25842,
+        "line_end": 25842,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-149",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 149,
+      "caption": "Fig. 148. Fig. 149. 20",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25845,
+        "line_end": 25845,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-150",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 150,
+      "caption": "have < EiOE = 90°, Ei = Eo, thus: OEi = EEo = OEo = E^r, Fig. 150. Fig. 151.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25963,
+        "line_end": 25963,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-151",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 151,
+      "caption": "Fig. 150. Fig. 151. that is, EEi = 2 £\"0. That means the characteristic curve, Ci, is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25966,
+        "line_end": 25966,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-152",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 152,
+      "caption": "shown in Fig. 151. Fig. 152. If El < Eo, at small Eo — Ei, H can be below the zero line,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 25997,
+        "line_end": 25997,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-154",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 154,
+      "caption": "of the cases the current is leading, in the other lagging. Fig. 154. In Figs. 155 to 158 are shown diagrams, giving the points",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26150,
+        "line_end": 26150,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-155",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 155,
+      "caption": "20 < / < 30 Fig. 155. Fig. 156.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26186,
+        "line_end": 26186,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-156",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 156,
+      "caption": "Fig. 155. Fig. 156. Fig. 157.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26188,
+        "line_end": 26188,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-157",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 157,
+      "caption": "Fig. 156. Fig. 157. Fig. 158.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26190,
+        "line_end": 26190,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-158",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 158,
+      "caption": "Fig. 157. Fig. 158. As seen, the permissible value of counter e.m.f., Ei, and of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26192,
+        "line_end": 26192,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-159",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 159,
+      "caption": "e=*iie— -i Fig. 159. Fig. 160.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26540,
+        "line_end": 26540,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-160",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 160,
+      "caption": "Fig. 159. Fig. 160. This equation shows that, at given impressed e.m.f., eo, and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26543,
+        "line_end": 26543,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-161",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 161,
+      "caption": "/ = er + zH- — co^ ± 2 xie^ = 0; Fig. 161. by the condition,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 26833,
+        "line_end": 26833,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-162",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 162,
+      "caption": "MO ma 'i&bo ~ 2000 2500 -^000 saoo iooo taoo eooo ewo Fig. 162. Minimum counter e.m.f. point of this curve,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 27147,
+        "line_end": 27147,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-163",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 163,
+      "caption": "2500 Volts Fig. 163. 3000",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 27254,
+        "line_end": 27254,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-164",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 164,
+      "caption": "X = reactance of the circuit between counter e.m.f., e, and im- FiG. 164. pressed e.m.f., eo, OEr = iiv = e.m.f. consumed by resistance, OEj: = iix = e.m.f. consumed by reactance of the power com-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 27404,
+        "line_end": 27404,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-165",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 165,
+      "caption": "200 400 COO SOO 1000 1200 1100 1600 1800 2000 2200 2400 2000^2800 8000 3200 S400 3CO0 SSOO 4000 4200 VOLTS = e Fig. 165. 248. As illustrations are plotted, in Fig. 165, curves giving the current, i, as function of the counter or nominal generated e.m.f.,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 27859,
+        "line_end": 27859,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-166",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 166,
+      "caption": "KILOWATTS Fig. 166. 1 1",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 28114,
+        "line_end": 28114,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-168",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 168,
+      "caption": "KILOWATTS Fig. 168. 229. I. hoad Curves of Synchronous Motor.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 28468,
+        "line_end": 28468,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-169",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 169,
+      "caption": "KILOWATTS Fig. 169. For low values of e (e = 1600, under excitation, Fig. 166),",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 28681,
+        "line_end": 28681,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-170",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 170,
+      "caption": "600 600 KILOWATTS Fig. 170. It is interesting that at e = 2180, the power-factor is practi-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 28903,
+        "line_end": 28903,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-171",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 171,
+      "caption": "KILOWATTS Fig. 171. that at the same impressed voltage, with the same current input",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 29234,
+        "line_end": 29234,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-172",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 172,
+      "caption": "1 180 Fig. 172. Even with an unsymmetrical distribution of the magnetic flux in the air-gap, the e.m.f. wave generated in a full-pitch",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 29650,
+        "line_end": 29650,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-173",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 173,
+      "caption": "180 Fig. 173. magnetic reluctance, or its reciprocal, the magnetic reactance of the circuit. In consequence thereof the magnetism per field-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 29845,
+        "line_end": 29845,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-178",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 178,
+      "caption": "' Fig. 178. tage drops with the further increase of current, and then rises again with the decreasing current, until at C, the intersection",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 31252,
+        "line_end": 31252,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-179",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 179,
+      "caption": "1 Fig. 179. flux and the current, therefore, cannot both be sine waves; if the magnetic flux and therefore the generated e.m.f. are sine waves,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 31517,
+        "line_end": 31517,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-180",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 180,
+      "caption": "-B Fig. 180. the e.m.f., e = J? sin </>, and a wattless component, i\" , in quadra-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 31654,
+        "line_end": 31654,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-181",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 181,
+      "caption": "where Fig. 181. c„ = \\/a„2 + 6n^, 6„",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 31840,
+        "line_end": 31840,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-182",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 182,
+      "caption": "\\v Fig. 182. B. Sine Wave of Current",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 31959,
+        "line_end": 31959,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-183",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 183,
+      "caption": "y Fig. 183. As seen, with a sine wave of current traversing an iron-clad reactance, the e.m.f. wave is very greatly distorted, and the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 32214,
+        "line_end": 32214,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-184",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 184,
+      "caption": "a three-phase system with a sine wave of e.m.f. between the lines, the curves of exciting current, magnetic flux and voltage per transformer, or between lines and neutral, are constructed in Fig. 184. i is the exciting current of the transformer, and contains all the harmonics, except the third and its multiples. It is given",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 32390,
+        "line_end": 32390,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-185",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 185,
+      "caption": "4i' Fig. 185. triple and the quintuple harmonic upon the fundamental sine wave.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 32554,
+        "line_end": 32554,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-186",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 186,
+      "caption": "ft Fig. 186. As seen, the effect of the triple harmonic is, in the first figure, to flatten the zero values and point the maximum values of the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 32594,
+        "line_end": 32594,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-191",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 191,
+      "caption": "0 Fig. 191. of the harmonic, and the winding of the motor primary. Thus,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 34764,
+        "line_end": 34764,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-193",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 193,
+      "caption": "interlinked system. Fig. 193. The four-phase system as derived by connecting four equi- distant points of a continuous-current armature with four",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 34858,
+        "line_end": 34858,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-194",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 194,
+      "caption": "^<MS^iB>^ 4 Fig. 194. The three-phase system, consisting of three e.m.fs. displaced by one-third of a period, is used exclusively as interlinked system.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 34897,
+        "line_end": 34897,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-195",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 195,
+      "caption": "—E nmTswusvsvrno- Fig. 195. a three-phase system, in the alternating supply circuit of large synchronous converters.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 34916,
+        "line_end": 34916,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-208",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 208,
+      "caption": "^ Fig. 208. 2. The ring connection, represented diagrammatically in Fig.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 35765,
+        "line_end": 35765,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-209",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 209,
+      "caption": "1 Fig. 209. system. In a three-phase system this connection is called the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 35796,
+        "line_end": 35796,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-210",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 210,
+      "caption": "nm Fig. 210. The reverse thereof, or the Y-delta connection, is undesirable on unbalanced load, since it gives what has been called a \"float-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36262,
+        "line_end": 36262,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-211",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 211,
+      "caption": "T Fig. 211. and (3) can be operated in parallel with each other, and with the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36354,
+        "line_end": 36354,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-212",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 212,
+      "caption": "mm) mu Fig. 212. by the internal impedance of the transformers. It is convenient",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36370,
+        "line_end": 36370,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-213",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 213,
+      "caption": "1 Fig. 213. phase and inverted three-phase or polyphase monocychc, by two transformers, the secondary of one being reversed regarding its",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36404,
+        "line_end": 36404,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-214",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 214,
+      "caption": "CMT\\ rWFl Fig. 214. of the transformers contain two equal and independent (or inter- linked) coils, the three-phase sides two coils with the ratio of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36420,
+        "line_end": 36420,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-215",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 215,
+      "caption": "I 2 Fig. 215. '3 '2 '3",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36448,
+        "line_end": 36448,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-216",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 216,
+      "caption": "formation from three-phase to six-phase, shown in Fig. 216. It Fig. 216. is analogous to (7), the delta connection merely being replaced",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36458,
+        "line_end": 36458,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-217",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 217,
+      "caption": "I I Fig. 217. The primaries in 9 and 10 may be connected either delta or F,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 36487,
+        "line_end": 36487,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-218",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 218,
+      "caption": ",^-'-' ^^ Fig. 218. The voltage between any two terminals e^ and e^ then is: e.7fc = ei — ek ' (1)",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 37147,
+        "line_end": 37147,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-219",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 219,
+      "caption": "-0- FiG. 219. Thus, if Fig. 220 denotes a general three-wire, three-phase sys- tem, with the voltages and currents in the three phases:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 37331,
+        "line_end": 37331,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-220",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 220,
+      "caption": "•3, '3 Fig. 220. The voltages may be unequal in sizes and under unequal angles, by a distortion of the three-phase triangle, but it must be:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 37344,
+        "line_end": 37344,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-221",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 221,
+      "caption": "-OD- Fig. 221. system, if the current lags, the two wattmeter coils do not read alike, as the voltmeter coil in the one lags by the angle of lag of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 37399,
+        "line_end": 37399,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-fig-222",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 222,
+      "caption": "-0- FiG. 222. In a four- wire, three-phase system, the connection of the two",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "line_start": 37441,
+        "line_end": 37441,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-011",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 11,
+      "caption": "e\\ = — r/0 sin 0, opposite in phase to the current, shown as e\\ in dotted line in Fig. 11. The counter e.m.f. of resistance and the e.m.f. consumed by resistance have the same relation to each other as the counter",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 2374,
+        "line_end": 2374,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-016",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 16,
+      "caption": "of the current by angle EOI = 0 would come into the position OE, Fig. 16. This vector diagram then shows graphically, by the projections of the vectors on the horizontal, the instantaneous values of the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 2924,
+        "line_end": 2924,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-031",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 31,
+      "caption": "Taking i from Fig. 31 and substituting, gives (a) the values of e0 for e = 2000, which are recorded in the table, and plotted in Fig. 31. JTPUT",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 4090,
+        "line_end": 4090,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-045",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 45,
+      "caption": "and dielectric fields of the space surrounding two conductors which are; carrying energy. FIG. 45. FIELDS OF FORCE",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 7819,
+        "line_end": 7819,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-110",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 110,
+      "caption": "1231567 FIG. 110. 9 10 11 12 13 14 .15 16 17 18 19 20 21",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 12379,
+        "line_end": 12379,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-121",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 121,
+      "caption": "10 60 FIG. 121 100 120 _110 160 ISO",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 12947,
+        "line_end": 12947,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-127",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 127,
+      "caption": "alternating current in the armature section between a\\ and a2, will reach a maximum when this section is midway between the brushes BI and Bz, as shown in Fig. 127. The direct current in every armature coil reverses at the mo-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 13908,
+        "line_end": 13908,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-154",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 154,
+      "caption": "I. Low core-loss type, Fig. 154 II. Low t*r loss type, Fig. 155",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 17028,
+        "line_end": 17028,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-155",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 155,
+      "caption": "Fig. 154 II. Low t*r loss type, Fig. 155 Exciting current",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 17031,
+        "line_end": 17031,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-fig-161",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "figure_number": 161,
+      "caption": "the coils, it follows that in Fig. 162 the leakage flux interlinked with each turn of each winding, and thus the reactance of the transformer, is materially less than one-quarter of what it is in Fig. 161. The regulation of the transformer at anti-inductive load, that is, for leading secondary current, obviously is given by the same",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theoretical-elements-electrical-engineering",
+        "line_start": 18391,
+        "line_end": 18391,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-transient-electric-phenomena-oscillations-fig-099",
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "figure_number": 99,
+      "caption": "given for ^ = 0, where tt = t] for any other point of the line X the wave shape is the same, but all the ordinates reduced by the factor £~115* in the proportion as shown in the dotted curve in Fig. 99. Fig. 101 shows the beginning of the passage of the traveling wave across a point X = 0 of the line, that is, the starting of a",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+        "line_start": 31048,
+        "line_end": 31048,
+        "verification": "needs-verification"
+      }
+    }
+  ],
+  "promoted_original_figures": [
+    {
+      "id": "rli-fig-14-spectrum-of-radiation",
+      "source_id": "radiation-light-and-illumination",
+      "status": "candidate scan crop",
+      "source_location": "Radiation, Light and Illumination, printed page 18, Fig. 14",
+      "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png",
+      "manifest_path": "diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png.json",
+      "public_path": "/diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png",
+      "width": 945,
+      "height": 340,
+      "sha256": "9587e830f46b60d5d598188f0a79f393f04dbe4fbd7f4685e4ee414465501516",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-015-original-crop",
+      "source_id": "radiation-light-and-illumination",
+      "status": "promoted scan crop; needs second-pass bibliographic verification",
+      "source_location": "Radiation, Light and Illumination, printed page 22, PDF page 42; Fig. 15",
+      "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-15-refraction-wavefront.png",
+      "manifest_path": "diagrams/original/radiation-light-and-illumination/figures/fig-15-refraction-wavefront.png.json",
+      "public_path": "/diagrams/original/radiation-light-and-illumination/figures/fig-15-refraction-wavefront.png",
+      "width": 825,
+      "height": 655,
+      "sha256": "6bd262eedcc4bf2274f73a5321a4e41656176078e141a13985ee89ee09f0da39",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-018-original-crop",
+      "source_id": "radiation-light-and-illumination",
+      "status": "promoted scan crop; needs second-pass bibliographic verification",
+      "source_location": "Radiation, Light and Illumination, printed page 28, PDF page 48; Fig. 18",
+      "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-18-regular-reflection.png",
+      "manifest_path": "diagrams/original/radiation-light-and-illumination/figures/fig-18-regular-reflection.png.json",
+      "public_path": "/diagrams/original/radiation-light-and-illumination/figures/fig-18-regular-reflection.png",
+      "width": 890,
+      "height": 600,
+      "sha256": "da6b0a382d68258624d1fceced436ad942406031df66c16fc751a75b5096c14a",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "radiation-light-and-illumination-fig-019-original-crop",
+      "source_id": "radiation-light-and-illumination",
+      "status": "promoted scan crop; needs second-pass bibliographic verification",
+      "source_location": "Radiation, Light and Illumination, printed page 29, PDF page 49; Fig. 19",
+      "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-19-irregular-reflection.png",
+      "manifest_path": "diagrams/original/radiation-light-and-illumination/figures/fig-19-irregular-reflection.png.json",
+      "public_path": "/diagrams/original/radiation-light-and-illumination/figures/fig-19-irregular-reflection.png",
+      "width": 845,
+      "height": 370,
+      "sha256": "6051eb7ff64b203dde42a6430095d66eae65e015bb5b50890cf4ffc369ea23a3",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "radiation-light-and-illumination-spectrum-table-original-crop",
+      "source_id": "radiation-light-and-illumination",
+      "status": "promoted scan crop; needs second-pass bibliographic verification",
+      "source_location": "Radiation, Light and Illumination, printed page 17, PDF page 37; Spectrum of Radiation table preceding Fig. 14",
+      "output_path": "diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png",
+      "manifest_path": "diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png.json",
+      "public_path": "/diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png",
+      "width": 970,
+      "height": 985,
+      "sha256": "f66b69b9332e620c0eb8cd9b2114e8aba216a7a5e3f78a2aac9eaef231e47073",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    }
+  ]
+}

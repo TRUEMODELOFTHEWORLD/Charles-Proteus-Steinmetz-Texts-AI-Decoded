@@ -124,7 +124,7 @@ https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded
 
 ## Processing Pipeline
 
-The first standard-library pipeline script is:
+The first standard-library pipeline script seeds source-level catalogs:
 
 ```powershell
 python pipeline/scripts/seed_source_from_ocr.py `
@@ -133,3 +133,21 @@ python pipeline/scripts/seed_source_from_ocr.py `
 ```
 
 It creates chapter splits and candidate catalogs while preserving the raw OCR. Human review is still required before promoting candidates to canonical analysis.
+
+The corpus-wide research index builder is:
+
+```powershell
+python pipeline/scripts/build_research_indexes.py
+```
+
+It writes dashboard data for sources, concepts, equations, figures, glossary terms, and quote candidates into `processed/`, including `processed/source_processing_status.md`.
+
+## Current Processing Milestone
+
+The archive now includes:
+
+- Seven source records in `sources/source_catalog.json`.
+- Cross-source JSON indexes under `processed/`.
+- A generated source-processing dashboard.
+- Five original scan-derived crops from _Radiation, Light and Illumination_ with crop manifests and checksums.
+- Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.

@@ -1,0 +1,20 @@
+{
+  "id": "radiation-light-and-illumination-fig-018-original-crop",
+  "source_id": "radiation-light-and-illumination",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; needs second-pass bibliographic verification",
+  "source_image": "processed/radiation-light-and-illumination/image_extraction/page_renders/pdf-page-0048-220dpi.png",
+  "source_location": "Radiation, Light and Illumination, printed page 28, PDF page 48; Fig. 18",
+  "crop_box_pixels": [
+    145,
+    575,
+    1035,
+    1175
+  ],
+  "output_path": "diagrams/original/radiation-light-and-illumination/figures/fig-18-regular-reflection.png",
+  "width": 890,
+  "height": 600,
+  "sha256": "da6b0a382d68258624d1fceced436ad942406031df66c16fc751a75b5096c14a",
+  "generated_at_utc": "2026-04-27T03:38:22+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}
