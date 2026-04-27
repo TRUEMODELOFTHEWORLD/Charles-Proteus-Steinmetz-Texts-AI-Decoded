@@ -1,0 +1,20 @@
+{
+  "id": "transient-fig-12-critical-condenser-charge",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-transient-electric-phenomena-oscillations/image_extraction/page_renders/pdf-page-0090-220dpi.png",
+  "source_location": "Theory and Calculation of Transient Electric Phenomena and Oscillations, Condenser Charge and Discharge, printed page 58, PDF page 90; Fig. 12",
+  "crop_box_pixels": [
+    70,
+    645,
+    1130,
+    1038
+  ],
+  "output_path": "diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-12-critical-condenser-charge.png",
+  "width": 1060,
+  "height": 393,
+  "sha256": "bf9f9a3c6770552da79befd0f20cca6d258e674acde52c4513d2fdea8ddf4893",
+  "generated_at_utc": "2026-04-27T11:33:47+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

@@ -1,0 +1,115 @@
+---
+title: Condenser Oscillation Frequency and Decrement
+description: Steinmetz's condenser-discharge frequency, critical resistance, and decrement relations.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="Condenser Charge and Discharge, printed pages 62-66, Figs. 14-15" status="scan crops promoted; formula transcription needs final review" />
+
+## Original Relations To Preserve
+
+For the oscillating condenser case, Steinmetz gives the frequency of oscillation in the form:
+
+```math
+f = \frac{1}{2\pi}\sqrt{\frac{1}{LC} - \left(\frac{r}{2L}\right)^2}
+```
+
+For negligible resistance, this reduces to:
+
+```math
+f = \frac{1}{2\pi\sqrt{LC}}
+```
+
+The critical resistance condition appears as:
+
+```math
+r_1^2 = \frac{4L}{C}
+```
+
+For the decrement of oscillation, Steinmetz relates the amplitude ratio of successive half waves to resistance:
+
+```math
+\Delta = e^{-\delta}
+```
+
+```math
+\delta = \frac{\pi}{\sqrt{\left(\frac{r_1}{r}\right)^2 - 1}}
+```
+
+## Source Figures
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-14-oscillating-condenser-charge-low-resistance.png" alt="Original scan crop of Steinmetz Fig. 14 oscillating condenser charge" />
+    <div><strong>Fig. 14</strong><p>Oscillating condenser charge with decaying current and potential waves.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-15-decrement-of-oscillation.png" alt="Original scan crop of Steinmetz Fig. 15 decrement of oscillation" />
+    <div><strong>Fig. 15</strong><p>Decrement as a function of actual resistance divided by critical resistance.</p></div>
+  </div>
+</div>
+
+## Variables
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Steinmetz Context</th>
+      <th>Modern Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>r</code></td>
+      <td>Resistance of the circuit.</td>
+      <td>Series resistance.</td>
+    </tr>
+    <tr>
+      <td><code>L</code></td>
+      <td>Inductance.</td>
+      <td>Inductance.</td>
+    </tr>
+    <tr>
+      <td><code>C</code></td>
+      <td>Capacity of the condenser.</td>
+      <td>Capacitance.</td>
+    </tr>
+    <tr>
+      <td><code>r_1</code></td>
+      <td>Critical resistance.</td>
+      <td>Boundary between oscillatory and non-oscillatory response.</td>
+    </tr>
+    <tr>
+      <td><code>Delta</code></td>
+      <td>Amplitude ratio of successive half waves.</td>
+      <td>Decrement or decay ratio.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Physical Meaning
+
+The frequency formula shows that resistance lowers the oscillation frequency and reaches zero at the critical boundary. The decrement formula shows how rapidly the oscillation fades once it exists.
+
+In plain language: inductance and capacity make oscillation possible, while resistance decides how much of that oscillation survives from one half wave to the next.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern readers can recognize these equations as underdamped series RLC behavior. The important historical value is that Steinmetz frames the result through condenser charge, critical resistance, and decrement rather than only through later normalized damping terminology.
+</LayeredReading>
+
+<LayeredReading label="Interpretive Reading">
+Interpretive only: the equations make energy exchange between magnetic and electrostatic storage visible. A field-language reading may emphasize that the oscillation is not a motion of particles through a passive mathematical abstraction, but a timed exchange between stored field states. That statement is interpretive, while the equations and figures are source-grounded.
+</LayeredReading>
+
+## Worked Example Frame
+
+Steinmetz's plotted examples use values such as `L = 100 mh.` and `C = 10 mf.` in the figure captions. The archive should preserve those printed units, then separately translate them into modern unit conventions after source verification.
+
+## Still To Verify
+
+- Exact exponent signs and OCR-sensitive symbols around equations 48-62.
+- Edition-specific typography for `Delta`, `delta`, and critical resistance.
+- Unit normalization for `mh.` and `mf.` in the examples.

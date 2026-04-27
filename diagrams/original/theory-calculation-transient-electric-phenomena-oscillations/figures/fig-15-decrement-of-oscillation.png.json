@@ -1,0 +1,20 @@
+{
+  "id": "transient-fig-15-decrement-of-oscillation",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-transient-electric-phenomena-oscillations/image_extraction/page_renders/pdf-page-0097-220dpi.png",
+  "source_location": "Theory and Calculation of Transient Electric Phenomena and Oscillations, Condenser Charge and Discharge, printed page 65, PDF page 97; Fig. 15",
+  "crop_box_pixels": [
+    220,
+    545,
+    1000,
+    1015
+  ],
+  "output_path": "diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-15-decrement-of-oscillation.png",
+  "width": 780,
+  "height": 470,
+  "sha256": "036da7d75a758708b44774c3303aa1859228d3ca46c9fdc13328f4c0b8cba3fe",
+  "generated_at_utc": "2026-04-27T11:22:32+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

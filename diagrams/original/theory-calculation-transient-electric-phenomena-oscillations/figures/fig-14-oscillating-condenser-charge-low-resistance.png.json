@@ -1,0 +1,20 @@
+{
+  "id": "transient-fig-14-oscillating-condenser-charge-low-resistance",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-transient-electric-phenomena-oscillations/image_extraction/page_renders/pdf-page-0094-220dpi.png",
+  "source_location": "Theory and Calculation of Transient Electric Phenomena and Oscillations, Condenser Charge and Discharge, printed page 62, PDF page 94; Fig. 14",
+  "crop_box_pixels": [
+    70,
+    445,
+    1130,
+    985
+  ],
+  "output_path": "diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-14-oscillating-condenser-charge-low-resistance.png",
+  "width": 1060,
+  "height": 540,
+  "sha256": "904e2ee2befdffadfdd288494f012c5c71f64637278f092bdbe8d92f6fdfb1ad",
+  "generated_at_utc": "2026-04-27T11:22:12+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

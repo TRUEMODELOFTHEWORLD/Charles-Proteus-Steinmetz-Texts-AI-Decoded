@@ -63,6 +63,7 @@ export default defineConfig({
               items: [
                 { label: 'Book Overview', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
                 { label: 'Transient Terms', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/transient-terms' },
+                { label: 'Condenser Charge', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge' },
                 { label: 'Standing And Traveling Waves', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves' }
               ]
             },
@@ -100,7 +101,8 @@ export default defineConfig({
             { label: 'Impedance And Reactance', slug: 'mathematics/equations/impedance-reactance' },
             { label: 'Admittance', slug: 'mathematics/equations/admittance-conductance-susceptance' },
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
-            { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' }
+            { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' },
+            { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' }
           ]
         },
         {
@@ -109,6 +111,7 @@ export default defineConfig({
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
             { label: 'Original AC Figures', slug: 'diagrams/original-alternating-current-phenomena' },
+            { label: 'Original Transient Figures', slug: 'diagrams/original-transient-electric-phenomena' },
             { label: 'Glossary', slug: 'glossary' },
             { label: 'Condensive Reactance', slug: 'glossary/condensive-reactance' },
             { label: 'Wattless Component', slug: 'glossary/wattless-component' },

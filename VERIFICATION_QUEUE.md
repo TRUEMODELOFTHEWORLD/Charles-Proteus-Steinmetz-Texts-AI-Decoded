@@ -54,6 +54,7 @@ This file turns the project charter into a practical review queue. It is meant t
     - Fig. 4 starting of AC circuit.
     - Fig. 14 condenser charging/discharge.
     - Fig. 15 decrement of oscillation.
+    - 2026-04-27 progress: Figs. 4, 11, 12, 13, 14, and 15 were found in the local scan, rendered, cropped, and promoted as scan-crop assets with manifests. They still need second-pass bibliographic and crop-coordinate review before being marked canonical.
 
 ## Priority 5: Tesla-Era Comparison Anchors
 

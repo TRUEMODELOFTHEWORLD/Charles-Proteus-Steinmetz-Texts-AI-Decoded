@@ -1,0 +1,20 @@
+{
+  "id": "transient-fig-11-logarithmic-condenser-charge",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-transient-electric-phenomena-oscillations/image_extraction/page_renders/pdf-page-0084-220dpi.png",
+  "source_location": "Theory and Calculation of Transient Electric Phenomena and Oscillations, Condenser Charge and Discharge, printed page 52, PDF page 84; Fig. 11",
+  "crop_box_pixels": [
+    70,
+    560,
+    1130,
+    1050
+  ],
+  "output_path": "diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-11-logarithmic-condenser-charge.png",
+  "width": 1060,
+  "height": 490,
+  "sha256": "a642ac44b00cea4dbb898694e54d7c8b88559f2bf43e253df900f577ce61b0cc",
+  "generated_at_utc": "2026-04-27T11:21:48+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

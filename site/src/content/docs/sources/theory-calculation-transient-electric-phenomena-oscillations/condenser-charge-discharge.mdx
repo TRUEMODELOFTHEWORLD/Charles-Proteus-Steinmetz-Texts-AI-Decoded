@@ -1,0 +1,86 @@
+---
+title: "Transient Phenomena: Condenser Charge and Discharge"
+description: Source-grounded reading of Steinmetz's condenser charge, critical case, oscillation, and decrement figures.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="Introduction, printed page 21; Condenser Charge and Discharge, printed pages 52-66" status="scan crops promoted; formula transcription needs final review" />
+
+## Why This Section Matters
+
+Steinmetz's condenser charge and discharge treatment is one of the clearest bridges between textbook RLC transients and the older electrical language of capacity, inductance, oscillation, and decrement.
+
+The figures show the same physical system moving through distinct regimes:
+
+- logarithmic or non-oscillatory charge,
+- critical charge,
+- oscillating charge with decaying amplitude,
+- decrement as a function of resistance compared with critical resistance.
+
+This is not just a circuit exercise. It is the archive's first source-grounded visual path into how stored magnetic and electrostatic energy exchange, overshoot, decay, and settle.
+
+## Source Figures
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-11-logarithmic-condenser-charge.png" alt="Original scan crop of Steinmetz Fig. 11 logarithmic condenser charge" />
+    <div><strong>Fig. 11</strong><p>Logarithmic condenser charge at high resistance.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-12-critical-condenser-charge.png" alt="Original scan crop of Steinmetz Fig. 12 critical condenser charge" />
+    <div><strong>Fig. 12</strong><p>Critical charge, the boundary between non-oscillating and oscillating response.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-14-oscillating-condenser-charge-low-resistance.png" alt="Original scan crop of Steinmetz Fig. 14 oscillating condenser charge" />
+    <div><strong>Fig. 14</strong><p>Oscillating condenser charge with successive waves decreasing in amplitude.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-15-decrement-of-oscillation.png" alt="Original scan crop of Steinmetz Fig. 15 decrement of oscillation" />
+    <div><strong>Fig. 15</strong><p>Decrement of oscillation plotted against resistance ratio.</p></div>
+  </div>
+</div>
+
+## Mathematical Spine
+
+Steinmetz distinguishes the three cases by the relation between resistance, inductance, and capacity:
+
+```math
+r^2 > \frac{4L}{C}
+```
+
+```math
+r^2 = \frac{4L}{C}
+```
+
+```math
+r^2 < \frac{4L}{C}
+```
+
+In modern language these correspond to non-oscillatory, critical, and oscillatory cases of an RLC transient. The page retains Steinmetz's historical `capacity` and `condenser` language while translating cautiously into modern capacitance language.
+
+## Modern Electrical Engineering Interpretation
+
+This section maps naturally to series RLC transient response:
+
+- `r` is circuit resistance.
+- `L` is inductance.
+- `C` is electrostatic capacity, modern capacitance.
+- A high resistance damps oscillation.
+- A low resistance allows current and condenser voltage to exchange energy in decaying waves.
+- Critical resistance marks the boundary between oscillating and non-oscillating behavior.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a field-centered reading can describe the condenser and inductance as two storage modes exchanging energy, one electrostatic and one magnetic. Steinmetz's engineering analysis supports the storage-and-return structure, but any later ether-field ontology remains interpretation unless directly stated by the source.
+</LayeredReading>
+
+## Hidden Gem
+
+The source makes the role of resistance visually unavoidable. Resistance is not merely a scalar nuisance in a formula; it decides whether the stored energy exchange dies smoothly, reaches the critical boundary, or overshoots and oscillates.
+
+## Still To Verify
+
+- Exact formula transcription from printed pages 52-66.
+- Whether this edition's `mh.` and `mf.` examples should be normalized in captions or preserved as printed.
+- Relationship between these condenser-discharge cases and Steinmetz's later surge and transmission-line oscillation chapters.

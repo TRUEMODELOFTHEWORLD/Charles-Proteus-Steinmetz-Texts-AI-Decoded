@@ -24,7 +24,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Seeded Steinmetz records | Seven source records in `sources/source_catalog.json`. |
 | First canonical source | `Radiation, Light and Illumination` by Charles Proteus Steinmetz. |
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
-| Original scan crops | Nine promoted crops: five from `Radiation, Light and Illumination` and four from `Alternating Current Phenomena`, with manifests and checksums. |
+| Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Research indexes | Generated JSON indexes for sources, concepts, equations, figures, glossary terms, and quotes under `processed/`. |
 | Verification control | `VERIFICATION_QUEUE.md` tracks the next scan-check and promotion work. |
 
@@ -55,7 +55,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | --- | --- | --- |
 | 1. Every major concept Steinmetz explains | Started | Expand source-by-source concept index and promote pages only after source locations are recorded. |
 | 2. Every important equation and derivation | Started | Promote the first 12 canonical equations from RLI, AC, and transients. |
-| 3. Every diagram, figure, circuit, waveform, and geometric representation | Started | Complete second-pass review of AC Chapter V crops and extract transient figures listed in `VERIFICATION_QUEUE.md`. |
+| 3. Every diagram, figure, circuit, waveform, and geometric representation | Started | Complete second-pass review of AC and transient crops, then continue extracting line, surge, hysteresis, and apparatus figures. |
 | 4. Every important definition of electrical terms | Started | Add exact Steinmetz wording to concept and glossary pages. |
 | 5. Every unusual, obsolete, or nonmodern scientific term | Started | Promote `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`. |
 | 6. Statements on ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, AC, complex quantities, symbolic methods, and waves | Started | Build one indexed evidence file per theme with page references. |
@@ -160,7 +160,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M2. RLI scan-verified anchor | Verify spectrum table, Figs. 14, 15, 18, 19, and page references. | RLI first-source pages can be marked reviewed where applicable. |
 | M3. AC symbolic canon | Verify `j`, rectangular components, `Z = r + jx`, reactance, admittance, and power factor. | AC symbolic method section becomes a scan-grounded anchor for the site. First Chapter V crops are promoted. |
 | M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation and diagram pages. |
-| M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Diagram archive becomes visually substantial and source-grounded. |
+| M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Glossary becomes a genuine research aid, not a stub list. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | More material can be processed repeatably with less manual cleanup. |
 | M8. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
@@ -197,7 +197,7 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 1. Finish public tracker wiring and add one more interactive tool.
 2. Verify RLI page anchors and promote the first reviewed source claims.
 3. Complete second-pass review of original AC Chapter V figure crops and add cleaned/vector redraws.
-4. Extract original transient figures for starting current, condenser discharge, and decrement.
+4. Complete second-pass review of original transient figure crops and add cleaned/vector redraws.
 5. Promote the first 12 canonical equation pages with original notation and modern translation.
 6. Expand glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`.
 7. Add `annotations.json` and `crosslinks.json` generation.

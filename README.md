@@ -151,7 +151,7 @@ The archive now includes:
 - Seven source records in `sources/source_catalog.json`.
 - Cross-source JSON indexes under `processed/`.
 - A generated source-processing dashboard.
-- Nine original scan-derived crops: five from _Radiation, Light and Illumination_ and four from _Alternating Current Phenomena_, with crop manifests and checksums.
+- Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
 - A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and historical glossary terms.
 - A practical verification queue in `VERIFICATION_QUEUE.md`.
@@ -173,3 +173,4 @@ The public site currently builds more than fifty pages, including:
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
 - Interactive tools for frequency/wavelength, impedance/reactance, and power factor.
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures.
+- Original scan-crop page for transient starting current, condenser charge, oscillation, and decrement figures.

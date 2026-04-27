@@ -1,0 +1,20 @@
+{
+  "id": "transient-fig-13-oscillating-condenser-charge",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-transient-electric-phenomena-oscillations/image_extraction/page_renders/pdf-page-0093-220dpi.png",
+  "source_location": "Theory and Calculation of Transient Electric Phenomena and Oscillations, Condenser Charge and Discharge, printed page 61, PDF page 93; Fig. 13",
+  "crop_box_pixels": [
+    70,
+    775,
+    1130,
+    1300
+  ],
+  "output_path": "diagrams/original/theory-calculation-transient-electric-phenomena-oscillations/figures/fig-13-oscillating-condenser-charge.png",
+  "width": 1060,
+  "height": 525,
+  "sha256": "aa9eb28fdc63526d907b27d0779bcc54ab58b4d3290d57ec2d2c0897b1c48ba3",
+  "generated_at_utc": "2026-04-27T11:33:47+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}
