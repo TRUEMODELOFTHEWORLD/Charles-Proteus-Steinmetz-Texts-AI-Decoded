@@ -217,6 +217,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `b7c70a7` | Added hysteresis loss explorer and Steinmetz-law candidate page. |
 | `131b7b9` | Added AC waveform harmonics explorer and wave-shape concept page. |
 | `b3f8d41` | Added lightning surge traveling-wave explorer and surge concept page. |
+| `6330cc6` | Added expanded Steinmetz bibliography intake, seeded patent register, and future codex architecture page. |
 
 ## Next Work Queue
 
