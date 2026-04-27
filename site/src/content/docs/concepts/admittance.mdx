@@ -1,0 +1,53 @@
+---
+title: Admittance
+description: Steinmetz's reciprocal AC quantity for parallel circuit calculation.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter VIII, OCR chapter-08 lines 48-127" status="candidate OCR; scan verification needed" />
+
+## Steinmetz Usage
+
+Admittance is introduced as the reciprocal form of impedance, useful especially when currents divide through parallel paths. The OCR candidate gives admittance as a complex quantity with conductance and susceptance components.
+
+```math
+Y = g - jb
+```
+
+Conductance is the active or power component. Susceptance is the reactive or wattless component.
+
+## Modern Equivalent
+
+Modern texts often write:
+
+```math
+Y = G + jB
+```
+
+The sign convention differs by author and context. The archive should preserve Steinmetz's notation and then translate it explicitly.
+
+## Mathematical Meaning
+
+```math
+Y = \frac{1}{Z}
+```
+
+If:
+
+```math
+Z = r + jx
+```
+
+then admittance depends on both `r` and `x`. Conductance is not generally just `1/r`, and susceptance is not generally just `1/x`.
+
+<LayeredReading label="Why It Matters" open>
+Admittance is one of the places where old AC language can save readers from a common simplification. The reciprocal of a complex quantity is not the same as taking reciprocals of its parts.
+</LayeredReading>
+
+## Related Pages
+
+- [AC Source: Admittance, Conductance, Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/admittance-conductance-susceptance/)
+- [Admittance Equation](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/admittance-conductance-susceptance/)
+- [Impedance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/)

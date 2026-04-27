@@ -1,0 +1,55 @@
+---
+title: "Transient Phenomena: Transient Terms"
+description: Steinmetz's source layer for permanent terms, transient terms, and stored energy.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="OCR chapter-24 lines 471-660" status="candidate OCR; scan verification needed" />
+
+## Source Meaning
+
+The transient book gives the archive one of its most important conceptual distinctions: a full electrical solution includes a permanent term and a transient term. The permanent term describes the final or repeating condition. The transient term connects the initial condition to that final condition and disappears according to the circuit constants.
+
+The OCR candidate connects transient severity to stored energy. Resistance alone does not create the transient term; energy-storing constants do.
+
+## Physical Mechanism
+
+Steinmetz's source layer points to two forms of stored energy:
+
+- Magnetic storage in inductance.
+- Electrostatic storage in capacity.
+
+When circuit conditions change, those stored energies cannot instantly assume their new values. The circuit therefore passes through a temporary readjustment.
+
+## Gradual Versus Oscillatory
+
+The OCR candidate distinguishes two broad behaviors:
+
+- A gradual or logarithmic approach when one energy-storing constant dominates.
+- An oscillatory approach when inductance and capacity allow energy to surge back and forth.
+
+This is a powerful bridge from elementary switching transients to oscillation, surge behavior, and high-frequency phenomena.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern readers can translate this into natural response plus forced response. In linear circuits, the natural response is governed by the circuit's differential equation and initial energy storage. In RLC circuits, the response may be overdamped, critically damped, or underdamped.
+</LayeredReading>
+
+<LayeredReading label="Tesla-Era Comparison">
+This is the page that should eventually support careful Tesla-era comparison. Spark gaps, condenser discharge, oscillating currents, high-frequency generation, and wireless telegraphy appear as technical neighbors, but each comparison must remain source-specific.
+</LayeredReading>
+
+## High-Value Source Claims To Verify
+
+- Transients appear when circuit conditions change.
+- Capacity and inductance are the important stored-energy constants.
+- Oscillation requires two energy-storing constants.
+- Lightning and high-potential surges are treated as transient phenomena of oscillating character.
+- Periodic transient terms are connected to high-frequency current generation.
+
+## Links
+
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)
+- [Oscillation And Damping](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/)
+- [Transient Term Equation](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/transient-term/)

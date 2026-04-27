@@ -1,0 +1,68 @@
+---
+title: Permanent Term And Transient Term
+description: Equation page for Steinmetz's permanent and transient solution structure.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="OCR chapter-24 lines 497-548" status="candidate OCR; scan verification needed" />
+
+## Source Structure
+
+The OCR candidate states the structural idea: the general solution includes a permanent term and a transient term.
+
+In modern form:
+
+```math
+x(t) = x_{\text{permanent}}(t) + x_{\text{transient}}(t)
+```
+
+For a simple first-order decay:
+
+```math
+x_{\text{transient}}(t) = A e^{-t/\tau}
+```
+
+## Variables
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>x(t)</code></td>
+      <td>Total voltage, current, charge, or other electrical quantity.</td>
+    </tr>
+    <tr>
+      <td><code>x_permanent</code></td>
+      <td>Final steady or periodic term.</td>
+    </tr>
+    <tr>
+      <td><code>x_transient</code></td>
+      <td>Temporary term required by initial stored energy and circuit change.</td>
+    </tr>
+    <tr>
+      <td><code>tau</code></td>
+      <td>Time constant in a first-order case.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Physical Meaning
+
+The transient term exists because energy storage cannot change instantly. Inductance resists instantaneous current change. Capacity resists instantaneous voltage change. The circuit must move from one energy state to another.
+
+<LayeredReading label="Steinmetz To Modern Translation" open>
+Steinmetz's "permanent term" maps naturally to forced or steady-state response. His "transient term" maps to natural response. The exact mapping depends on the circuit and source.
+</LayeredReading>
+
+## Research Tasks
+
+- Scan-check the chapter around Fig. 4.
+- Add examples for RL, RC, and RLC circuits.
+- Link to lightning, surge, and high-frequency current generation passages.

@@ -1,0 +1,49 @@
+---
+title: Reactance
+description: The wattless, quadrature opposition in Steinmetz's AC theory.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapters I, IV, V, VIII, IX; OCR candidates" status="needs scan verification" />
+
+## Steinmetz Usage
+
+Reactance is the component of AC opposition that stands in quadrature with current. The OCR candidate repeatedly distinguishes it from resistance: resistance consumes power, while reactance corresponds to a voltage component displaced by 90 degrees.
+
+Steinmetz treats inductive reactance and "condensive reactance" as opposite in sign.
+
+## Modern Equivalent
+
+```math
+X_L = 2\pi fL
+```
+
+```math
+X_C = \frac{1}{2\pi fC}
+```
+
+```math
+X = X_L - X_C
+```
+
+The sign convention must be checked against the edition before canonical wording is finalized.
+
+## Plain-English Explanation
+
+Reactance is opposition caused by fields storing and returning energy. Inductance stores energy magnetically. Capacity stores energy electrostatically. In AC, this stored energy shifts voltage and current out of phase.
+
+## Why It Matters
+
+Reactance is the hinge connecting circuit algebra to field energy. It is also the bridge to resonance, phase control, transformers, transmission lines, and transient oscillations.
+
+<LayeredReading label="Modern Engineering Warning" open>
+Reactance is measured in ohms, but it is not resistance. Treating it as merely another kind of friction erases the field-storage meaning that Steinmetz's older vocabulary keeps visible.
+</LayeredReading>
+
+## Related Pages
+
+- [Impedance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/)
+- [Inductance And Capacity](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/inductance-capacity/)
+- [Power Factor](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/)

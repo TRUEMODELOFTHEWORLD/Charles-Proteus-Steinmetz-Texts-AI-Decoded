@@ -1,0 +1,95 @@
+---
+title: "AC Phenomena: Symbolic Method"
+description: Source-grounded decoding of Steinmetz's symbolic method chapter.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter V, OCR chapter-05 lines 1-428" status="candidate OCR; scan verification needed" />
+
+## Why This Chapter Matters
+
+Chapter V is one of the most important mathematical chapters in the whole archive. Steinmetz begins with vector diagrams and then asks for a method that keeps their clarity while giving exact numerical calculation. That is the bridge from hand-drawn phasor geometry to complex-number AC engineering.
+
+The OCR candidate shows a clear sequence:
+
+1. Alternating sine waves are represented by vectors.
+2. Vectors are resolved into rectangular components.
+3. Components are combined by addition and subtraction.
+4. A distinguishing symbol `j` is introduced for the quadrature component.
+5. Multiplication by `j` is interpreted as a 90 degree rotation.
+6. The sine wave becomes a complex quantity.
+7. Circuit laws are re-expressed in complex form.
+
+## Mathematical Spine
+
+Steinmetz's symbolic representation is preserved here in modern typography:
+
+```math
+I = a + jb
+```
+
+```math
+i = \sqrt{a^2 + b^2}
+```
+
+```math
+\tan \theta = \frac{b}{a}
+```
+
+The critical conceptual step is not merely that `j^2 = -1`. It is that `j` carries the phase operation: multiplication by `j` rotates the wave by one quarter period.
+
+## From Wave To Circuit
+
+Once a current wave is written as a complex quantity, Steinmetz can write the voltage consumed by resistance and reactance in one expression:
+
+```math
+Z = r + jx
+```
+
+```math
+E = ZI
+```
+
+This is the canonical gateway to modern phasor analysis, but the historical page should not flatten the meaning. Resistance is the in-phase, power-consuming part. Reactance is the quadrature part associated with stored and returned energy.
+
+## Diagrammatic Reading
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/phasor-symbolic-method.svg" alt="Recreated symbolic method phasor guide" />
+    <div>
+      <strong>Vector to symbolic form</strong>
+      <p>The recreated guide shows how rectangular components become a complex expression.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/impedance-reactance-triangle.svg" alt="Recreated impedance and reactance triangle guide" />
+    <div>
+      <strong>Impedance geometry</strong>
+      <p>Resistance and reactance become the rectangular components of impedance.</p>
+    </div>
+  </div>
+</div>
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+This chapter becomes modern phasor analysis. The present-day notation is familiar, but Steinmetz's route is pedagogically valuable because it starts from waves, phase, and geometry before compressing the result into algebra.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: field-centered readers may treat the quadrature component as preserving a difference between dissipative action and field storage. That is an interpretive reading of the mathematics, not a proof that Steinmetz endorsed a later ether theory.
+</LayeredReading>
+
+## Links To Build
+
+- [Symbolic Method](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/)
+- [Impedance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/)
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Impedance and Reactance Equation](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/impedance-reactance/)
+
+## Verification Tasks
+
+- Check the OCR around `a + jb`, `j^2 = -1`, and `Z = r + jx` against the scan.
+- Extract original Figs. 21-24 from this chapter.
+- Align the Internet Archive edition page numbers with chapter-line references.

@@ -1,0 +1,45 @@
+---
+title: Power Factor
+description: Phase, real power, and wattless components in Steinmetz's AC language.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="AC source corpus; exact passages pending scan triage" status="needs verification" />
+
+## Conceptual Role
+
+Power factor measures how much of an AC voltage-current relation produces real power rather than wattless exchange. It belongs beside impedance, reactance, admittance, conductance, and susceptance.
+
+## Modern Equivalent
+
+```math
+\text{power factor} = \cos \phi
+```
+
+where `phi` is the phase angle between voltage and current.
+
+```math
+P = VI\cos\phi
+```
+
+## Steinmetz Reading
+
+Steinmetz's AC language repeatedly distinguishes active or power components from wattless or reactive components. Power factor is the practical operating measure of that distinction.
+
+The source work still needed here is exact: find the passages where Steinmetz uses "power factor," "wattless," and component language, then anchor them to scan-checked citations.
+
+## Why It Matters
+
+Power factor is where symbolic geometry becomes system economics. Low power factor can mean high current for the same useful power, larger conductors, larger losses, and more demanding apparatus ratings.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a field-centered reading may describe wattless current as energy moving into and out of field storage rather than being consumed. This is compatible with modern reactive power language, but any broader ether interpretation must remain labeled.
+</LayeredReading>
+
+## Research Tasks
+
+- Extract Steinmetz's exact power-factor wording from the AC source.
+- Link power factor to wattless current, reactance, admittance, and transformer excitation.
+- Add a worked numerical example.

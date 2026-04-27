@@ -1,0 +1,55 @@
+---
+title: "Transient Phenomena: Standing And Traveling Waves"
+description: Steinmetz's line-wave layer for distributed circuits, standing waves, and traveling waves.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="OCR chapters 15-18 and 24; candidate map" status="needs scan verification" />
+
+## Why This Layer Matters
+
+The transient book is not only about time-domain switching. It also treats cases where distance becomes the independent variable: long transmission lines, distributed constants, standing waves, traveling waves, and line oscillations.
+
+This is central to the archive because it connects ordinary circuit theory to field propagation.
+
+## Lumped Versus Distributed Thinking
+
+In a lumped circuit, resistance, inductance, and capacity are treated as if they are concentrated at points. In a distributed circuit, those constants are spread along a line or conductor. A change at one place cannot instantly appear everywhere. It travels.
+
+That shift is the conceptual gateway from circuit diagrams to wave behavior.
+
+## Standing And Traveling Waves
+
+The OCR candidate map shows chapters on:
+
+- Traveling wave equations.
+- Stationary or standing waves.
+- Free oscillations.
+- Quarter-wave and half-wave oscillations.
+- Decrement and damping.
+- Distributed capacity of transformer coils and high-potential apparatus.
+
+## Modern Electrical Engineering Interpretation
+
+Modern readers should connect this material to transmission-line theory:
+
+```math
+v = \frac{1}{\sqrt{LC}}
+```
+
+for an idealized lossless line with per-unit-length inductance `L` and capacitance `C`.
+
+Steinmetz's importance here is historical and conceptual: he makes the transition from circuit constants to wave motion visible as an engineering problem.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: field-centered readers may treat distributed line behavior as a particularly concrete case where energy is not merely in a wire but in the electromagnetic field around and between conductors. That reading should be compared with Steinmetz's exact wording before being promoted.
+</LayeredReading>
+
+## Verification Tasks
+
+- Repair structural parsing for the later transient chapters.
+- Extract transmission-line and standing-wave figures from the scan.
+- Build canonical pages for quarter-wave, half-wave, and full-wave line oscillation.
+- Compare this source with the radiation spectrum page where low-frequency AC fields are placed on a wavelength scale.

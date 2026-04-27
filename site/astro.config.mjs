@@ -23,6 +23,7 @@ export default defineConfig({
         {
           label: 'Start Here',
           items: [
+            { label: 'Publication Roadmap', slug: 'roadmap' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' }
           ]
@@ -40,9 +41,30 @@ export default defineConfig({
               ]
             },
             { label: 'Elementary Lectures', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
-            { label: 'Engineering Mathematics', slug: 'sources/engineering-mathematics' },
-            { label: 'Alternating Current Phenomena', slug: 'sources/theory-calculation-alternating-current-phenomena' },
-            { label: 'Transient Electric Phenomena', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
+            {
+              label: 'Engineering Mathematics',
+              items: [
+                { label: 'Book Overview', slug: 'sources/engineering-mathematics' },
+                { label: 'General Number', slug: 'sources/engineering-mathematics/general-number' }
+              ]
+            },
+            {
+              label: 'Alternating Current Phenomena',
+              items: [
+                { label: 'Book Overview', slug: 'sources/theory-calculation-alternating-current-phenomena' },
+                { label: 'Symbolic Method', slug: 'sources/theory-calculation-alternating-current-phenomena/symbolic-method' },
+                { label: 'Impedance And Reactance', slug: 'sources/theory-calculation-alternating-current-phenomena/impedance-reactance' },
+                { label: 'Admittance', slug: 'sources/theory-calculation-alternating-current-phenomena/admittance-conductance-susceptance' }
+              ]
+            },
+            {
+              label: 'Transient Electric Phenomena',
+              items: [
+                { label: 'Book Overview', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
+                { label: 'Transient Terms', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/transient-terms' },
+                { label: 'Standing And Traveling Waves', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves' }
+              ]
+            },
             { label: 'Theoretical Elements', slug: 'sources/theoretical-elements-electrical-engineering' },
             { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
           ]
@@ -57,14 +79,25 @@ export default defineConfig({
             { label: 'Illumination', slug: 'concepts/illumination' },
             { label: 'Transient Phenomena', slug: 'concepts/transient-phenomena' },
             { label: 'Symbolic Method', slug: 'concepts/symbolic-method' },
-            { label: 'Hysteresis', slug: 'concepts/hysteresis' }
+            { label: 'Hysteresis', slug: 'concepts/hysteresis' },
+            { label: 'Impedance', slug: 'concepts/impedance' },
+            { label: 'Reactance', slug: 'concepts/reactance' },
+            { label: 'Admittance', slug: 'concepts/admittance' },
+            { label: 'Power Factor', slug: 'concepts/power-factor' },
+            { label: 'Distributed Constants', slug: 'concepts/distributed-constants' },
+            { label: 'Oscillation And Damping', slug: 'concepts/oscillation-damping' },
+            { label: 'Inductance And Capacity', slug: 'concepts/inductance-capacity' }
           ]
         },
         {
           label: 'Mathematics',
           items: [
             { label: 'Equation Catalog', slug: 'mathematics' },
-            { label: 'Velocity, Frequency, Wavelength', slug: 'mathematics/equations/velocity-frequency-wavelength' }
+            { label: 'Velocity, Frequency, Wavelength', slug: 'mathematics/equations/velocity-frequency-wavelength' },
+            { label: 'Impedance And Reactance', slug: 'mathematics/equations/impedance-reactance' },
+            { label: 'Admittance', slug: 'mathematics/equations/admittance-conductance-susceptance' },
+            { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
+            { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' }
           ]
         },
         {
@@ -73,6 +106,8 @@ export default defineConfig({
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
             { label: 'Glossary', slug: 'glossary' },
+            { label: 'Condensive Reactance', slug: 'glossary/condensive-reactance' },
+            { label: 'Wattless Component', slug: 'glossary/wattless-component' },
             { label: 'Hidden Gems', slug: 'hidden-gems' },
             { label: 'Research Questions', slug: 'research-questions' }
           ]
@@ -82,7 +117,9 @@ export default defineConfig({
           items: [
             { label: 'Comparison Index', slug: 'comparisons' },
             { label: 'Steinmetz vs Modern EE', slug: 'comparisons/steinmetz-vs-modern-radiation' },
+            { label: 'Modern AC Method', slug: 'comparisons/steinmetz-vs-modern-ac-symbolic-method' },
             { label: 'Tesla-Era Science', slug: 'comparisons/tesla-era-electrical-science' },
+            { label: 'Tesla-Era Transients', slug: 'comparisons/transients-tesla-era-high-frequency' },
             { label: 'Ether-Field Reading Guide', slug: 'comparisons/ether-field-reading-guide' }
           ]
         },

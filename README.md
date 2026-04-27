@@ -153,3 +153,15 @@ The archive now includes:
 - A generated source-processing dashboard.
 - Five original scan-derived crops from _Radiation, Light and Illumination_ with crop manifests and checksums.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
+- A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and historical glossary terms.
+- A practical verification queue in `VERIFICATION_QUEUE.md`.
+
+## Current Live-Ready Site Surface
+
+The public site currently builds more than fifty pages, including:
+
+- Source overviews for the seeded Steinmetz corpus.
+- Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
+- Concept pages for radiation, electric waves, ether, illumination, transients, symbolic method, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, and inductance/capacity.
+- Equation pages for wavelength/frequency, impedance/reactance, admittance, transient terms, and RLC oscillation.
+- Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.

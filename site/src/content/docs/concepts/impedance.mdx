@@ -1,0 +1,56 @@
+---
+title: Impedance
+description: Steinmetz's AC opposition combining resistance and reactance.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapters I, V, VIII; OCR candidates" status="needs scan verification" />
+
+## Steinmetz Usage
+
+Impedance is the alternating-current opposition that combines resistance and reactance. In the symbolic method, Steinmetz represents it as a complex quantity:
+
+```math
+Z = r + jx
+```
+
+The OCR candidate in Chapter V places this directly after the discussion of current as a complex wave and the voltage required to overcome resistance and reactance.
+
+## Modern Equivalent
+
+Modern notation usually writes:
+
+```math
+Z = R + jX
+```
+
+where `R` is resistance, `X` is total reactance, and `|Z|` is impedance magnitude.
+
+```math
+|Z| = \sqrt{R^2 + X^2}
+```
+
+## Physical Meaning
+
+Resistance is the power-consuming part. Reactance is the field-storage part. Impedance is the total relation between alternating voltage and alternating current when both effects are present.
+
+## Mathematical Layer
+
+```math
+E = ZI
+```
+
+This is Ohm's law restored for AC, but only after voltage, current, and opposition are treated as complex quantities with phase.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: impedance can be read as the circuit-level expression of both dissipative opposition and field-storage opposition. Field-centered readers may emphasize the latter, but the source claim remains an engineering relation between voltage, current, resistance, and reactance.
+</LayeredReading>
+
+## Related Pages
+
+- [AC Source: Impedance And Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/impedance-reactance/)
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Impedance Equation](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/impedance-reactance/)

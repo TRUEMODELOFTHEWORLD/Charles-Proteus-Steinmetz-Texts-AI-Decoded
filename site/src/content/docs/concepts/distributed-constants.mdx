@@ -1,0 +1,45 @@
+---
+title: Distributed Constants
+description: Steinmetz's bridge from lumped circuits to transmission-line wave behavior.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations; Theory and Calculation of Alternating Current Phenomena" location="Transient source chapters 15-18, AC source chapter XV; OCR candidates" status="needs scan verification" />
+
+## Meaning
+
+Distributed constants are resistance, inductance, capacity, and leakage spread along a conductor, line, cable, or winding instead of concentrated at one point. Once constants are distributed, the circuit can behave as a wave system.
+
+## Modern Equivalent
+
+Modern transmission-line notation often uses per-unit-length constants:
+
+```math
+R,\quad L,\quad G,\quad C
+```
+
+For an ideal lossless line:
+
+```math
+v = \frac{1}{\sqrt{LC}}
+```
+
+## Why Steinmetz Matters Here
+
+Steinmetz's transient work forces the reader to stop treating every electrical system as an instantaneous lumped circuit. Long lines, high-potential apparatus, transformer coils, cables, and conductors can require a field-propagation view.
+
+<LayeredReading label="Modern Engineering Interpretation" open>
+This becomes modern transmission-line theory, surge propagation, reflection, standing waves, and insulation coordination.
+</LayeredReading>
+
+<LayeredReading label="Tesla-Era Comparison">
+Tesla-era high-frequency and impulse experiments often live in the same territory: distributed capacity, inductance, resonance, discharge, and wave propagation. The comparison must be technical, not mythic.
+</LayeredReading>
+
+## Related Pages
+
+- [Standing And Traveling Waves](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves/)
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)
+- [Electric Waves](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/)

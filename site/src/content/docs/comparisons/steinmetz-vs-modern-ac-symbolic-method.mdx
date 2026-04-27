@@ -1,0 +1,55 @@
+---
+title: Steinmetz Vs Modern AC Method
+description: How Steinmetz's symbolic method maps to modern phasor analysis without losing physical meaning.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Engineering Mathematics" location="Symbolic method and general-number source layers" status="candidate synthesis" />
+
+## Comparison Frame
+
+This page compares a historical method with its modern descendant. It does not claim that modern textbooks are wrong. It asks what modern shorthand tends to hide.
+
+## Steinmetz Layer
+
+Steinmetz builds the symbolic method from vector representation of sine waves. The imaginary unit is introduced as a quadrature marker and rotation operator before it becomes the familiar algebraic object.
+
+## Modern EE Layer
+
+Modern AC analysis usually begins with phasors:
+
+```math
+\tilde{V} = \tilde{I}Z
+```
+
+```math
+Z = R + jX
+```
+
+This is efficient and powerful, but it can feel detached from the wave and field process if taught without the geometric bridge.
+
+## What Is Equivalent
+
+- Steinmetz's symbolic quantities map to modern complex phasors.
+- His impedance maps to modern complex impedance.
+- His admittance maps to modern complex admittance.
+- His quadrature components map to reactive components.
+
+## What Can Be Lost
+
+- The physical distinction between power loss and field storage.
+- The geometric origin of complex addition.
+- The reason `j` means quarter-period rotation in AC work.
+- The connection between symbolic circuit calculation and actual alternating waves.
+
+<LayeredReading label="Interpretive Reading">
+Interpretive only: field-centered readers may find Steinmetz's older path more concrete because it keeps waves, geometry, and energy storage in view. That usefulness does not by itself prove a nonmodern ontology.
+</LayeredReading>
+
+## Research Tasks
+
+- Scan-verify the symbolic method chapter.
+- Compare several modern textbook introductions to phasors.
+- Build a side-by-side notation table.

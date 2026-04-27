@@ -1,0 +1,44 @@
+---
+title: Oscillation And Damping
+description: Energy exchange, decrement, and decay in Steinmetz's transient theory.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Transient Electric Phenomena and Oscillations" location="OCR chapter-27 lines 987-1238" status="candidate OCR; scan verification needed" />
+
+## Steinmetz Usage
+
+In the transient book, oscillation appears when a circuit has at least two energy-storing constants. Inductance and capacity allow energy to pass back and forth. Resistance damps the motion and dissipates energy.
+
+The OCR candidate around condenser charge and discharge discusses oscillating waves, frequency of oscillation, critical resistance, and decrement.
+
+## Modern Equivalent
+
+For an ideal LC circuit:
+
+```math
+f_0 = \frac{1}{2\pi\sqrt{LC}}
+```
+
+With resistance included, the response may be underdamped, critically damped, or overdamped.
+
+## Physical Meaning
+
+Oscillation is not merely a waveform shape. It is an energy process:
+
+- Magnetic energy in inductance.
+- Electric energy in capacity.
+- Dissipation in resistance.
+- Repeated exchange until damping reduces the motion.
+
+<LayeredReading label="Hidden Gem" open>
+This concept is a central bridge between Steinmetz, Tesla-era high-frequency work, lightning/surge behavior, and modern RLC theory. It explains why transient analysis often reveals stresses that steady-state analysis hides.
+</LayeredReading>
+
+## Related Pages
+
+- [Transient Terms](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/transient-terms/)
+- [RLC Oscillation Equation](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/rlc-oscillation/)
+- [Distributed Constants](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/)

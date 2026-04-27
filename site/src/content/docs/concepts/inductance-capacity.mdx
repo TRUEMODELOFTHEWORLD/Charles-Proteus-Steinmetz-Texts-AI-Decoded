@@ -1,0 +1,47 @@
+---
+title: Inductance And Capacity
+description: Magnetic and electrostatic energy storage in Steinmetz's circuit language.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Theory and Calculation of Transient Electric Phenomena and Oscillations" location="AC and transient OCR candidate corpus" status="needs verification" />
+
+## Conceptual Role
+
+Inductance and capacity are the two major circuit constants of field storage. In Steinmetz's AC and transient language, they are not merely component labels. They are the reason reactance, phase shift, resonance, and transient oscillation exist.
+
+## Modern Equivalent
+
+Inductance:
+
+```math
+X_L = 2\pi fL
+```
+
+Capacity:
+
+```math
+X_C = \frac{1}{2\pi fC}
+```
+
+Transient oscillation:
+
+```math
+f_0 = \frac{1}{2\pi\sqrt{LC}}
+```
+
+## Physical Meaning
+
+Inductance stores energy magnetically. Capacity stores energy electrostatically. A circuit with one storage form can approach a new condition gradually. A circuit with both can oscillate as energy moves from one storage form to the other.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: this is one of the strongest bridges to field-centered interpretation because the mathematics already distinguishes magnetic and electrostatic storage. The archive must still separate Steinmetz's engineering statements from later dielectric/magnetic ontology.
+</LayeredReading>
+
+## Related Pages
+
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)
+- [Oscillation And Damping](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/)
