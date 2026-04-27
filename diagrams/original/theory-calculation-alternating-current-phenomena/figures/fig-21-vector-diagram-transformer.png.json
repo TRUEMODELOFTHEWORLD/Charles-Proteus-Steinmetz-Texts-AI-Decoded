@@ -1,0 +1,20 @@
+{
+  "id": "acp-fig-21-vector-diagram-transformer",
+  "source_id": "theory-calculation-alternating-current-phenomena",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-alternating-current-phenomena/image_extraction/page_renders/pdf-page-0058-220dpi.png",
+  "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 30, PDF page 58; Fig. 21",
+  "crop_box_pixels": [
+    120,
+    1265,
+    1075,
+    1505
+  ],
+  "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-21-vector-diagram-transformer.png",
+  "width": 955,
+  "height": 240,
+  "sha256": "cd899f587e56fe467973a499068a6d898d217862d313700083bcf7d3998bc326",
+  "generated_at_utc": "2026-04-27T11:00:48+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

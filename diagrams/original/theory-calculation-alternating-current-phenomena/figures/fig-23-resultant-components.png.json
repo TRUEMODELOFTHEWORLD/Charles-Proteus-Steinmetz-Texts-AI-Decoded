@@ -1,0 +1,20 @@
+{
+  "id": "acp-fig-23-resultant-components",
+  "source_id": "theory-calculation-alternating-current-phenomena",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-alternating-current-phenomena/image_extraction/page_renders/pdf-page-0060-220dpi.png",
+  "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 32, PDF page 60; Fig. 23",
+  "crop_box_pixels": [
+    110,
+    610,
+    525,
+    920
+  ],
+  "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-23-resultant-components.png",
+  "width": 415,
+  "height": 310,
+  "sha256": "c056aaee4f9047c9e9c0e6739ed1733e32cd30393e9fcdbcd8fd3ee54e3af3bb",
+  "generated_at_utc": "2026-04-27T11:01:49+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "acp-fig-24-quarter-period-rotation",
+  "source_id": "theory-calculation-alternating-current-phenomena",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-alternating-current-phenomena/image_extraction/page_renders/pdf-page-0061-220dpi.png",
+  "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 33, PDF page 61; Fig. 24",
+  "crop_box_pixels": [
+    655,
+    345,
+    1010,
+    600
+  ],
+  "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png",
+  "width": 355,
+  "height": 255,
+  "sha256": "d5088147580246da74531fc9bf03571ba57e2113ec2bebc2e05a656cd798c02f",
+  "generated_at_utc": "2026-04-27T11:02:51+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

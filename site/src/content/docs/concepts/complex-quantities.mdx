@@ -1,0 +1,89 @@
+---
+title: Complex Quantities
+description: Steinmetz's use of complex numbers as physically meaningful AC calculation tools.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Engineering Mathematics" location="AC Chapter V; Engineering Mathematics cross-reference" status="scan crops promoted for AC Chapter V; deeper source comparison pending" />
+
+## Steinmetz's Meaning
+
+In the symbolic-method chapter, Steinmetz presents complex quantities as an engineering language for alternating sine waves. The complex expression holds both magnitude and phase, and it lets the engineer combine waves by operating on their rectangular components.
+
+The important historical point is the order of explanation. Steinmetz does not begin by asking the reader to accept an abstract imaginary number. He begins with a vector, resolves it into rectangular components, marks the vertical component with `j`, then defines `j` through the rotation operation.
+
+## Modern Equivalent
+
+Modern electrical engineering uses complex numbers for phasors, impedance, admittance, power, transfer functions, and frequency-domain circuit analysis.
+
+```math
+I = I_x + jI_y
+```
+
+```math
+Z = R + jX
+```
+
+The notation is standard today, but Steinmetz's presentation helps recover why it works: the algebra is carrying geometry.
+
+## Diagrammatic Explanation
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png" alt="Original scan crop of rectangular components" />
+    <div><strong>Component form</strong><p>Magnitude and phase are translated into two rectangular quantities.</p></div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png" alt="Original scan crop of quarter-period rotation" />
+    <div><strong>Operator form</strong><p>The symbol `j` becomes a quarter-period rotation operator.</p></div>
+  </div>
+</div>
+
+## Relation To Other Concepts
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Related Concept</th>
+      <th>Connection</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/">Symbolic Method</a></td>
+      <td>The practical method built from complex quantities.</td>
+    </tr>
+    <tr>
+      <td><a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/">Impedance</a></td>
+      <td>Resistance and reactance become components of one complex quantity.</td>
+    </tr>
+    <tr>
+      <td><a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/">Reactance</a></td>
+      <td>The quadrature component becomes calculable without losing its phase meaning.</td>
+    </tr>
+    <tr>
+      <td><a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/">Power Factor</a></td>
+      <td>Phase displacement becomes visible through the relation between real and apparent power.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Why It Matters
+
+Complex quantities are one of Steinmetz's deepest acts of translation. They preserve the geometry of alternating phenomena while making it calculable. That is why a page on `j` belongs in a historical archive, not only in a modern math appendix.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+This is the foundation of phasor analysis. The modern reader should understand complex quantities as a compression of rotating sinusoidal behavior into a fixed frequency-domain representation.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: the quadrature structure can be read as preserving a distinction between direct, dissipative action and phase-shifted field exchange. This may be useful to field-centered readers, but the archive does not treat that reading as Steinmetz's explicit ontology unless the source text says so.
+</LayeredReading>
+
+## Open Research Tasks
+
+- Compare AC Chapter V with Steinmetz's _Engineering Mathematics_ treatment of general number.
+- Verify whether later editions adjust the terminology around imaginary unit, general number, or complex imaginary quantity.
+- Build an annotated derivation from `I = a + jb` to `Z = r + jx` and `E = ZI`.

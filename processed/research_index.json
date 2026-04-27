@@ -267,8 +267,8 @@
         "annotations": {},
         "crosslinks": {}
       },
-      "promoted_original_figure_count": 0,
-      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+      "promoted_original_figure_count": 4,
+      "next_action": "Triage candidate equations into canonical, false positive, and needs-review groups."
     },
     {
       "source_id": "theoretical-elements-electrical-engineering",

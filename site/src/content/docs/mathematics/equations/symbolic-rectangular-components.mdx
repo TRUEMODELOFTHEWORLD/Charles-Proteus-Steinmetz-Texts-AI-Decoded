@@ -1,0 +1,137 @@
+---
+title: Symbolic Rectangular Components
+description: Steinmetz's bridge from vector diagrams to complex AC quantities.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter V, printed pages 31-33, Figs. 22-24" status="scan crops promoted; transcription still needs final review" />
+
+## Original Forms To Preserve
+
+Steinmetz resolves a sine-wave vector into rectangular components:
+
+```math
+a = I \cos \theta
+```
+
+```math
+b = I \sin \theta
+```
+
+He then writes the symbolic sine wave as:
+
+```math
+I = a + jb
+```
+
+with magnitude and phase recovered by:
+
+```math
+i = \sqrt{a^2 + b^2}
+```
+
+```math
+\tan \theta = \frac{b}{a}
+```
+
+The decisive operator definition follows from the quarter-period rotation:
+
+```math
+j^2 = -1
+```
+
+```math
+j(a + jb) = ja - b
+```
+
+## What Steinmetz Is Doing
+
+The chapter starts from a practical problem: graphical vector diagrams are excellent for insight but poor for exact calculation when the quantities in the same diagram differ greatly in magnitude. Steinmetz's answer is to keep the geometry but move it into algebra.
+
+In this move, `j` is not first introduced as an abstract schoolbook symbol. It begins as a marker for the vertical component, then becomes the imaginary unit once it is defined by the phase operation `j^2 = -1`.
+
+## Modern Equivalent
+
+Modern electrical engineering calls this rectangular phasor form:
+
+```math
+\mathbf{I} = I_x + jI_y
+```
+
+```math
+|\mathbf{I}| = \sqrt{I_x^2 + I_y^2}
+```
+
+```math
+\angle \mathbf{I} = \tan^{-1}\left(\frac{I_y}{I_x}\right)
+```
+
+The historical content is richer than the notation alone. Steinmetz uses the symbolic expression to preserve intensity and phase in one calculable quantity.
+
+## Diagrammatic Reading
+
+<div class="codex-visual-grid">
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png" alt="Original scan crop of Steinmetz Fig. 22 rectangular components" />
+    <div>
+      <strong>Fig. 22</strong>
+      <p>The vector is resolved into horizontal and vertical components.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-23-resultant-components.png" alt="Original scan crop of Steinmetz Fig. 23 resultant components" />
+    <div>
+      <strong>Fig. 23</strong>
+      <p>Resultant waves are obtained by adding rectangular components.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png" alt="Original scan crop of Steinmetz Fig. 24 quarter-period rotation" />
+    <div>
+      <strong>Fig. 24</strong>
+      <p>Multiplication by `j` is tied to a 90 degree phase rotation.</p>
+    </div>
+  </div>
+</div>
+
+## Worked Example
+
+Suppose a sine-wave current has magnitude `10 A` and phase angle `30 degrees`.
+
+```math
+a = 10\cos 30^\circ = 8.66
+```
+
+```math
+b = 10\sin 30^\circ = 5.00
+```
+
+So the symbolic form is:
+
+```math
+I = 8.66 + j5.00
+```
+
+Multiplying by `j` gives:
+
+```math
+jI = j(8.66 + j5.00) = -5.00 + j8.66
+```
+
+That is the same magnitude, advanced by one-quarter period.
+
+<LayeredReading label="Physical Meaning" open>
+The symbolic quantity is not merely a compact number. It preserves two physical facts at once: how large the alternating quantity is and where it stands in phase relative to the chosen reference.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a field-centered reading may treat the quadrature component as a way of keeping field storage, return, and phase displacement visible. Steinmetz's mathematical statement supports the distinction between components, but any Wheeler-style ontology must remain clearly labeled as interpretation.
+</LayeredReading>
+
+## Still To Verify
+
+- Exact typography of `j`, `jb`, and the OCR-corrupted characters in the selected edition.
+- Whether Steinmetz uses different sign conventions in nearby examples.
+- How this notation is expanded in _Engineering Mathematics_.

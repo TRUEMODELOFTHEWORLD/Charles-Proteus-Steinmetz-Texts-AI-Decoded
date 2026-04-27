@@ -1,0 +1,20 @@
+{
+  "id": "acp-fig-22-rectangular-components",
+  "source_id": "theory-calculation-alternating-current-phenomena",
+  "asset_type": "original-scan-crop",
+  "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+  "source_image": "processed/theory-calculation-alternating-current-phenomena/image_extraction/page_renders/pdf-page-0059-220dpi.png",
+  "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 31, PDF page 59; Fig. 22",
+  "crop_box_pixels": [
+    735,
+    785,
+    1035,
+    1008
+  ],
+  "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png",
+  "width": 300,
+  "height": 223,
+  "sha256": "d5462b20d9cc281afafd3e23aae1b26ec10b11d9fe7fdac835f3bca96930390c",
+  "generated_at_utc": "2026-04-27T11:01:25+00:00",
+  "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+}

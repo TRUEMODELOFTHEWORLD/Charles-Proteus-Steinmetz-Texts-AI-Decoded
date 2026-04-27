@@ -1,7 +1,7 @@
 {
   "quality_note": "Candidate figure records come from OCR. Promoted crops are separate scan-derived assets.",
   "candidate_total_records": 279,
-  "promoted_original_figure_count": 5,
+  "promoted_original_figure_count": 9,
   "status_counts": {
     "candidate": 279
   },
@@ -4259,6 +4259,58 @@
       "width": 970,
       "height": 985,
       "sha256": "f66b69b9332e620c0eb8cd9b2114e8aba216a7a5e3f78a2aac9eaef231e47073",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "acp-fig-21-vector-diagram-transformer",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+      "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 30, PDF page 58; Fig. 21",
+      "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-21-vector-diagram-transformer.png",
+      "manifest_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-21-vector-diagram-transformer.png.json",
+      "public_path": "/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-21-vector-diagram-transformer.png",
+      "width": 955,
+      "height": 240,
+      "sha256": "cd899f587e56fe467973a499068a6d898d217862d313700083bcf7d3998bc326",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "acp-fig-22-rectangular-components",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+      "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 31, PDF page 59; Fig. 22",
+      "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png",
+      "manifest_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png.json",
+      "public_path": "/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-22-rectangular-components.png",
+      "width": 300,
+      "height": 223,
+      "sha256": "d5462b20d9cc281afafd3e23aae1b26ec10b11d9fe7fdac835f3bca96930390c",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "acp-fig-23-resultant-components",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+      "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 32, PDF page 60; Fig. 23",
+      "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-23-resultant-components.png",
+      "manifest_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-23-resultant-components.png.json",
+      "public_path": "/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-23-resultant-components.png",
+      "width": 415,
+      "height": 310,
+      "sha256": "c056aaee4f9047c9e9c0e6739ed1733e32cd30393e9fcdbcd8fd3ee54e3af3bb",
+      "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
+    },
+    {
+      "id": "acp-fig-24-quarter-period-rotation",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "status": "promoted scan crop; source context located; needs second-pass bibliographic verification",
+      "source_location": "Theory and Calculation of Alternating Current Phenomena, Chapter V, printed page 33, PDF page 61; Fig. 24",
+      "output_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png",
+      "manifest_path": "diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png.json",
+      "public_path": "/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png",
+      "width": 355,
+      "height": 255,
+      "sha256": "d5088147580246da74531fc9bf03571ba57e2113ec2bebc2e05a656cd798c02f",
       "quality_note": "Crop coordinates should be reviewed against the source page before canonical use."
     }
   ]

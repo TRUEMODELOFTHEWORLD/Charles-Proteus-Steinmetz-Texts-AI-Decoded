@@ -29,6 +29,7 @@ This file turns the project charter into a practical review queue. It is meant t
    - Inductive and condensive reactance notation.
 6. Extract and crop original figures from AC Chapter V:
    - Figs. 21-24 if present in the selected edition.
+   - 2026-04-27 progress: Figs. 21-24 were found in the local scan, rendered, cropped, and promoted as scan-crop assets with manifests. They still need second-pass bibliographic and crop-coordinate review before being marked canonical.
 
 ## Priority 3: Admittance And Parallel Circuit Language
 

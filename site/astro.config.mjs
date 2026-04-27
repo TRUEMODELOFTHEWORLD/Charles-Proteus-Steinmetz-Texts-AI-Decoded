@@ -80,6 +80,7 @@ export default defineConfig({
             { label: 'Illumination', slug: 'concepts/illumination' },
             { label: 'Transient Phenomena', slug: 'concepts/transient-phenomena' },
             { label: 'Symbolic Method', slug: 'concepts/symbolic-method' },
+            { label: 'Complex Quantities', slug: 'concepts/complex-quantities' },
             { label: 'Hysteresis', slug: 'concepts/hysteresis' },
             { label: 'Impedance', slug: 'concepts/impedance' },
             { label: 'Reactance', slug: 'concepts/reactance' },
@@ -95,6 +96,7 @@ export default defineConfig({
           items: [
             { label: 'Equation Catalog', slug: 'mathematics' },
             { label: 'Velocity, Frequency, Wavelength', slug: 'mathematics/equations/velocity-frequency-wavelength' },
+            { label: 'Symbolic Components', slug: 'mathematics/equations/symbolic-rectangular-components' },
             { label: 'Impedance And Reactance', slug: 'mathematics/equations/impedance-reactance' },
             { label: 'Admittance', slug: 'mathematics/equations/admittance-conductance-susceptance' },
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
@@ -106,9 +108,11 @@ export default defineConfig({
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
+            { label: 'Original AC Figures', slug: 'diagrams/original-alternating-current-phenomena' },
             { label: 'Glossary', slug: 'glossary' },
             { label: 'Condensive Reactance', slug: 'glossary/condensive-reactance' },
             { label: 'Wattless Component', slug: 'glossary/wattless-component' },
+            { label: 'Imaginary Unit j', slug: 'glossary/imaginary-unit-j' },
             { label: 'Hidden Gems', slug: 'hidden-gems' },
             { label: 'Research Questions', slug: 'research-questions' }
           ]
