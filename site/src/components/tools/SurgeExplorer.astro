@@ -1,0 +1,188 @@
+<div class="tool-shell" data-surge-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        Surge amplitude
+        <input data-amplitude type="range" min="10" max="200" step="1" value="100" />
+      </label>
+      <label>
+        Line length in km
+        <input data-length type="range" min="1" max="200" step="1" value="80" />
+      </label>
+      <label>
+        Velocity fraction of light
+        <input data-velocity type="range" min="0.2" max="1" step="0.01" value="0.85" />
+      </label>
+      <label>
+        Load impedance ratio
+        <input data-load type="range" min="0" max="5" step="0.05" value="2" />
+      </label>
+      <label>
+        Time after launch
+        <input data-time type="range" min="0" max="400" step="1" value="160" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="360"></canvas>
+  </div>
+</div>
+
+<script>
+  const LIGHT_SPEED_KM_PER_US = 0.299792458;
+
+  function drawSurge(canvas, amplitude, lineLength, velocityFraction, loadRatio, timeUs) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const left = 78;
+    const right = width - 78;
+    const lineY = 186;
+    const top = 62;
+    const bottom = 304;
+    const velocity = LIGHT_SPEED_KM_PER_US * velocityFraction;
+    const travelTime = lineLength / velocity;
+    const gamma = loadRatio === 0 ? -1 : (loadRatio - 1) / (loadRatio + 1);
+    const incidentDistance = Math.min(lineLength, velocity * timeUs);
+    const reflectedTime = Math.max(0, timeUs - travelTime);
+    const reflectedDistanceFromLoad = Math.min(lineLength, velocity * reflectedTime);
+    const incidentX = left + (incidentDistance / lineLength) * (right - left);
+    const reflectedX = right - (reflectedDistanceFromLoad / lineLength) * (right - left);
+    const scale = 0.72;
+    const incidentHeight = amplitude * scale;
+    const reflectedHeight = amplitude * gamma * scale;
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = left; x <= right; x += 58) {
+      ctx.beginPath();
+      ctx.moveTo(x, top);
+      ctx.lineTo(x, bottom);
+      ctx.stroke();
+    }
+    for (let y = top; y <= bottom; y += 40) {
+      ctx.beginPath();
+      ctx.moveTo(left, y);
+      ctx.lineTo(right, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 3;
+    ctx.beginPath();
+    ctx.moveTo(left, lineY);
+    ctx.lineTo(right, lineY);
+    ctx.stroke();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 20px system-ui, sans-serif';
+    ctx.fillText('surge on a transmission line', left, 34);
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText('source', left - 24, lineY + 30);
+    ctx.fillText('load', right - 12, lineY + 30);
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.fillStyle = 'rgba(47, 111, 103, 0.16)';
+    ctx.lineWidth = 4;
+    ctx.beginPath();
+    ctx.moveTo(left, lineY);
+    ctx.lineTo(incidentX, lineY);
+    ctx.lineTo(incidentX, lineY - incidentHeight);
+    ctx.lineTo(Math.max(left, incidentX - 74), lineY - incidentHeight);
+    ctx.lineTo(Math.max(left, incidentX - 74), lineY);
+    ctx.closePath();
+    ctx.fill();
+    ctx.stroke();
+
+    ctx.fillStyle = '#2f6f67';
+    ctx.beginPath();
+    ctx.moveTo(incidentX + 14, lineY - incidentHeight);
+    ctx.lineTo(incidentX - 4, lineY - incidentHeight - 8);
+    ctx.lineTo(incidentX - 4, lineY - incidentHeight + 8);
+    ctx.closePath();
+    ctx.fill();
+
+    if (timeUs > travelTime) {
+      ctx.strokeStyle = gamma >= 0 ? '#9b4d32' : '#6b5896';
+      ctx.fillStyle = gamma >= 0 ? 'rgba(155, 77, 50, 0.16)' : 'rgba(107, 88, 150, 0.16)';
+      ctx.lineWidth = 4;
+      ctx.beginPath();
+      ctx.moveTo(right, lineY);
+      ctx.lineTo(reflectedX, lineY);
+      ctx.lineTo(reflectedX, lineY - reflectedHeight);
+      ctx.lineTo(Math.min(right, reflectedX + 74), lineY - reflectedHeight);
+      ctx.lineTo(Math.min(right, reflectedX + 74), lineY);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+
+      ctx.fillStyle = gamma >= 0 ? '#9b4d32' : '#6b5896';
+      ctx.beginPath();
+      ctx.moveTo(reflectedX - 14, lineY - reflectedHeight);
+      ctx.lineTo(reflectedX + 4, lineY - reflectedHeight - 8);
+      ctx.lineTo(reflectedX + 4, lineY - reflectedHeight + 8);
+      ctx.closePath();
+      ctx.fill();
+    }
+
+    ctx.strokeStyle = '#a9822a';
+    ctx.lineWidth = 2;
+    ctx.setLineDash([7, 7]);
+    ctx.beginPath();
+    ctx.moveTo(right, top + 16);
+    ctx.lineTo(right, bottom - 10);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    ctx.fillStyle = '#526064';
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText(`one-way travel: ${travelTime.toFixed(1)} microseconds`, left, bottom + 28);
+    ctx.fillText(`reflection coefficient: ${gamma.toFixed(2)}`, right - 206, bottom + 28);
+  }
+
+  document.querySelectorAll('[data-surge-tool]').forEach((tool) => {
+    const amplitudeInput = tool.querySelector('[data-amplitude]');
+    const lengthInput = tool.querySelector('[data-length]');
+    const velocityInput = tool.querySelector('[data-velocity]');
+    const loadInput = tool.querySelector('[data-load]');
+    const timeInput = tool.querySelector('[data-time]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const amplitude = Number(amplitudeInput.value);
+      const lineLength = Number(lengthInput.value);
+      const velocityFraction = Number(velocityInput.value);
+      const loadRatio = Number(loadInput.value);
+      const timeUs = Number(timeInput.value);
+      const velocity = LIGHT_SPEED_KM_PER_US * velocityFraction;
+      const travelTime = lineLength / velocity;
+      const gamma = loadRatio === 0 ? -1 : (loadRatio - 1) / (loadRatio + 1);
+      const reflectedAmplitude = amplitude * gamma;
+      const loadVoltage = timeUs >= travelTime ? amplitude * (1 + gamma) : 0;
+      const loadLabel = loadRatio === 0 ? 'short circuit' : loadRatio > 4.95 ? 'near open circuit' : `${loadRatio.toFixed(2)} Z0`;
+
+      readout.innerHTML = `
+        <strong>Source frame:</strong> surge as a traveling transient on a line<br />
+        <strong>Line velocity:</strong> ${velocity.toFixed(3)} km per microsecond<br />
+        <strong>One-way travel:</strong> ${travelTime.toFixed(1)} microseconds<br />
+        <strong>Load:</strong> ${loadLabel}<br />
+        <strong>Reflection coefficient:</strong> ${gamma.toFixed(3)}<br />
+        <strong>Reflected surge:</strong> ${reflectedAmplitude.toFixed(1)} relative units<br />
+        <strong>Load voltage after arrival:</strong> ${loadVoltage.toFixed(1)} relative units
+      `;
+
+      drawSurge(canvas, amplitude, lineLength, velocityFraction, loadRatio, timeUs);
+    }
+
+    amplitudeInput.addEventListener('input', render);
+    lengthInput.addEventListener('input', render);
+    velocityInput.addEventListener('input', render);
+    loadInput.addEventListener('input', render);
+    timeInput.addEventListener('input', render);
+    render();
+  });
+</script>

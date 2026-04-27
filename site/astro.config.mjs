@@ -77,6 +77,7 @@ export default defineConfig({
             { label: 'Concept Index', slug: 'concepts' },
             { label: 'Radiation', slug: 'concepts/radiation' },
             { label: 'Electric Waves', slug: 'concepts/electric-waves' },
+            { label: 'Lightning And Surges', slug: 'concepts/lightning-surges' },
             { label: 'Ether', slug: 'concepts/ether' },
             { label: 'Illumination', slug: 'concepts/illumination' },
             { label: 'Transient Phenomena', slug: 'concepts/transient-phenomena' },
