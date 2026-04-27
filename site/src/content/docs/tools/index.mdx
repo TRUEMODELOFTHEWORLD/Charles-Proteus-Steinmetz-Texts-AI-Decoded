@@ -5,6 +5,7 @@ description: Small mathematical and physical visualizers for Steinmetz concepts.
 
 import WaveRelationExplorer from '../../../components/tools/WaveRelationExplorer.astro';
 import ImpedanceExplorer from '../../../components/tools/ImpedanceExplorer.astro';
+import PhasorExplorer from '../../../components/tools/PhasorExplorer.astro';
 import PowerFactorExplorer from '../../../components/tools/PowerFactorExplorer.astro';
 import TransientRlcExplorer from '../../../components/tools/TransientRlcExplorer.astro';
 
@@ -15,6 +16,20 @@ import TransientRlcExplorer from '../../../components/tools/TransientRlcExplorer
 ## Impedance and Reactance
 
 <ImpedanceExplorer />
+
+## Phasor And Symbolic Form
+
+<PhasorExplorer />
+
+This tool follows Steinmetz's symbolic-method sequence: a sine wave can be represented by a vector, the vector can be resolved into rectangular components, and the quadrature component can be marked with `j`.
+
+```math
+A = a + jb
+```
+
+```math
+a = A \cos \theta,\qquad b = A \sin \theta
+```
 
 ## Power Factor
 
@@ -39,7 +54,6 @@ Use it with the original figure pages and equation page rather than as a replace
 ## Planned Tools
 
 - AC waveform visualizer
-- Phasor visualizer
 - Hysteresis loop visualizer
 - Steinmetz equation calculator
 - Lightning/surge transient visualizer

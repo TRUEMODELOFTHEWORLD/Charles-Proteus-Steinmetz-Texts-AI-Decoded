@@ -1,0 +1,174 @@
+<div class="tool-shell" data-phasor-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        Magnitude
+        <input data-magnitude type="range" min="10" max="100" step="1" value="72" />
+      </label>
+      <label>
+        Phase angle
+        <input data-phase type="range" min="-180" max="180" step="1" value="38" />
+      </label>
+      <label>
+        Wave cycles
+        <input data-cycles type="range" min="1" max="4" step="1" value="2" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="360"></canvas>
+  </div>
+</div>
+
+<script>
+  function drawPhasor(canvas, magnitude, phaseDegrees, cycles) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const phase = phaseDegrees * Math.PI / 180;
+    const left = 52;
+    const waveRight = 510;
+    const waveMid = 188;
+    const waveTop = 58;
+    const waveBottom = 318;
+    const centerX = 696;
+    const centerY = 190;
+    const radius = 110;
+    const vectorScale = radius / 100;
+    const vectorX = centerX + magnitude * vectorScale * Math.cos(phase);
+    const vectorY = centerY - magnitude * vectorScale * Math.sin(phase);
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = left; x <= waveRight; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x, waveTop);
+      ctx.lineTo(x, waveBottom);
+      ctx.stroke();
+    }
+    for (let y = waveTop; y <= waveBottom; y += 40) {
+      ctx.beginPath();
+      ctx.moveTo(left, y);
+      ctx.lineTo(waveRight, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(left, waveMid);
+    ctx.lineTo(waveRight, waveMid);
+    ctx.moveTo(left, waveTop);
+    ctx.lineTo(left, waveBottom);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 4;
+    ctx.beginPath();
+    for (let x = left; x <= waveRight; x += 2) {
+      const progress = (x - left) / (waveRight - left);
+      const y = waveMid - Math.sin(progress * cycles * 2 * Math.PI + phase) * magnitude;
+      if (x === left) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+
+    ctx.strokeStyle = '#a9822a';
+    ctx.lineWidth = 2;
+    ctx.setLineDash([8, 8]);
+    ctx.beginPath();
+    const phaseX = left + (((-phase % (2 * Math.PI)) + 2 * Math.PI) % (2 * Math.PI)) / (cycles * 2 * Math.PI) * (waveRight - left);
+    ctx.moveTo(phaseX, waveTop);
+    ctx.lineTo(phaseX, waveBottom);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    ctx.strokeStyle = '#d8d0c2';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(centerX - radius - 26, centerY);
+    ctx.lineTo(centerX + radius + 36, centerY);
+    ctx.moveTo(centerX, centerY + radius + 28);
+    ctx.lineTo(centerX, centerY - radius - 34);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#9b4d32';
+    ctx.lineWidth = 5;
+    ctx.beginPath();
+    ctx.moveTo(centerX, centerY);
+    ctx.lineTo(vectorX, centerY);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#6b5896';
+    ctx.lineWidth = 5;
+    ctx.beginPath();
+    ctx.moveTo(vectorX, centerY);
+    ctx.lineTo(vectorX, vectorY);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 6;
+    ctx.beginPath();
+    ctx.moveTo(centerX, centerY);
+    ctx.lineTo(vectorX, vectorY);
+    ctx.stroke();
+
+    ctx.fillStyle = '#2f6f67';
+    ctx.beginPath();
+    ctx.arc(vectorX, vectorY, 5, 0, 2 * Math.PI);
+    ctx.fill();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 20px system-ui, sans-serif';
+    ctx.fillText('sine wave', left, 36);
+    ctx.fillText('phasor', centerX - 48, 36);
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText('time', waveRight - 34, waveMid + 24);
+    ctx.fillText('real', centerX + radius + 42, centerY + 5);
+    ctx.fillText('j axis', centerX + 10, centerY - radius - 24);
+    ctx.fillText('a', centerX + (vectorX - centerX) / 2 - 6, centerY + 28);
+    ctx.fillText('jb', vectorX + 12, centerY + (vectorY - centerY) / 2 + 5);
+  }
+
+  document.querySelectorAll('[data-phasor-tool]').forEach((tool) => {
+    const magnitudeInput = tool.querySelector('[data-magnitude]');
+    const phaseInput = tool.querySelector('[data-phase]');
+    const cyclesInput = tool.querySelector('[data-cycles]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const magnitude = Number(magnitudeInput.value);
+      const phase = Number(phaseInput.value);
+      const cycles = Number(cyclesInput.value);
+      const radians = phase * Math.PI / 180;
+      const real = magnitude * Math.cos(radians);
+      const quadrature = magnitude * Math.sin(radians);
+      const sign = quadrature >= 0 ? '+' : '-';
+
+      readout.innerHTML = `
+        <strong>Original frame:</strong> sine wave resolved into rectangular components<br />
+        <strong>Symbolic form:</strong> ${real.toFixed(1)} ${sign} j${Math.abs(quadrature).toFixed(1)}<br />
+        <strong>Magnitude:</strong> ${magnitude.toFixed(1)}<br />
+        <strong>Phase angle:</strong> ${phase.toFixed(0)} degrees<br />
+        <strong>Quadrature component:</strong> ${quadrature.toFixed(1)}
+      `;
+
+      drawPhasor(canvas, magnitude, phase, cycles);
+    }
+
+    magnitudeInput.addEventListener('input', render);
+    phaseInput.addEventListener('input', render);
+    cyclesInput.addEventListener('input', render);
+    render();
+  });
+</script>
