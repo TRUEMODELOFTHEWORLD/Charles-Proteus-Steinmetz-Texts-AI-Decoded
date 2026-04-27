@@ -1,0 +1,232 @@
+{
+  "quality_note": "Annotations include manual source notes when present plus generated review aids derived from processing state. Generated annotations are not source claims.",
+  "total_records": 22,
+  "manual_records": 0,
+  "generated_records": 22,
+  "status_counts": {
+    "generated-custody-note": 3,
+    "generated-review-aid": 19
+  },
+  "records": [
+    {
+      "id": "radiation-light-and-illumination-next-action",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "kind": "next-action",
+      "annotation": "Triage candidate equations into canonical, false positive, and needs-review groups.",
+      "target": "/sources/radiation-light-and-illumination/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "radiation-light-and-illumination-promoted-original-crops",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "kind": "visual-custody",
+      "annotation": "5 promoted original scan-crop assets have manifests and checksums.",
+      "target": "diagrams/original",
+      "status": "generated-custody-note",
+      "generated": true
+    },
+    {
+      "id": "radiation-light-and-illumination-equation-triage",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/radiation-light-and-illumination/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "radiation-light-and-illumination-glossary-review",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/radiation-light-and-illumination/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-next-action",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-equation-triage",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/elementary-lectures-electric-discharges-waves-impulses/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "elementary-lectures-electric-discharges-waves-impulses-glossary-review",
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/elementary-lectures-electric-discharges-waves-impulses/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "engineering-mathematics-next-action",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/engineering-mathematics/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "engineering-mathematics-equation-triage",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/engineering-mathematics/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "engineering-mathematics-glossary-review",
+      "source_id": "engineering-mathematics",
+      "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "kind": "glossary-review",
+      "annotation": "14 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/engineering-mathematics/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-next-action",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "next-action",
+      "annotation": "Triage candidate equations into canonical, false positive, and needs-review groups.",
+      "target": "/sources/theory-calculation-alternating-current-phenomena/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-promoted-original-crops",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "visual-custody",
+      "annotation": "4 promoted original scan-crop assets have manifests and checksums.",
+      "target": "diagrams/original",
+      "status": "generated-custody-note",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-equation-triage",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-alternating-current-phenomena/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-glossary-review",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "glossary-review",
+      "annotation": "15 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-alternating-current-phenomena/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-next-action",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "kind": "next-action",
+      "annotation": "Review structural parser; no chapter or lecture records were found.",
+      "target": "/sources/theoretical-elements-electrical-engineering/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-equation-triage",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theoretical-elements-electrical-engineering/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theoretical-elements-electrical-engineering-glossary-review",
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_title": "Theoretical Elements of Electrical Engineering",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theoretical-elements-electrical-engineering/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-transient-electric-phenomena-oscillations-next-action",
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "kind": "next-action",
+      "annotation": "Triage candidate equations into canonical, false positive, and needs-review groups.",
+      "target": "/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-transient-electric-phenomena-oscillations-promoted-original-crops",
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "kind": "visual-custody",
+      "annotation": "6 promoted original scan-crop assets have manifests and checksums.",
+      "target": "diagrams/original",
+      "status": "generated-custody-note",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-transient-electric-phenomena-oscillations-equation-triage",
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-transient-electric-phenomena-oscillations/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-transient-electric-phenomena-oscillations-glossary-review",
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-transient-electric-phenomena-oscillations/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-next-action",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "kind": "next-action",
+      "annotation": "Run OCR, create bibliographic metadata, then seed candidate catalogs.",
+      "target": "/sources/commonwealth-edison-generating-system-trouble/",
+      "status": "generated-review-aid",
+      "generated": true
+    }
+  ]
+}

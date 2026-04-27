@@ -142,7 +142,7 @@ The corpus-wide research index builder is:
 python pipeline/scripts/build_research_indexes.py
 ```
 
-It writes dashboard data for sources, concepts, equations, figures, glossary terms, and quote candidates into `processed/`, including `processed/source_processing_status.md`.
+It writes dashboard data for sources, concepts, equations, figures, glossary terms, quote candidates, annotations, and crosslinks into `processed/`, including `processed/source_processing_status.md`.
 
 ## Current Processing Milestone
 
@@ -150,6 +150,7 @@ The archive now includes:
 
 - Seven source records in `sources/source_catalog.json`.
 - Cross-source JSON indexes under `processed/`.
+- Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
 - A generated source-processing dashboard.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.

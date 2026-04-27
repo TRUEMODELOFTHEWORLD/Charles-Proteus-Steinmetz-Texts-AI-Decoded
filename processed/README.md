@@ -23,6 +23,8 @@ Corpus-wide generated indexes live at the root of this directory:
 - `concept_index.json`
 - `glossary_index.json`
 - `quote_index.json`
+- `annotations_index.json`
+- `crosslinks_index.json`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

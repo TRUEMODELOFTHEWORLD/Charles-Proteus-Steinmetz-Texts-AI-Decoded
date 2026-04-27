@@ -383,6 +383,294 @@ def build_quote_index(sources: list[dict[str, Any]], root: Path) -> dict[str, An
     }
 
 
+def build_annotation_index(
+    sources: list[dict[str, Any]],
+    root: Path,
+    source_summaries: list[dict[str, Any]],
+) -> dict[str, Any]:
+    """Collect manual annotations and generate review annotations from custody state."""
+
+    records: list[dict[str, Any]] = []
+    summary_by_source = {summary["source_id"]: summary for summary in source_summaries}
+
+    for source in sources:
+        source_id = source["source_id"]
+        annotations = load_json(root / "processed" / source_id / "annotations.json", [])
+        if isinstance(annotations, list):
+            for index, annotation in enumerate(annotations, start=1):
+                if not isinstance(annotation, dict):
+                    continue
+                records.append(
+                    {
+                        "id": annotation.get("id") or f"{source_id}-manual-annotation-{index:03d}",
+                        "source_id": source_id,
+                        "source_title": source.get("title"),
+                        "kind": annotation.get("kind", "manual"),
+                        "annotation": annotation.get("annotation") or annotation.get("note"),
+                        "target": annotation.get("target"),
+                        "status": annotation.get("status", "manual-candidate"),
+                        "generated": False,
+                    }
+                )
+
+        summary = summary_by_source[source_id]
+        counts = summary["record_counts"]
+        records.append(
+            {
+                "id": f"{source_id}-next-action",
+                "source_id": source_id,
+                "source_title": source.get("title"),
+                "kind": "next-action",
+                "annotation": summary["next_action"],
+                "target": source.get("site_path"),
+                "status": "generated-review-aid",
+                "generated": True,
+            }
+        )
+        if summary["promoted_original_figure_count"]:
+            records.append(
+                {
+                    "id": f"{source_id}-promoted-original-crops",
+                    "source_id": source_id,
+                    "source_title": source.get("title"),
+                    "kind": "visual-custody",
+                    "annotation": (
+                        f"{summary['promoted_original_figure_count']} promoted original "
+                        "scan-crop assets have manifests and checksums."
+                    ),
+                    "target": "diagrams/original",
+                    "status": "generated-custody-note",
+                    "generated": True,
+                }
+            )
+        if counts.get("equations", 0):
+            records.append(
+                {
+                    "id": f"{source_id}-equation-triage",
+                    "source_id": source_id,
+                    "source_title": source.get("title"),
+                    "kind": "equation-triage",
+                    "annotation": (
+                        f"{counts.get('equations', 0)} OCR-derived equation candidates "
+                        "need triage into canonical, false positive, and review groups."
+                    ),
+                    "target": f"processed/{source_id}/equations.json",
+                    "status": "generated-review-aid",
+                    "generated": True,
+                }
+            )
+        if counts.get("glossary", 0):
+            records.append(
+                {
+                    "id": f"{source_id}-glossary-review",
+                    "source_id": source_id,
+                    "source_title": source.get("title"),
+                    "kind": "glossary-review",
+                    "annotation": (
+                        f"{counts.get('glossary', 0)} glossary records should be checked "
+                        "against source wording before canonical promotion."
+                    ),
+                    "target": f"processed/{source_id}/glossary.json",
+                    "status": "generated-review-aid",
+                    "generated": True,
+                }
+            )
+
+    return {
+        "quality_note": (
+            "Annotations include manual source notes when present plus generated review "
+            "aids derived from processing state. Generated annotations are not source claims."
+        ),
+        "total_records": len(records),
+        "manual_records": len([record for record in records if not record["generated"]]),
+        "generated_records": len([record for record in records if record["generated"]]),
+        "status_counts": status_counts(records),
+        "records": records,
+    }
+
+
+def _crosslink_record(
+    source: dict[str, Any],
+    relation: str,
+    target_type: str,
+    target_id: str,
+    target_label: str,
+    status: str,
+    evidence: dict[str, Any],
+) -> dict[str, Any]:
+    return {
+        "source_id": source["source_id"],
+        "source_title": source.get("title"),
+        "relation": relation,
+        "target_type": target_type,
+        "target_id": target_id,
+        "target_label": target_label,
+        "status": status,
+        "evidence": evidence,
+    }
+
+
+def build_crosslink_index(
+    sources: list[dict[str, Any]],
+    root: Path,
+    promoted: list[dict[str, Any]],
+) -> dict[str, Any]:
+    """Build candidate navigation links between sources, terms, concepts, equations, and figures."""
+
+    records: list[dict[str, Any]] = []
+    manual_records = 0
+
+    for source in sources:
+        source_id = source["source_id"]
+
+        crosslinks = load_json(root / "processed" / source_id / "crosslinks.json", [])
+        if isinstance(crosslinks, list):
+            for index, crosslink in enumerate(crosslinks, start=1):
+                if not isinstance(crosslink, dict):
+                    continue
+                manual_records += 1
+                records.append(
+                    {
+                        "source_id": source_id,
+                        "source_title": source.get("title"),
+                        "relation": crosslink.get("relation", "manual"),
+                        "target_type": crosslink.get("target_type"),
+                        "target_id": crosslink.get("target_id")
+                        or f"{source_id}-manual-crosslink-{index:03d}",
+                        "target_label": crosslink.get("target_label"),
+                        "status": crosslink.get("status", "manual-candidate"),
+                        "evidence": crosslink.get("evidence", {}),
+                    }
+                )
+
+        concepts = load_json(root / "processed" / source_id / "concepts.json", [])
+        if isinstance(concepts, list):
+            for concept in concepts:
+                if not isinstance(concept, dict):
+                    continue
+                occurrence_count = int(concept.get("occurrence_count_in_ocr") or 0)
+                if occurrence_count <= 0:
+                    continue
+                concept_id = str(concept.get("id") or concept.get("label") or "").strip()
+                if not concept_id:
+                    continue
+                records.append(
+                    _crosslink_record(
+                        source,
+                        "source-mentions-concept",
+                        "concept",
+                        concept_id,
+                        str(concept.get("label") or concept_id),
+                        str(concept.get("status") or "candidate"),
+                        {"occurrence_count_in_ocr": occurrence_count},
+                    )
+                )
+
+        glossary = load_json(root / "processed" / source_id / "glossary.json", [])
+        if isinstance(glossary, list):
+            for term in glossary:
+                if not isinstance(term, dict):
+                    continue
+                occurrence_count = int(term.get("occurrence_count_in_ocr") or 0)
+                source_refs = term.get("source_refs", [])
+                if occurrence_count <= 0 and not source_refs:
+                    continue
+                term_label = str(term.get("term") or "").strip()
+                if not term_label:
+                    continue
+                records.append(
+                    _crosslink_record(
+                        source,
+                        "source-uses-glossary-term",
+                        "glossary-term",
+                        term_label.lower().replace(" ", "-"),
+                        term_label,
+                        str(term.get("status") or "candidate"),
+                        {
+                            "occurrence_count_in_ocr": occurrence_count,
+                            "source_ref_count": len(source_refs) if isinstance(source_refs, list) else 0,
+                        },
+                    )
+                )
+
+        equations = load_json(root / "processed" / source_id / "equations.json", [])
+        if isinstance(equations, list):
+            for equation in equations:
+                if not isinstance(equation, dict):
+                    continue
+                equation_id = str(equation.get("id") or "").strip()
+                if not equation_id:
+                    continue
+                records.append(
+                    _crosslink_record(
+                        source,
+                        "source-has-equation-candidate",
+                        "equation",
+                        equation_id,
+                        str(equation.get("original_form") or equation_id),
+                        str(equation.get("status") or "candidate"),
+                        compact_source_ref(equation),
+                    )
+                )
+
+        figures = load_json(root / "processed" / source_id / "figures.json", [])
+        if isinstance(figures, list):
+            for figure in figures:
+                if not isinstance(figure, dict):
+                    continue
+                figure_id = str(figure.get("id") or "").strip()
+                if not figure_id:
+                    continue
+                records.append(
+                    _crosslink_record(
+                        source,
+                        "source-has-figure-candidate",
+                        "figure",
+                        figure_id,
+                        str(figure.get("caption") or figure_id),
+                        str(figure.get("status") or "candidate"),
+                        compact_source_ref(figure),
+                    )
+                )
+
+    source_by_id = {source["source_id"]: source for source in sources}
+    for figure in promoted:
+        source = source_by_id.get(str(figure.get("source_id")))
+        if not source:
+            continue
+        records.append(
+            _crosslink_record(
+                source,
+                "source-has-promoted-original-figure",
+                "original-scan-crop",
+                str(figure.get("id") or ""),
+                str(figure.get("source_location") or figure.get("id") or ""),
+                str(figure.get("status") or "promoted"),
+                {
+                    "manifest_path": figure.get("manifest_path"),
+                    "public_path": figure.get("public_path"),
+                    "sha256": figure.get("sha256"),
+                },
+            )
+        )
+
+    relation_counter = Counter(str(record.get("relation") or "unspecified") for record in records)
+    target_counter = Counter(str(record.get("target_type") or "unspecified") for record in records)
+
+    return {
+        "quality_note": (
+            "Crosslinks are generated navigation and review aids. Candidate links do not "
+            "make a source claim canonical."
+        ),
+        "total_records": len(records),
+        "manual_records": manual_records,
+        "generated_records": len(records) - manual_records,
+        "relation_counts": dict(sorted(relation_counter.items())),
+        "target_type_counts": dict(sorted(target_counter.items())),
+        "records": records,
+    }
+
+
 def markdown_table_row(values: list[Any]) -> str:
     escaped = [str(value).replace("|", "\\|").replace("\n", " ") for value in values]
     return "| " + " | ".join(escaped) + " |"
@@ -479,6 +767,8 @@ def main() -> int:
     write_json(out_dir / "glossary_index.json", build_glossary_index(sources, root))
     write_json(out_dir / "concept_index.json", build_concept_index(sources, root))
     write_json(out_dir / "quote_index.json", build_quote_index(sources, root))
+    write_json(out_dir / "annotations_index.json", build_annotation_index(sources, root, source_summaries))
+    write_json(out_dir / "crosslinks_index.json", build_crosslink_index(sources, root, promoted))
     write_status_markdown(out_dir / "source_processing_status.md", source_summaries)
 
     print(f"Wrote research indexes for {len(source_summaries)} sources to {rel(out_dir, root)}")

@@ -85,7 +85,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Directory | Status | Role |
 | --- | --- | --- |
 | `sources/` | Done, expanding | Raw source texts, public-domain records, scans, OCR custody, manifests. |
-| `processed/` | Done, expanding | Cleaned OCR, chapter candidates, JSON indexes, figure/equation/glossary candidates. |
+| `processed/` | Done, expanding | Cleaned OCR, chapter candidates, JSON indexes, figure/equation/glossary candidates, generated annotations, and crosslink indexes. |
 | `analysis/` | Started | Deep commentary by book, chapter, concept, equation, and diagram. |
 | `concepts/` | Started | Repo-native encyclopedia source material. |
 | `math/` | Started | Equation catalogs, derivations, notation translations, worked examples. |
@@ -149,8 +149,8 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `concepts.json` | Started through `processed/concept_index.json`. |
 | `glossary.json` | Started through `processed/glossary_index.json`. |
 | `quotes.json` | Started through `processed/quote_index.json`. |
-| `annotations.json` | Pending. |
-| `crosslinks.json` | Pending. |
+| `annotations.json` | Started through per-source files and generated `processed/annotations_index.json`. |
+| `crosslinks.json` | Started through per-source files and generated `processed/crosslinks_index.json`. |
 
 ## Near-Term Milestone Sequence
 
@@ -162,7 +162,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation and diagram pages. |
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; next step is scan verification. |
-| M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | More material can be processed repeatably with less manual cleanup. |
+| M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | Aggregate annotation and crosslink indexes now generate; next step is stronger parser and page-map refinement. |
 | M8. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
 ## Multi-Author Future Scope
@@ -203,5 +203,5 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 4. Complete second-pass review of original transient figure crops and add cleaned/vector redraws.
 5. Promote the first 12 canonical equation pages with original notation and modern translation.
 6. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
-7. Add `annotations.json` and `crosslinks.json` generation.
+7. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.
