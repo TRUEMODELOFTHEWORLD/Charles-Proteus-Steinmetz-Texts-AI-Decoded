@@ -1,11 +1,11 @@
 {
   "quality_note": "Annotations include manual source notes when present plus generated review aids derived from processing state. Generated annotations are not source claims.",
-  "total_records": 22,
+  "total_records": 34,
   "manual_records": 0,
-  "generated_records": 22,
+  "generated_records": 34,
   "status_counts": {
     "generated-custody-note": 3,
-    "generated-review-aid": 19
+    "generated-review-aid": 31
   },
   "records": [
     {
@@ -215,6 +215,126 @@
       "kind": "glossary-review",
       "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
       "target": "processed/theory-calculation-transient-electric-phenomena-oscillations/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "general-lectures-electrical-engineering-next-action",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/general-lectures-electrical-engineering/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "general-lectures-electrical-engineering-equation-triage",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "kind": "equation-triage",
+      "annotation": "134 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/general-lectures-electrical-engineering/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "general-lectures-electrical-engineering-glossary-review",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/general-lectures-electrical-engineering/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "america-and-new-epoch-next-action",
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "kind": "next-action",
+      "annotation": "Review structural parser; no chapter or lecture records were found.",
+      "target": "/sources/america-and-new-epoch/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "america-and-new-epoch-equation-triage",
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "kind": "equation-triage",
+      "annotation": "21 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/america-and-new-epoch/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "america-and-new-epoch-glossary-review",
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/america-and-new-epoch/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-next-action",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/theory-calculation-electric-apparatus/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-equation-triage",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-electric-apparatus/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-glossary-review",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-electric-apparatus/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "four-lectures-relativity-space-next-action",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/four-lectures-relativity-space/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "four-lectures-relativity-space-equation-triage",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "kind": "equation-triage",
+      "annotation": "170 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/four-lectures-relativity-space/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "four-lectures-relativity-space-glossary-review",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/four-lectures-relativity-space/glossary.json",
       "status": "generated-review-aid",
       "generated": true
     },

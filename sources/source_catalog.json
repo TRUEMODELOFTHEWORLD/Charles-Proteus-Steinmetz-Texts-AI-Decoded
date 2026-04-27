@@ -60,6 +60,46 @@
     "site_path": "/sources/theory-calculation-transient-electric-phenomena-oscillations/"
   },
   {
+    "source_id": "general-lectures-electrical-engineering",
+    "title": "General Lectures on Electrical Engineering",
+    "year": 1908,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; ordinal lecture parser generated candidate catalogs",
+    "internet_archive_id": "generallectureso00steiuoft",
+    "local_raw_file": null,
+    "site_path": "/sources/general-lectures-electrical-engineering/"
+  },
+  {
+    "source_id": "america-and-new-epoch",
+    "title": "America and the New Epoch",
+    "year": 1916,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; custom chapter parser still needed for title-plus-roman chapter style",
+    "internet_archive_id": "americanewepoch00stei",
+    "local_raw_file": null,
+    "site_path": "/sources/america-and-new-epoch/"
+  },
+  {
+    "source_id": "theory-calculation-electric-apparatus",
+    "title": "Theory and Calculation of Electric Apparatus",
+    "year": 1917,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; chapter splits and candidate catalogs generated",
+    "internet_archive_id": "theoryandcalcul04steigoog",
+    "local_raw_file": null,
+    "site_path": "/sources/theory-calculation-electric-apparatus/"
+  },
+  {
+    "source_id": "four-lectures-relativity-space",
+    "title": "Four Lectures on Relativity and Space",
+    "year": 1923,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; lecture splits and candidate catalogs generated",
+    "internet_archive_id": "fourlecturesonre00stei",
+    "local_raw_file": null,
+    "site_path": "/sources/four-lectures-relativity-space/"
+  },
+  {
     "source_id": "commonwealth-edison-generating-system-trouble",
     "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
     "year": null,

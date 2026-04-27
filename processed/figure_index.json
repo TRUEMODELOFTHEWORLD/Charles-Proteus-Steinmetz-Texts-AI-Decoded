@@ -1,12 +1,12 @@
 {
   "quality_note": "Candidate figure records come from OCR. Promoted crops are separate scan-derived assets.",
-  "candidate_total_records": 279,
+  "candidate_total_records": 325,
   "promoted_original_figure_count": 15,
   "status_counts": {
-    "candidate": 279
+    "candidate": 325
   },
   "verification_counts": {
-    "needs-verification": 279
+    "needs-verification": 325
   },
   "candidate_records": [
     {
@@ -4191,6 +4191,696 @@
         "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
         "line_start": 31048,
         "line_end": 31048,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-018",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 18,
+      "caption": "c/ Fig. 18. In Fig. i8 let",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 2725,
+        "line_end": 2725,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-023",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 23,
+      "caption": "saturation. Fig. 23. In a transformer, e. m. f. and exciting current therefore",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 3268,
+        "line_end": 3268,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-024",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 24,
+      "caption": "ment is now most commonly used. Fig. 24 For direct current distribution in larger cities, such generating stations have practically disappeared, and have been",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 4052,
+        "line_end": 4052,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-027",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 27,
+      "caption": "^ Fig. 27 142 - GENERAL LECTURES",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 5129,
+        "line_end": 5129,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-028",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 28,
+      "caption": "over a path of zero resistance, Z. On lower voltage, commonly only two resistances are used, one high and one moderately low, as shown by the diagram of a 2000 volt multi-gap arrester. Fig. 28. The resistance of the discharge path of the present multi- gap arrester therefore is approximately inversely proportional",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 5162,
+        "line_end": 5162,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-030",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 30,
+      "caption": "^ Fig. 30. 2. Acceleration and retardation at two miles per hour per second. Constant speed running between. Fig. 30. Compared",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 5689,
+        "line_end": 5689,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-031",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 31,
+      "caption": "_ Fig. 31. gram i is shown in the same figure 31, for comparison. As seen, with the lower rate of acceleration, the maximum speed",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 5852,
+        "line_end": 5852,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-032",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 32,
+      "caption": "^ g. Fig. 32. mum speed and the lost speed are still greater, that is, the efficiency of the run still lower, and at least 145 seconds",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 5908,
+        "line_end": 5908,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-034",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 34,
+      "caption": "1 Fig. 34. with the speed time curves, is much less, and the power con- sumption therefore is less ; that is, the total efficiency is higher.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 6448,
+        "line_end": 6448,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-035",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 35,
+      "caption": "B Fig. 35. ELECTRIC RAILWAY",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 6649,
+        "line_end": 6649,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-036",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 36,
+      "caption": "_ Fig. 36. be impaired again by carrying this too far. Usually the rheostat is all cut out and the acceleration continues on the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 6859,
+        "line_end": 6859,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-041",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 41,
+      "caption": "^_, Fig. 41. MOTOK CHARACTERISTICS 173",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 8627,
+        "line_end": 8627,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-047",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 47,
+      "caption": "^ Fig. 47. seen, below 3.35 amperes, the total required voltage still",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 10298,
+        "line_end": 10298,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "general-lectures-electrical-engineering-fig-048",
+      "source_id": "general-lectures-electrical-engineering",
+      "source_title": "General Lectures on Electrical Engineering",
+      "figure_number": 48,
+      "caption": "48. The primary coil P and the secondary coil S are movable Fig. 48. with regard to each other (which of the two coils is movable,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "general-lectures-electrical-engineering",
+        "line_start": 10437,
+        "line_end": 10437,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-022",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 22,
+      "caption": "nes, the ) parent Fig. 22. INDUCTION MOTOR 67",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 6685,
+        "line_end": 6685,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-058",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 58,
+      "caption": "which represents the current distribution per phase through the air gap of the induction machine, shown by the diagrams F of Fig. 58. The corresponding flux distribution, $, in Fig. 58, expressed by a trignometric series:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 13533,
+        "line_end": 13533,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-068",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 68,
+      "caption": "In Fig. 68 the drawn tinea correspond to non-inductive bftd The regulation for 45° lagging load is shown by dotted lines in Fig. 68. e'o shows the quadrature component of the monocyclic voltage. e ii, at non-inductive load. That is, the component of e«, which is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 17658,
+        "line_end": 17658,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-128",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 128,
+      "caption": "circuitcd turn, S, as shown in Fig. 128, This gives a periodic variation of the effective reluctance, from ft minimum, shown in Fig. 128, to a maximum in the position shown in dotted lines in Fig. 128. This latter structure is the so-called \"synchronous-induction motor,\" Chapter VIII, which here appears as a special form of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 19586,
+        "line_end": 19586,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-151",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 151,
+      "caption": "P&D Fig. 151. 180. As example are shown, in Fig. 151, with the speed as abscissae, the curves of a single-phase induction motor, having",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 23006,
+        "line_end": 23006,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-153",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 153,
+      "caption": "are connected in series to the stator circuits, entirely different Fig. 153. characteristics result, and the motor no more tends to synchronize nor approaches a definite speed at no-load, as a shunt motor, but",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 23598,
+        "line_end": 23598,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-154",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 154,
+      "caption": ".8 1.0 1.2 1.4 Fig. 154. 1.6",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 23838,
+        "line_end": 23838,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-166",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 166,
+      "caption": "is less than 90\" liehind the primary current, more than 90° ahead of the secondary current, the more so the higher is the inductivity of the secondary circuit, as shown by the transformer diagram, Fig. 166. Herefrom it follows that:",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 24697,
+        "line_end": 24697,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-186",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 186,
+      "caption": "c = c2#2; co#> + #1 = 0; lo = co/i; It = 0. Fig. 186. 7. Series repulsion motor with secondary excitation :",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 26791,
+        "line_end": 26791,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-187",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 187,
+      "caption": "/m Fig. 187. 10. Rotor-excited series motor with conductive compensation :",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 26816,
+        "line_end": 26816,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-188",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 188,
+      "caption": "brush short-circuit c* = 0.04; that is, the same constants as used in the repulsion motor, Fig. 188. Curves are plotted for the voltage ratios; t = 0: inductively compensated series motor, Fig. 189.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 29224,
+        "line_end": 29224,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-192",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 192,
+      "caption": "t = 0.2: series repulsion motor, high-speed, Fig. 190. ( = 0.5: series repulsion motor, medium-speed, Fig. 191. ( = 1.0: repulsion motor with secondary excitation, low-speed, Fig. 192. e",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 29231,
+        "line_end": 29231,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-apparatus-fig-227",
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_title": "Theory and Calculation of Electric Apparatus",
+      "figure_number": 227,
+      "caption": "262. The unipolar machine may be used :i^ motor as well as generator, and has found some application as motor meter. The general principle of a unipolar meter may be illustrated by Fig. 227. The meter shaft, A , with counter, F, is pivoted at P, anil carries the brake disk and conductor, a copper or aluminum disk. D, be-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-apparatus",
+        "line_start": 32127,
+        "line_end": 32127,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-002",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 2,
+      "caption": "M Fig. 2. 18 RELATIVITY AND SPACE",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1012,
+        "line_end": 1012,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-004",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 4,
+      "caption": "M Fig. 4. 22 RELATIVITY AND SPACE",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1207,
+        "line_end": 1207,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-005",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 5,
+      "caption": "none returned to the radiator. Fig. 5. CONCLUSIONS FROM RELATIVITY THEORY 23",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1253,
+        "line_end": 1253,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-006",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 6,
+      "caption": "•^W///y/y/y/////////////'//vy/////////'//^/^^////^>>^ Fig. 6. hour, relative to the track B. Let us denote the distance relative to the train — that is, measured in the train^ — ^by",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1380,
+        "line_end": 1380,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-008",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 8,
+      "caption": "and (2), are very similar to those representing a rotation of Fig. 8. the coordinate axes by an angle tan co = v/c. If it were such",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1695,
+        "line_end": 1695,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-009",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 9,
+      "caption": "r 7' Fig. 9. P1P3' is not the time but a combination of time and length. Inversely, to the second observer P1P3' is the time and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 1729,
+        "line_end": 1729,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-010",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 10,
+      "caption": "R = M. Fig. 10. Let (in Fig. 10) 5 be a body revolving around a point 0. The fundamental law of physics is the law of inertia.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 2580,
+        "line_end": 2580,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-014",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 14,
+      "caption": "<^-<-r) B Fig. 14. constant speed in a straight line, but curves backward, just as it did in Fig. 13 on a 10 per cent up grade at constant",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 2705,
+        "line_end": 2705,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-015",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 15,
+      "caption": "7 ' Fig. 15. standing near the track, shoot a rifle bullet through the car,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 2931,
+        "line_end": 2931,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-016",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 16,
+      "caption": ">Vf Fig. 16. leaves the car, at the point B of the track, it is greater and is v^. Then the angle which the bullet makes relative",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 3004,
+        "line_end": 3004,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-017",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 17,
+      "caption": "until finally, at the extremely high velocity of light, c = Fig. 17. 186,000 miles per second, the hyperbola (6) becomes almost a straight line. Even if the beam of light comes very close",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 3139,
+        "line_end": 3139,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-020",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 20,
+      "caption": "R = j/VK. (15) Fig. 20. E. THE STRAIGHT LINE AND THE ELLIPTIC 2-SPACE",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 4631,
+        "line_end": 4631,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-021",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 21,
+      "caption": "line between them, as Li or L2 — shown dotted in Fig. 21 — Fig. 21. is longer. Suppose we have a straight line L in the plane Fig. 21 and a point P outside of L. Any line drawn in the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 4776,
+        "line_end": 4776,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-025",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 25,
+      "caption": "The mathematical n-space merely is the continuous mani- FiG. 25. fold of oo« elements which are given by the n ratios: x : y :",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 5036,
+        "line_end": 5036,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-029",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 29,
+      "caption": "however, are no part of projective geometry, as they are Fig. 29. made by its relation to infinity and therefore are metric in character : The hyperbola has two infinitely distant points,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 5667,
+        "line_end": 5667,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-030",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 30,
+      "caption": "with regard to a conic, then the line connecting the points Fig. 30. pi and P2 is the polar of the point of intersection of Pi and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 5703,
+        "line_end": 5703,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-031",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 31,
+      "caption": "of these six lines by e = ah, cd;f = ac, hd; g = ad, he, and Fig. 31. draw the three additional lines ef, eg and fg, we get a total of nine lines and four points on each of these nine lines.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 5727,
+        "line_end": 5727,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-032",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 32,
+      "caption": "tant (that is, very far distant) we thus recognize by the Fig. 32. two lines of sight from our eyes to the object having the same direction.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 6025,
+        "line_end": 6025,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "four-lectures-relativity-space-fig-033",
+      "source_id": "four-lectures-relativity-space",
+      "source_title": "Four Lectures on Relativity and Space",
+      "figure_number": 33,
+      "caption": "parallels Li and Lo through a point P — that is, two lines Fig. 33. which intersect L at infinity — and these tvv^o parallels Li and L2 make an angle L1PL2 with each other. Thus L]",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "four-lectures-relativity-space",
+        "line_start": 6078,
+        "line_end": 6078,
         "verification": "needs-verification"
       }
     }

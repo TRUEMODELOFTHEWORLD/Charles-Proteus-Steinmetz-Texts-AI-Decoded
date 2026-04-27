@@ -1,0 +1,184 @@
+[
+  {
+    "id": "theory-calculation-electric-apparatus-fig-022",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 22,
+    "caption": "nes, the ) parent Fig. 22. INDUCTION MOTOR 67",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6685,
+      "line_end": 6685,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-058",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 58,
+    "caption": "which represents the current distribution per phase through the air gap of the induction machine, shown by the diagrams F of Fig. 58. The corresponding flux distribution, $, in Fig. 58, expressed by a trignometric series:",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 13533,
+      "line_end": 13533,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-068",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 68,
+    "caption": "In Fig. 68 the drawn tinea correspond to non-inductive bftd The regulation for 45° lagging load is shown by dotted lines in Fig. 68. e'o shows the quadrature component of the monocyclic voltage. e ii, at non-inductive load. That is, the component of e«, which is",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 17658,
+      "line_end": 17658,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-128",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 128,
+    "caption": "circuitcd turn, S, as shown in Fig. 128, This gives a periodic variation of the effective reluctance, from ft minimum, shown in Fig. 128, to a maximum in the position shown in dotted lines in Fig. 128. This latter structure is the so-called \"synchronous-induction motor,\" Chapter VIII, which here appears as a special form of",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 19586,
+      "line_end": 19586,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-151",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 151,
+    "caption": "P&D Fig. 151. 180. As example are shown, in Fig. 151, with the speed as abscissae, the curves of a single-phase induction motor, having",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 23006,
+      "line_end": 23006,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-153",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 153,
+    "caption": "are connected in series to the stator circuits, entirely different Fig. 153. characteristics result, and the motor no more tends to synchronize nor approaches a definite speed at no-load, as a shunt motor, but",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 23598,
+      "line_end": 23598,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-154",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 154,
+    "caption": ".8 1.0 1.2 1.4 Fig. 154. 1.6",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 23838,
+      "line_end": 23838,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-166",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 166,
+    "caption": "is less than 90\" liehind the primary current, more than 90° ahead of the secondary current, the more so the higher is the inductivity of the secondary circuit, as shown by the transformer diagram, Fig. 166. Herefrom it follows that:",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 24697,
+      "line_end": 24697,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-186",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 186,
+    "caption": "c = c2#2; co#> + #1 = 0; lo = co/i; It = 0. Fig. 186. 7. Series repulsion motor with secondary excitation :",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 26791,
+      "line_end": 26791,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-187",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 187,
+    "caption": "/m Fig. 187. 10. Rotor-excited series motor with conductive compensation :",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 26816,
+      "line_end": 26816,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-188",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 188,
+    "caption": "brush short-circuit c* = 0.04; that is, the same constants as used in the repulsion motor, Fig. 188. Curves are plotted for the voltage ratios; t = 0: inductively compensated series motor, Fig. 189.",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 29224,
+      "line_end": 29224,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-192",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 192,
+    "caption": "t = 0.2: series repulsion motor, high-speed, Fig. 190. ( = 0.5: series repulsion motor, medium-speed, Fig. 191. ( = 1.0: repulsion motor with secondary excitation, low-speed, Fig. 192. e",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 29231,
+      "line_end": 29231,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-fig-227",
+    "source_id": "theory-calculation-electric-apparatus",
+    "figure_number": 227,
+    "caption": "262. The unipolar machine may be used :i^ motor as well as generator, and has found some application as motor meter. The general principle of a unipolar meter may be illustrated by Fig. 227. The meter shaft, A , with counter, F, is pivoted at P, anil carries the brake disk and conductor, a copper or aluminum disk. D, be-",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 32127,
+      "line_end": 32127,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  }
+]

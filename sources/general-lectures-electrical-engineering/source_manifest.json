@@ -1,0 +1,14 @@
+{
+  "source_id": "general-lectures-electrical-engineering",
+  "title": "General Lectures on Electrical Engineering",
+  "author": "Charles Proteus Steinmetz",
+  "editor": "Joseph LeRoy Hayden",
+  "year": 1908,
+  "edition_note": "Second edition OCR seed from Internet Archive item generallectureso00steiuoft.",
+  "public_domain_status": "public domain candidate; verify against scan record",
+  "internet_archive_id": "generallectureso00steiuoft",
+  "source_url": "https://archive.org/details/generallectureso00steiuoft",
+  "ocr_text_path": "processed/general-lectures-electrical-engineering/cleaned_text/internet-archive-ocr.txt",
+  "processing_status": "OCR seeded; ordinal lecture parser generated candidate lecture splits and catalogs",
+  "verification_status": "needs scan verification"
+}

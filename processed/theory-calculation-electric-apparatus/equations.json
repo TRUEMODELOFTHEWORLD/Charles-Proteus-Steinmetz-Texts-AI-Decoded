@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0001",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "2. A resistance material of high positive temperature coeffi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1435,
+      "line_end": 1435,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0002",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "r = r° (1 + aii3). (I)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1449,
+      "line_end": 1449,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0003",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Co = 110;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1454,
+      "line_end": 1454,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0004",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zo = r„+ j\"j:0 =0.1 +0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1457,
+      "line_end": 1457,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0005",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z, = rl+jxl = 0.1 -f 0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1458,
+      "line_end": 1458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0006",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Suppose now a resistance, r, i8 inserted in series into the sec-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1464,
+      "line_end": 1464,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0007",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "but increases so as to double with 100 amp. passing through it.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1469,
+      "line_end": 1469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0008",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "r = r° (1 + i,« 10-*)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1472,
+      "line_end": 1472,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0009",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= 0.1 (1 +»i,10-4),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1473,
+      "line_end": 1473,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0010",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "z,=r, + .3i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1484,
+      "line_end": 1484,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0011",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "r\\ = r, + r<,{l + otV) (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1569,
+      "line_end": 1569,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0012",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= 0.2 (1 + 0.5 if 10-').",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1571,
+      "line_end": 1571,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0013",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e + * - r'i * n. (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1593,
+      "line_end": 1593,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0014",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "gives curve B of Fig. 1. As seen, B gives practically constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1596,
+      "line_end": 1596,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0015",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "3. Assuming, now, that the internal resistance, rlT were made",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1602,
+      "line_end": 1602,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0016",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "as low as possible, tx = 0.05, and the rest added as externa]",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1603,
+      "line_end": 1603,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0017",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "resistance of high temperature coefficient: r\" = 0.05, giving the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1604,
+      "line_end": 1604,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0018",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= 0.1 (1 + 0.5 ir 10\"4).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1608,
+      "line_end": 1608,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0019",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "This gives the same resistance as curve A ; r\\ = 0.1, at light-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1614,
+      "line_end": 1614,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0020",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "For comparison, curve .4' has heen plotted with constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1628,
+      "line_end": 1628,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0021",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "resistance r, = 0.2, so as to compare with B.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1629,
+      "line_end": 1629,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0022",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "standstill, it is: i, = 153; thus r'i = 0.217; while cold, the re-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1637,
+      "line_end": 1637,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0023",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "sistnin-c is: r'i = 0.1. Thjs represents a resistance rise of 117",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1638,
+      "line_end": 1638,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0024",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "per cent. At a temperature coefficient of the resistance of 0.35,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1639,
+      "line_end": 1639,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0025",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "4. Instead of increasing the secondary resistance with increas-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1656,
+      "line_end": 1656,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0026",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "that is, to 8. Hence, the suaceptance is inverse proportional",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1667,
+      "line_end": 1667,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0027",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "V = 6- (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1670,
+      "line_end": 1670,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0028",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= - J = (tan a - j) (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1689,
+      "line_end": 1689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0029",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Assuming tan a = 0.6, which is a fair value for a closed mag-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1699,
+      "line_end": 1699,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0030",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y' = bg (0.6 - j),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1702,
+      "line_end": 1702,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0031",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "6o = 100;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1728,
+      "line_end": 1728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0032",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y0 = 0.02 - 0.2 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1729,
+      "line_end": 1729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0033",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zo = 0.05 + 0.15 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1730,
+      "line_end": 1730,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0034",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zi = 0.05 + 0. 15 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1731,
+      "line_end": 1731,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0035",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "g = 0.6 b;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1739,
+      "line_end": 1739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0036",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z\\ = (0.05 + 0.11 s) + 0.335 js. (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1744,
+      "line_end": 1744,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0037",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "the same as would be produced in 7\" by increasing the voltage",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1883,
+      "line_end": 1883,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0038",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y6 = .oa-.9j: Z, -.05+155. e,-100",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1913,
+      "line_end": 1913,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0039",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "6. Assuming that, instead of using a well-laminated magnetic",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1973,
+      "line_end": 1973,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0040",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "&' = 6- (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 1987,
+      "line_end": 1987,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0041",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y'-g-j-- (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2003,
+      "line_end": 2003,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0042",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= Ai + — ^-i-A + 3 /«»i + -™-nr Y (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2012,
+      "line_end": 2012,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0043",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "g = b. (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2020,
+      "line_end": 2020,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0044",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "*'• = (ri + 6TiT>)) + * (*' + 1 ( r+ *>) • <14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2026,
+      "line_end": 2026,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0045",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e0 = 100;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2032,
+      "line_end": 2032,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0046",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y0 = 0.03 - 0.3 i;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2033,
+      "line_end": 2033,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0047",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = 0.033 + 0.1 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2034,
+      "line_end": 2034,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0048",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zx = 0.033 + 0.1 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2035,
+      "line_end": 2035,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0049",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "tically constant at 82 per cent, from standstill to fairly close of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2049,
+      "line_end": 2049,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0050",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "8. The standard induction motor is essentially a constant-speed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2321,
+      "line_end": 2321,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0051",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "by armature resistance is, however, that, the motor ceases to D6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2342,
+      "line_end": 2342,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0052",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "(6) By the use of a resistance of very high negative tempera-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2371,
+      "line_end": 2371,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0053",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "10. Speed control by resistance in the armature or secondary",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2433,
+      "line_end": 2433,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0054",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e„ = 110; >'„ = 0.01 - 0.\\j;ZB =0.1 + 0.3 j; Z, = 0.1 +0.3J",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2454,
+      "line_end": 2454,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0055",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "torque curve of the motor with short-circuited secondary, r = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2458,
+      "line_end": 2458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0056",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Fio. 6. — Variation of resistance of pyro-cleotric conductor, with current.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2549,
+      "line_end": 2549,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0057",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "PYRO-ELECTRIC RESISTANCE IN SECONDARY OF INDUCTION MOTOR. «o-1!0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2552,
+      "line_end": 2552,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0058",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y. = .01-.1; . Zc-A+.3j : Z, = .1 + .3j : r-a,4.6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2554,
+      "line_end": 2554,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0059",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "jni'iea-cil secondary resistance: ■> where ri = 0.1 in the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2613,
+      "line_end": 2613,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0060",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "As seen from Fig. 7, very close constant-speed regulation is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2626,
+      "line_end": 2626,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0061",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "11. The reactance of a condenser is inverse proportional to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2641,
+      "line_end": 2641,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0062",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = r0 + jxo = primary self-inductive impedance;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2664,
+      "line_end": 2664,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0063",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "k = 2*yc <»",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2671,
+      "line_end": 2671,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0064",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z{ = n+j («xx - *) (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2678,
+      "line_end": 2678,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0065",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/l= \"w ' kvti=~r~^=~^ (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2684,
+      "line_end": 2684,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0066",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= E (di - ja2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2688,
+      "line_end": 2688,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0067",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "C2 = \" ■",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2698,
+      "line_end": 2698,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0068",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "m = ri2 + (sxi — j",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2702,
+      "line_end": 2702,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0069",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "same as that of the standard motor.1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2709,
+      "line_end": 2709,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0070",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "c2 = jr — j- (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2739,
+      "line_end": 2739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0071",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "T = e2ax",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2745,
+      "line_end": 2745,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0072",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "T = srie02",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2749,
+      "line_end": 2749,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0073",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "8X1 + 8X0 = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2772,
+      "line_end": 2772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0074",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "* - J— I— (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2777,
+      "line_end": 2777,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0075",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "and so = 1, that is, the motor gives maximum torque near",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2782,
+      "line_end": 2782,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0076",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "k = xq + xi. (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2785,
+      "line_end": 2785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0077",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "13. As instances are shown, in Fig. 8, the speed-torque curves",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2787,
+      "line_end": 2787,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0078",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "r0 = 0.01 - 0.1./,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2790,
+      "line_end": 2790,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0079",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = Zi = 0.1 + 0.3 j,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2792,
+      "line_end": 2792,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0080",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "it = 0, 0.012, 0.048, 0.096, 0.192, 0.3, 0.6— denoted respectively",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2803,
+      "line_end": 2803,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0081",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y0=.01-.1i: Z0-.l+-3j; Z.-.1+.3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2827,
+      "line_end": 2827,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0082",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "16. Considering now the change of motor constants when",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 2968,
+      "line_end": 2968,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0083",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Za = r0 + jx0, Za = r„ + j'xo.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3035,
+      "line_end": 3035,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0084",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "17. As numerical instance may be considered a 60-cycle 100-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3184,
+      "line_end": 3184,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0085",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Four poles, 1800 rev.:Z0 = n + jxQ = 0.1 + 0.3 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3413,
+      "line_end": 3413,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0086",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zx = ri+jxt -0.1 + 0.3j; Y, = g - jb = 0.01 - 0.05 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3415,
+      "line_end": 3415,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0087",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Six poles, 1200 rev. :Z0 = U + jx0 = 0.15 + 0.45 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3416,
+      "line_end": 3416,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0088",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zx -= n + jxi = 0.15 + 0.45 j; Y0 = g -jb = 0.0067 - 0.0667 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3417,
+      "line_end": 3417,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0089",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Eight poles, 900 rev. : Z„ = r0 + jx„ = 0.2 + 0.6 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3418,
+      "line_end": 3418,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0090",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zi = r, + jx, = 0.2 + 0.6 j; Y0 = g - jb = 0.005 - 0.1 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3420,
+      "line_end": 3420,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0091",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "18. In an induction motor, a high-resistance low-reactance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3547,
+      "line_end": 3547,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0092",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "19. In the calculation of the standard induction motor, it is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3620,
+      "line_end": 3620,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0093",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "$2 = true induced vpltage in inner squirrel cage, reduced",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3664,
+      "line_end": 3664,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0094",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zi = r2 + jx2 = self-inductive impedance at full frequency,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3668,
+      "line_end": 3668,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0095",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = r0 + jx0 = primary self -inductive impedance, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3684,
+      "line_end": 3684,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0096",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "*8ee \"Electric Circuits\", Chapter XII. Reactance of Induction",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3687,
+      "line_end": 3687,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0097",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "E, = Et + jx, h- (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3721,
+      "line_end": 3721,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0098",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "E - E,+jx,Ut + h)- (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3723,
+      "line_end": 3723,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0099",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "E0 = E + Z„f„. (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3725,
+      "line_end": 3725,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0100",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "reactance voltage of this squirrel cage, in (5), thus is jxt (ft + /»).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3729,
+      "line_end": 3729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0101",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Oi = 1 !",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3764,
+      "line_end": 3764,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0102",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "as = * (- H h — 1 I",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3768,
+      "line_end": 3768,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0103",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "-R(*i+jW, (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3775,
+      "line_end": 3775,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0104",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "6i = <*\\9 + Oa6'v",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3779,
+      "line_end": 3779,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0105",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "'•-*£ + £(1+i?)+*-+*} (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3783,
+      "line_end": 3783,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0106",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "ci = - H 1- 6i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3793,
+      "line_end": 3793,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0107",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Eo = Ei{ai + jat + (r0 + jx0) (c, + jc,) }",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3804,
+      "line_end": 3804,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0108",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= & (* + jdi), (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3805,
+      "line_end": 3805,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0109",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "C = -=*=• (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3817,
+      "line_end": 3817,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0110",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "to = e,\\/ci* + c,*. (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3819,
+      "line_end": 3819,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0111",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "D = D2 + Dh (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3842,
+      "line_end": 3842,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0112",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = (1 - s) Z>. (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3846,
+      "line_end": 3846,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0113",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e22(cidi + c2d2), (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3855,
+      "line_end": 3855,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0114",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Co = 110 volts;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3874,
+      "line_end": 3874,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0115",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zo = 0.1 + 0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3875,
+      "line_end": 3875,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0116",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z, = 0.5 + 0.2 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3876,
+      "line_end": 3876,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0117",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z2 = 0.08 + 0.4 j ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3877,
+      "line_end": 3877,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0118",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "}ro = 0.01 - 0.1 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3878,
+      "line_end": 3878,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0119",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "the speed curves for the range from s = 0 to s = 2, that is, from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3880,
+      "line_end": 3880,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0120",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "s = 0, 0.01, 0.02, 0.05, 0.1, 0.15, 0.2, 0.3,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 3886,
+      "line_end": 3886,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0121",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "a,\\ = 1 >",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4000,
+      "line_end": 4000,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0122",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "b\\ = aig + a26,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4010,
+      "line_end": 4010,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0123",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "c2 = h btt",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4015,
+      "line_end": 4015,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0124",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "d\\ = a\\ + r0Ci — XoCj,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4019,
+      "line_end": 4019,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0125",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "da = a2 + roC2 + XqCi,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4021,
+      "line_end": 4021,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0126",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "to = e* Vci2 + cf,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4032,
+      "line_end": 4032,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0127",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z> = Z>! + Z>2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4034,
+      "line_end": 4034,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0128",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = (1 - s) D,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4036,
+      "line_end": 4036,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0129",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Po = e*1 (cidx + c2d2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4038,
+      "line_end": 4038,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0130",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/o = U + I* + U + Fo#. (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4085,
+      "line_end": 4085,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0131",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "& = #» + J*./., (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4089,
+      "line_end": 4089,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0132",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "tf i = #* + jx, (It + /•), (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4091,
+      "line_end": 4091,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0133",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "# = #i + J'x, (/, + /, + /,), (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4093,
+      "line_end": 4093,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0134",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "#o - # + Zo/o, (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4095,
+      "line_end": 4095,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0135",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "where x3 is the reactance due to the flux leakage between the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4097,
+      "line_end": 4097,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0136",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= #3 (ai + ja2)i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4123,
+      "line_end": 4123,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0137",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "d\\ = 1 — - —",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4131,
+      "line_end": 4131,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0138",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "E = Es\\ai+ jai + r:' («. + jo*) + 3 ^ (l + 3 ?) + 3 ?",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4165,
+      "line_end": 4165,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0139",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= ^3(6i+j62), (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4167,
+      "line_end": 4167,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0140",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= #3 (&i + j6«) (g - jfc)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4193,
+      "line_end": 4193,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0141",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= #3(Cj +JC2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4195,
+      "line_end": 4195,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0142",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "C\\ = feigr + 626,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4199,
+      "line_end": 4199,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0143",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "c2 = 62g — 616,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4200,
+      "line_end": 4200,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0144",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "di = ai H 1 h Ci",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4215,
+      "line_end": 4215,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0145",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "a2 = - a2 + ■ — t f2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4221,
+      "line_end": 4221,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0146",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zo/o = #3 (di + jrf2) (r0 + ix0)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4225,
+      "line_end": 4225,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0147",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= #3(/, +#2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4227,
+      "line_end": 4227,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0148",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/j = r0di — Xo^2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4233,
+      "line_end": 4233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0149",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/2 = f(K*2 T\" Xo«l",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4235,
+      "line_end": 4235,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0150",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "#o = #3 (6i + jbt + /i + jf«)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4244,
+      "line_end": 4244,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0151",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= ^3 (j/i + jg2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4245,
+      "line_end": 4245,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0152",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "(/j = 6i + /i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4247,
+      "line_end": 4247,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0153",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "(Jz = b2 + /2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4248,
+      "line_end": 4248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0154",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "U = ez Vrfi8 + _dS, (25)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4284,
+      "line_end": 4284,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0155",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e* =e3yJl+ ***?> (26)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4286,
+      "line_end": 4286,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0156",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e, = e3 Va,2 + a**- (27)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4288,
+      "line_end": 4288,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0157",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "D, = *?-; (28)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4292,
+      "line_end": 4292,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0158",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "z>2 = *ea2; (29)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4296,
+      "line_end": 4296,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0159",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "0, = s- '*; (30)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4301,
+      "line_end": 4301,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0160",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "D = D, + D2 + D3, (31)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4305,
+      "line_end": 4305,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0161",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = (1 - s) Z>, (32)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4309,
+      "line_end": 4309,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0162",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= <?32 (dtfi + rf2</2), (33)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4315,
+      "line_end": 4315,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0163",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Q = «oio. (34)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4319,
+      "line_end": 4319,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0164",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e0 = 110 volts;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4334,
+      "line_end": 4334,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0165",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = 0.1 +0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4335,
+      "line_end": 4335,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0166",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z, = 0.8 + 0.1 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4336,
+      "line_end": 4336,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0167",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z2 = 0.2 + 0.3 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4337,
+      "line_end": 4337,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0168",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z3 = 0.05 + 0.8 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4338,
+      "line_end": 4338,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0169",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "I'o = 0.01 - 0.1 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4339,
+      "line_end": 4339,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0170",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "the speed curves are shown from « = 0 to « = 2, and on them,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4501,
+      "line_end": 4501,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0171",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "s = 0, 0.01, 0.02, 0.05, 0.1, 0.15, 0.20, 0.30,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4508,
+      "line_end": 4508,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0172",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "6l = Ol -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4526,
+      "line_end": 4526,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0173",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/1 = rodi — Xodj,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4563,
+      "line_end": 4563,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0174",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/2 = rodt + Xodi,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4565,
+      "line_end": 4565,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0175",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "9\\ = bi + /1,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4566,
+      "line_end": 4566,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0176",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "to = ez y/dx2 + dsS",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4582,
+      "line_end": 4582,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0177",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "** = \"2 (x + v1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4584,
+      "line_end": 4584,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0178",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "ei* = ez2 (ax2 + a.2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4586,
+      "line_end": 4586,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0179",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "D = !>! + D2 + /)3,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4603,
+      "line_end": 4603,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0180",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = (1 - s) D,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4604,
+      "line_end": 4604,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0181",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Pa = ez2 (rfififi + d202),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4605,
+      "line_end": 4605,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0182",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Q = <?o* 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4606,
+      "line_end": 4606,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0183",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "* = u. 5, Thai is, the second motor reaches its synchronism at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4638,
+      "line_end": 4638,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0184",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "In reality, at half synchronism, s = 0.5, there is a slight torque",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4649,
+      "line_end": 4649,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0185",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Fig. 18, with low-resistance armature, and in Fig. 19, with high",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4745,
+      "line_end": 4745,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0186",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "; a = — = ratio of poles, (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4763,
+      "line_end": 4763,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0187",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Se = £ (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4769,
+      "line_end": 4769,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0188",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "5'. - £ (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4773,
+      "line_end": 4773,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0189",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "S- (1-«)S0- U-«)£ (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4778,
+      "line_end": 4778,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0190",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": ".Z_(1_.)/.(«,.L=i)/f",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4796,
+      "line_end": 4796,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0191",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "s' = 8 (1 + a) - a. (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4802,
+      "line_end": 4802,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0192",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "« = ^ (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4807,
+      "line_end": 4807,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0193",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "So0 = (1 - so) I (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4815,
+      "line_end": 4815,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0194",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "n = W = 4,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 4825,
+      "line_end": 4825,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0195",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "1 * \"\" PT+ fix>\\ - ?;+j\\MV+ a) - a] x\\ = e(fll \" Ja'^ (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5012,
+      "line_end": 5012,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0196",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/'00 - eY' = e (g' - jb'),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5045,
+      "line_end": 5045,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0197",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/os/i = /] + /' 00",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5064,
+      "line_end": 5064,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0198",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e (bi - j6a)>",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5066,
+      "line_end": 5066,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0199",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "bt = a* + 6',",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5069,
+      "line_end": 5069,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0200",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z = Z/ + ZV - (n + r'0) + js (*, + x'0),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5082,
+      "line_end": 5082,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0201",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e (ci + jc2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5104,
+      "line_end": 5104,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0202",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "c% = (xj + x'o) 6i -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5116,
+      "line_end": 5116,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0203",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e (di - jd2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5134,
+      "line_end": 5134,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0204",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "di = C\\Q + c»6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5137,
+      "line_end": 5137,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0205",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "-«(fi-ifi), (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5155,
+      "line_end": 5155,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0206",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/i = 61 + di",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5159,
+      "line_end": 5159,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0207",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "$0 = -Fi + £0/0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5169,
+      "line_end": 5169,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0208",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "-«(0i+J0t), (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5171,
+      "line_end": 5171,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0209",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "0i = Ci + ro/i + X0/2 i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5181,
+      "line_end": 5181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0210",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "02 = Ci + X0/1 — r0/2>",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5182,
+      "line_end": 5182,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0211",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "eo - e VST+'fifi*. (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5188,
+      "line_end": 5188,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0212",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e = 77-^Y Y (24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5191,
+      "line_end": 5191,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0213",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "to - e VP~+'f22 = e0 Jfll *-h]\\",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5200,
+      "line_end": 5200,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0214",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e2 (fig 1 - /202)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5206,
+      "line_end": 5206,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0215",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "7\\ = /#„ /o/'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5222,
+      "line_end": 5222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0216",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= C2 (C1/1 - C2/2),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5224,
+      "line_end": 5224,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0217",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "35. As instances are calculated, and shown in Fig. 18, the speed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5237,
+      "line_end": 5237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0218",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= Z', = 0.1 + 0.3.).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5364,
+      "line_end": 5364,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0219",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "!e with an additional resistance r = 0.5 inserted",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5371,
+      "line_end": 5371,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0220",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zo = r0+ jxa,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5496,
+      "line_end": 5496,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0221",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z = Z„ + Z, = (r0 + ri) + j (xn + x,)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5500,
+      "line_end": 5500,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0222",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "1\" = 2 >\\",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5508,
+      "line_end": 5508,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0223",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z' = 2 Z;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5519,
+      "line_end": 5519,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0224",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y\" = 3 7,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5534,
+      "line_end": 5534,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0225",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z\" = 3 Z,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5535,
+      "line_end": 5535,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0226",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "0\" = y\"z\"",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5539,
+      "line_end": 5539,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0227",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "small — as for instance a 100-hp. 60-cycle motor for 90 revolu-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5579,
+      "line_end": 5579,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0228",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Impressed voltage: ea = 500.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5592,
+      "line_end": 5592,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0229",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Primary exciting admittance: Ya = 0.02 — 0.6 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5594,
+      "line_end": 5594,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0230",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Primary self-inductive impedance: Zu = 0.1 + 0.3j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5596,
+      "line_end": 5596,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0231",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Secondary self-inductive impedance: Zi = 0.1 + 0.3 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5598,
+      "line_end": 5598,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0232",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Y0 = 0.01 -O.lj,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5616,
+      "line_end": 5616,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0233",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "1. Passing a direct current through the rotor for excitation.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5736,
+      "line_end": 5736,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0234",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "effective frequency,/ — (1 — s) / = sf, that is, the frequency of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5748,
+      "line_end": 5748,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0235",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z,' = n+j («i- 7)'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5863,
+      "line_end": 5863,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0236",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "For s — 0, Zj* = o° , that is, the motor has no power at or near",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5870,
+      "line_end": 5870,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0237",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "8Xi = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5874,
+      "line_end": 5874,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0238",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "and by varying the capacity reactance, x2, various values of reson-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5898,
+      "line_end": 5898,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0239",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "l'\"» = 8 — jk = primiiry exciting admittance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5940,
+      "line_end": 5940,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0240",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = r« -f jxn = primary self-inductive impe-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5943,
+      "line_end": 5943,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0241",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "r0 is the armature resistance and xa the armature self-inductive",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5962,
+      "line_end": 5962,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0242",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "6, the exciting snsoeptance, is the magnetizing armature",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 5982,
+      "line_end": 5982,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0243",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Exciting admittance: 70 = g — jb,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6004,
+      "line_end": 6004,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0244",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Primary self-inductive impedance: Z0 ■= r0 + jx<>,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6006,
+      "line_end": 6006,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0245",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Armature resistance: r0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6012,
+      "line_end": 6012,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0246",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Synchronous impedance: x = Xo + r* (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6014,
+      "line_end": 6014,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0247",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = 2 t»r„ (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6018,
+      "line_end": 6018,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0248",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P - e*g. (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6024,
+      "line_end": 6024,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0249",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "E0 = impressed voltage,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6037,
+      "line_end": 6037,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0250",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "/ = i\\ — 3H = current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6043,
+      "line_end": 6043,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0251",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= # + (n'i + xi2) + j (xt\\ - n2), (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6047,
+      "line_end": 6047,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0252",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= #o - (n'i + xz2) ~ j (xii - ri2), (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6051,
+      "line_end": 6051,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0253",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "g = e = real axis in equation (4),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6055,
+      "line_end": 6055,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0254",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "$o = e0 = real axis in equation (5),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6056,
+      "line_end": 6056,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0255",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "eo2 = (e + ri\\ + xU)2 + (xii — ri2)2 [e = real axis], (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6057,
+      "line_end": 6057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0256",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "02 = (^o — rii + xi2)2 + (xii — ri>2)2 [e0 = real axis]. (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6058,
+      "line_end": 6058,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0257",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "i2 = 0 in equation (7).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6073,
+      "line_end": 6073,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0258",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e2 = (6o ~ rtf + xW (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6076,
+      "line_end": 6076,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0259",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "at no-load, for i\\ = 0, this gives: e = eo, as was to be expected-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6078,
+      "line_end": 6078,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0260",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "ii = ei± 4i ~ ^ (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6110,
+      "line_end": 6110,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0261",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "t, = |- (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6116,
+      "line_end": 6116,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0262",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "For: ij = 0, or at no-load, it is, by (11):",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6118,
+      "line_end": 6118,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0263",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "V = «' - je\", (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6132,
+      "line_end": 6132,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0264",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "and again choosing J5?0 = eo, as the real axis, (5) becomes:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6134,
+      "line_end": 6134,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0265",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "ef — je\" = («o — rii — xi2) - j (xii - n2), (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6136,
+      "line_end": 6136,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0266",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e-oiu (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6142,
+      "line_end": 6142,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0267",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "\" -Pi = U (e0 — ri\\ — xi2) + it (xit — n2), (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6153,
+      "line_end": 6153,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0268",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Pi = cot'i - r (tV + it2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6157,
+      "line_end": 6157,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0269",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= Po - n2, (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6159,
+      "line_end": 6159,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0270",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "to - eb, (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6168,
+      "line_end": 6168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0271",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "hence, the i2r loss in the field; of resistance, ri.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6170,
+      "line_end": 6170,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0272",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "iVn - «Wri. (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6172,
+      "line_end": 6172,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0273",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P' = eoV (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6177,
+      "line_end": 6177,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0274",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= Po— i2r — t'oV] — e2g",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6191,
+      "line_end": 6191,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0275",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "= e0ii — i2r — 6*ft*ri — e2g, (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6192,
+      "line_end": 6192,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0276",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "44. Considering, as instance, a typical good induction motor,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6197,
+      "line_end": 6197,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0277",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Co = 500 volts;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6200,
+      "line_end": 6200,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0278",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "7o = 0.01 -O.lj;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6201,
+      "line_end": 6201,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0279",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = 0.1 + 0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6202,
+      "line_end": 6202,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0280",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Zi = 0.lJ+j0.3j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6203,
+      "line_end": 6203,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0281",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z - r+jx = 0.1 + 10.3 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6214,
+      "line_end": 6214,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0282",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Po = e0ii = 500 i\\.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6230,
+      "line_end": 6230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0283",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "in armature resistance: 0.1 ii2;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6233,
+      "line_end": 6233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0284",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "in field resistance: 0.001 e2;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6234,
+      "line_end": 6234,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0285",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "P = 500 ii - 2.5 - 0.1 ii2 - 0.001 e2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6240,
+      "line_end": 6240,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0286",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Yo-.OI-.U Z,=.l+.3j",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6272,
+      "line_end": 6272,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0287",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e0= 500 . Z0 -.1 + -3J.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6482,
+      "line_end": 6482,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0288",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Fig. 24: u = 48.5 - V9410 - u*;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6558,
+      "line_end": 6558,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0289",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Fig. 25: i, = 48.5 - V58,800 - t,».",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6560,
+      "line_end": 6560,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0290",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Q = e0i;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6572,
+      "line_end": 6572,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0291",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "As seen from Firs. 24 and 25, the constants of the motor as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6585,
+      "line_end": 6585,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0292",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Yo = .01-.1i Zi-.l + .3;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6597,
+      "line_end": 6597,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0293",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "(I =..14-10.3;)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6599,
+      "line_end": 6599,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0294",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "-Load curves at constant excitation 5 e, of standard",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6659,
+      "line_end": 6659,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0295",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "45. As further instance, consider the conversion into a syn-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6689,
+      "line_end": 6689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0296",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e0 = 500;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6693,
+      "line_end": 6693,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0297",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "y„ = 0.02 - 0.6 j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6694,
+      "line_end": 6694,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0298",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z0 = 0.1 +0.3j;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6695,
+      "line_end": 6695,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0299",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "Z = 0.1 + 1,97 j.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6811,
+      "line_end": 6811,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-apparatus-eq-candidate-0300",
+    "source_id": "theory-calculation-electric-apparatus",
+    "original_form": "e = 1.5 en",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-apparatus",
+      "line_start": 6818,
+      "line_end": 6818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

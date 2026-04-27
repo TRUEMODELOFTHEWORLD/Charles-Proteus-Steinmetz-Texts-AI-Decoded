@@ -71,6 +71,10 @@ export default defineConfig({
               ]
             },
             { label: 'Theoretical Elements', slug: 'sources/theoretical-elements-electrical-engineering' },
+            { label: 'General Lectures', slug: 'sources/general-lectures-electrical-engineering' },
+            { label: 'Electric Apparatus', slug: 'sources/theory-calculation-electric-apparatus' },
+            { label: 'America and the New Epoch', slug: 'sources/america-and-new-epoch' },
+            { label: 'Relativity and Space', slug: 'sources/four-lectures-relativity-space' },
             { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
           ]
         },

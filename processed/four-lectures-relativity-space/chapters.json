@@ -1,0 +1,62 @@
+[
+  {
+    "id": "four-lectures-relativity-space-lecture-01",
+    "source_id": "four-lectures-relativity-space",
+    "kind": "lecture",
+    "sequence": 1,
+    "number": 1,
+    "roman": "I",
+    "title": "General",
+    "line_start": 275,
+    "line_end": 735,
+    "text_path": "processed/four-lectures-relativity-space/cleaned_text/lecture-01.md",
+    "summary": "",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-lecture-02",
+    "source_id": "four-lectures-relativity-space",
+    "kind": "lecture",
+    "sequence": 2,
+    "number": 2,
+    "roman": "II",
+    "title": "Conclusions From The Relativity Theory",
+    "line_start": 736,
+    "line_end": 2388,
+    "text_path": "processed/four-lectures-relativity-space/cleaned_text/lecture-02.md",
+    "summary": "",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-lecture-03",
+    "source_id": "four-lectures-relativity-space",
+    "kind": "lecture",
+    "sequence": 3,
+    "number": 3,
+    "roman": "III",
+    "title": "Gravitation And The Gravitational Fleld",
+    "line_start": 2389,
+    "line_end": 3594,
+    "text_path": "processed/four-lectures-relativity-space/cleaned_text/lecture-03.md",
+    "summary": "",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-lecture-04",
+    "source_id": "four-lectures-relativity-space",
+    "kind": "lecture",
+    "sequence": 4,
+    "number": 4,
+    "roman": "IV",
+    "title": "The Characteristics Of Space A. The Geometry Of The Gravitational Field",
+    "line_start": 3595,
+    "line_end": 6820,
+    "text_path": "processed/four-lectures-relativity-space/cleaned_text/lecture-04.md",
+    "summary": "",
+    "concept_tags": [],
+    "status": "candidate"
+  }
+]

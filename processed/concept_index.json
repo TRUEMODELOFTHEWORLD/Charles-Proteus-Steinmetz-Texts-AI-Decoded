@@ -5,8 +5,14 @@
     {
       "id": "light",
       "label": "Light",
-      "total_occurrence_count_in_ocr": 1711,
+      "total_occurrence_count_in_ocr": 2194,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -17,6 +23,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 8,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 156,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 310,
           "status": "seeded"
         },
         {
@@ -38,6 +56,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 17,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 24,
@@ -45,14 +69,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "frequency",
       "label": "Frequency",
-      "total_occurrence_count_in_ocr": 1073,
+      "total_occurrence_count_in_ocr": 1767,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -63,6 +93,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 25,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 8,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 143,
           "status": "seeded"
         },
         {
@@ -84,6 +126,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 543,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 380,
@@ -91,14 +139,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "radiation",
       "label": "Radiation",
-      "total_occurrence_count_in_ocr": 856,
+      "total_occurrence_count_in_ocr": 936,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -109,6 +163,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 6,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 74,
           "status": "seeded"
         },
         {
@@ -130,6 +196,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 36,
@@ -137,14 +209,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "illumination",
       "label": "Illumination",
-      "total_occurrence_count_in_ocr": 632,
+      "total_occurrence_count_in_ocr": 735,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -155,6 +233,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 102,
           "status": "seeded"
         },
         {
@@ -176,6 +266,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 0,
@@ -183,14 +279,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "wave-length",
       "label": "Wave length",
-      "total_occurrence_count_in_ocr": 195,
+      "total_occurrence_count_in_ocr": 223,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -201,6 +303,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 23,
           "status": "seeded"
         },
         {
@@ -222,6 +336,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 109,
@@ -229,14 +349,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "spectrum",
       "label": "Spectrum",
-      "total_occurrence_count_in_ocr": 130,
+      "total_occurrence_count_in_ocr": 164,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -247,6 +373,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 29,
           "status": "seeded"
         },
         {
@@ -268,48 +406,8 @@
           "status": "seeded"
         },
         {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 6
-      }
-    },
-    {
-      "id": "luminescence",
-      "label": "Luminescence",
-      "total_occurrence_count_in_ocr": 84,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 84,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -321,60 +419,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
-      }
-    },
-    {
-      "id": "brilliancy",
-      "label": "Brilliancy",
-      "total_occurrence_count_in_ocr": 69,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 69,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
       "id": "arc-lamp",
       "label": "Arc lamp",
-      "total_occurrence_count_in_ocr": 64,
+      "total_occurrence_count_in_ocr": 87,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -385,6 +443,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 23,
           "status": "seeded"
         },
         {
@@ -406,6 +476,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 2,
@@ -413,14 +489,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
-      "id": "refraction",
-      "label": "Refraction",
-      "total_occurrence_count_in_ocr": 30,
+      "id": "luminescence",
+      "label": "Luminescence",
+      "total_occurrence_count_in_ocr": 85,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -434,9 +516,21 @@
           "status": "seeded"
         },
         {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
           "source_id": "radiation-light-and-illumination",
           "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 19,
+          "occurrence_count_in_ocr": 84,
           "status": "seeded"
         },
         {
@@ -452,21 +546,173 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 11,
+          "occurrence_count_in_ocr": 0,
           "status": "seeded"
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
+      }
+    },
+    {
+      "id": "brilliancy",
+      "label": "Brilliancy",
+      "total_occurrence_count_in_ocr": 73,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 4,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 69,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 10
+      }
+    },
+    {
+      "id": "ether",
+      "label": "Ether",
+      "total_occurrence_count_in_ocr": 70,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 60,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 9,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 10
       }
     },
     {
       "id": "velocity-of-light",
       "label": "Velocity of light",
-      "total_occurrence_count_in_ocr": 23,
+      "total_occurrence_count_in_ocr": 58,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -477,6 +723,18 @@
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
           "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 32,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 3,
           "status": "seeded"
         },
         {
@@ -498,6 +756,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 5,
@@ -505,14 +769,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
-      "id": "light-flux-density",
-      "label": "Light flux density",
-      "total_occurrence_count_in_ocr": 19,
+      "id": "refraction",
+      "label": "Refraction",
+      "total_occurrence_count_in_ocr": 33,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -522,6 +792,158 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 19,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 11,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 10
+      }
+    },
+    {
+      "id": "electric-waves",
+      "label": "Electric waves",
+      "total_occurrence_count_in_ocr": 19,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 16,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 10
+      }
+    },
+    {
+      "id": "light-flux-density",
+      "label": "Light flux density",
+      "total_occurrence_count_in_ocr": 19,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -544,48 +966,8 @@
           "status": "seeded"
         },
         {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 6
-      }
-    },
-    {
-      "id": "electric-waves",
-      "label": "Electric waves",
-      "total_occurrence_count_in_ocr": 18,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 2,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 16,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -597,7 +979,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -606,6 +988,12 @@
       "total_occurrence_count_in_ocr": 15,
       "sources": [
         {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -614,6 +1002,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -636,6 +1036,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 0,
@@ -643,7 +1049,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -651,6 +1057,12 @@
       "label": "Dielectric constant",
       "total_occurrence_count_in_ocr": 13,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -660,6 +1072,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -682,6 +1106,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 7,
@@ -689,7 +1119,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -697,6 +1127,12 @@
       "label": "Refractive index",
       "total_occurrence_count_in_ocr": 12,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -706,6 +1142,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -728,48 +1176,8 @@
           "status": "seeded"
         },
         {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 6
-      }
-    },
-    {
-      "id": "ether",
-      "label": "Ether",
-      "total_occurrence_count_in_ocr": 9,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 9,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -781,7 +1189,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -790,6 +1198,12 @@
       "total_occurrence_count_in_ocr": 9,
       "sources": [
         {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -798,6 +1212,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -820,6 +1246,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 0,
@@ -827,7 +1259,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -835,6 +1267,12 @@
       "label": "Magnetic permeability",
       "total_occurrence_count_in_ocr": 7,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -844,6 +1282,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -862,6 +1312,12 @@
         {
           "source_id": "theory-calculation-alternating-current-phenomena",
           "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -873,7 +1329,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     },
     {
@@ -881,6 +1337,12 @@
       "label": "Ultra-red radiation",
       "total_occurrence_count_in_ocr": 1,
       "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -890,6 +1352,18 @@
         {
           "source_id": "engineering-mathematics",
           "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -912,6 +1386,12 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
           "occurrence_count_in_ocr": 0,
@@ -919,7 +1399,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 6
+        "seeded": 10
       }
     }
   ]

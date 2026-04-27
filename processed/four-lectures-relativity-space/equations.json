@@ -1,0 +1,2552 @@
+[
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0001",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "5000 millions respectively. The highest cosmic velocity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 785,
+      "line_end": 785,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0002",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "distance, 200 kilometers per second. The shortening of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 787,
+      "line_end": 787,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0003",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "line has a wave length of 3 X lO^V^O cm. = 5000 km. Its",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1224,
+      "line_end": 1224,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0004",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "c = ~7E=^ = 3 X IQio cm.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1272,
+      "line_end": 1272,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0005",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "moving with the velocity v, for instance, at 60 miles per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1374,
+      "line_end": 1374,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0006",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "value — that is, assume x = 0, t = 0, x' = 0, t' = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1388,
+      "line_end": 1388,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0007",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "1. Since x'i' has relative to xi the velocity f, it is, for a;' = 0:ax — bt = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1458,
+      "line_end": 1458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0008",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "0 = av j '",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1464,
+      "line_end": 1464,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0009",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "x(a^ — avq — 1) + avt{p — a) = 0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1483,
+      "line_end": 1483,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0010",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "tip\"^ — avq — 1) — qx{p — a) = 0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1484,
+      "line_end": 1484,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0011",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "x' = a{x — vt) 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1495,
+      "line_end": 1495,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0012",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "3. From the constancy of the velocity of light it follows, that ,if :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1501,
+      "line_end": 1501,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0013",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "i' = ^= or i = ^= (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1526,
+      "line_end": 1526,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0014",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "3. The distance, at a given time, between two points Pi",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1575,
+      "line_end": 1575,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0015",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "from the train^ — is U = X2' — Xi ; in track coordinates —",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1577,
+      "line_end": 1577,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0016",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "appear as L = 0, that is, would vanish, while at a velocity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1600,
+      "line_end": 1600,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0017",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "between the same events is T = to — ti. However, by (2) :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1611,
+      "line_end": 1611,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0018",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Fig. 7, where for convenience we chose t = 0 for x = 0. The",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1657,
+      "line_end": 1657,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0019",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "extended body like our railway train would at time t = 0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1663,
+      "line_end": 1663,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0020",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "the time i\\\\ that is, the length of the train is L = X\\— X2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1680,
+      "line_end": 1680,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0021",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "The equations relating x, t, to x', t', given by equations (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1691,
+      "line_end": 1691,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0022",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "The distance X2 — Xi (that is, the distance between the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1751,
+      "line_end": 1751,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0023",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "s^ = (X2 - x^y + {u -hy = (xo' - xi'Y + {k - uY =s'^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1762,
+      "line_end": 1762,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0024",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "{X2 - xi)2 - c\\U -hy = (x./ - Xi'Y - c\\t,' - h'Y, (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1772,
+      "line_end": 1772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0025",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "(1) and (2), is that time and distance are given in different",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1780,
+      "line_end": 1780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0026",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "w = ct (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1814,
+      "line_end": 1814,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0027",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "1 The value of the use of time measure for the distance, or the distance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1818,
+      "line_end": 1818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0028",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "*S^ = (0:2 — Xi)^ — {w-i — WiY =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1882,
+      "line_end": 1882,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0029",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "{x,' - x,y - {w,' - w.'Y (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1884,
+      "line_end": 1884,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0030",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "u = jet', (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1894,
+      "line_end": 1894,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0031",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "x' = —r==l or: X = ~. (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1904,
+      "line_end": 1904,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0032",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "^2 = {X2 - x,y ^ iu2 - u,y ^ {x^' - xy'y + {u,' - wy",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1921,
+      "line_end": 1921,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0033",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "S'- = (x, - x,y + (i/2 - yiY + (22 - z,y + {U2 - u^y =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 1997,
+      "line_end": 1997,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0034",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "imaginary unit. But the distance S — equation (9)^ — is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2013,
+      "line_end": 2013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0035",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "the sun at grazing distance at 200 km. per second would",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2148,
+      "line_end": 2148,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0036",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "light— by (3) and (4), L = 0 and T = oo. That is, on",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2182,
+      "line_end": 2182,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0037",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "cent that of light, Vi = 0.9c, and a second body moving",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2199,
+      "line_end": 2199,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0038",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "with the same velocity, but in opposite direction, V2 = 0.9c.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2200,
+      "line_end": 2200,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0039",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "be V = Vi -{- V2 = 1.8c, or greater than the velocity of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2202,
+      "line_end": 2202,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0040",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "and V2 to get the resultant velocity. This is the law of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2205,
+      "line_end": 2205,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0041",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "V2 (for instance, I walk forward in the train with the veloc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2220,
+      "line_end": 2220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0042",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "ity ^2) . What is the resultant velocity^ — ^that is, the relative",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2221,
+      "line_end": 2221,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0043",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "velocity V2, it is Xi = v^h, and substituting this in the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2249,
+      "line_end": 2249,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0044",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "„ = 5 = 'llAjH (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2252,
+      "line_end": 2252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0045",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "If then vx = 0.9c and V2 = 0.9c, v = 1.8c/1.81 = 0.9945c;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2259,
+      "line_end": 2259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0046",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "add to a resultant velocity 99.45 per cent of the velocity",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2261,
+      "line_end": 2261,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0047",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "This energy, for y = 0, or the mass at rest, becomes:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2320,
+      "line_end": 2320,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0048",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "energy of mass,\" is £\"00 = mc''-.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2345,
+      "line_end": 2345,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0049",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "3,400,000 kgm. (kilogram-meters) or about 10 kw.-hr.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2350,
+      "line_end": 2350,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0050",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "The kinetic energy of 1 kg. weight of matter, Eq = mc^,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2367,
+      "line_end": 2367,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0051",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "however, is about 9000 millions of millions of kilogram-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2368,
+      "line_end": 2368,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0052",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F = HP (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2426,
+      "line_end": 2426,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0053",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F=KQ, (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2441,
+      "line_end": 2441,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0054",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F = gN, (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2449,
+      "line_end": 2449,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0055",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F = CR, (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2458,
+      "line_end": 2458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0056",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "W = Mvy2, (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2471,
+      "line_end": 2471,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0057",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "a = F/M, (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2478,
+      "line_end": 2478,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0058",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "W = Mvy2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2549,
+      "line_end": 2549,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0059",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Let (in Fig. 11) C be a railway car standing still on a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2632,
+      "line_end": 2632,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0060",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Suppose now (in Fig. 12) the car moves at constant veloc-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2640,
+      "line_end": 2640,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0061",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "grade at constant speed y, as shown in Fig. 13. If I now",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2674,
+      "line_end": 2674,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0062",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "component of the force of gravity, due to the grade p = 10",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2681,
+      "line_end": 2681,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0063",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "per cent, and the acceleration thus is a = 0.1^ = 2.2 miles",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2690,
+      "line_end": 2690,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0064",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "a = 2.2 miles per hour per second, as shown in Fig. 14. If",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2696,
+      "line_end": 2696,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0065",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "as it did in Fig. 13 on a 10 per cent up grade at constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2708,
+      "line_end": 2708,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0066",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F^ ^ Ma; (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2795,
+      "line_end": 2795,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0067",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Fc = Mvyi (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2800,
+      "line_end": 2800,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0068",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "F^ = -Ma, (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2810,
+      "line_end": 2810,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0069",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Fo = -Mvyi (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2818,
+      "line_end": 2818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0070",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= M {jvY/l (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2824,
+      "line_end": 2824,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0071",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "instance, a negative force, as in equation (10). A \"nega-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2839,
+      "line_end": 2839,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0072",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Let (in Fig. 15) i? be a railway car moving at constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 2904,
+      "line_end": 2904,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0073",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "at A and is tan C02 = Vijv^ (thus being greater) when the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3009,
+      "line_end": 3009,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0074",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "CO = CO 2 — COi. (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3061,
+      "line_end": 3061,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0075",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "C02 = V^/C",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3067,
+      "line_end": 3067,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0076",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "CO = (^2 — Vi)/C. (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3077,
+      "line_end": 3077,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0077",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Vi - Vi = gt; (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3082,
+      "line_end": 3082,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0078",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "co= gt/c (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3087,
+      "line_end": 3087,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0079",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "'^^- (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3098,
+      "line_end": 3098,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0080",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Thus, let (in Fig. 17) *S be the sun. At a distance from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3115,
+      "line_end": 3115,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0081",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "at 100,000,000 miles distance) this body describes a circle",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3118,
+      "line_end": 3118,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0082",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "C = ird. (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3189,
+      "line_end": 3189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0083",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "C>7rd. (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3210,
+      "line_end": 3210,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0084",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "C<ird. (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3232,
+      "line_end": 3232,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0085",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "space (1), at great distance from masses, to elliptical space",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3431,
+      "line_end": 3431,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0086",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "then, would be equal to about 4 X 10^^ cubic miles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3457,
+      "line_end": 3457,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0087",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R^ = 2/Kp,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3467,
+      "line_end": 3467,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0088",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "2/K = 1.08 X 20\" cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3469,
+      "line_end": 3469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0089",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Assuming the average distance between the fixed stars as 40 light-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3471,
+      "line_end": 3471,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0090",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "P = 3 X 10-\".",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3476,
+      "line_end": 3476,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0091",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = 1026 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3479,
+      "line_end": 3479,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0092",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= 60 X 1020 miles",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3481,
+      "line_end": 3481,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0093",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= 100,000,000 light-years.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3482,
+      "line_end": 3482,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0094",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= 400,000,000 light-years,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3485,
+      "line_end": 3485,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0095",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "V = 2w^R'^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3487,
+      "line_end": 3487,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0096",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= 4 X 10^3 cubic miles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3489,
+      "line_end": 3489,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0097",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "The expression 4 X 10*^^ does not look so formidable,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3495,
+      "line_end": 3495,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0098",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "cents. How long would it take to count 4 X 10^^ cents",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3497,
+      "line_end": 3497,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0099",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "4 X 10^^ cents, would not be so large as an acorn is compared",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3521,
+      "line_end": 3521,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0100",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Thus it is impossible to get a conception of 4 X 10'^^; to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3524,
+      "line_end": 3524,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0101",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "1 If the density of the body is p = 1, and this body fills the entire universe,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3574,
+      "line_end": 3574,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0102",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R^ = 1.08 X 10\" cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3577,
+      "line_end": 3577,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0103",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = S& X 10>2 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3578,
+      "line_end": 3578,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0104",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "= 225,000,000 miles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3579,
+      "line_end": 3579,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0105",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "conditions: C = ird, > 7r(iand<7rd.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 3774,
+      "line_end": 3774,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0106",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "analogy with two-dimensional spaces, or 2-spaces. We can",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4176,
+      "line_end": 4176,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0107",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "the same characteristic constant as the elliptic 2-space, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4387,
+      "line_end": 4387,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0108",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "1 - C/27rr (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4439,
+      "line_end": 4439,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0109",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "diameter, the quantity (1) is not constant, but depends on",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4445,
+      "line_end": 4445,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0110",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "/vi = 1/R, (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4501,
+      "line_end": 4501,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0111",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "A% = I/R1R2. (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4526,
+      "line_end": 4526,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0112",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "It can be shown that the characteristic constant (2) of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4528,
+      "line_end": 4528,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0113",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "is the characteristic constant of the 2-space or the curvature",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4534,
+      "line_end": 4534,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0114",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = VR1R2 = -^ (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4549,
+      "line_end": 4549,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0115",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "I = 27rR (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4554,
+      "line_end": 4554,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0116",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "A = 4x7^2 (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4564,
+      "line_end": 4564,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0117",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "V = 4.ir'R'/S ' (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4568,
+      "line_end": 4568,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0118",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "In Euclidean space, K = 0, thus R = co ] that is, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4572,
+      "line_end": 4572,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0119",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Elliptic 2-space, therefore, is a surface having constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4579,
+      "line_end": 4579,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0120",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = l/VK. (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4583,
+      "line_end": 4583,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0121",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": ";, |,. + ,. + (,_ _l.y 1 = 1. („)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4590,
+      "line_end": 4590,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0122",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "For K = 0 this gives :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4592,
+      "line_end": 4592,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0123",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "z = 0; (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4594,
+      "line_end": 4594,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0124",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "K {x' + y' + 2^) = 1. (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4601,
+      "line_end": 4601,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0125",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = l/VK. (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4605,
+      "line_end": 4605,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0126",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "R = j/VK. (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4628,
+      "line_end": 4628,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0127",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "dimension, for instance into the Euclidean 3-space (our",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4654,
+      "line_end": 4654,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0128",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "elliptic 3-space of the same constant, and seen from this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4682,
+      "line_end": 4682,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0129",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "instance, in bending the plane Fig. 21 I stretch it at some",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4856,
+      "line_end": 4856,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0130",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "p, ^ ^^. (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 4960,
+      "line_end": 4960,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0131",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "P4 = r — I 1 1 ' (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5013,
+      "line_end": 5013,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0132",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "3-space of the same characteristic constant as that of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5364,
+      "line_end": 5364,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0133",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "1 Thus for instance, all the forces in physical space form a six-dimen-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5381,
+      "line_end": 5381,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0134",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "0 by a plane P = OL. To the points p of E thus corre-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5402,
+      "line_end": 5402,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0135",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "other words, the characteristic constant of the 2-space 0 is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5455,
+      "line_end": 5455,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0136",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "liU] that is, the angle ^1^2. Thus \"distance\" or \"length\"",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5465,
+      "line_end": 5465,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0137",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "after traversing the angle 27r, Since the \"length\" in our",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5487,
+      "line_end": 5487,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0138",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "characteristic constant K = 1/R^. As in the bundle 0 the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5496,
+      "line_end": 5496,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0139",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "bundle it is i^ = 1; thus K = 1. That is, the bundle 0 is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5498,
+      "line_end": 5498,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0140",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "an elliptic 2-space of characteristic constant or curvature 1.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5499,
+      "line_end": 5499,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0141",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "C = 2t sin r,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5547,
+      "line_end": 5547,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0142",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "bundle 0, by using the ray — that is, the line- — -as element",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5568,
+      "line_end": 5568,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0143",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "elliptic, of characteristic constant or ''curvature\" 1, there is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5575,
+      "line_end": 5575,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0144",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Euclidean 3-space, since when unrelated to an Euclidean",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5582,
+      "line_end": 5582,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0145",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "parallels in 0. The infinitely distant points of E project",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5591,
+      "line_end": 5591,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0146",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "In many respects this elliptic 2-space, derived by using",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5603,
+      "line_end": 5603,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0147",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "are tangents of the conic at the point pi and p2 respectively.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5692,
+      "line_end": 5692,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0148",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "i = 1 and 2 for 2-space, 1, 2 and 3 for 3-space, 1.2 — n for",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5974,
+      "line_end": 5974,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0149",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "^§2 _ p{dx^ = independent of Xi]",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5977,
+      "line_end": 5977,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0150",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "ds^ = Qidxi^ + g2dx2^ + gsdx^^ + giidxidx^ + g^zdxidxz +",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 5989,
+      "line_end": 5989,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0151",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "us the distance of 0. If 0 is further away, the lines AiO",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6014,
+      "line_end": 6014,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0152",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "distance of an object 0 in the same manner as in Fig. 32,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6049,
+      "line_end": 6049,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0153",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "light c in the relativity theory, which is finite, c = 3 X 10^''",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6100,
+      "line_end": 6100,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0154",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "' This Fig. 34 shows the two-dimensional analogy of our universe about",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6198,
+      "line_end": 6198,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0155",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "combinations exist which have no analogy in 2-space and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6208,
+      "line_end": 6208,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0156",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "limits the completeness of the 2-space analogies with 3-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6210,
+      "line_end": 6210,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0157",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Action at distance, 19",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6267,
+      "line_end": 6267,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0158",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Analogue, 2 dimensional, of uni-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6271,
+      "line_end": 6271,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0159",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "constant of space, 81",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6299,
+      "line_end": 6299,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0160",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Constant, characteristic, of space, 81",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6316,
+      "line_end": 6316,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0161",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Distance between two events, 32",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6339,
+      "line_end": 6339,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0162",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Electricity, constancy of speed, 4",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6350,
+      "line_end": 6350,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0163",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "illogical, 18",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6396,
+      "line_end": 6396,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0164",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Inductance and wave velocity, 23",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6499,
+      "line_end": 6499,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0165",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Light, constancy of speed, 4",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6531,
+      "line_end": 6531,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0166",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "cosmic, 59",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6607,
+      "line_end": 6607,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0167",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Simultaneousness of events, 28",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6668,
+      "line_end": 6668,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0168",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "Singular points and lines in space, 90",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6669,
+      "line_end": 6669,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0169",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": "two-dimensional analogue of, 119",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6725,
+      "line_end": 6725,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "four-lectures-relativity-space-eq-candidate-0170",
+    "source_id": "four-lectures-relativity-space",
+    "original_form": ", plates. 24 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "four-lectures-relativity-space",
+      "line_start": 6770,
+      "line_end": 6770,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

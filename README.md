@@ -148,8 +148,9 @@ It writes dashboard data for sources, concepts, equations, figures, glossary ter
 
 The archive now includes:
 
-- Seven source records in `sources/source_catalog.json`.
+- Eleven source records in `sources/source_catalog.json`.
 - An expanded Steinmetz bibliography intake manifest for additional books, lecture collections, pamphlets, and papers.
+- Four additional Internet Archive OCR seeds: _General Lectures on Electrical Engineering_, _America and the New Epoch_, _Theory and Calculation of Electric Apparatus_, and _Four Lectures on Relativity and Space_.
 - A seeded Steinmetz patent register for the Wikipedia-listed examples, with the full 200-plus patent catalog marked as an authority-pass milestone.
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.

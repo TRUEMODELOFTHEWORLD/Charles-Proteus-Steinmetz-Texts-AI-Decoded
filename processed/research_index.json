@@ -1,6 +1,6 @@
 {
   "quality_note": "Repository-wide index of processed source custody and candidate review state.",
-  "source_count": 7,
+  "source_count": 11,
   "sources": [
     {
       "source_id": "radiation-light-and-illumination",
@@ -399,6 +399,262 @@
       },
       "promoted_original_figure_count": 6,
       "next_action": "Triage candidate equations into canonical, false positive, and needs-review groups."
+    },
+    {
+      "source_id": "general-lectures-electrical-engineering",
+      "title": "General Lectures on Electrical Engineering",
+      "year": 1908,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; ordinal lecture parser generated candidate catalogs",
+      "internet_archive_id": "generallectureso00steiuoft",
+      "local_raw_file": null,
+      "site_path": "/sources/general-lectures-electrical-engineering/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 17,
+      "record_counts": {
+        "chapters": 17,
+        "concepts": 20,
+        "equations": 134,
+        "figures": 14,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 17
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 134
+        },
+        "figures": {
+          "candidate": 14
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 17
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 134
+        },
+        "figures": {
+          "needs-verification": 14
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "title": "America and the New Epoch",
+      "year": 1916,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; custom chapter parser still needed for title-plus-roman chapter style",
+      "internet_archive_id": "americanewepoch00stei",
+      "local_raw_file": null,
+      "site_path": "/sources/america-and-new-epoch/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 0,
+      "record_counts": {
+        "chapters": 0,
+        "concepts": 20,
+        "equations": 21,
+        "figures": 0,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {},
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 21
+        },
+        "figures": {},
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {},
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 21
+        },
+        "figures": {},
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Review structural parser; no chapter or lecture records were found."
+    },
+    {
+      "source_id": "theory-calculation-electric-apparatus",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "year": 1917,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter splits and candidate catalogs generated",
+      "internet_archive_id": "theoryandcalcul04steigoog",
+      "local_raw_file": null,
+      "site_path": "/sources/theory-calculation-electric-apparatus/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 22,
+      "record_counts": {
+        "chapters": 22,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 13,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 22
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 13
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 22
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 13
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "four-lectures-relativity-space",
+      "title": "Four Lectures on Relativity and Space",
+      "year": 1923,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; lecture splits and candidate catalogs generated",
+      "internet_archive_id": "fourlecturesonre00stei",
+      "local_raw_file": null,
+      "site_path": "/sources/four-lectures-relativity-space/",
+      "raw_file_count": 1,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 4,
+      "record_counts": {
+        "chapters": 4,
+        "concepts": 20,
+        "equations": 170,
+        "figures": 19,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 4
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 170
+        },
+        "figures": {
+          "candidate": 19
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 4
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 170
+        },
+        "figures": {
+          "needs-verification": 19
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
     },
     {
       "source_id": "commonwealth-edison-generating-system-trouble",

@@ -21,7 +21,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | --- | --- |
 | Public site | Astro/Starlight documentation site with GitHub Pages deployment workflow. |
 | Live URL | https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/ |
-| Seeded Steinmetz records | Seven source records in `sources/source_catalog.json`. |
+| Seeded Steinmetz records | Eleven source records in `sources/source_catalog.json`. |
 | Expanded bibliography intake | `sources/steinmetz_bibliography_manifest.json` maps the current Wikipedia works list into seeded, planned, and verification-needed records. |
 | Patent intake | `sources/steinmetz_patents/patent_register.json` seeds the Wikipedia-listed patent examples and marks the full 200-plus patent catalog as an authority-pass milestone. |
 | First canonical source | `Radiation, Light and Illumination` by Charles Proteus Steinmetz. |
@@ -38,8 +38,8 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Build a GitHub repo and public knowledge base | Done | Repo structure, Pages workflow, and public site are in place. |
 | Preserve raw sources, OCR, scans, metadata, and checksums | Started | First source and multi-source records exist. More checksum and custody work is needed source by source. |
 | Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, diagrams, first deep lecture page, figures, concepts, and equations. |
-| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, and Commonwealth Edison are seeded. |
-| Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog. |
+| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded. |
+| Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
 | Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, and a candidate Steinmetz hysteresis-law page now exist; scan verification and worked examples continue. |

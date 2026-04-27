@@ -34,6 +34,29 @@ LECTURE_ROMANS = {
     "XV": 15,
 }
 
+ORDINAL_LECTURES = {
+    "FIRST": 1,
+    "SECOND": 2,
+    "THIRD": 3,
+    "FOURTH": 4,
+    "FIFTH": 5,
+    "SIXTH": 6,
+    "SEVENTH": 7,
+    "EIGHTH": 8,
+    "NINTH": 9,
+    "TENTH": 10,
+    "ELEVENTH": 11,
+    "TWELFTH": 12,
+    "THIRTEENTH": 13,
+    "FOURTEENTH": 14,
+    "FIFTEENTH": 15,
+    "SIXTEENTH": 16,
+    "SEVENTEENTH": 17,
+    "EIGHTEENTH": 18,
+    "NINETEENTH": 19,
+    "TWENTIETH": 20,
+}
+
 
 def parse_roman(value: str) -> int | None:
     if value in LECTURE_ROMANS:
@@ -129,6 +152,14 @@ def find_body_start(lines: list[str]) -> int:
         return lecture_i[1]
     if lecture_i:
         return lecture_i[0]
+    first_lecture = [
+        i for i, line in enumerate(lines)
+        if re.match(r"^\s*FIRST\s+LECTURE\.?\b", line, re.I)
+    ]
+    if len(first_lecture) >= 2:
+        return first_lecture[1]
+    if first_lecture:
+        return first_lecture[0]
     chapter_i = [
         i for i, line in enumerate(lines)
         if re.match(r"^\s*CHAPTER\s+I\.?\b", line, re.I)
@@ -158,25 +189,42 @@ def clean_heading_title(value: str) -> str:
 def extract_headings(lines: list[str], body_start: int) -> list[Heading]:
     headings: list[Heading] = []
     heading_re = re.compile(r"^(LECTURE|CHAPTER)\s+([IVXLCDMH]+)\.?\s*(.*)$")
+    ordinal_lecture_re = re.compile(
+        r"^(FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH|"
+        r"ELEVENTH|TWELFTH|THIRTEENTH|FOURTEENTH|FIFTEENTH|SIXTEENTH|"
+        r"SEVENTEENTH|EIGHTEENTH|NINETEENTH|TWENTIETH)\s+LECTURE\b\.?\s*(.*)$",
+        re.I,
+    )
     for index in range(body_start, len(lines)):
         line = lines[index].strip()
         match = heading_re.match(line)
-        if not match:
+        ordinal_match = ordinal_lecture_re.match(line)
+        if not match and not ordinal_match:
             continue
-        kind = match.group(1).lower()
-        roman = match.group(2).upper().replace("H", "II")
-        parsed = parse_roman(roman)
-        if parsed is None:
-            continue
+        if match:
+            kind = match.group(1).lower()
+            roman = match.group(2).upper().replace("H", "II")
+            parsed = parse_roman(roman)
+            inline = match.group(3)
+            if parsed is None:
+                continue
+        else:
+            kind = "lecture"
+            ordinal = ordinal_match.group(1).upper()
+            parsed = ORDINAL_LECTURES[ordinal]
+            roman = str(parsed)
+            inline = ordinal_match.group(2)
         title_parts: list[str] = []
-        inline_title = clean_heading_title(match.group(3))
+        inline_title = clean_heading_title(inline)
         if inline_title and not re.match(r"^\d+$", inline_title):
             title_parts.append(inline_title)
-        for lookahead in range(index + 1, min(index + 6, len(lines))):
+        for lookahead in range(index + 1, min(index + 10, len(lines))):
             candidate = lines[lookahead].strip(" .")
             if not candidate:
                 if title_parts:
                     break
+                continue
+            if re.search(r"[\\<>]|LABORATORY", candidate, re.I):
                 continue
             if re.match(r"^\d+\.", candidate):
                 break

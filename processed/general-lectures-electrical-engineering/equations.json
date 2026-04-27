@@ -1,0 +1,2012 @@
+[
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0001",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "In England and on the continent, 50 cycles is standard",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 240,
+      "line_end": 240,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0002",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "The frequencies of 125 to 140 cycles, which were standard",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 245,
+      "line_end": 245,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0003",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "standard frequencies, 25 and 60 cycles, come into considera-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 268,
+      "line_end": 268,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0004",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "instance t6; the economy — for instance 3.1 watts for hori-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 327,
+      "line_end": 327,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0005",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "and 2600, as in step-down transformers a constant ratio of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 360,
+      "line_end": 360,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0006",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "sively, while in England, for instance, 220 volt lamps are",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 368,
+      "line_end": 368,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0007",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "For instance, in a 2 x 120 voltage distribution, the station",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 659,
+      "line_end": 659,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0008",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "instance, if by the potential wires a drop of voltage below 120",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 687,
+      "line_end": 687,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0009",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "mils is one-tenth the resistance of a conductor of 100,000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 745,
+      "line_end": 745,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0010",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of a wire No. 7, and therefore one-eighth (the resistance;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 752,
+      "line_end": 752,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0011",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "but the wire No. 000 has a reactance of .109 ohms per 1000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 753,
+      "line_end": 753,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0012",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "feet, the wire No. 7 has a reactance of .133 oms, or only 1.22",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 754,
+      "line_end": 754,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0013",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "times as large. Hence, while in the wire No. 7, the reactance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 755,
+      "line_end": 755,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0014",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "at 60 cycles, is only .266 times the resistance and therefore not",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 756,
+      "line_end": 756,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0015",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of serious importance, in a wire No. 000 the reactance is 1.76",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 757,
+      "line_end": 757,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0016",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of No. ooo; but the reactance of one conductor No. ooo is .109",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 772,
+      "line_end": 772,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0017",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "ohms, and so 1.88 times as great as the reactance of two con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 773,
+      "line_end": 773,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0018",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Assuming as an instance a connected load of twenty 16",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 820,
+      "line_end": 820,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0019",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "larger than necessary. At 3% coreloss, this gives a constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 858,
+      "line_end": 858,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0020",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "transmission system are used to supply a 2200 single-phase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1132,
+      "line_end": 1132,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0021",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "2. Three- WiRS Direct Current or Singi^e-Phase iio-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1228,
+      "line_end": 1228,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0022",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "gives 4 X ; = jg or altogether ^ + ^ = jg of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1259,
+      "line_end": 1259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0023",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "In a 1 10 volt single-phase system the voltage from line to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1328,
+      "line_end": 1328,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0024",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "or glof 4 = 24 » ^^'^ so gives a total copper economy of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1440,
+      "line_end": 1440,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0025",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "8. Three-Wire Single-Phase Lighting with Three-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1447,
+      "line_end": 1447,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0026",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "copper of No. 5, or j of ;j = ^: Cu. = ^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1459,
+      "line_end": 1459,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0027",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Fife. 13. Single-Phase Llfehtlnfe and Three-Phnse Power.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1471,
+      "line_end": 1471,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0028",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LOAD FACTOR AND COST OF POWER 53",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1607,
+      "line_end": 1607,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0029",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "For instance, Fig. 14 shows an approximate load curve",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1884,
+      "line_end": 1884,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0030",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LOAD FACTOR AND COST OF POWER 55",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 1888,
+      "line_end": 1888,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0031",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "shape shown in Fig. 16: fairly constant from the opening",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2338,
+      "line_end": 2338,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0032",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LOAD FACTOR AND COST OF POWER 57",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2345,
+      "line_end": 2345,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0033",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LOAD FACTOR AND COST OF POWER 59",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2535,
+      "line_end": 2535,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0034",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "volts is most common for shorter distances, as 10 to 20 miles,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2590,
+      "line_end": 2590,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0035",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "up to distances of 50 to 60 miles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2608,
+      "line_end": 2608,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0036",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "at — 7| = 57% of full voltage.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2629,
+      "line_end": 2629,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0037",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LONG DISTANCE TRANSMISSION 65",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2644,
+      "line_end": 2644,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0038",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "and costs 10% less; but copper has a permanent value, while",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2681,
+      "line_end": 2681,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0039",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "2 d = distance between conductor centres.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2731,
+      "line_end": 2731,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0040",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LONG DISTANCE TRANSMISSION 67",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2750,
+      "line_end": 2750,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0041",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "^ = 100,000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2774,
+      "line_end": 2774,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0042",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "e = 100,000 R or E = 100,000 D, as the voltage where",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2778,
+      "line_end": 2778,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0043",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "diameter = 2 R, and E is the voltage between the conductors",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2789,
+      "line_end": 2789,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0044",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "For instance, wire No. 0000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2793,
+      "line_end": 2793,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0045",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "D = .46\" ; corona effects begin at the voltage E = 100,000 [)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2795,
+      "line_end": 2795,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0046",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "D^ = 46,000. ' '",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2796,
+      "line_end": 2796,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0047",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "D= ? =1\"",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2801,
+      "line_end": 2801,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0048",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "For instance, in a 100,000 volt transformer or line, from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2822,
+      "line_end": 2822,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0049",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LONG DISTANCE TRANSMISSION 69",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 2842,
+      "line_end": 2842,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0050",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "For instance, if we have 20,000 volts supplied to a circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3000,
+      "line_end": 3000,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0051",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "having a resistance of 10 ohms and a capacity reactance of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3002,
+      "line_end": 3002,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0052",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "V^io* + 1000' = 1000 and the current in the circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3006,
+      "line_end": 3006,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0053",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "— = 20 amperes.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3010,
+      "line_end": 3010,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0054",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "If now in addition to the 10 ohms resistance and 1000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3014,
+      "line_end": 3014,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0055",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "ohms capacity reactance, the circuit contains 1000 ohms",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3016,
+      "line_end": 3016,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0056",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "1000 — 1000 = o ohms, and the impedance is the same as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3020,
+      "line_end": 3020,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0057",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "the resistance, or 10 ohms. The current therefore — = ~r =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3023,
+      "line_end": 3023,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0058",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LONG DISTANCE TRANSMISSION 73",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3026,
+      "line_end": 3026,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0059",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "capacity reactance times amperes = 2,000,000 volts, and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3029,
+      "line_end": 3029,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0060",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "for instance 10% of full load current; that is, full load voltage",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3038,
+      "line_end": 3038,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0061",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "With a line reactance of 20%, 20% or ^ of full load",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3043,
+      "line_end": 3043,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0062",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "reactance; the capacity reactance therefore is about 50 times",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3046,
+      "line_end": 3046,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0063",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "inductive reactance about 50 times greater than the line",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3049,
+      "line_end": 3049,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0064",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "capacity reactance also takes about 10% of full load current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3057,
+      "line_end": 3057,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0065",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "This may occur for instance in transformer connection 2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3086,
+      "line_end": 3086,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0066",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "also in T connection, Fig. 2.2, if for instance the low tension",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3100,
+      "line_end": 3100,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0067",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "LONG DISTANCE TRANSMISSION 75",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3105,
+      "line_end": 3105,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0068",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "connection No. 6; since in this case, when using two trans-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3121,
+      "line_end": 3121,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0069",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "3rd. The armature reaction of a single-phase machine",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3206,
+      "line_end": 3206,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0070",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "The resultant armature reaction of a pol3rphase machine",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3210,
+      "line_end": 3210,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0071",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "If m == number of phases, the higher harmonics : 2m — i",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3222,
+      "line_end": 3222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0072",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "4th. The terminal voltage under load is the resultant of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3225,
+      "line_end": 3225,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0073",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "third harmonic of e. m. f . of 3 x 20 = 60% ; the e. m. f. being",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3282,
+      "line_end": 3282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0074",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of a sine wave by 50% and more, thus giving high insulation",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3299,
+      "line_end": 3299,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0075",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "and their third harmonics are 3 x 120° = 360° apart, that is, in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3305,
+      "line_end": 3305,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0076",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "circuit is 2 X 80 = 160 miles — conductor and return conductor,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3620,
+      "line_end": 3620,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0077",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "2 X 160 = 320 miles long, and the duration of the wave is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3622,
+      "line_end": 3622,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0078",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "2g3 QQQ = ^ seconds; the frequency 587 cycles, and if this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3624,
+      "line_end": 3624,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0079",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "as for instance, lOO feet = ^230 ~ 52^ miles wave length,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3633,
+      "line_end": 3633,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0080",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Assuming for instance a 44,ocx) volt transmission line of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3673,
+      "line_end": 3673,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0081",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "— ' — = 25,000. If now somewhere in the middle of this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3679,
+      "line_end": 3679,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0082",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "i5ioo + ^ + n^ + Wo = ^ -ond, so giving a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 3728,
+      "line_end": 3728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0083",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Instance : 80 beats per minute, 10 intermissions per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 4459,
+      "line_end": 4459,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0084",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "instance, a generator may make 75 revolutions per minute,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 4469,
+      "line_end": 4469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0085",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "to hunting so that if the resistance drop is more than 10% to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 4573,
+      "line_end": 4573,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0086",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "finds a discharge path of moderate resistance R2, and so dis-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5155,
+      "line_end": 5155,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0087",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "4. Long distance and trunk line railroading.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5360,
+      "line_end": 5360,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0088",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "time of the run, of 130 seconds, and constant distance between",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5573,
+      "line_end": 5573,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0089",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "consumed by the brakes is given by the speed E F = 34.5 miles",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5580,
+      "line_end": 5580,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0090",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "second. Constant speed running between. Fig. 30. Compared",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5692,
+      "line_end": 5692,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0091",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "3. Constant acceleration of one mile per hour per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5717,
+      "line_end": 5717,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0092",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "4. Constant acceleration and braking of one mile per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 5860,
+      "line_end": 5860,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0093",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "- = -;5 -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 7432,
+      "line_end": 7432,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0094",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "rotation thus drops still further, as seen in Fig. 41. Since the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 8047,
+      "line_end": 8047,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0095",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "tion : armature turns m to field turns n = 2 -4- i ; and at this",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 8744,
+      "line_end": 8744,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0096",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "No = 2 N, it must be twice ; at double synchronism :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9104,
+      "line_end": 9104,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0097",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "No = 2 N, it must be one-half the main field.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9105,
+      "line_end": 9105,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0098",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "At half synchronism, No = 2 ^' ^^^ transformer field of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9181,
+      "line_end": 9181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0099",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "the commutating field required Fo = 2 F, and the short cir-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9183,
+      "line_end": 9183,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0100",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "At double synchronism : No = 2 N, the transformer field",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9188,
+      "line_end": 9188,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0101",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "is F* = 2 F, while the commutation field should be:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9189,
+      "line_end": 9189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0102",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Fo = 2 ^» ^^^ the transformer field thus is four times larger",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9190,
+      "line_end": 9190,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0103",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Closing switch 2, and leaving i and all others open, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9324,
+      "line_end": 9324,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0104",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Closing switch 3, or 4, 5 . . . and leaving all others",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9327,
+      "line_end": 9327,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0105",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "containing water is 1.4 + the tr drop in the resistance of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9382,
+      "line_end": 9382,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0106",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "2CI + H2O = CIH + ClOH, that is, hydrochloric + hypo-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9480,
+      "line_end": 9480,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0107",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "6C1 + 3H2O = 5CIH +C108H, that is hydrochloric and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9488,
+      "line_end": 9488,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0108",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of carbides, CO therefore always forms and not CO2, since",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9587,
+      "line_end": 9587,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0109",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "is, up to 35oo°C, when using carbon.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9624,
+      "line_end": 9624,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0110",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "CaO + 3C = CaC^ + CO.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9636,
+      "line_end": 9636,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0111",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "SiO^ -f 3C = SiC + 2CO.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9650,
+      "line_end": 9650,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0112",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "SiOa + 20 = Si + 2CO.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9664,
+      "line_end": 9664,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0113",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "SiOa -f 2SiC = 3Si + 2CO.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9668,
+      "line_end": 9668,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0114",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "T1O2 + 3C = TiC + 2CO.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9673,
+      "line_end": 9673,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0115",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "greater than the cost of the lamp, when distributed over 500",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9720,
+      "line_end": 9720,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0116",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "life of 500 hours; since obviously any efficiency can be pro-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9728,
+      "line_end": 9728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0117",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "16 x .79 = 12.6 c. p., and at an efficiency of 3.1 watts per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9753,
+      "line_end": 9753,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0118",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "potential, for instance on 80 volts — which would correspond",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9932,
+      "line_end": 9932,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0119",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "the current, and a resistance of 8 ohms inserted in series to the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9952,
+      "line_end": 9952,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0120",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Fig. 47. The voltage consumed by the arc plus the resistance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 9954,
+      "line_end": 9954,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0121",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Fig. 47, is reached, at which for decreasing current the arc",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 10322,
+      "line_end": 10322,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0122",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "stability curve IV. For instance, at 4 amperes, the arc cannot",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 10329,
+      "line_end": 10329,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0123",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "machine necessarily must be a small unit, since 100 to 150",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 10414,
+      "line_end": 10414,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0124",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "to 80 volts per lamp are used ; in the alternating current titan-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 10672,
+      "line_end": 10672,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0125",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "power of 5 X 10* K. W. Estimating the energy of the discharge,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12171,
+      "line_end": 12171,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0126",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "10V5 X 10* = 2 x 10\"* sec, or two-millionths of a second.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12174,
+      "line_end": 12174,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0127",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "discharge of 2 x 10*' seconds, assuming two half- waves as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12185,
+      "line_end": 12185,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0128",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "length of a discharge of 500,000 cycles is ^qq'qqq = g miles,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12193,
+      "line_end": 12193,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0129",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "assuming for instance saturated air at 40° C mixing with air",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12230,
+      "line_end": 12230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0130",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "Average energy of the discharge: 10,000 K. W. sec., or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12259,
+      "line_end": 12259,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0131",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "3. Standing waves, or oscillations or surges, similar to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12299,
+      "line_end": 12299,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0132",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "circuit and the ground. Assuming for instance in a 500 volt",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12693,
+      "line_end": 12693,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0133",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "to about 6cK) volts per cell. Assuming for instance an alumi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12733,
+      "line_end": 12733,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "general-lectures-electrical-engineering-eq-candidate-0134",
+    "source_id": "general-lectures-electrical-engineering",
+    "original_form": "of the excess voltage, in this case, 30 volts, and for an instant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "general-lectures-electrical-engineering",
+      "line_start": 12739,
+      "line_end": 12739,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

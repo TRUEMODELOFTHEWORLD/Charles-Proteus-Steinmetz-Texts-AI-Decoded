@@ -1,0 +1,134 @@
+[
+  {
+    "term": "ultra-red",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "infrared",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "ultra-violet",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "ultraviolet",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "wave length",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "wavelength",
+    "occurrence_count_in_ocr": 5,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "electric waves",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "radio-frequency electromagnetic waves, broadly construed",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "brilliancy",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "luminance or perceived brightness, depending on context",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "candle-power",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "luminous intensity in candlepower, historically",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "flux of light",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "luminous flux",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "light flux density",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "illuminance",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "radiant heat",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "thermal radiation; Steinmetz criticizes the phrase as misleading",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "ether",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "historical luminiferous ether or field-bearing medium, context-dependent",
+    "occurrence_count_in_ocr": 60,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "specific high frequency effect",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "biological or chemical effect associated with shorter wavelengths",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  },
+  {
+    "term": "mechanical equivalent of light",
+    "source_id": "four-lectures-relativity-space",
+    "modern_equivalent": "energy-to-light conversion measure in historical photometry",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "",
+    "source_refs": [],
+    "status": "seeded"
+  }
+]
