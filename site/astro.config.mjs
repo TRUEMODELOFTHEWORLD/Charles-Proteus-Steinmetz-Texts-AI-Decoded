@@ -5,7 +5,8 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 export default defineConfig({
-  site: 'https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded',
+  site: 'https://truemodeloftheworld.github.io',
+  base: '/Charles-Proteus-Steinmetz-Texts-AI-Decoded',
   integrations: [
     starlight({
       title: 'Steinmetz Decoded',

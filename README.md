@@ -105,6 +105,23 @@ cd site
 npm run build
 ```
 
+## GitHub Pages
+
+The repository includes `.github/workflows/deploy-pages.yml`, which builds the Astro/Starlight site from `site/` and deploys it with GitHub Actions.
+
+On GitHub, enable Pages once:
+
+1. Open repository **Settings**.
+2. Go to **Pages**.
+3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+4. Push to `main` or run the workflow manually from the **Actions** tab.
+
+The default Pages URL is:
+
+```text
+https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/
+```
+
 ## Processing Pipeline
 
 The first standard-library pipeline script is:
