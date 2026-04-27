@@ -156,6 +156,12 @@ The archive now includes:
 - A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and historical glossary terms.
 - A practical verification queue in `VERIFICATION_QUEUE.md`.
 
+The full requirement and milestone map is maintained in `MASTER_PROJECT_TRACKER.md`, with a public mirror at:
+
+```text
+https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/project-tracker/
+```
+
 ## Current Live-Ready Site Surface
 
 The public site currently builds more than fifty pages, including:
@@ -165,3 +171,4 @@ The public site currently builds more than fifty pages, including:
 - Concept pages for radiation, electric waves, ether, illumination, transients, symbolic method, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, and inductance/capacity.
 - Equation pages for wavelength/frequency, impedance/reactance, admittance, transient terms, and RLC oscillation.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
+- Interactive tools for frequency/wavelength, impedance/reactance, and power factor.

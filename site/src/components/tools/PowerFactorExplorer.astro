@@ -1,0 +1,130 @@
+<div class="tool-shell" data-power-factor-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        RMS voltage
+        <input data-voltage type="range" min="10" max="480" step="1" value="120" />
+      </label>
+      <label>
+        RMS current
+        <input data-current type="range" min="1" max="100" step="1" value="20" />
+      </label>
+      <label>
+        Phase angle in degrees
+        <input data-angle type="range" min="-80" max="80" step="1" value="35" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="320"></canvas>
+  </div>
+</div>
+
+<script>
+  function drawPowerTriangle(canvas, voltage, current, angleDeg) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const apparent = voltage * current;
+    const radians = angleDeg * Math.PI / 180;
+    const real = apparent * Math.cos(radians);
+    const reactive = apparent * Math.sin(radians);
+    const originX = 120;
+    const originY = height / 2;
+    const maxSpan = Math.max(apparent, Math.abs(real), Math.abs(reactive), 1);
+    const scale = (width - 240) / (maxSpan * 1.08);
+    const endX = originX + Math.abs(real) * scale;
+    const endY = originY - reactive * scale;
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = 0; x <= width; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x, 0);
+      ctx.lineTo(x, height);
+      ctx.stroke();
+    }
+    for (let y = 40; y <= height; y += 40) {
+      ctx.beginPath();
+      ctx.moveTo(0, y);
+      ctx.lineTo(width, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(40, originY);
+    ctx.lineTo(width - 40, originY);
+    ctx.moveTo(originX, 32);
+    ctx.lineTo(originX, height - 32);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#a9822a';
+    ctx.lineWidth = 5;
+    ctx.beginPath();
+    ctx.moveTo(originX, originY);
+    ctx.lineTo(endX, originY);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#9b4d32';
+    ctx.lineWidth = 5;
+    ctx.beginPath();
+    ctx.moveTo(endX, originY);
+    ctx.lineTo(endX, endY);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 6;
+    ctx.beginPath();
+    ctx.moveTo(originX, originY);
+    ctx.lineTo(endX, endY);
+    ctx.stroke();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 22px system-ui, sans-serif';
+    ctx.fillText('P', originX + (endX - originX) / 2 - 8, originY + 32);
+    ctx.fillText('Q', endX + 18, originY + (endY - originY) / 2 + 8);
+    ctx.fillText('S', originX + (endX - originX) / 2 + 18, originY + (endY - originY) / 2 - 14);
+
+    ctx.font = '600 15px system-ui, sans-serif';
+    ctx.fillText('real power', originX + 12, originY - 14);
+    ctx.fillText(reactive >= 0 ? 'lagging reactive component' : 'leading reactive component', originX + 12, reactive >= 0 ? 48 : height - 42);
+  }
+
+  document.querySelectorAll('[data-power-factor-tool]').forEach((tool) => {
+    const voltageInput = tool.querySelector('[data-voltage]');
+    const currentInput = tool.querySelector('[data-current]');
+    const angleInput = tool.querySelector('[data-angle]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const voltage = Number(voltageInput.value);
+      const current = Number(currentInput.value);
+      const angle = Number(angleInput.value);
+      const apparent = voltage * current;
+      const radians = angle * Math.PI / 180;
+      const powerFactor = Math.cos(radians);
+      const real = apparent * powerFactor;
+      const reactive = apparent * Math.sin(radians);
+      const relation = angle > 0 ? 'lagging' : angle < 0 ? 'leading' : 'unity';
+
+      readout.innerHTML = `
+        <strong>Apparent power:</strong> ${apparent.toFixed(0)} VA<br />
+        <strong>Real power:</strong> ${real.toFixed(0)} W<br />
+        <strong>Reactive power:</strong> ${reactive.toFixed(0)} var<br />
+        <strong>Power factor:</strong> ${powerFactor.toFixed(3)} ${relation}
+      `;
+      drawPowerTriangle(canvas, voltage, current, angle);
+    }
+
+    voltageInput.addEventListener('input', render);
+    currentInput.addEventListener('input', render);
+    angleInput.addEventListener('input', render);
+    render();
+  });
+</script>

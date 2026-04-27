@@ -23,6 +23,7 @@ export default defineConfig({
         {
           label: 'Start Here',
           items: [
+            { label: 'Project Tracker', slug: 'project-tracker' },
             { label: 'Publication Roadmap', slug: 'roadmap' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' }

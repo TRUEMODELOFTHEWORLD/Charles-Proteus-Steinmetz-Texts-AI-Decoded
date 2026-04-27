@@ -1,0 +1,204 @@
+# Master Project Tracker
+
+This tracker converts the original project charter into a working control file. It is the source of truth for what the archive is trying to become, what has already been built, what is only seeded, and what still needs careful research.
+
+The guiding rule is speed with labels: publish useful candidate layers quickly, but never hide uncertainty. A statement must trace to a Steinmetz source, a modern reference, a mathematical derivation, or an explicitly marked interpretive reading.
+
+## Status Legend
+
+| Status | Meaning |
+| --- | --- |
+| Done | Implemented and usable in the repo or public site. |
+| Started | Structure exists and first examples are public, but the work is not complete. |
+| Repeating | Must be applied to every source, concept, equation, diagram, and interpretive note. |
+| Pending | Not yet meaningfully implemented. |
+| Needs Verification | Candidate material exists but requires scan, citation, OCR, or mathematical review. |
+| Future Scope | Important, but intentionally held until the Steinmetz foundation is stronger. |
+
+## Current Snapshot
+
+| Area | Current State |
+| --- | --- |
+| Public site | Astro/Starlight documentation site with GitHub Pages deployment workflow. |
+| Live URL | https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/ |
+| Seeded Steinmetz records | Seven source records in `sources/source_catalog.json`. |
+| First canonical source | `Radiation, Light and Illumination` by Charles Proteus Steinmetz. |
+| Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
+| Original scan crops | Five promoted crops from `Radiation, Light and Illumination`, with manifests and checksums. |
+| Research indexes | Generated JSON indexes for sources, concepts, equations, figures, glossary terms, and quotes under `processed/`. |
+| Verification control | `VERIFICATION_QUEUE.md` tracks the next scan-check and promotion work. |
+
+## Original Goal Matrix
+
+| Original Goal | Status | Notes |
+| --- | --- | --- |
+| Build a GitHub repo and public knowledge base | Done | Repo structure, Pages workflow, and public site are in place. |
+| Preserve raw sources, OCR, scans, metadata, and checksums | Started | First source and multi-source records exist. More checksum and custody work is needed source by source. |
+| Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, diagrams, first deep lecture page, figures, concepts, and equations. |
+| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, and Commonwealth Edison are seeded. |
+| Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
+| Extract equations and derivations | Started | Equation candidates and public math pages exist; first 12 canonical equations remain a priority. |
+| Extract diagrams and figures | Started | RLI crops and diagram archive exist; AC and transient original figures remain high priority. |
+| Build glossary of forgotten electrical language | Started | Glossary index plus first term pages exist. More terms need promotion. |
+| Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
+| Compare Steinmetz with Tesla-era science | Started | Introductory Tesla-era comparison and transient page exist. Needs Tesla source anchoring before stronger claims. |
+| Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
+| Build hidden gems index | Started | Section exists. Needs many scan-verified entries. |
+| Build research questions section | Started | Section exists and should evolve after each source pass. |
+| Build interactive tools | Started | Frequency/wavelength and impedance tools exist; power factor is next. |
+| Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
+| Avoid hallucination | Repeating | Labels and verification queue are active. This must be enforced forever. |
+
+## Extraction Requirements From The Original Charter
+
+| Requirement | Status | Next Promotion Step |
+| --- | --- | --- |
+| 1. Every major concept Steinmetz explains | Started | Expand source-by-source concept index and promote pages only after source locations are recorded. |
+| 2. Every important equation and derivation | Started | Promote the first 12 canonical equations from RLI, AC, and transients. |
+| 3. Every diagram, figure, circuit, waveform, and geometric representation | Started | Extract AC Chapter V figures and transient figures listed in `VERIFICATION_QUEUE.md`. |
+| 4. Every important definition of electrical terms | Started | Add exact Steinmetz wording to concept and glossary pages. |
+| 5. Every unusual, obsolete, or nonmodern scientific term | Started | Promote `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`. |
+| 6. Statements on ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, AC, complex quantities, symbolic methods, and waves | Started | Build one indexed evidence file per theme with page references. |
+| 7. Where Steinmetz differs from modern textbook language | Started | Continue comparison pages, especially for symbolic method, reactance, admittance, and transients. |
+| 8. Where Steinmetz anticipates, clarifies, or conflicts with modern EE | Started | Tie claims to exact quotes and modern formulas. |
+| 9. Connections to Tesla-era electrical science | Started | Gather Tesla source passages before making stronger comparative pages. |
+| 10. Connections to Ken Wheeler interpretations | Started | Keep as labeled interpretive readings with fact/interpretation/speculation separated. |
+| 11. Hidden gems | Started | Convert priority quotes into scan-verified entries with research questions. |
+
+## Layer Requirements
+
+Each mature concept, equation, diagram, or comparison page should include these layers:
+
+| Layer | Status | Rule |
+| --- | --- | --- |
+| Steinmetz original wording and meaning | Started | Quote sparingly and cite exact source location. |
+| Modern electrical engineering interpretation | Started | Use modern terms only after preserving Steinmetz's framing. |
+| Mathematical breakdown | Started | Preserve original notation before translating it. |
+| Plain-English explanation | Started | Clarify without flattening the technical content. |
+| Historical context | Started | Mark as historical note and source later. |
+| Ether-field interpretive reading | Started | Label as interpretation, not historical proof. |
+| Tesla-era comparison | Started | Label overlap, divergence, and open questions. |
+| Current status of the concept | Started | Say whether it is still used, renamed, absorbed, or obsolete. |
+
+## Repository Architecture Tracker
+
+| Directory | Status | Role |
+| --- | --- | --- |
+| `sources/` | Done, expanding | Raw source texts, public-domain records, scans, OCR custody, manifests. |
+| `processed/` | Done, expanding | Cleaned OCR, chapter candidates, JSON indexes, figure/equation/glossary candidates. |
+| `analysis/` | Started | Deep commentary by book, chapter, concept, equation, and diagram. |
+| `concepts/` | Started | Repo-native encyclopedia source material. |
+| `math/` | Started | Equation catalogs, derivations, notation translations, worked examples. |
+| `diagrams/` | Started | Original crops, manifests, public copies, modern redraws. |
+| `comparisons/` | Started | Mainstream, Steinmetz, Tesla-era, and ether-field comparison notes. |
+| `glossary/` | Started | Historical terminology and modern equivalents. |
+| `hidden-gems/` | Started | Overlooked statements and follow-up questions. |
+| `research-questions/` | Started | Living research agenda. |
+| `pipeline/` | Started | Repeatable processing scripts and extraction workflow. |
+| `templates/` | Started | Page templates for future promotions. |
+| `site/` | Done, expanding | Public website and interactive tools. |
+
+## Website Section Tracker
+
+| Section From Charter | Status | Current Location |
+| --- | --- | --- |
+| 1. Home | Done | `site/src/content/docs/index.mdx` |
+| 2. Who Was Steinmetz? | Done | `site/src/content/docs/who-was-steinmetz.mdx` |
+| 3. Why Steinmetz Matters | Done | `site/src/content/docs/why-steinmetz-matters.mdx` |
+| 4. Source Library | Done, expanding | `site/src/content/docs/source-library.mdx` and source pages |
+| 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, and engineering math pages |
+| 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
+| 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
+| 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` |
+| 9. Steinmetz vs Modern EE | Started | `site/src/content/docs/comparisons/` |
+| 10. Steinmetz and Tesla-Era Electrical Science | Started | `site/src/content/docs/comparisons/tesla-era-electrical-science.mdx` |
+| 11. Steinmetz and Ken Wheeler-Style Field Interpretation | Started | `site/src/content/docs/comparisons/ether-field-reading-guide.mdx` |
+| 12. Hidden Gems Index | Started | `site/src/content/docs/hidden-gems.mdx` |
+| 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
+| 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
+| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx` |
+| 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
+
+## Data Pipeline Tracker
+
+| Pipeline Function | Status | Current Implementation |
+| --- | --- | --- |
+| Ingest PDFs or text files | Started | Local source folders and `sources/source_catalog.json`. |
+| Run OCR if needed | Pending | External OCR workflow still needs standardization. |
+| Split by book/chapter/page | Started | `seed_source_from_ocr.py`; some sources need custom parser work. |
+| Extract equations | Started | Candidate extraction in generated indexes. |
+| Extract figures | Started | PyMuPDF image extraction and crop tooling. |
+| Create metadata | Started | Source catalog plus crop manifests. |
+| Generate concept tags | Started | Research index builder. |
+| Generate summaries | Started | Public source and chapter pages, mostly curated. |
+| Generate glossary candidates | Started | `processed/glossary_index.json`. |
+| Generate equation candidates | Started | `processed/equation_index.json`. |
+| Generate diagram candidates | Started | `processed/figure_index.json`. |
+| Store outputs as JSON and Markdown | Started | `processed/` plus site MDX pages. |
+| Preserve source page references | Started | Active rule; many candidates still need page verification. |
+
+## Required Data Files
+
+| Data File | Status |
+| --- | --- |
+| `source_manifest.json` | Started through source catalog and per-source manifests. |
+| `book_metadata.json` | Started in source records, needs per-book promotion. |
+| `chapters.json` | Started in processed source outputs. |
+| `equations.json` | Started through `processed/equation_index.json`. |
+| `figures.json` | Started through `processed/figure_index.json` and crop manifests. |
+| `concepts.json` | Started through `processed/concept_index.json`. |
+| `glossary.json` | Started through `processed/glossary_index.json`. |
+| `quotes.json` | Started through `processed/quote_index.json`. |
+| `annotations.json` | Pending. |
+| `crosslinks.json` | Pending. |
+
+## Near-Term Milestone Sequence
+
+| Milestone | Work Items | Definition Of Done |
+| --- | --- | --- |
+| M1. Public trust hardening | Master tracker, public tracker, verification queue, Pages, build checks. | A new contributor can see exactly what exists and what remains candidate. |
+| M2. RLI scan-verified anchor | Verify spectrum table, Figs. 14, 15, 18, 19, and page references. | RLI first-source pages can be marked reviewed where applicable. |
+| M3. AC symbolic canon | Verify `j`, rectangular components, `Z = r + jx`, reactance, admittance, and power factor. | AC symbolic method section becomes a scan-grounded anchor for the site. |
+| M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation and diagram pages. |
+| M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Diagram archive becomes visually substantial and source-grounded. |
+| M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Glossary becomes a genuine research aid, not a stub list. |
+| M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | More material can be processed repeatably with less manual cleanup. |
+| M8. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
+
+## Multi-Author Future Scope
+
+The current archive should remain Steinmetz-first. The site architecture should eventually support other research domains such as Nikola Tesla, Eric Dollard, Walter Russell, and related figures, but only after the source model is strong enough to keep each author's claims separate.
+
+Future rule: never merge an author's position into Steinmetz's. Use comparison pages, explicit citations, and labeled interpretive sections.
+
+## Operating Rules
+
+- Keep raw source custody visible before commentary.
+- Keep original notation before modern translation.
+- Keep diagrams tied to source page, crop manifest, and checksum where possible.
+- Keep source fact, modern explanation, mathematical reconstruction, historical note, interpretive reading, speculative connection, and needs-verification labels visible.
+- Do not promote OCR-derived claims to reviewed status without scan verification.
+- Do not use Tesla, Wheeler, Dollard, or ether-field language as proof of Steinmetz's intent unless Steinmetz explicitly says it.
+- Do not erase alternative interpretations; label them.
+- Do not write shallow summary pages when a structured source page is needed.
+
+## Update Log
+
+| Commit | Contribution |
+| --- | --- |
+| `8747b5b` | Built the first Steinmetz Decoded research archive foundation. |
+| `2aa209a` | Added PDF image extraction pipeline and first scan figure crop. |
+| `58497a0` | Configured GitHub Pages deployment. |
+| `d7d7866` | Added research index pipeline and original Steinmetz figure crops. |
+| `90d0ed6` | Expanded AC and transient research codex pages. |
+
+## Next Work Queue
+
+1. Finish public tracker wiring and add one more interactive tool.
+2. Verify RLI page anchors and promote the first reviewed source claims.
+3. Extract original AC Chapter V figures.
+4. Extract original transient figures for starting current, condenser discharge, and decrement.
+5. Promote the first 12 canonical equation pages with original notation and modern translation.
+6. Expand glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`.
+7. Add `annotations.json` and `crosslinks.json` generation.
+8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.

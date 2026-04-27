@@ -1,0 +1,151 @@
+---
+title: Project Tracker
+description: The living master tracker for the Steinmetz Decoded research archive.
+---
+
+This page mirrors the repo-level `MASTER_PROJECT_TRACKER.md`. It exists so readers, contributors, and reviewers can see the whole build path: what is already public, what is candidate, what needs verification, and what comes next.
+
+The rule is simple: move quickly, but label the layer. A page may be useful before it is final, but source fact, modern translation, mathematical reconstruction, historical note, interpretive reading, speculative connection, and needs-verification material must remain distinct.
+
+## Current Snapshot
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Current State</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Public site</td>
+      <td>Astro/Starlight knowledge base deployed through GitHub Pages.</td>
+    </tr>
+    <tr>
+      <td>Source corpus</td>
+      <td>Seven Steinmetz source records seeded in <code>sources/source_catalog.json</code>.</td>
+    </tr>
+    <tr>
+      <td>First canonical source</td>
+      <td><em>Radiation, Light and Illumination</em>, with OCR, chapter candidates, original crops, figures, concepts, equations, and first deep pages.</td>
+    </tr>
+    <tr>
+      <td>Research indexes</td>
+      <td>Generated source, concept, equation, figure, glossary, and quote indexes under <code>processed/</code>.</td>
+    </tr>
+    <tr>
+      <td>Verification</td>
+      <td><code>VERIFICATION_QUEUE.md</code> tracks scan-check priorities before candidate material is promoted.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Master Requirement Matrix
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Original Requirement</th>
+      <th>Status</th>
+      <th>Next Step</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Repo architecture and public site</td>
+      <td>Done, expanding</td>
+      <td>Keep navigation, roadmap, and tracker synchronized.</td>
+    </tr>
+    <tr>
+      <td>First source processing</td>
+      <td>Started</td>
+      <td>Scan-verify RLI figures, spectrum table, and lecture references.</td>
+    </tr>
+    <tr>
+      <td>Multiple Steinmetz books</td>
+      <td>Started</td>
+      <td>Promote AC, transient, and engineering mathematics source pages into deeper chapter pages.</td>
+    </tr>
+    <tr>
+      <td>Concept encyclopedia</td>
+      <td>Started</td>
+      <td>Add exact source locations and expand field, hysteresis, dielectricity, and wave concepts.</td>
+    </tr>
+    <tr>
+      <td>Mathematics and equations</td>
+      <td>Started</td>
+      <td>Promote the first 12 canonical equations with original and modern notation.</td>
+    </tr>
+    <tr>
+      <td>Diagram archive</td>
+      <td>Started</td>
+      <td>Extract original AC and transient figures, then annotate them.</td>
+    </tr>
+    <tr>
+      <td>Glossary</td>
+      <td>Started</td>
+      <td>Promote older terms such as electrostatic capacity and counter-electromotive force.</td>
+    </tr>
+    <tr>
+      <td>Comparisons</td>
+      <td>Started</td>
+      <td>Build side-by-side Steinmetz, modern EE, Tesla-era, and interpretive readings only where the source supports it.</td>
+    </tr>
+    <tr>
+      <td>Interactive tools</td>
+      <td>Started</td>
+      <td>Continue from wave, impedance, and power-factor tools into phasors, hysteresis, transients, and RLC simulation.</td>
+    </tr>
+    <tr>
+      <td>Quality control</td>
+      <td>Repeating</td>
+      <td>Never promote candidate OCR or interpretation without visible labels and verification notes.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Website Section Status
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Section</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Home</td><td>Done</td></tr>
+    <tr><td>Who Was Steinmetz?</td><td>Done</td></tr>
+    <tr><td>Why Steinmetz Matters</td><td>Done</td></tr>
+    <tr><td>Source Library</td><td>Done, expanding</td></tr>
+    <tr><td>Book-by-Book Deep Decoding</td><td>Started</td></tr>
+    <tr><td>Concept Encyclopedia</td><td>Started</td></tr>
+    <tr><td>Mathematics of Steinmetz</td><td>Started</td></tr>
+    <tr><td>Diagram Archive</td><td>Started</td></tr>
+    <tr><td>Steinmetz vs Modern Electrical Engineering</td><td>Started</td></tr>
+    <tr><td>Steinmetz and Tesla-Era Electrical Science</td><td>Started</td></tr>
+    <tr><td>Ether-Field Interpretive Reading Guide</td><td>Started</td></tr>
+    <tr><td>Hidden Gems Index</td><td>Started</td></tr>
+    <tr><td>Glossary of Forgotten Electrical Language</td><td>Started</td></tr>
+    <tr><td>Research Questions</td><td>Started</td></tr>
+    <tr><td>Interactive Tools</td><td>Started</td></tr>
+    <tr><td>Data Pipeline</td><td>Started</td></tr>
+  </tbody>
+</table>
+
+## Near-Term Work Queue
+
+1. Verify the RLI spectrum table and Figs. 14, 15, 18, and 19 against scans.
+2. Verify the AC symbolic-method passages: rectangular components, `j`, `j^2 = -1`, and quarter-period rotation.
+3. Verify impedance, reactance, admittance, conductance, susceptance, and power-factor language in AC.
+4. Extract and crop original AC figures from the selected edition.
+5. Verify transient permanent/transient terms, RLC oscillation, critical resistance, and decrement.
+6. Extract transient figures for starting current, condenser charge/discharge, and oscillation decrement.
+7. Promote the first 12 equation pages into a canonical math sequence.
+8. Expand the glossary with source-anchored older electrical terminology.
+9. Add annotation and crosslink JSON outputs to the pipeline.
+10. Improve source parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.
+
+## Future Scope
+
+The archive may later expand into a wider electrical-science codex including Nikola Tesla, Eric Dollard, Walter Russell, and other researchers. That wider design should keep Steinmetz as a distinct source domain and use comparison pages instead of blending different authors into one voice.
