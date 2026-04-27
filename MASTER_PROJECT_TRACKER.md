@@ -39,7 +39,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
 | Extract equations and derivations | Started | Equation candidates and public math pages exist; first 12 canonical equations remain a priority. |
 | Extract diagrams and figures | Started | RLI crops and AC Chapter V crops exist; transient original figures remain high priority. |
-| Build glossary of forgotten electrical language | Started | Glossary index plus first term pages exist. More terms need promotion. |
+| Build glossary of forgotten electrical language | Started | Glossary index plus source-located pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance. |
 | Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
 | Compare Steinmetz with Tesla-era science | Started | Introductory Tesla-era comparison and transient page exist. Needs Tesla source anchoring before stronger claims. |
 | Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
@@ -161,7 +161,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M3. AC symbolic canon | Verify `j`, rectangular components, `Z = r + jx`, reactance, admittance, and power factor. | AC symbolic method section becomes a scan-grounded anchor for the site. First Chapter V crops are promoted. |
 | M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation and diagram pages. |
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; next step is surge, line, hysteresis, and apparatus figures. |
-| M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Glossary becomes a genuine research aid, not a stub list. |
+| M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; next step is scan verification. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | More material can be processed repeatably with less manual cleanup. |
 | M8. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -191,6 +191,9 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 | `58497a0` | Configured GitHub Pages deployment. |
 | `d7d7866` | Added research index pipeline and original Steinmetz figure crops. |
 | `90d0ed6` | Expanded AC and transient research codex pages. |
+| `1e77f25` | Added master project tracker and power factor tool. |
+| `26cff7e` | Added original AC symbolic method figure set. |
+| `ee7c982` | Added original transient figure set. |
 
 ## Next Work Queue
 
@@ -199,6 +202,6 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 3. Complete second-pass review of original AC Chapter V figure crops and add cleaned/vector redraws.
 4. Complete second-pass review of original transient figure crops and add cleaned/vector redraws.
 5. Promote the first 12 canonical equation pages with original notation and modern translation.
-6. Expand glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`.
+6. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
 7. Add `annotations.json` and `crosslinks.json` generation.
 8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.

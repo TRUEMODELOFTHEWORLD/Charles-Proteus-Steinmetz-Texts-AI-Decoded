@@ -130,5 +130,43 @@
     "conceptual_meaning": "",
     "source_refs": [],
     "status": "seeded"
+  },
+  {
+    "term": "electrostatic capacity",
+    "source_id": "engineering-mathematics",
+    "modern_equivalent": "capacitance",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "Named as a circuit property that makes distorted wave-shape practically important in lines, cables, and high-potential transformers.",
+    "mathematical_meaning": "Appears in the mathematical treatment of nonsinusoidal waves and circuit constants.",
+    "conceptual_meaning": "The term connects field storage to practical wave-shape distortion problems.",
+    "source_refs": [
+      {
+        "source_id": "engineering-mathematics",
+        "chapter": "III",
+        "title": "Trigonometric Series",
+        "lines": "1177-1183",
+        "status": "candidate OCR; scan verification needed"
+      }
+    ],
+    "status": "source-located candidate"
+  },
+  {
+    "term": "effective resistance",
+    "source_id": "engineering-mathematics",
+    "modern_equivalent": "AC resistance or equivalent resistance representing total real-power loss",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "Used as a line-constant term in vector transmission-line equations.",
+    "mathematical_meaning": "Appears as the real part of line impedance per unit length in the general-number formulation.",
+    "conceptual_meaning": "Carries Steinmetz's habit of keeping power-loss terms explicit inside symbolic circuit mathematics.",
+    "source_refs": [
+      {
+        "source_id": "engineering-mathematics",
+        "chapter": "V",
+        "title": "Methods of Approximation",
+        "lines": "1063-1072",
+        "status": "candidate OCR; scan verification needed"
+      }
+    ],
+    "status": "source-located candidate"
   }
 ]

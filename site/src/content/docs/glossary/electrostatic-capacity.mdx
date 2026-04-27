@@ -1,0 +1,57 @@
+---
+title: Electrostatic Capacity
+description: Steinmetz's historical term for capacitance, preserving the field-storage meaning.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter XIV, Dielectric Losses, cleaned OCR lines 209-221" status="source-located candidate; scan verification needed" />
+
+## Term
+
+**Electrostatic capacity**
+
+## Modern Equivalent
+
+Capacitance.
+
+Steinmetz often uses **capacity** where modern engineering usually says **capacitance**. In dielectric and condenser contexts, the older phrase **electrostatic capacity** makes the electrostatic field-storage meaning explicit.
+
+## Steinmetz Usage
+
+In the dielectric-loss chapter of *Theory and Calculation of Alternating Current Phenomena*, the OCR candidate identifies `C` as the electrostatic capacity of a dielectric layer and immediately connects it to capacity susceptance:
+
+```math
+b = 2\pi f C
+```
+
+That is the AC bridge between stored electrostatic energy and the quadrature current drawn by a dielectric or condenser.
+
+## Mathematical Meaning
+
+Modern notation would usually write capacitance as:
+
+```math
+C = \frac{\varepsilon A}{d}
+```
+
+where `A` is area, `d` is dielectric thickness or separation, and `\varepsilon` is permittivity. Steinmetz's OCR passage uses older dielectric notation and then places that capacity inside the AC relation for susceptance.
+
+## Historical Note
+
+The older wording matters because **capacity** was not merely a name for a component value. It meant the ability of an electrostatic system to store charge and field energy under impressed potential. Modern textbooks often compress this into the component parameter `C`.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+In an ether-field reading, electrostatic capacity is the measurable ability of a dielectric configuration to accept field compression under potential difference. This is an interpretation, not proof of Steinmetz's private ontology. What the source layer supports is narrower: Steinmetz treats capacity as an electrostatic field quantity that produces a definite AC susceptance.
+</LayeredReading>
+
+## Current Status
+
+**Still used, renamed.** The modern term is **capacitance**. The older phrases **capacity**, **specific capacity**, and **electrostatic capacity** remain historically important because they show the dielectric field meaning before the language became mostly circuit-parameter shorthand.
+
+## Related Pages
+
+- [Condensive Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/condensive-reactance/)
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Condenser Charge and Discharge](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge/)

@@ -1,6 +1,6 @@
 {
   "quality_note": "Glossary entries are seeded from OCR term lists and must be refined against the source text.",
-  "total_terms": 12,
+  "total_terms": 15,
   "records": [
     {
       "term": "brilliancy",
@@ -99,6 +99,48 @@
       }
     },
     {
+      "term": "counter e.m.f.",
+      "modern_equivalents": [
+        "back EMF, induced opposing voltage, or a phasor voltage-drop representation depending on context"
+      ],
+      "total_occurrence_count_in_ocr": 82,
+      "sources": [
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 82,
+          "status": "source-located candidate"
+        }
+      ],
+      "status_counts": {
+        "source-located candidate": 1
+      }
+    },
+    {
+      "term": "effective resistance",
+      "modern_equivalents": [
+        "AC resistance or equivalent resistance representing total real-power loss"
+      ],
+      "total_occurrence_count_in_ocr": 34,
+      "sources": [
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 1,
+          "status": "source-located candidate"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 33,
+          "status": "source-located candidate"
+        }
+      ],
+      "status_counts": {
+        "source-located candidate": 2
+      }
+    },
+    {
       "term": "electric waves",
       "modern_equivalents": [
         "radio-frequency electromagnetic waves, broadly construed"
@@ -144,6 +186,30 @@
       ],
       "status_counts": {
         "seeded": 6
+      }
+    },
+    {
+      "term": "electrostatic capacity",
+      "modern_equivalents": [
+        "capacitance"
+      ],
+      "total_occurrence_count_in_ocr": 2,
+      "sources": [
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 1,
+          "status": "source-located candidate"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 1,
+          "status": "source-located candidate"
+        }
+      ],
+      "status_counts": {
+        "source-located candidate": 2
       }
     },
     {

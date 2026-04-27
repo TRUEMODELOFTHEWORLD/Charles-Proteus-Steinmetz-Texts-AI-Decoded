@@ -1,0 +1,60 @@
+---
+title: Counter-Electromotive Force
+description: Steinmetz's opposition-language for induced voltage, impedance voltage, and machine back EMF.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter IV, Vector Representation, cleaned OCR lines 303-336; Chapter V, Symbolic Method, cleaned OCR lines 285-293 and 405-410" status="source-located candidate; scan verification needed" />
+
+## Term
+
+**Counter-electromotive force**, usually printed by Steinmetz as **counter e.m.f.**
+
+## Modern Equivalent
+
+Depending on context:
+
+- back EMF in motors or generators,
+- induced opposing voltage,
+- voltage drop or impedance voltage in circuit calculation,
+- phasor voltage term opposing or balancing an impressed voltage.
+
+## Steinmetz Usage
+
+Steinmetz uses the term in more than one way. In machine contexts, a counter e.m.f. may be a physically generated voltage. In vector circuit calculation, he also uses counter e.m.f. for the resistance, reactance, or impedance voltage represented as opposing the impressed voltage.
+
+The OCR candidate in Chapter IV gives a key caution: these counter e.m.f.s of resistance and reactance **"have no independent existence"** apart from the current. This is a subtle distinction. He is not saying every counter e.m.f. is a separate source; he is giving an alternate phasor representation of how the circuit balances impressed voltage.
+
+## Mathematical Meaning
+
+For a sinusoidal current `I` through impedance:
+
+```math
+Z = r + jx
+```
+
+```math
+E_Z = IZ
+```
+
+Modern textbooks usually call `E_Z` an impedance voltage or voltage drop. Steinmetz may instead describe the same vector as a counter e.m.f. when it is drawn as opposing the impressed voltage.
+
+## Why It Matters
+
+The phrase keeps a mechanical and field-opposition picture alive. A modern student may memorize voltage drops as algebraic bookkeeping. Steinmetz's wording forces the reader to ask: what field process is opposing the change, where is energy being stored, and which part is dissipative?
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+A Wheeler-style reading may treat counter e.m.f. as a field reaction: a resistance-like or reactance-like opposition arising when the circuit condition attempts to alter field state. That reading is interpretive. The source-grounded claim is that Steinmetz explicitly distinguishes dependent counter e.m.f.s of resistance/reactance from independently generated machine e.m.f.s.
+</LayeredReading>
+
+## Current Status
+
+**Still used, narrowed.** Modern electrical engineering still says **back EMF**, especially in motors, but it less often calls ordinary impedance voltage a counter e.m.f. The older Steinmetz usage is valuable because it preserves a phasor-opposition viewpoint that can clarify AC circuit balance.
+
+## Related Pages
+
+- [Symbolic Method](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/)
+- [Impedance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/)
+- [Impedance and Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/impedance-reactance/)

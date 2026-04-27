@@ -153,7 +153,7 @@ The archive now includes:
 - A generated source-processing dashboard.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
-- A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and historical glossary terms.
+- A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and source-located historical glossary terms.
 - A practical verification queue in `VERIFICATION_QUEUE.md`.
 
 The full requirement and milestone map is maintained in `MASTER_PROJECT_TRACKER.md`, with a public mirror at:
@@ -170,6 +170,7 @@ The public site currently builds more than fifty pages, including:
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, ether, illumination, transients, symbolic method, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, and inductance/capacity.
 - Equation pages for wavelength/frequency, impedance/reactance, admittance, transient terms, and RLC oscillation.
+- Glossary pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
 - Interactive tools for frequency/wavelength, impedance/reactance, and power factor.
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures.

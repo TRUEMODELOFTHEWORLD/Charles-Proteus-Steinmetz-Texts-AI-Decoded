@@ -12,3 +12,9 @@ Each term should include:
 - Current status.
 - Example quote.
 - Related concepts.
+
+Promoted source-located candidates:
+
+- `electrostatic-capacity.md`
+- `counter-electromotive-force.md`
+- `effective-resistance.md`

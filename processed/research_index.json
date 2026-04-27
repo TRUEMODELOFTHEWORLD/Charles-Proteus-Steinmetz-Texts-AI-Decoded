@@ -156,7 +156,7 @@
         "concepts": 20,
         "equations": 300,
         "figures": 9,
-        "glossary": 12,
+        "glossary": 14,
         "quotes": 0,
         "annotations": 0,
         "crosslinks": 0
@@ -175,7 +175,8 @@
           "candidate": 9
         },
         "glossary": {
-          "seeded": 12
+          "seeded": 12,
+          "source-located candidate": 2
         },
         "quotes": {},
         "annotations": {},
@@ -195,7 +196,7 @@
           "needs-verification": 9
         },
         "glossary": {
-          "unspecified": 12
+          "unspecified": 14
         },
         "quotes": {},
         "annotations": {},
@@ -222,7 +223,7 @@
         "concepts": 20,
         "equations": 300,
         "figures": 145,
-        "glossary": 12,
+        "glossary": 15,
         "quotes": 0,
         "annotations": 0,
         "crosslinks": 0
@@ -241,7 +242,8 @@
           "candidate": 145
         },
         "glossary": {
-          "seeded": 12
+          "seeded": 12,
+          "source-located candidate": 3
         },
         "quotes": {},
         "annotations": {},
@@ -261,7 +263,7 @@
           "needs-verification": 145
         },
         "glossary": {
-          "unspecified": 12
+          "unspecified": 15
         },
         "quotes": {},
         "annotations": {},

@@ -130,5 +130,76 @@
     "conceptual_meaning": "",
     "source_refs": [],
     "status": "seeded"
+  },
+  {
+    "term": "counter e.m.f.",
+    "source_id": "theory-calculation-alternating-current-phenomena",
+    "modern_equivalent": "back EMF, induced opposing voltage, or a phasor voltage-drop representation depending on context",
+    "occurrence_count_in_ocr": 82,
+    "steinmetz_usage": "Used both for machine-generated opposing electromotive force and, in vector circuit calculation, for the counter e.m.f. of resistance, reactance, and impedance.",
+    "mathematical_meaning": "In AC vector language, resistance and reactance voltage terms may be treated either as consumed voltage components or as counter e.m.f.s opposite in phase relation to the impressed voltage.",
+    "conceptual_meaning": "This term preserves an opposition picture that modern voltage-drop language often hides.",
+    "source_refs": [
+      {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "chapter": "IV",
+        "title": "Vector Representation",
+        "lines": "303-336",
+        "status": "candidate OCR; scan verification needed"
+      },
+      {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "chapter": "V",
+        "title": "Symbolic Method",
+        "lines": "285-293 and 405-410",
+        "status": "candidate OCR; scan verification needed"
+      }
+    ],
+    "status": "source-located candidate"
+  },
+  {
+    "term": "electrostatic capacity",
+    "source_id": "theory-calculation-alternating-current-phenomena",
+    "modern_equivalent": "capacitance",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "Used in the dielectric-loss chapter for the capacitance of a dielectric layer, tied immediately to capacity susceptance.",
+    "mathematical_meaning": "The OCR candidate identifies C as electrostatic capacity and gives capacity susceptance as b = 2*pi*f*C.",
+    "conceptual_meaning": "The older term keeps the electrostatic field-storage origin of capacitance visible.",
+    "source_refs": [
+      {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "chapter": "XIV",
+        "title": "Dielectric Losses",
+        "lines": "209-221",
+        "status": "candidate OCR; scan verification needed"
+      }
+    ],
+    "status": "source-located candidate"
+  },
+  {
+    "term": "effective resistance",
+    "source_id": "theory-calculation-alternating-current-phenomena",
+    "modern_equivalent": "AC resistance or equivalent resistance representing total real-power loss",
+    "occurrence_count_in_ocr": 33,
+    "steinmetz_usage": "Distinguished from true ohmic resistance; it represents total power expenditure, including loss mechanisms outside the conductor.",
+    "mathematical_meaning": "For sinusoidal AC, effective resistance is the real-power coefficient in P = I^2 r.",
+    "conceptual_meaning": "This term lets hysteresis, dielectric loss, eddy currents, leakage, and nonuniform current distribution appear as real-power effects without pretending they are simple DC resistance.",
+    "source_refs": [
+      {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "chapter": "I",
+        "title": "Introduction",
+        "lines": "75-90 and 236-246",
+        "status": "candidate OCR; scan verification needed"
+      },
+      {
+        "source_id": "theory-calculation-alternating-current-phenomena",
+        "chapter": "XII",
+        "title": "Effective Resistance and Reactance",
+        "lines": "64-85",
+        "status": "candidate OCR; scan verification needed"
+      }
+    ],
+    "status": "source-located candidate"
   }
 ]

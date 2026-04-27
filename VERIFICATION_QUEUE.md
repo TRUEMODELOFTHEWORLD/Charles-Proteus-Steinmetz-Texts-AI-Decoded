@@ -67,6 +67,7 @@ This file turns the project charter into a practical review queue. It is meant t
 16. Promote `condensive reactance` after exact source wording is checked.
 17. Promote `wattless component` after exact source wording is checked.
 18. Promote `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`.
+    - 2026-04-27 progress: source-located candidate pages were added for all three terms. Next step is scan verification of the cited OCR line ranges before marking them reviewed.
 
 ## Promotion Rule
 

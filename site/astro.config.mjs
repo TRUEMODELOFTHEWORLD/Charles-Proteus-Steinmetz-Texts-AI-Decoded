@@ -116,6 +116,9 @@ export default defineConfig({
             { label: 'Condensive Reactance', slug: 'glossary/condensive-reactance' },
             { label: 'Wattless Component', slug: 'glossary/wattless-component' },
             { label: 'Imaginary Unit j', slug: 'glossary/imaginary-unit-j' },
+            { label: 'Electrostatic Capacity', slug: 'glossary/electrostatic-capacity' },
+            { label: 'Counter EMF', slug: 'glossary/counter-electromotive-force' },
+            { label: 'Effective Resistance', slug: 'glossary/effective-resistance' },
             { label: 'Hidden Gems', slug: 'hidden-gems' },
             { label: 'Research Questions', slug: 'research-questions' }
           ]
