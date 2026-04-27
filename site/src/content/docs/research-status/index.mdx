@@ -15,7 +15,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <th>Equation Candidates</th>
       <th>Figure Candidates</th>
       <th>Original Crops</th>
-      <th>Next Action</th>
+      <th>Review State</th>
     </tr>
   </thead>
   <tbody>
@@ -25,7 +25,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>98</td>
       <td>5</td>
-      <td>Triage equations and continue scan verification.</td>
+      <td>First canonical source with scan crops, OCR, lecture splits, concepts, equations, and diagram anchors.</td>
     </tr>
     <tr>
       <td><em>Elementary Lectures on Electric Discharges, Waves and Impulses</em></td>
@@ -33,7 +33,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>16</td>
       <td>0</td>
-      <td>Promote field, wave, and impulse figures from scans.</td>
+      <td>Candidate lecture map for discharge, wave, impulse, and electric-field language.</td>
     </tr>
     <tr>
       <td><em>Engineering Mathematics</em></td>
@@ -41,7 +41,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>9</td>
       <td>0</td>
-      <td>Review equation candidates and notation-heavy chapters.</td>
+      <td>Mathematical support source for notation, series, exponentials, complex quantities, and empirical curves.</td>
     </tr>
     <tr>
       <td><em>Theory and Calculation of Alternating Current Phenomena</em></td>
@@ -49,7 +49,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>145</td>
       <td>4</td>
-      <td>Verify impedance, reactance, admittance, hysteresis, and additional transformer diagrams.</td>
+      <td>Main AC corpus for symbolic method, impedance, reactance, admittance, harmonics, and transformers.</td>
     </tr>
     <tr>
       <td><em>Theory and Calculation of Transient Electric Phenomena and Oscillations</em></td>
@@ -57,7 +57,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>1</td>
       <td>6</td>
-      <td>Review structural splits and extract surge/wave diagrams from scans.</td>
+      <td>Major transient corpus with first original crops and condenser-response redraw support.</td>
     </tr>
     <tr>
       <td><em>Theoretical Elements of Electrical Engineering</em></td>
@@ -65,7 +65,39 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>300</td>
       <td>10</td>
       <td>0</td>
-      <td>Build a custom part/section parser before public deep decoding.</td>
+      <td>Broad theory corpus for magnetism, E.M.F., induction, apparatus, motors, and transformers; custom structure needed.</td>
+    </tr>
+    <tr>
+      <td><em>General Lectures on Electrical Engineering</em></td>
+      <td>17</td>
+      <td>134</td>
+      <td>14</td>
+      <td>0</td>
+      <td>Ordinal lecture parser seeded power-system, harmonics, surge, lightning, railway, and lighting entry points.</td>
+    </tr>
+    <tr>
+      <td><em>America and the New Epoch</em></td>
+      <td>0</td>
+      <td>21</td>
+      <td>0</td>
+      <td>0</td>
+      <td>Historical and social-worldview source; kept separate from electrical-theory claims.</td>
+    </tr>
+    <tr>
+      <td><em>Theory and Calculation of Electric Apparatus</em></td>
+      <td>22</td>
+      <td>300</td>
+      <td>13</td>
+      <td>0</td>
+      <td>Apparatus-theory source for motors, transformers, regulation, heating, losses, and harmonics.</td>
+    </tr>
+    <tr>
+      <td><em>Four Lectures on Relativity and Space</em></td>
+      <td>4</td>
+      <td>170</td>
+      <td>19</td>
+      <td>0</td>
+      <td>Late source for relativity, space, gravitation, and field geometry, handled with strict interpretation boundaries.</td>
     </tr>
     <tr>
       <td><em>Commonwealth Edison Generating System Trouble</em></td>
@@ -73,7 +105,7 @@ This dashboard exposes the working state of the archive. It is generated from th
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>Run OCR and complete bibliographic verification.</td>
+      <td>Raw local PDF custody exists; diagnostic engineering source remains in intake review.</td>
     </tr>
   </tbody>
 </table>
@@ -100,6 +132,6 @@ The pipeline writes machine-readable indexes in `processed/`:
 - **Canonical** will be reserved for source-checked, page-anchored analysis.
 - **Interpretive reading** remains separate from source fact, modern engineering translation, and mathematical reconstruction.
 
-## Next Large Work Front
+## Current Canonical Work Front
 
 The next high-value milestone is not more decoration. It is to convert candidate extraction into canonical research: scan-check selected equations, correct OCR around them, build page references, and publish source-grounded explanations with original notation preserved beside modern notation.

@@ -3,9 +3,17 @@ title: General Lectures on Electrical Engineering
 description: OCR-seeded source page for Steinmetz's general electrical engineering lectures.
 ---
 
-<div class="source-callout">
-  <strong>Source:</strong> Charles Proteus Steinmetz, <em>General Lectures on Electrical Engineering</em>, edited by Joseph LeRoy Hayden, 1908. <strong>Status:</strong> Internet Archive OCR seeded; scan verification pending.
-</div>
+import SourceRef from '../../../../components/SourceRef.astro';
+import SourceAccess from '../../../../components/SourceAccess.astro';
+
+<SourceRef source="Charles Proteus Steinmetz, General Lectures on Electrical Engineering, edited by Joseph LeRoy Hayden, 1908" location="Internet Archive item: generallectureso00steiuoft" status="candidate OCR" />
+
+<SourceAccess
+  title="General Lectures on Electrical Engineering"
+  archiveId="generallectureso00steiuoft"
+  localPath="sources/general-lectures-electrical-engineering/"
+  note="This scan anchors lecture-level verification for power-system, high-frequency, surge, and lighting passages."
+/>
 
 This source is valuable because it is broad and practical: generation, transmission, distribution, harmonics, high-frequency oscillations, surges, lightning protection, electric railways, electrochemistry, and lighting all appear in one lecture sequence.
 
@@ -44,6 +52,6 @@ The current parser generated 17 lecture candidates from the OCR. These titles ar
   </tbody>
 </table>
 
-## Next Work
+## Canonical Promotion Path
 
 Download and checksum the scan/PDF, verify lecture page starts, extract figures, and promote high-frequency oscillation, surge, lightning protection, harmonics, and lighting passages into concept pages.

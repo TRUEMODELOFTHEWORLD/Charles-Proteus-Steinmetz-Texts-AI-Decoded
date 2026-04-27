@@ -28,6 +28,8 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
 | Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
+| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, and diagram lightbox viewing. |
+| Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Research indexes | Generated JSON indexes for sources, concepts, equations, figures, glossary terms, and quotes under `processed/`. |
 | Verification control | `VERIFICATION_QUEUE.md` tracks the next scan-check and promotion work. |
 
@@ -111,13 +113,13 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 1. Home | Done | `site/src/content/docs/index.mdx` |
 | 2. Who Was Steinmetz? | Done | `site/src/content/docs/who-was-steinmetz.mdx` |
 | 3. Why Steinmetz Matters | Done | `site/src/content/docs/why-steinmetz-matters.mdx` |
-| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx` and source pages |
+| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx` and source pages with source-access readers |
 | 4a. Expanded Bibliography Intake | Started | `site/src/content/docs/source-library/bibliography-intake.mdx` |
 | 4b. Steinmetz Patent Register | Started | `site/src/content/docs/sources/steinmetz-patents/index.mdx` |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, and engineering math pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
-| 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` |
+| 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` with global lightbox viewing |
 | 9. Steinmetz vs Modern EE | Started | `site/src/content/docs/comparisons/` |
 | 10. Steinmetz and Tesla-Era Electrical Science | Started | `site/src/content/docs/comparisons/tesla-era-electrical-science.mdx` |
 | 11. Steinmetz and Ken Wheeler-Style Field Interpretation | Started | `site/src/content/docs/comparisons/ether-field-reading-guide.mdx` |
@@ -125,6 +127,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
 | 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, AC waveform/harmonics, impedance, phasor/symbolic form, power factor, hysteresis loss, transient RLC response, and lightning/surge traveling waves. |
+| Reader filtering and multilingual access | Started | Site-wide source-only filter, page-local ask/search, Google Translate shortcuts, and lightbox diagram viewer. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker

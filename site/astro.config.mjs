@@ -12,6 +12,22 @@ export default defineConfig({
       title: 'Steinmetz Decoded',
       description: 'A source-grounded research codex for Charles Proteus Steinmetz.',
       customCss: ['./src/styles/custom.css', 'katex/dist/katex.min.css'],
+      head: [
+        {
+          tag: 'script',
+          attrs: {
+            src: '/Charles-Proteus-Steinmetz-Texts-AI-Decoded/codex-ui.js',
+            defer: true
+          }
+        },
+        {
+          tag: 'meta',
+          attrs: {
+            name: 'theme-color',
+            content: '#151b1c'
+          }
+        }
+      ],
       social: [
         {
           icon: 'github',
@@ -23,19 +39,16 @@ export default defineConfig({
         {
           label: 'Start Here',
           items: [
-            { label: 'Project Tracker', slug: 'project-tracker' },
-            { label: 'Publication Roadmap', slug: 'roadmap' },
-            { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
-            { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' }
+            { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
+            { label: 'Source Library', slug: 'source-library' },
+            { label: 'Processing Dashboard', slug: 'research-status' }
           ]
         },
         {
-          label: 'Source Library',
+          label: 'Research Corpus',
           items: [
-            { label: 'Library Index', slug: 'source-library' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
-            { label: 'Processing Dashboard', slug: 'research-status' },
             { label: 'Steinmetz Patent Register', slug: 'sources/steinmetz-patents' },
             {
               label: 'Radiation, Light and Illumination',
@@ -105,7 +118,7 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Mathematics',
+          label: 'Mathematics And Tools',
           items: [
             { label: 'Equation Catalog', slug: 'mathematics' },
             { label: 'First Canonical Set', slug: 'mathematics/canonical-equation-canon' },
@@ -120,11 +133,12 @@ export default defineConfig({
             { label: 'Hysteresis Law', slug: 'mathematics/equations/steinmetz-hysteresis-law' },
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
             { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' },
-            { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' }
+            { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' },
+            { label: 'Interactive Tools', slug: 'tools' }
           ]
         },
         {
-          label: 'Archives',
+          label: 'Diagrams And Glossary',
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
@@ -142,7 +156,7 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Comparisons',
+          label: 'Comparisons And Interpretation',
           items: [
             { label: 'Comparison Index', slug: 'comparisons' },
             { label: 'Steinmetz vs Modern EE', slug: 'comparisons/steinmetz-vs-modern-radiation' },
@@ -153,9 +167,11 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Tools',
+          label: 'Project Status',
           items: [
-            { label: 'Interactive Tools', slug: 'tools' }
+            { label: 'Project Tracker', slug: 'project-tracker' },
+            { label: 'Publication Roadmap', slug: 'roadmap' },
+            { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' }
           ]
         }
       ]

@@ -2,12 +2,24 @@
 interface Props {
   label: string;
   open?: boolean;
+  layer?: string;
 }
 
-const { label, open = false } = Astro.props;
+const { label, open = false, layer: explicitLayer } = Astro.props;
+const normalizedLabel = label.toLowerCase();
+const inferredLayer = normalizedLabel.includes('ether') || normalizedLabel.includes('interpretive') || normalizedLabel.includes('speculative')
+  ? 'interpretive'
+  : normalizedLabel.includes('modern')
+    ? 'modern'
+    : normalizedLabel.includes('tesla') || normalizedLabel.includes('comparison')
+      ? 'comparison'
+      : normalizedLabel.includes('quality') || normalizedLabel.includes('verification')
+        ? 'verification'
+        : 'context';
+const layer = explicitLayer ?? inferredLayer;
 ---
 
-<details class="layered-reading" open={open}>
+<details class="layered-reading" open={open} data-layer={layer}>
   <summary>{label}</summary>
   <div class="body">
     <slot />

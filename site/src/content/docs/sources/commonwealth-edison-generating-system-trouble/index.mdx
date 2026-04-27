@@ -4,8 +4,15 @@ description: A practical Steinmetz power-system investigation awaiting OCR and b
 ---
 
 import SourceRef from '../../../../components/SourceRef.astro';
+import SourceAccess from '../../../../components/SourceAccess.astro';
 
 <SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="Local PDF copied" status="raw only" />
+
+<SourceAccess
+  title="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co."
+  localPath="sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf"
+  note="No stable public scan URL has been verified yet. The local raw file is preserved for custody, OCR, and bibliographic review."
+/>
 
 ## Why This Source Matters
 
@@ -15,14 +22,12 @@ It should eventually become part of a "Steinmetz engineering method" section: ho
 
 ## Current Status
 
-- Local raw PDF copied into `sources/`
-- OCR pending
-- Bibliographic metadata pending
-- Public-domain status pending legal/source review
+The archive already has raw-file custody: a local PDF copy, checksum, byte count, and manifest record. It has not yet been promoted into public technical interpretation because the bibliographic record, public-domain status, OCR, and page map still need a controlled review.
 
-## First Research Tasks
+## Canonical Intake Pass
 
-- Identify exact publication date, context, and edition.
-- Extract OCR or page images.
-- Identify diagrams, oscillograms, machinery references, and equations.
-- Link to alternating-current, transient, generator, and protection concepts.
+The first research pass should establish publication date, venue, edition, and public-domain basis; generate OCR and a page map; identify any diagrams, oscillograms, machinery references, equations, or measured system quantities; and then connect verified passages to alternating-current, transient, generator, protection, and power-system diagnostic concepts.
+
+## Expected Archive Value
+
+Once verified, this source should fill a gap that textbooks do not: Steinmetz as a practical investigator. It can show how he moved from system symptoms to likely causes, how he weighed measured behavior against apparatus theory, and how his mathematical habits entered real power-station trouble analysis.

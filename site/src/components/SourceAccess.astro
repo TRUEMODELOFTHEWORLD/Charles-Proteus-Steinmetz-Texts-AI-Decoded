@@ -1,0 +1,32 @@
+---
+interface Props {
+  title: string;
+  archiveId?: string;
+  sourceUrl?: string;
+  localPath?: string;
+  note?: string;
+}
+
+const { title, archiveId = '', sourceUrl = '', localPath = '', note = '' } = Astro.props;
+const detailsUrl = sourceUrl || (archiveId ? `https://archive.org/details/${archiveId}` : '');
+const embedUrl = archiveId ? `https://archive.org/embed/${archiveId}` : '';
+---
+
+<section class="source-access" data-layer="source">
+  <div>
+    <strong>Original Source Access</strong>
+    <p>{title}</p>
+    {note && <p class="source-access-note">{note}</p>}
+    {localPath && <code>{localPath}</code>}
+  </div>
+  <div class="source-access-actions">
+    {detailsUrl && <a href={detailsUrl}>View original scan</a>}
+    {archiveId && <a href={`https://archive.org/download/${archiveId}/${archiveId}_djvu.txt`}>Open OCR text</a>}
+  </div>
+  {embedUrl && (
+    <details class="source-reader">
+      <summary>Open inline scan reader</summary>
+      <iframe src={embedUrl} title={`Internet Archive reader for ${title}`} loading="lazy"></iframe>
+    </details>
+  )}
+</section>

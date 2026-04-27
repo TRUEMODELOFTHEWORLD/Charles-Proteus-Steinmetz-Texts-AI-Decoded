@@ -1,50 +1,103 @@
 ---
 title: Steinmetz Decoded
 description: A rigorous public research codex for Charles Proteus Steinmetz.
-template: splash
-hero:
-  title: Steinmetz Decoded
-  tagline: A source-grounded research archive for Charles Proteus Steinmetz, his mathematics, diagrams, terminology, field language, and electrical worldview.
-  image:
-    file: ../../assets/spectrum-of-radiation.svg
-    alt: Recreated spectrum of radiation guide
-  actions:
-    - text: Open the Source Library
-      link: /Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/
-    - text: Start with Lecture I
-      link: /Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/lecture-01/
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+<section class="home-codex-hero">
+  <div>
+    <p class="home-kicker">A source-grounded research codex</p>
+    <h1>Steinmetz Decoded</h1>
+    <div class="home-lede">Charles Proteus Steinmetz helped give electrical engineering its working language for alternating current, hysteresis, transients, symbolic calculation, lightning, and power-system behavior. This archive preserves that language at source level: scans first, OCR second, math intact, interpretation clearly labeled.</div>
+    <div class="home-actions">
+      <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/">Open the source corpus</a>
+      <a class="secondary" href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/lecture-01/">Start with Lecture I</a>
+      <a class="secondary" href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/">Use the interactive tools</a>
+    </div>
+  </div>
+  <figure class="home-portrait-card">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Proteus_Steinmetz.jpg?width=900" alt="Portrait photograph of Charles Proteus Steinmetz from the Library of Congress Bain Collection" />
+    <p>Charles Proteus Steinmetz, Library of Congress Bain Collection. Wikimedia Commons marks the file as public domain / no known publication restrictions in the United States.</p>
+  </figure>
+</section>
+
+## Why This Archive Exists
+
+Steinmetz is often reduced to a handful of phrases: wizard of Schenectady, AC genius, hysteresis law, complex numbers.
+That is not enough. His books and lectures preserve an older electrical grammar in which mathematics, field language,
+apparatus behavior, waves, and practical engineering still sit close together.
+
+The archive is designed for engineers, historians, students, Tesla-era researchers, field-language readers, and
+open-minded alternative-science researchers who need one thing above all: strict attribution. A page may contain
+Steinmetz's explicit wording, modern engineering translation, mathematical reconstruction, historical context, and
+ether-field interpretation, but those layers must never be allowed to blur into one another.
 
 <div class="codex-signal">
-  <div>
+  <div data-layer="source">
     <strong>Source first.</strong>
-    <p>Raw scans, OCR, manifests, and checksums remain visible before commentary begins.</p>
+    <p>Raw scans, OCR, manifests, checksums, source links, and status badges remain visible before commentary begins.</p>
   </div>
-  <div>
+  <div data-layer="modern">
     <strong>Math preserved.</strong>
-    <p>Original notation is kept, then translated into modern engineering form.</p>
+    <p>Original notation is kept where possible, then translated into modern engineering form with derivations and tools.</p>
   </div>
-  <div>
+  <div data-layer="interpretive">
     <strong>Interpretation labeled.</strong>
-    <p>Historical fact, modern translation, and ether-field readings are separated.</p>
+    <p>Historical fact, modern translation, Tesla-era comparison, and ether-field readings are separated by layer.</p>
   </div>
 </div>
 
+## Steinmetz At A Glance
+
+<div class="home-portrait-grid">
+  <figure class="home-portrait-card">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Charlesproteussteinmetz.jpg?width=800" alt="Headshot portrait of Charles Proteus Steinmetz, circa 1900" />
+    <p>Circa 1900 portrait from The Henry Ford collection, via Wikimedia Commons.</p>
+  </figure>
+  <figure class="home-portrait-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png" alt="Original scan crop of Steinmetz spectrum of radiation table" />
+    <p>The site anchors visual interpretation in original scan crops whenever possible.</p>
+  </figure>
+  <figure class="home-portrait-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/ac-symbolic-method-redraw-sheet.svg" alt="Modern redraw sheet for Steinmetz symbolic method figures" />
+    <p>Modern redraws are marked as reconstruction, not substitution for the scan.</p>
+  </figure>
+</div>
+
+- Born in Breslau in 1865 as Carl August Rudolph Steinmetz; later known in the United States as Charles Proteus Steinmetz.
+- Became one of the central mathematical architects of practical alternating-current engineering.
+- Worked at Eickemeyer and then General Electric, where his analysis of AC machinery, hysteresis, transients, and power systems became foundational.
+- Taught and lectured at Union College, leaving books that read like a working bridge between physics, mathematics, and industrial electrical engineering.
+- Left a body of books, articles, lectures, diagrams, and patents large enough to require a real research engine, not a summary site.
+
+## Current Research Front
+
+<div class="source-matrix">
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/">Radiation, Light and Illumination<span>Radiation, electric waves, light, photometry, illumination, and first original scan crops.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/">Alternating Current Phenomena<span>Symbolic method, impedance, reactance, admittance, harmonics, transformers, and AC calculation.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/">Transient Electric Phenomena<span>Transient terms, condenser discharge, oscillation, surges, distributed lines, standing waves, traveling waves.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/">Engineering Mathematics<span>General number, exponential functions, trigonometric series, empirical curves, and calculation methods.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/">Elementary Lectures<span>Electric discharges, waves, impulses, electric field, oscillating currents, and transient origin.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/steinmetz-patents/">Patent Register<span>Representative patent intake with room to expand toward the complete Steinmetz patent corpus.</span></a>
+</div>
+
+## Reader Tools
+
+The lower-right reader panel adds three site-wide controls:
+
+- `Steinmetz only` hides modern, comparison, and interpretive sections so the reader can stay closer to source material.
+- `Ask this page` searches only the visible text on the current page and returns matching passages without inventing an answer.
+- `Translate` opens the current page through Google Translate in the selected language.
+
+Diagrams and portrait images are also zoomable. Click any major figure to open a lightbox viewer.
+
+## Visual Reading Aids
+
 <div class="codex-visual-grid">
   <div class="codex-visual-card">
-    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/radiation-light-and-illumination/figures/table-spectrum-of-radiation.png" alt="Original scan crop of Steinmetz spectrum of radiation table" />
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/radiation-light-and-illumination/figures/fig-14-spectrum-of-radiation.png" alt="Original scan crop of Steinmetz Fig. 14 spectrum of radiation" />
     <div>
-      <strong>Original scan evidence</strong>
-      <p>Promoted crops now anchor the first source's spectrum, refraction, and reflection diagrams.</p>
-    </div>
-  </div>
-  <div class="codex-visual-card">
-    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/transient-decay-oscillation.svg" alt="Recreated transient decay and oscillation guide" />
-    <div>
-      <strong>Transient terms</strong>
-      <p>Permanent and transient components, damping, and oscillation.</p>
+      <strong>Original radiation spectrum</strong>
+      <p>Scan crop from <em>Radiation, Light and Illumination</em>, used before any modern reconstruction.</p>
     </div>
   </div>
   <div class="codex-visual-card">
@@ -55,117 +108,43 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
     </div>
   </div>
   <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/transient-condenser-response-redraw-sheet.svg" alt="Modern redraw sheet for Steinmetz condenser transient response figures" />
+    <div>
+      <strong>Transient response</strong>
+      <p>Condenser charge, discharge, logarithmic decay, and oscillatory decrement.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
     <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/hysteresis-loop.svg" alt="Recreated magnetic hysteresis loop guide" />
     <div>
       <strong>Hysteresis</strong>
       <p>Lag, magnetic memory, and energy lost per cycle.</p>
     </div>
   </div>
-  <div class="codex-visual-card">
-    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/impedance-reactance-triangle.svg" alt="Recreated impedance and reactance triangle guide" />
-    <div>
-      <strong>Impedance geometry</strong>
-      <p>Resistance and reactance as the geometry behind symbolic AC calculation.</p>
-    </div>
-  </div>
-  <div class="codex-visual-card">
-    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/illumination-inverse-square.svg" alt="Recreated illumination distance guide" />
-    <div>
-      <strong>Illumination</strong>
-      <p>Light flux, distance, surface area, and the engineering of visibility.</p>
-    </div>
-  </div>
 </div>
 
-<CardGrid>
-  <Card title="First Source" icon="book">
-    _Radiation, Light and Illumination_ is seeded as the first canonical example with raw PDFs, OCR, lecture splits, candidate equations, candidate figures, glossary seeds, and analysis pages.
-  </Card>
-  <Card title="Concept Encyclopedia" icon="seti:search">
-    Concepts are now built across radiation, electric waves, ether, illumination, transients, hysteresis, symbolic method, impedance, reactance, admittance, power factor, distributed constants, and oscillation.
-  </Card>
-  <Card title="Comparison Layers" icon="seti:config">
-    Pages compare Steinmetz with modern EE, Tesla-era electrical science, and carefully labeled ether-field interpretation.
-  </Card>
-  <Card title="Interactive Tools" icon="seti:javascript">
-    The first tool visualizes the frequency-wavelength relation that anchors Lecture I's radiation spectrum.
-  </Card>
-</CardGrid>
-
-## Current Canonical Seed
-
-- Raw source custody: complete for the first book.
-- OCR seed: complete from Internet Archive OCR.
-- Lecture split: thirteen candidate lecture files.
-- First analysis layer: Lecture I, radiation, electric waves, ether, wavelength/frequency math, hidden gems.
-- Diagram seed: five original scan-derived crops plus recreated research guides.
-- Corpus dashboard: generated source, equation, figure, glossary, concept, and quote indexes under `processed/`.
-- Second public layer: AC symbolic method, impedance/reactance, admittance, transient terms, standing/traveling waves, and RLC oscillation pages.
-
-[Open the processing dashboard](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/research-status/)
-
-## Research Reading Map
+## Research Covenant
 
 <div class="research-passages">
-  <section>
-    <h3>Start With Physical Meaning</h3>
-    <p>Steinmetz often begins from the physical process before compressing it into mathematics. The site now treats that as a rule: first name the energy process, then translate the notation, then compare the modern abstraction.</p>
+  <section data-layer="source">
+    <h3>What Steinmetz explicitly states</h3>
+    <p>Claims in this layer must be traceable to a source text, page, scan crop, OCR line, or manifest record.</p>
   </section>
-  <section>
-    <h3>Then Follow The Math</h3>
-    <p>The first mathematical spine is the frequency-wavelength relation in the radiation lectures. The next spine is symbolic AC calculation: resistance, reactance, impedance, phase angle, and power factor.</p>
+  <section data-layer="modern">
+    <h3>Modern equivalent</h3>
+    <p>Modern engineering translation is useful only when it remains attached to the original notation and source context.</p>
   </section>
-  <section>
-    <h3>Keep Interpretation In Its Lane</h3>
-    <p>Ether-field readings are preserved as disciplined interpretive layers, never as automatic historical claims. Every such layer is separated from Steinmetz's explicit statements and from modern engineering language.</p>
+  <section data-layer="interpretive">
+    <h3>Ether-field interpretive reading</h3>
+    <p>This layer is welcome, but it is always marked as interpretation. It cannot be treated as proof of what Steinmetz historically meant unless a passage supports it.</p>
   </section>
 </div>
 
-## Processing Dashboard
+## Next Doors
 
-<table class="codex-status-table">
-  <thead>
-    <tr>
-      <th>Source</th>
-      <th>Current Front</th>
-      <th>Next Canonical Work</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Radiation, Light and Illumination</td>
-      <td>Lecture map, Lecture I decoding, radiation/electric-wave/ether concepts, spectrum guide.</td>
-      <td>Equation triage, scan-verified quotations, and page-map refinement.</td>
-    </tr>
-    <tr>
-      <td>Elementary Lectures</td>
-      <td>Transient, electric-field, wave, line-oscillation, and traveling-wave entry points.</td>
-      <td>Correct lecture OCR and extract the field/wave diagrams.</td>
-    </tr>
-    <tr>
-      <td>Alternating Current Phenomena</td>
-      <td>Symbolic method, impedance/reactance vocabulary, hysteresis, transformers, harmonics.</td>
-      <td>Build canonical equation pages for impedance, admittance, power factor, and hysteresis loss.</td>
-    </tr>
-    <tr>
-      <td>Transient Electric Phenomena</td>
-      <td>Candidate map across circuit constants, oscillations, surges, transmission lines, and traveling waves.</td>
-      <td>Repair duplicated table-of-contents splits and anchor concepts to exact chapters.</td>
-    </tr>
-  </tbody>
-</table>
-
-## Expanded Source Corpus
-
-The archive now has seeded custody and OCR records for the first wave of Steinmetz books:
-
-<div class="source-matrix">
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/">Radiation, Light and Illumination<span>Radiation, electric waves, light, photometry, illumination.</span></a>
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/">Elementary Lectures<span>Transients, electric fields, waves, impulses, discharge phenomena.</span></a>
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/">Engineering Mathematics<span>General number, exponential functions, Fourier/trigonometric series, approximation.</span></a>
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/">Alternating Current Phenomena<span>Impedance, reactance, symbolic method, transformers, harmonics, polyphase systems.</span></a>
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/">Transient Electric Phenomena<span>Circuit transients, oscillations, surges, distributed capacity, standing and traveling waves.</span></a>
-  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theoretical-elements-electrical-engineering/">Theoretical Elements<span>Magnetism, electric current, E.M.F., induction, AC and DC apparatus theory.</span></a>
-</div>
-
-This is the foundation of the codex, not the finish line.
+- [Who Was Steinmetz?](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/who-was-steinmetz/)
+- [Why Steinmetz Matters](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/why-steinmetz-matters/)
+- [Source Library](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/)
+- [Concept Encyclopedia](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/)
+- [Equation Catalog](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/)
+- [Diagram Archive](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/)
