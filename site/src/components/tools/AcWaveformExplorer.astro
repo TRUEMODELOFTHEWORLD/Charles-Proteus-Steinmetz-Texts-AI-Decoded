@@ -1,0 +1,165 @@
+<div class="tool-shell" data-ac-waveform-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        Fundamental amplitude
+        <input data-fundamental type="range" min="20" max="100" step="1" value="70" />
+      </label>
+      <label>
+        Third harmonic percent
+        <input data-third type="range" min="-40" max="40" step="1" value="12" />
+      </label>
+      <label>
+        Fifth harmonic percent
+        <input data-fifth type="range" min="-30" max="30" step="1" value="-8" />
+      </label>
+      <label>
+        Phase shift
+        <input data-phase type="range" min="-180" max="180" step="1" value="0" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="360"></canvas>
+  </div>
+</div>
+
+<script>
+  function waveformValue(theta, fundamental, thirdPercent, fifthPercent, phase) {
+    const third = fundamental * thirdPercent / 100;
+    const fifth = fundamental * fifthPercent / 100;
+    return fundamental * Math.sin(theta + phase)
+      + third * Math.sin(3 * theta)
+      + fifth * Math.sin(5 * theta);
+  }
+
+  function drawWaveform(canvas, fundamental, thirdPercent, fifthPercent, phaseDegrees) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const left = 56;
+    const right = width - 38;
+    const top = 42;
+    const bottom = height - 42;
+    const mid = (top + bottom) / 2;
+    const phase = phaseDegrees * Math.PI / 180;
+    const samples = 720;
+    const values = [];
+    for (let i = 0; i <= samples; i += 1) {
+      const theta = (i / samples) * 4 * Math.PI;
+      values.push(waveformValue(theta, fundamental, thirdPercent, fifthPercent, phase));
+    }
+    const maxAbs = Math.max(...values.map((value) => Math.abs(value)), fundamental, 1);
+    const scale = (bottom - top) / (2 * maxAbs * 1.12);
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = left; x <= right; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x, top);
+      ctx.lineTo(x, bottom);
+      ctx.stroke();
+    }
+    for (let y = top; y <= bottom; y += 40) {
+      ctx.beginPath();
+      ctx.moveTo(left, y);
+      ctx.lineTo(right, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(left, mid);
+    ctx.lineTo(right, mid);
+    ctx.moveTo(left, top);
+    ctx.lineTo(left, bottom);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#a9822a';
+    ctx.lineWidth = 3;
+    ctx.setLineDash([8, 8]);
+    ctx.beginPath();
+    for (let i = 0; i <= samples; i += 1) {
+      const theta = (i / samples) * 4 * Math.PI;
+      const x = left + (i / samples) * (right - left);
+      const y = mid - fundamental * Math.sin(theta + phase) * scale;
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 4;
+    ctx.beginPath();
+    values.forEach((value, index) => {
+      const x = left + (index / samples) * (right - left);
+      const y = mid - value * scale;
+      if (index === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    });
+    ctx.stroke();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 20px system-ui, sans-serif';
+    ctx.fillText('alternating-current wave shape', left, 30);
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText('fundamental', right - 162, top + 22);
+    ctx.fillStyle = '#2f6f67';
+    ctx.fillText('resultant wave', right - 162, top + 44);
+    ctx.fillStyle = '#526064';
+    ctx.fillText('two cycles shown', right - 136, bottom + 27);
+  }
+
+  document.querySelectorAll('[data-ac-waveform-tool]').forEach((tool) => {
+    const fundamentalInput = tool.querySelector('[data-fundamental]');
+    const thirdInput = tool.querySelector('[data-third]');
+    const fifthInput = tool.querySelector('[data-fifth]');
+    const phaseInput = tool.querySelector('[data-phase]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const fundamental = Number(fundamentalInput.value);
+      const third = Number(thirdInput.value);
+      const fifth = Number(fifthInput.value);
+      const phase = Number(phaseInput.value);
+      const phaseRadians = phase * Math.PI / 180;
+      const samples = 1440;
+      let sumSquares = 0;
+      let peak = 0;
+      for (let i = 0; i < samples; i += 1) {
+        const theta = (i / samples) * 2 * Math.PI;
+        const value = waveformValue(theta, fundamental, third, fifth, phaseRadians);
+        sumSquares += value ** 2;
+        peak = Math.max(peak, Math.abs(value));
+      }
+      const rms = Math.sqrt(sumSquares / samples);
+      const fundamentalRms = fundamental / Math.sqrt(2);
+      const harmonicRms = Math.sqrt((fundamental * third / 100) ** 2 / 2 + (fundamental * fifth / 100) ** 2 / 2);
+      const thd = harmonicRms / fundamentalRms * 100;
+      const crestFactor = peak / rms;
+
+      readout.innerHTML = `
+        <strong>Source frame:</strong> alternating wave shape and higher harmonics<br />
+        <strong>RMS value:</strong> ${rms.toFixed(2)} relative units<br />
+        <strong>Peak value:</strong> ${peak.toFixed(2)} relative units<br />
+        <strong>Crest factor:</strong> ${crestFactor.toFixed(2)}<br />
+        <strong>Approx. THD:</strong> ${thd.toFixed(1)} percent<br />
+        <strong>Phase shift:</strong> ${phase.toFixed(0)} degrees
+      `;
+
+      drawWaveform(canvas, fundamental, third, fifth, phase);
+    }
+
+    fundamentalInput.addEventListener('input', render);
+    thirdInput.addEventListener('input', render);
+    fifthInput.addEventListener('input', render);
+    phaseInput.addEventListener('input', render);
+    render();
+  });
+</script>

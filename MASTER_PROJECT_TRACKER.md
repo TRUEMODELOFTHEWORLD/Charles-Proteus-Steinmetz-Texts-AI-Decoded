@@ -46,7 +46,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
 | Build hidden gems index | Started | Section exists. Needs many scan-verified entries. |
 | Build research questions section | Started | Section exists and should evolve after each source pass. |
-| Build interactive tools | Started | Frequency/wavelength, impedance, phasor/symbolic-form, power-factor, hysteresis-loss, and transient RLC condenser-discharge tools exist. |
+| Build interactive tools | Started | Frequency/wavelength, AC waveform/harmonics, impedance, phasor/symbolic-form, power-factor, hysteresis-loss, and transient RLC condenser-discharge tools exist. |
 | Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
 | Avoid hallucination | Repeating | Labels and verification queue are active. This must be enforced forever. |
 
@@ -117,7 +117,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 12. Hidden Gems Index | Started | `site/src/content/docs/hidden-gems.mdx` |
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
-| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, impedance, phasor/symbolic form, power factor, hysteresis loss, and transient RLC response. |
+| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, AC waveform/harmonics, impedance, phasor/symbolic form, power factor, hysteresis loss, and transient RLC response. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker
@@ -209,5 +209,5 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 4. Scan-verify the first 12 canonical equations and expand each with exact page anchors and additional worked examples.
 5. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
-7. Add the next interactive tools: AC waveform visualizer and lightning/surge visualizer.
+7. Add the next interactive tool: lightning/surge visualizer.
 8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.

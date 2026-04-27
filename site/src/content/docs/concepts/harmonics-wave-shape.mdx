@@ -1,0 +1,45 @@
+---
+title: Harmonics And Wave Shape
+description: Steinmetz on practical alternating-current wave shape, higher harmonics, RMS value, and distortion.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Engineering Mathematics" location="AC higher-harmonics OCR candidate; Engineering Mathematics trigonometric-series OCR candidate" status="needs scan verification" />
+
+## Steinmetz Usage
+
+Steinmetz does not treat every alternating-current wave as a perfect sine wave. The seeded AC source includes higher harmonics, wave-shape distortion, effective values, transformer behavior, and hysteretic loss under distorted waves.
+
+This matters because a distorted wave can have the same nominal frequency but different peak value, RMS value, heating effect, transformer flux behavior, and core loss.
+
+## Modern Equivalent
+
+Modern readers would connect this to Fourier series, harmonic distortion, RMS measurement, crest factor, transformer core loss, machine heating, and power-quality analysis.
+
+```math
+e(t) = E_1\sin(\omega t) + E_3\sin(3\omega t) + E_5\sin(5\omega t) + \cdots
+```
+
+## Interactive Translation
+
+The [AC Waveform and Harmonics tool](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#ac-waveform-and-harmonics) lets readers vary third and fifth harmonic content and watch the resultant wave, RMS value, peak value, crest factor, and approximate distortion.
+
+## Why It Matters
+
+Wave shape is a hidden bridge between mathematics and apparatus. In a simplified sine-wave course, harmonics may feel like an afterthought. In Steinmetz's practical engineering world, wave shape can change losses, stresses, and machine behavior.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+This is the route from ideal AC theory into power quality, transformer derating, harmonic heating, and nonlinear magnetic behavior. The archive should use Steinmetz's wave-shape passages to keep that practical layer visible.
+</LayeredReading>
+
+<LayeredReading label="Interpretive Reading">
+Interpretive only: field-centered readers may treat waveform structure as evidence that electrical action is temporal and modal rather than merely scalar. The source-grounded claim is that Steinmetz analyzes practical alternating waves by their shape and harmonic components.
+</LayeredReading>
+
+## Still To Verify
+
+- Exact chapter and page anchors for Steinmetz's higher-harmonics discussion.
+- Which figures should be extracted for distorted waves and machine/transformer effects.
+- How Steinmetz relates nonsinusoidal waves to hysteresis and transformer loss in each edition.

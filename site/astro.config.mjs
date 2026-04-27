@@ -83,6 +83,7 @@ export default defineConfig({
             { label: 'Symbolic Method', slug: 'concepts/symbolic-method' },
             { label: 'Complex Quantities', slug: 'concepts/complex-quantities' },
             { label: 'Hysteresis', slug: 'concepts/hysteresis' },
+            { label: 'Harmonics And Wave Shape', slug: 'concepts/harmonics-wave-shape' },
             { label: 'Impedance', slug: 'concepts/impedance' },
             { label: 'Reactance', slug: 'concepts/reactance' },
             { label: 'Admittance', slug: 'concepts/admittance' },

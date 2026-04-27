@@ -4,6 +4,7 @@ description: Small mathematical and physical visualizers for Steinmetz concepts.
 ---
 
 import WaveRelationExplorer from '../../../components/tools/WaveRelationExplorer.astro';
+import AcWaveformExplorer from '../../../components/tools/AcWaveformExplorer.astro';
 import HysteresisExplorer from '../../../components/tools/HysteresisExplorer.astro';
 import ImpedanceExplorer from '../../../components/tools/ImpedanceExplorer.astro';
 import PhasorExplorer from '../../../components/tools/PhasorExplorer.astro';
@@ -13,6 +14,16 @@ import TransientRlcExplorer from '../../../components/tools/TransientRlcExplorer
 ## Frequency and Wavelength
 
 <WaveRelationExplorer />
+
+## AC Waveform And Harmonics
+
+<AcWaveformExplorer />
+
+This tool is keyed to Steinmetz's repeated concern with alternating wave shape, higher harmonics, RMS/effective value, and the difference between ideal sine-wave theory and practical electrical waves.
+
+```math
+e(t) = E_1\sin(\omega t + \theta) + E_3\sin(3\omega t) + E_5\sin(5\omega t)
+```
 
 ## Impedance and Reactance
 
@@ -70,5 +81,4 @@ Use it with the original figure pages and equation page rather than as a replace
 
 ## Planned Tools
 
-- AC waveform visualizer
 - Lightning/surge transient visualizer
