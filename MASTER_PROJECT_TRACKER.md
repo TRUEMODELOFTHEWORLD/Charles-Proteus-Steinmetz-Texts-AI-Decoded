@@ -200,6 +200,11 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 | `d87468b` | Generated annotation and crosslink indexes. |
 | `4f023b9` | Added first canonical equation set. |
 | `a7bc0fe` | Added transient RLC explorer. |
+| `d6078ef` | Added source-keyed diagram redraw sheets. |
+| `5173d6e` | Added phasor symbolic form explorer. |
+| `b7c70a7` | Added hysteresis loss explorer and Steinmetz-law candidate page. |
+| `131b7b9` | Added AC waveform harmonics explorer and wave-shape concept page. |
+| `b3f8d41` | Added lightning surge traveling-wave explorer and surge concept page. |
 
 ## Next Work Queue
 
