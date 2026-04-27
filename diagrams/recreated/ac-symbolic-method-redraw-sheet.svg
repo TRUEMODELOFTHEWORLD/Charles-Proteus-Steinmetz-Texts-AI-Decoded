@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">AC symbolic method redraw sheet</title>
+  <desc id="desc">Modern vector reading aid for Steinmetz's Chapter V symbolic-method figures: rectangular components, resultant components, and quarter-period rotation by j.</desc>
+  <rect width="1200" height="680" fill="#f7f4ed"/>
+  <text x="44" y="56" font-family="Georgia, serif" font-size="32" fill="#1c2422">Symbolic Method: Vector To Complex Quantity</text>
+  <text x="44" y="88" font-family="Arial, sans-serif" font-size="15" fill="#526064">Modern redraw sheet keyed to Steinmetz Figs. 22-24. Reading aid only; consult original scan crops for documentary evidence.</text>
+
+  <g transform="translate(54 130)">
+    <rect x="0" y="0" width="338" height="430" rx="4" fill="#fcfbf8" stroke="#d8d0c2"/>
+    <text x="22" y="38" font-family="Georgia, serif" font-size="22" fill="#1c2422">Fig. 22 Reading</text>
+    <text x="22" y="64" font-family="Arial, sans-serif" font-size="13" fill="#526064">Resolve a sine-wave vector into rectangular components.</text>
+    <line x1="45" y1="320" x2="296" y2="320" stroke="#26312e" stroke-width="2"/>
+    <line x1="72" y1="350" x2="72" y2="90" stroke="#26312e" stroke-width="2"/>
+    <g stroke-linecap="round" fill="none">
+      <line x1="72" y1="320" x2="244" y2="174" stroke="#2f6f67" stroke-width="6"/>
+      <line x1="72" y1="320" x2="244" y2="320" stroke="#9b4d32" stroke-width="5"/>
+      <line x1="244" y1="320" x2="244" y2="174" stroke="#6b5896" stroke-width="5"/>
+      <path d="M120 320 A48 48 0 0 0 109 288" stroke="#a9822a" stroke-width="3"/>
+    </g>
+    <polygon points="244,174 224,178 237,193" fill="#2f6f67"/>
+    <polygon points="244,320 224,312 224,328" fill="#9b4d32"/>
+    <polygon points="244,174 236,194 252,194" fill="#6b5896"/>
+    <text x="256" y="174" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">A</text>
+    <text x="148" y="346" font-family="Arial, sans-serif" font-size="15" fill="#9b4d32">a</text>
+    <text x="255" y="250" font-family="Arial, sans-serif" font-size="15" fill="#6b5896">b</text>
+    <text x="114" y="286" font-family="Arial, sans-serif" font-size="14" fill="#a9822a">phase</text>
+    <text x="22" y="392" font-family="Arial, sans-serif" font-size="14" fill="#1c2422">Modern translation: A = a + jb</text>
+  </g>
+
+  <g transform="translate(431 130)">
+    <rect x="0" y="0" width="338" height="430" rx="4" fill="#fcfbf8" stroke="#d8d0c2"/>
+    <text x="22" y="38" font-family="Georgia, serif" font-size="22" fill="#1c2422">Fig. 23 Reading</text>
+    <text x="22" y="64" font-family="Arial, sans-serif" font-size="13" fill="#526064">Add alternating quantities by adding rectangular projections.</text>
+    <line x1="42" y1="320" x2="302" y2="320" stroke="#26312e" stroke-width="2"/>
+    <line x1="72" y1="350" x2="72" y2="90" stroke="#26312e" stroke-width="2"/>
+    <g stroke-linecap="round" fill="none">
+      <line x1="72" y1="320" x2="170" y2="222" stroke="#2f6f67" stroke-width="5"/>
+      <line x1="170" y1="222" x2="268" y2="178" stroke="#a9822a" stroke-width="5"/>
+      <line x1="72" y1="320" x2="268" y2="178" stroke="#6b5896" stroke-width="6"/>
+      <line x1="72" y1="320" x2="268" y2="320" stroke="#9b4d32" stroke-width="4"/>
+      <line x1="268" y1="320" x2="268" y2="178" stroke="#6b5896" stroke-width="4"/>
+      <path d="M170 222 L268 222 L268 178" stroke="#c9bda7" stroke-width="2"/>
+    </g>
+    <polygon points="268,178 248,181 260,197" fill="#6b5896"/>
+    <text x="82" y="230" font-family="Arial, sans-serif" font-size="15" fill="#2f6f67">A1</text>
+    <text x="217" y="188" font-family="Arial, sans-serif" font-size="15" fill="#a9822a">A2</text>
+    <text x="280" y="181" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">A</text>
+    <text x="139" y="346" font-family="Arial, sans-serif" font-size="15" fill="#9b4d32">a1 + a2</text>
+    <text x="22" y="392" font-family="Arial, sans-serif" font-size="14" fill="#1c2422">Modern translation: (a1 + jb1) + (a2 + jb2)</text>
+  </g>
+
+  <g transform="translate(808 130)">
+    <rect x="0" y="0" width="338" height="430" rx="4" fill="#fcfbf8" stroke="#d8d0c2"/>
+    <text x="22" y="38" font-family="Georgia, serif" font-size="22" fill="#1c2422">Fig. 24 Reading</text>
+    <text x="22" y="64" font-family="Arial, sans-serif" font-size="13" fill="#526064">Multiplication by j turns the vector through a quarter period.</text>
+    <line x1="42" y1="245" x2="306" y2="245" stroke="#26312e" stroke-width="2"/>
+    <line x1="174" y1="376" x2="174" y2="114" stroke="#26312e" stroke-width="2"/>
+    <circle cx="174" cy="245" r="104" fill="none" stroke="#d8d0c2" stroke-width="2"/>
+    <g stroke-linecap="round" fill="none">
+      <line x1="174" y1="245" x2="260" y2="186" stroke="#2f6f67" stroke-width="6"/>
+      <line x1="174" y1="245" x2="233" y2="331" stroke="#6b5896" stroke-width="6"/>
+      <path d="M220 214 A56 56 0 0 1 202 291" stroke="#a9822a" stroke-width="4"/>
+    </g>
+    <polygon points="260,186 240,189 253,205" fill="#2f6f67"/>
+    <polygon points="233,331 216,317 211,334" fill="#6b5896"/>
+    <polygon points="205,292 216,273 222,291" fill="#a9822a"/>
+    <text x="266" y="186" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">A</text>
+    <text x="239" y="353" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">jA</text>
+    <text x="222" y="266" font-family="Arial, sans-serif" font-size="14" fill="#a9822a">90 degrees</text>
+    <text x="22" y="392" font-family="Arial, sans-serif" font-size="14" fill="#1c2422">Modern translation: j is a rotation operator.</text>
+  </g>
+
+  <rect x="44" y="598" width="1102" height="42" rx="4" fill="#efe8d7" stroke="#d5c28e"/>
+  <text x="62" y="624" font-family="Arial, sans-serif" font-size="14" fill="#463d28">Evidence boundary: Steinmetz's original figures establish the sequence. This redraw clarifies the geometry and modern notation but is not an independent source claim.</text>
+</svg>
