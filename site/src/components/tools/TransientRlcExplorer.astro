@@ -1,0 +1,191 @@
+<div class="tool-shell" data-transient-rlc-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        Resistance R
+        <input data-resistance type="range" min="1" max="900" step="1" value="120" />
+      </label>
+      <label>
+        Inductance L in millihenrys
+        <input data-inductance type="range" min="10" max="500" step="1" value="100" />
+      </label>
+      <label>
+        Capacity C in microfarads
+        <input data-capacity type="range" min="5" max="200" step="1" value="40" />
+      </label>
+      <label>
+        Initial condenser volts
+        <input data-voltage type="range" min="10" max="500" step="1" value="120" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="360"></canvas>
+  </div>
+</div>
+
+<script>
+  function drawTransientResponse(canvas, resistance, inductance, capacity, voltage) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const left = 62;
+    const right = width - 32;
+    const top = 28;
+    const bottom = height - 44;
+    const middle = top + (bottom - top) / 2;
+    const alpha = resistance / (2 * inductance);
+    const omega0 = 1 / Math.sqrt(inductance * capacity);
+    const discriminant = alpha ** 2 - omega0 ** 2;
+    const omegaD = Math.sqrt(Math.max(omega0 ** 2 - alpha ** 2, 0));
+    const settling = alpha > 0 ? 5 / alpha : 0.04;
+    const periods = omegaD > 0 ? 4 * (2 * Math.PI / omegaD) : 0;
+    const timeMax = Math.max(settling, periods, 0.02);
+    const samples = 640;
+
+    function response(t) {
+      if (Math.abs(discriminant) < 1e-6) {
+        return voltage * Math.exp(-alpha * t) * (1 + alpha * t);
+      }
+
+      if (discriminant < 0) {
+        return voltage * Math.exp(-alpha * t) * (
+          Math.cos(omegaD * t) + (alpha / omegaD) * Math.sin(omegaD * t)
+        );
+      }
+
+      const beta = Math.sqrt(discriminant);
+      const s1 = -alpha + beta;
+      const s2 = -alpha - beta;
+      return voltage * ((-s2 * Math.exp(s1 * t) + s1 * Math.exp(s2 * t)) / (s1 - s2));
+    }
+
+    const values = [];
+    for (let i = 0; i <= samples; i += 1) {
+      const t = (i / samples) * timeMax;
+      values.push(response(t));
+    }
+
+    const maxAbs = Math.max(voltage, ...values.map((value) => Math.abs(value)), 1);
+    const yScale = (bottom - top) / (2 * maxAbs * 1.12);
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = left; x <= right; x += 64) {
+      ctx.beginPath();
+      ctx.moveTo(x, top);
+      ctx.lineTo(x, bottom);
+      ctx.stroke();
+    }
+    for (let y = top; y <= bottom; y += 42) {
+      ctx.beginPath();
+      ctx.moveTo(left, y);
+      ctx.lineTo(right, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(left, middle);
+    ctx.lineTo(right, middle);
+    ctx.moveTo(left, top);
+    ctx.lineTo(left, bottom);
+    ctx.stroke();
+
+    ctx.strokeStyle = '#9b4d32';
+    ctx.lineWidth = 2;
+    ctx.setLineDash([8, 8]);
+    ctx.beginPath();
+    for (let i = 0; i <= samples; i += 1) {
+      const t = (i / samples) * timeMax;
+      const envelope = voltage * Math.exp(-alpha * t);
+      const x = left + (i / samples) * (right - left);
+      const yTop = middle - envelope * yScale;
+      if (i === 0) ctx.moveTo(x, yTop);
+      else ctx.lineTo(x, yTop);
+    }
+    for (let i = 0; i <= samples; i += 1) {
+      const t = (i / samples) * timeMax;
+      const envelope = voltage * Math.exp(-alpha * t);
+      const x = left + (i / samples) * (right - left);
+      const yBottom = middle + envelope * yScale;
+      if (i === 0) ctx.moveTo(x, yBottom);
+      else ctx.lineTo(x, yBottom);
+    }
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 4;
+    ctx.beginPath();
+    values.forEach((value, index) => {
+      const x = left + (index / samples) * (right - left);
+      const y = middle - value * yScale;
+      if (index === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    });
+    ctx.stroke();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 21px system-ui, sans-serif';
+    ctx.fillText('condenser potential', left + 16, top + 28);
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText('0', left - 22, middle + 5);
+    ctx.fillText(`${voltage.toFixed(0)} V`, left - 50, middle - voltage * yScale + 5);
+    ctx.fillText(`${(timeMax * 1000).toFixed(1)} ms`, right - 76, bottom + 27);
+  }
+
+  function formatFrequency(value) {
+    if (!Number.isFinite(value) || value <= 0) return 'none';
+    if (value >= 1000) return `${(value / 1000).toFixed(2)} kHz`;
+    return `${value.toFixed(1)} Hz`;
+  }
+
+  document.querySelectorAll('[data-transient-rlc-tool]').forEach((tool) => {
+    const resistanceInput = tool.querySelector('[data-resistance]');
+    const inductanceInput = tool.querySelector('[data-inductance]');
+    const capacityInput = tool.querySelector('[data-capacity]');
+    const voltageInput = tool.querySelector('[data-voltage]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const resistance = Number(resistanceInput.value);
+      const inductanceMh = Number(inductanceInput.value);
+      const capacityUf = Number(capacityInput.value);
+      const voltage = Number(voltageInput.value);
+      const inductance = inductanceMh / 1000;
+      const capacity = capacityUf / 1_000_000;
+      const alpha = resistance / (2 * inductance);
+      const omega0 = 1 / Math.sqrt(inductance * capacity);
+      const rCritical = 2 * Math.sqrt(inductance / capacity);
+      const zeta = resistance / rCritical;
+      const omegaD = Math.sqrt(Math.max(omega0 ** 2 - alpha ** 2, 0));
+      const dampedFrequency = omegaD / (2 * Math.PI);
+      const halfWaveRatio = omegaD > 0 ? Math.exp(-alpha * Math.PI / omegaD) : 0;
+      const regime = zeta < 0.995 ? 'oscillatory, below critical resistance' : zeta > 1.005 ? 'non-oscillatory, above critical resistance' : 'near critical resistance';
+
+      readout.innerHTML = `
+        <strong>Original frame:</strong> condenser discharge through resistance and inductance<br />
+        <strong>Regime:</strong> ${regime}<br />
+        <strong>Critical resistance:</strong> ${rCritical.toFixed(1)} ohms<br />
+        <strong>Damping ratio:</strong> ${zeta.toFixed(3)}<br />
+        <strong>Natural frequency:</strong> ${formatFrequency(omega0 / (2 * Math.PI))}<br />
+        <strong>Damped frequency:</strong> ${formatFrequency(dampedFrequency)}<br />
+        <strong>Half-wave ratio:</strong> ${omegaD > 0 ? halfWaveRatio.toFixed(3) : 'not oscillatory'}
+      `;
+
+      drawTransientResponse(canvas, resistance, inductance, capacity, voltage);
+    }
+
+    resistanceInput.addEventListener('input', render);
+    inductanceInput.addEventListener('input', render);
+    capacityInput.addEventListener('input', render);
+    voltageInput.addEventListener('input', render);
+    render();
+  });
+</script>

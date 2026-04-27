@@ -90,7 +90,7 @@ Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination.
-- Interactive frequency/wavelength and impedance/reactance tools.
+- Interactive frequency/wavelength, impedance/reactance, power-factor, and transient RLC response tools.
 - Quality labels that separate source claims, modern interpretation, mathematical reconstruction, and speculative readings.
 
 To run it after dependencies are installed:
@@ -174,6 +174,6 @@ The public site currently builds more than fifty pages, including:
 - Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, and condenser decrement.
 - Glossary pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
-- Interactive tools for frequency/wavelength, impedance/reactance, and power factor.
+- Interactive tools for frequency/wavelength, impedance/reactance, power factor, and transient RLC condenser-discharge response.
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures.
 - Original scan-crop page for transient starting current, condenser charge, oscillation, and decrement figures.

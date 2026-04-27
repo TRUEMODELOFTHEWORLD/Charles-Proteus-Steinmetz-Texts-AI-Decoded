@@ -45,7 +45,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
 | Build hidden gems index | Started | Section exists. Needs many scan-verified entries. |
 | Build research questions section | Started | Section exists and should evolve after each source pass. |
-| Build interactive tools | Started | Frequency/wavelength and impedance tools exist; power factor is next. |
+| Build interactive tools | Started | Frequency/wavelength, impedance, power-factor, and transient RLC condenser-discharge tools exist. |
 | Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
 | Avoid hallucination | Repeating | Labels and verification queue are active. This must be enforced forever. |
 
@@ -116,7 +116,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 12. Hidden Gems Index | Started | `site/src/content/docs/hidden-gems.mdx` |
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
-| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx` |
+| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, impedance, power factor, and transient RLC response. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker
@@ -160,7 +160,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M1. Public trust hardening | Master tracker, public tracker, verification queue, Pages, build checks. | A new contributor can see exactly what exists and what remains candidate. |
 | M2. RLI scan-verified anchor | Verify spectrum table, Figs. 14, 15, 18, 19, and page references. | RLI first-source pages can be marked reviewed where applicable. |
 | M3. AC symbolic canon | Verify `j`, rectangular components, `Z = r + jx`, reactance, admittance, conductance, susceptance, and power factor. | AC symbolic method section now has a first canonical equation set and Chapter V crops; scan verification remains. |
-| M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation and diagram pages. |
+| M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation, diagram, and interactive response pages. |
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation and crosslink JSON. | Aggregate annotation and crosslink indexes now generate; next step is stronger parser and page-map refinement. |
@@ -197,14 +197,15 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 | `ee7c982` | Added original transient figure set. |
 | `fa62a7d` | Promoted source-located glossary terms. |
 | `d87468b` | Generated annotation and crosslink indexes. |
+| `4f023b9` | Added first canonical equation set. |
 
 ## Next Work Queue
 
-1. Finish public tracker wiring and add one more interactive tool.
-2. Verify RLI page anchors and promote the first reviewed source claims.
-3. Complete second-pass review of original AC Chapter V figure crops and add cleaned/vector redraws.
-4. Complete second-pass review of original transient figure crops and add cleaned/vector redraws.
-5. Scan-verify the first 12 canonical equations and expand each with exact page anchors and additional worked examples.
-6. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
-7. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
+1. Verify RLI page anchors and promote the first reviewed source claims.
+2. Complete second-pass review of original AC Chapter V figure crops and add cleaned/vector redraws.
+3. Complete second-pass review of original transient figure crops and add cleaned/vector redraws.
+4. Scan-verify the first 12 canonical equations and expand each with exact page anchors and additional worked examples.
+5. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
+6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
+7. Add the next interactive tools: phasors, hysteresis loop, Steinmetz equation calculator, and lightning/surge visualizer.
 8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.
