@@ -86,6 +86,28 @@ This file turns the project charter into a practical review queue. It is meant t
 18. Promote `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`.
     - 2026-04-27 progress: source-located candidate pages were added for all three terms. Next step is scan verification of the cited OCR line ranges before marking them reviewed.
 
+## Priority 7: Expanded Bibliography Intake
+
+19. Acquire and verify the highest-priority Wikipedia bibliography intake works:
+    - `On the Law of Hysteresis`.
+    - `Complex Quantities and Their Use in Electrical Engineering`.
+    - `The General Equations of the Electric Circuit`.
+    - `Mechanical Forces in Magnetic Fields`.
+    - `Theory and Calculation of Electric Apparatus`.
+20. For each acquired work:
+    - Store raw scan/PDF and checksum.
+    - Preserve external bibliographic record.
+    - Generate OCR, page map, chapter or section split, figures, equations, glossary candidates, quotes, annotations, and crosslinks.
+    - Mark all generated items as candidate until scan checked.
+
+## Priority 8: Steinmetz Patent Authority Pass
+
+21. Verify the 11 Wikipedia-listed patent examples in `sources/steinmetz_patents/patent_register.json`.
+22. Download patent PDFs and drawings for each seeded patent.
+23. Search USPTO, PatentCenter, Google Patents, Espacenet, and assignment data for the full Steinmetz patent catalog.
+24. Reconcile the "over 200 patents" claim before calling the patent register complete.
+25. Create public patent pages only after title page facts, claims, drawings, and source URLs are verified.
+
 ## Promotion Rule
 
 A page can move from candidate to reviewed when:

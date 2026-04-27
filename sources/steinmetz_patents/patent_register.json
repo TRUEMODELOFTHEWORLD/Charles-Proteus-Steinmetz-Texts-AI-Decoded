@@ -1,0 +1,381 @@
+{
+  "register_id": "charles-proteus-steinmetz-patent-register",
+  "updated": "2026-04-27",
+  "person_id": "charles-proteus-steinmetz",
+  "collection_id": "steinmetz",
+  "completion_status": "seeded_incomplete",
+  "scope_warning": "Wikipedia states that Steinmetz held over 200 patents, but the current Wikipedia bibliography lists only selected examples. This file seeds those listed examples and must not be treated as a complete patent bibliography.",
+  "source_basis": [
+    {
+      "label": "Wikipedia, Charles Proteus Steinmetz, Bibliography: Patents",
+      "url": "https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz#Patents",
+      "used_for": "Initial patent example checklist."
+    },
+    {
+      "label": "Google Patents",
+      "url": "https://patents.google.com/",
+      "used_for": "Patent title, publication number, dates, assignee fields, drawings/PDF links, OCR text, classifications, and technical digest candidates."
+    }
+  ],
+  "global_review_rules": [
+    "Download and checksum each patent PDF before marking reviewed.",
+    "Extract drawings as original figure assets and preserve Google/USPTO/PatentCenter source URLs.",
+    "Separate patent claims from modern explanation and from speculative field interpretation.",
+    "Do not infer that a patent represents Steinmetz's entire theoretical position; patent language is legal/apparatus language.",
+    "Link a patent to Steinmetz books only after a source-located conceptual overlap is recorded."
+  ],
+  "patents": [
+    {
+      "patent_number": "US533244A",
+      "title": "System of distribution by alternating currents",
+      "patent_url": "https://patents.google.com/patent/US533244A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US533244.pdf",
+      "publication_date": "1895-01-29",
+      "filing_date": "1894-04-02",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "alternating-current distribution",
+        "single-phase and polyphase systems",
+        "phase displacement",
+        "monocyclic system"
+      ],
+      "technical_digest": "A monocyclic AC distribution system using a supplementary phase-modifying source or coil so ordinary single-phase lighting loads and polyphase motor loads can be supplied from a common system.",
+      "diagram_targets": [
+        "distribution system diagram",
+        "generator bank diagram",
+        "phase-modifying coil regulation diagram",
+        "geometrical phase-displacement diagram"
+      ],
+      "concept_links": [
+        "alternating current",
+        "polyphase currents",
+        "phase displacement",
+        "electromotive force",
+        "symbolic method"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US559419A",
+      "title": "Inductor-dynamo",
+      "patent_url": "https://patents.google.com/patent/US559419A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US559419.pdf",
+      "publication_date": "1896-05-05",
+      "filing_date": "1896-02-15",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "inductor dynamo",
+        "synchronous generator",
+        "magnetic flux",
+        "machine economy"
+      ],
+      "technical_digest": "An inductor-dynamo arrangement that mounts armature coils on extended pole faces and uses a revolving inductor, reducing field-coil count, copper cost, and excitation losses.",
+      "diagram_targets": [
+        "electric circuit diagram",
+        "magnetic path sketch",
+        "modified machine form"
+      ],
+      "concept_links": [
+        "magnetic field",
+        "magnetic flux",
+        "field excitation",
+        "alternating-current machinery"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US583950A",
+      "title": "Three-phase induction-meter",
+      "patent_url": "https://patents.google.com/patent/US583950A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US583950.pdf",
+      "publication_date": "1897-06-08",
+      "filing_date": "1897-01-30",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "three-phase metering",
+        "induction wattmeter",
+        "quadrature",
+        "unbalanced load"
+      ],
+      "technical_digest": "A three-phase induction wattmeter intended to correctly register energy in three-phase, three-wire interlinked systems, including unbalanced or inductive loads, by coordinating current coils, potential coils, and quadrature relations.",
+      "diagram_targets": [
+        "meter connection diagram",
+        "electromotive-force triangle",
+        "phase-relation diagram"
+      ],
+      "concept_links": [
+        "three-phase systems",
+        "power measurement",
+        "quadrature",
+        "wattless component"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US594145A",
+      "title": "Inductor-dynamo",
+      "patent_url": "https://patents.google.com/patent/US594145A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US594145.pdf",
+      "publication_date": "1897-11-23",
+      "filing_date": "1897-08-12",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "inductor dynamo",
+        "auxiliary air-gap",
+        "eddy currents",
+        "magnetic reluctance"
+      ],
+      "technical_digest": "An inductor-dynamo improvement using an auxiliary air-gap and a short-circuited winding near the armature edge to reduce magnetic pulsation, distribute flux more uniformly, and limit eddy-current heating.",
+      "diagram_targets": [
+        "end elevation of machine",
+        "side elevation",
+        "magnetic reluctance path diagram"
+      ],
+      "concept_links": [
+        "magnetic reluctance",
+        "eddy currents",
+        "magnetic flux",
+        "hysteresis and loss"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US714412A",
+      "title": "Induction-motor",
+      "patent_url": "https://patents.google.com/patent/US714412A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US714412.pdf",
+      "publication_date": "1902-11-25",
+      "filing_date": "1900-03-22",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "induction motor",
+        "squirrel-cage winding",
+        "starting torque",
+        "secondary resistance"
+      ],
+      "technical_digest": "A squirrel-cage induction motor starting arrangement that keeps the secondary circuit at high resistance for starting and progressively decreases effective resistance as the motor rises in speed.",
+      "diagram_targets": [
+        "motor sectional view",
+        "secondary conductor arrangement",
+        "resistance-varying disk",
+        "secondary conductor detail"
+      ],
+      "concept_links": [
+        "induction motor",
+        "slip",
+        "torque",
+        "effective resistance",
+        "rotating magnetic field"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US717464A",
+      "title": "System of electrical distribution",
+      "patent_url": "https://patents.google.com/patent/US717464A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US717464.pdf",
+      "publication_date": "1902-12-30",
+      "filing_date": "1902-03-31",
+      "priority_date": "1899-08-19",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "electrical distribution",
+        "two-phase to three-phase transformation",
+        "magnetomotive force",
+        "phase conversion"
+      ],
+      "technical_digest": "A distribution and transformation arrangement that combines quarter-phase magnetomotive forces to produce three-phase flux relations and three-phase secondary currents.",
+      "diagram_targets": [
+        "transformer-core diagram",
+        "phase-vector diagram",
+        "exciter connection diagram"
+      ],
+      "concept_links": [
+        "polyphase systems",
+        "phase relation",
+        "magnetomotive force",
+        "transformers"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US865617A",
+      "title": "Induction-motor",
+      "patent_url": "https://patents.google.com/patent/US865617A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US865617.pdf",
+      "publication_date": "1907-09-10",
+      "filing_date": "1905-08-07",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "induction motor",
+        "high-resistance rotor",
+        "fluid cooling",
+        "reversing service"
+      ],
+      "technical_digest": "An induction motor with high-resistance hollow secondary conductors and forced fluid cooling, designed for severe reversing service where high torque is needed at or near reversal.",
+      "diagram_targets": [
+        "motor section",
+        "hollow conductor and end-ring cooling path"
+      ],
+      "concept_links": [
+        "induction motor",
+        "resistance loss",
+        "cooling",
+        "torque",
+        "slip"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US1025932A",
+      "title": "Means for producing light",
+      "patent_url": "https://patents.google.com/patent/US1025932A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1025932.pdf",
+      "publication_date": "1912-05-07",
+      "filing_date": "1902-04-11",
+      "priority_date": "1900-03-05",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "electric lighting",
+        "mercury arc",
+        "spectral modification",
+        "ionized vapors"
+      ],
+      "technical_digest": "A mercury-arc lighting patent using added conducting vapors, especially alkali-metal iodides, to modify spectral output and improve useful light production.",
+      "diagram_targets": [
+        "lamp construction views",
+        "series circuit diagram",
+        "modified lamp forms"
+      ],
+      "concept_links": [
+        "illumination",
+        "radiation",
+        "spectrum",
+        "electric discharge",
+        "ionization"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US1042986A",
+      "title": "Induction-furnace",
+      "patent_url": "https://patents.google.com/patent/US1042986A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1042986.pdf",
+      "publication_date": "1912-10-29",
+      "filing_date": "1911-07-26",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "induction furnace",
+        "induction heating",
+        "power factor",
+        "magnetic leakage"
+      ],
+      "technical_digest": "An induction furnace arrangement in which the metallic crucible itself acts as a primary winding closely coupled to the charge, reducing leakage flux and improving power factor.",
+      "diagram_targets": [
+        "vertical furnace section",
+        "horizontal furnace section",
+        "step-down transformer relation"
+      ],
+      "concept_links": [
+        "induction",
+        "magnetic leakage",
+        "power factor",
+        "transformer action",
+        "heating"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "US1230615A",
+      "title": "Protective device",
+      "patent_url": "https://patents.google.com/patent/US1230615A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1230615.pdf",
+      "publication_date": "1917-06-19",
+      "filing_date": "1913-06-19",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "surge protection",
+        "high-voltage transmission",
+        "surge resistance",
+        "high-frequency transients"
+      ],
+      "technical_digest": "A selective protective device for high-voltage installations that uses the different surge resistances of lines and apparatus to pass high-frequency disturbances in one direction and reflect or divert them in the other.",
+      "math_candidates": [
+        {
+          "formula": "R = sqrt(L / C)",
+          "meaning": "Surge resistance candidate formula; the patent identifies R as surge resistance and L/C as circuit inductance/capacity, but the rendered equation needs direct scan verification."
+        }
+      ],
+      "diagram_targets": [
+        "transformer protection circuit",
+        "inductance and shunt resistance arrangement"
+      ],
+      "concept_links": [
+        "surge resistance",
+        "distributed constants",
+        "lightning surges",
+        "reflection",
+        "high-frequency currents"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction"
+    },
+    {
+      "patent_number": "USRE11576E",
+      "title": "Inductor-dynamo",
+      "patent_url": "https://patents.google.com/patent/USRE11576E/",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/USRE11576.pdf",
+      "publication_date": "1896-11-24",
+      "filing_date": "1896-10-31",
+      "inventor": "Charles P. Steinmetz",
+      "assignee": "General Electric Company",
+      "wikipedia_listed": true,
+      "domain_tags": [
+        "reissue patent",
+        "inductor dynamo",
+        "magnetic paths",
+        "machine construction"
+      ],
+      "technical_digest": "A reissue-related inductor-dynamo record closely connected to the inductor-dynamo construction family; compare against US559419A before promoting unique claims.",
+      "diagram_targets": [
+        "side elevation",
+        "end elevation",
+        "electric circuit diagram",
+        "magnetic path sketch"
+      ],
+      "concept_links": [
+        "magnetic flux",
+        "field excitation",
+        "inductor dynamo",
+        "alternating-current machinery"
+      ],
+      "research_status": "seeded_patent_record_needs_reissue_lineage_review"
+    }
+  ],
+  "patent_completion_pipeline": [
+    "Search USPTO, PatentCenter, Google Patents, Espacenet, and assignment data for all Charles P. Steinmetz patents and variants.",
+    "Create one raw folder per patent under sources/steinmetz_patents/raw/<patent-number>/ with PDF, OCR text, drawings, and metadata.",
+    "Extract title page facts, claims, drawings, classifications, cited references, and assignment history.",
+    "Build one public patent page per verified patent with original claims, apparatus summary, drawings, modern interpretation, math if present, and related Steinmetz source links.",
+    "Only after full authority pass, change completion_status from seeded_incomplete to authority_cataloged."
+  ]
+}

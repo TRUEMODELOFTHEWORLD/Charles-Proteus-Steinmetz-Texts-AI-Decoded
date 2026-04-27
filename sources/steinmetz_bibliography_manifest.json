@@ -1,0 +1,660 @@
+{
+  "manifest_id": "charles-proteus-steinmetz-bibliography-intake",
+  "updated": "2026-04-27",
+  "person_id": "charles-proteus-steinmetz",
+  "collection_id": "steinmetz",
+  "purpose": "Structured intake list for Steinmetz works identified from the Charles Proteus Steinmetz Wikipedia bibliography, mapped to current repo processing status.",
+  "source_basis": [
+    {
+      "label": "Wikipedia, Charles Proteus Steinmetz, Bibliography: Works",
+      "url": "https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz#Bibliography",
+      "used_for": "Initial bibliography checklist and acquisition queue only. Each work still requires direct source verification."
+    }
+  ],
+  "quality_rule": "This manifest is an intake register, not a completed scholarly bibliography. Do not promote an entry to reviewed status until the source file, edition, OCR, page map, and citation metadata are verified against a primary scan or publication record.",
+  "status_legend": {
+    "seeded_processing_source": "A local source record and at least partial processed outputs already exist.",
+    "edition_variant_seeded": "The work is represented by a related local edition, but edition/year alignment needs review.",
+    "planned_source_acquisition": "A book, lecture collection, or pamphlet should be acquired and processed.",
+    "planned_article_acquisition": "An article or paper should be acquired, OCR'd, and indexed.",
+    "posthumous_or_late_publication_candidate": "Publication may be posthumous or later than the original work; verify chronology before interpretation.",
+    "repo_extra_candidate": "Present in the repo but not in the current Wikipedia works checklist."
+  },
+  "entries": [
+    {
+      "work_id": "law-of-hysteresis-1892",
+      "title": "On the Law of Hysteresis",
+      "year": 1892,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "Transactions of the American Institute of Electrical Engineers, IX (2): 3-64.",
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1892.5570437",
+          "url": "https://doi.org/10.1109/T-AIEE.1892.5570437"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Foundational source for Steinmetz's hysteresis law, magnetic loss, empirical exponent language, and modern Steinmetz equation history."
+    },
+    {
+      "work_id": "complex-quantities-use-electrical-engineering-1894",
+      "title": "Complex Quantities and Their Use in Electrical Engineering",
+      "year": 1894,
+      "source_type": "conference_paper",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "Proceedings of the International Electrical Congress Held in Chicago, August 21-25, 1893, pp. 33-74.",
+      "priority": "critical",
+      "processing_intent": "Primary source for symbolic method, complex quantities, phasors, and Steinmetz's algebraic simplification of AC analysis."
+    },
+    {
+      "work_id": "theory-general-alternating-current-transformer-1895",
+      "title": "Theory of the General Alternating Current Transformer",
+      "year": 1895,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "Transactions of the American Institute of Electrical Engineers, 12th General Meeting: 245-256.",
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1895.4763861",
+          "url": "https://doi.org/10.1109/T-AIEE.1895.4763861"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Transformer theory, magnetic circuit language, equivalent circuit history, and AC apparatus terminology."
+    },
+    {
+      "work_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "source_type": "book",
+      "status": "edition_variant_seeded",
+      "wikipedia_entry": true,
+      "related_local_source_id": "theory-calculation-alternating-current-phenomena",
+      "publication_note": "First edition with Ernst J. Berg; the repo currently uses a later local edition and must keep edition differences visible.",
+      "priority": "critical",
+      "processing_intent": "Core source for AC symbolic method, impedance, reactance, admittance, polyphase systems, transformers, and harmonics."
+    },
+    {
+      "work_id": "alternating-current-induction-motor-1897",
+      "title": "The Alternating Current Induction Motor",
+      "year": 1897,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "Transactions of the American Institute of Electrical Engineers, XIV (1): 183-217.",
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1897.5570186",
+          "url": "https://doi.org/10.1109/T-AIEE.1897.5570186"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Induction motor theory, rotating field language, slip, torque, and apparatus interpretation."
+    },
+    {
+      "work_id": "natural-period-transmission-line-lightning-1898",
+      "title": "The Natural Period of a Transmission Line and the Frequency of Lightning Discharge Therefrom",
+      "year": 1898,
+      "source_type": "article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "The Electrical World, XXXII (9): 203-205.",
+      "priority": "critical",
+      "processing_intent": "Lightning, surge frequency, distributed constants, natural period, and transmission-line wave behavior."
+    },
+    {
+      "work_id": "speed-regulation-prime-movers-alternators-1901",
+      "title": "Speed Regulation of Prime Movers and Parallel Operation of Alternators",
+      "year": 1901,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1901.4764200",
+          "url": "https://doi.org/10.1109/T-AIEE.1901.4764200"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Power-station stability, alternator operation, speed regulation, and practical AC systems."
+    },
+    {
+      "work_id": "theoretical-elements-electrical-engineering-1902",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "year": 1902,
+      "source_type": "book",
+      "status": "edition_variant_seeded",
+      "wikipedia_entry": true,
+      "related_local_source_id": "theoretical-elements-electrical-engineering",
+      "publication_note": "Wikipedia cites the second edition; the local source is a later edition and needs edition mapping.",
+      "priority": "critical",
+      "processing_intent": "General theory source for current, electromotive force, field language, induction, apparatus, and fundamental terms."
+    },
+    {
+      "work_id": "alternating-current-railway-motor-1904",
+      "title": "The Alternating-Current Railway Motor",
+      "year": 1904,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1904.4764436",
+          "url": "https://doi.org/10.1109/T-AIEE.1904.4764436"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Railway motor design, AC traction, torque-speed behavior, and apparatus comparisons."
+    },
+    {
+      "work_id": "lightning-phenomena-electric-circuits-1907",
+      "title": "Lightning Phenomena in Electric Circuits",
+      "year": 1907,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1907.6742407",
+          "url": "https://doi.org/10.1109/PAIEE.1907.6742407"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Lightning, oscillatory surges, destructive voltages, and early high-voltage transient theory."
+    },
+    {
+      "work_id": "electrical-engineering-education-1908",
+      "title": "Electrical Engineering Education",
+      "year": 1908,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1908.4768047",
+          "url": "https://doi.org/10.1109/T-AIEE.1908.4768047"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Engineering education philosophy and Steinmetz's view of mathematical training."
+    },
+    {
+      "work_id": "primary-standard-of-light-1908",
+      "title": "Primary Standard of Light",
+      "year": 1908,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1908.6741999",
+          "url": "https://doi.org/10.1109/PAIEE.1908.6741999"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Illumination standards, photometry, and measurement language."
+    },
+    {
+      "work_id": "general-equations-electric-circuit-1908",
+      "title": "The General Equations of the Electric Circuit",
+      "year": 1908,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1908.6742132",
+          "url": "https://doi.org/10.1109/PAIEE.1908.6742132"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "General circuit equations, transient/permanent components, distributed constants, and symbolic systematization."
+    },
+    {
+      "work_id": "general-lectures-electrical-engineering-1908",
+      "title": "General Lectures on Electrical Engineering",
+      "year": 1908,
+      "source_type": "lecture_collection",
+      "status": "planned_source_acquisition",
+      "wikipedia_entry": true,
+      "priority": "high",
+      "processing_intent": "Lecture-style source likely useful for readable crosslinks into theory, apparatus, power systems, and education."
+    },
+    {
+      "work_id": "prime-movers-1909",
+      "title": "Prime Movers",
+      "year": 1909,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1909.6659726",
+          "url": "https://doi.org/10.1109/PAIEE.1909.6659726"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Power generation context, prime movers, and station engineering."
+    },
+    {
+      "work_id": "value-classics-engineering-education-1909",
+      "title": "The Value of the Classics in Engineering Education",
+      "year": 1909,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1909.4768232",
+          "url": "https://doi.org/10.1109/T-AIEE.1909.4768232"
+        }
+      ],
+      "priority": "low",
+      "processing_intent": "Historical and educational context."
+    },
+    {
+      "work_id": "radiation-light-and-illumination-1909",
+      "title": "Radiation, Light and Illumination: A Series of Engineering Lectures Delivered at Union College",
+      "year": 1909,
+      "source_type": "lecture_collection",
+      "status": "seeded_processing_source",
+      "wikipedia_entry": true,
+      "related_local_source_id": "radiation-light-and-illumination",
+      "local_site_path": "/sources/radiation-light-and-illumination/",
+      "priority": "critical",
+      "processing_intent": "First canonical source for radiation, light, electric waves, spectrum language, illumination, and ether references if present."
+    },
+    {
+      "work_id": "future-of-electricity-1910",
+      "title": "The Future of Electricity",
+      "year": 1910,
+      "source_type": "pamphlet_or_booklet",
+      "status": "planned_source_acquisition",
+      "wikipedia_entry": true,
+      "publication_note": "New York Electrical Trade School; OCLC 8899343.",
+      "priority": "high",
+      "processing_intent": "Civilizational and technological forecast; useful for separating technical Steinmetz from social/philosophical Steinmetz."
+    },
+    {
+      "work_id": "disruptive-strength-transient-voltages-1910",
+      "title": "Disruptive Strength with Transient Voltages",
+      "year": 1910,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "authors": [
+        "Joseph LeRoy Hayden",
+        "Charles Proteus Steinmetz"
+      ],
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1910.6659996",
+          "url": "https://doi.org/10.1109/PAIEE.1910.6659996"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Transient voltages, disruptive strength, insulation stress, and surge breakdown behavior."
+    },
+    {
+      "work_id": "mechanical-forces-magnetic-fields-1910",
+      "title": "Mechanical Forces in Magnetic Fields",
+      "year": 1910,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1910.6660496",
+          "url": "https://doi.org/10.1109/PAIEE.1910.6660496"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Field force, magnetic stress, pressure/tension analogies, and the archive's field-language comparison layer."
+    },
+    {
+      "work_id": "engineering-mathematics-1911",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "year": 1911,
+      "source_type": "lecture_collection",
+      "status": "seeded_processing_source",
+      "wikipedia_entry": true,
+      "related_local_source_id": "engineering-mathematics",
+      "local_site_path": "/sources/engineering-mathematics/",
+      "priority": "critical",
+      "processing_intent": "Mathematical machinery for complex quantities, exponentials, trigonometric series, empirical equations, approximation, and engineering notation."
+    },
+    {
+      "work_id": "elementary-lectures-electric-discharges-waves-impulses-1911",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1911,
+      "source_type": "lecture_collection",
+      "status": "seeded_processing_source",
+      "wikipedia_entry": true,
+      "related_local_source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "local_site_path": "/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "priority": "critical",
+      "processing_intent": "Readable transient, discharge, wave, and impulse source for public-facing explanation layers."
+    },
+    {
+      "work_id": "transient-electric-phenomena-oscillations-1911",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "year": 1911,
+      "source_type": "book",
+      "status": "edition_variant_seeded",
+      "wikipedia_entry": true,
+      "related_local_source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "local_site_path": "/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "publication_note": "Repo catalog year and edition metadata require alignment with the cited Wikipedia entry.",
+      "priority": "critical",
+      "processing_intent": "Core mathematical source for transient terms, oscillations, surges, distributed constants, and wave propagation."
+    },
+    {
+      "work_id": "some-problems-high-voltage-transmissions-1912",
+      "title": "Some Problems of High-Voltage Transmissions",
+      "year": 1912,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1912.6659629",
+          "url": "https://doi.org/10.1109/PAIEE.1912.6659629"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Transmission voltage, insulation, line behavior, and high-voltage engineering language."
+    },
+    {
+      "work_id": "death-of-energy-second-law-1912",
+      "title": "The death of energy and the second law of thermodynamics, with particular reference to the thermodynamics of the atmosphere",
+      "year": 1912,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1912.6660272",
+          "url": "https://doi.org/10.1109/PAIEE.1912.6660272"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Thermodynamic and philosophical context; label carefully outside electrical-engineering core."
+    },
+    {
+      "work_id": "instability-electric-circuits-1914",
+      "title": "Instability of Electric Circuits",
+      "year": 1914,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1914.6661036",
+          "url": "https://doi.org/10.1109/PAIEE.1914.6661036"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Circuit instability, cumulative effects, oscillations, and protection language."
+    },
+    {
+      "work_id": "recording-devices-1914",
+      "title": "Recording Devices",
+      "year": 1914,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1914.4765133",
+          "url": "https://doi.org/10.1109/T-AIEE.1914.4765133"
+        }
+      ],
+      "priority": "low",
+      "processing_intent": "Instrumentation and measurement context."
+    },
+    {
+      "work_id": "outline-theory-impulse-currents-1916",
+      "title": "Outline of Theory of Impulse Currents",
+      "year": 1916,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1916.6590573",
+          "url": "https://doi.org/10.1109/PAIEE.1916.6590573"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Impulse current theory, high-frequency transients, and surge mathematics."
+    },
+    {
+      "work_id": "america-and-new-epoch-1916",
+      "title": "America and the New Epoch",
+      "year": 1916,
+      "source_type": "book",
+      "status": "planned_source_acquisition",
+      "wikipedia_entry": true,
+      "priority": "medium",
+      "processing_intent": "Nontechnical social and historical thought; keep separate from electrical-source claims."
+    },
+    {
+      "work_id": "theory-calculation-electric-apparatus-1917",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "year": 1917,
+      "source_type": "book",
+      "status": "planned_source_acquisition",
+      "wikipedia_entry": true,
+      "priority": "critical",
+      "processing_intent": "Apparatus theory, induction machines, transformers, magnetic circuits, loss, heating, and design formulas."
+    },
+    {
+      "work_id": "americas-energy-supply-1918",
+      "title": "America's Energy Supply",
+      "year": 1918,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1918.6594102",
+          "url": "https://doi.org/10.1109/PAIEE.1918.6594102"
+        }
+      ],
+      "priority": "medium",
+      "processing_intent": "Energy-system context and public engineering policy."
+    },
+    {
+      "work_id": "oxide-film-lightning-arrester-1918",
+      "title": "The Oxide Film Lightning Arrester",
+      "year": 1918,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/PAIEE.1918.6594099",
+          "url": "https://doi.org/10.1109/PAIEE.1918.6594099"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Lightning arresters, surge protection, oxide films, and high-voltage apparatus behavior."
+    },
+    {
+      "work_id": "general-equations-electric-circuit-iii-1919",
+      "title": "The General Equations of the Electric Circuit-III",
+      "year": 1919,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1919.4765606",
+          "url": "https://doi.org/10.1109/T-AIEE.1919.4765606"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Continuation of general circuit equations; must be linked with 1908 and later circuit-equation material."
+    },
+    {
+      "work_id": "power-control-stability-generating-stations-1920",
+      "title": "Power Control and Stability of Electric Generating Stations",
+      "year": 1920,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1920.4765322",
+          "url": "https://doi.org/10.1109/T-AIEE.1920.4765322"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Power system stability, control, synchronism, and generation station dynamics."
+    },
+    {
+      "work_id": "condenser-discharges-general-gas-circuit-1922",
+      "title": "Condenser Discharges Through a General Gas Circuit",
+      "year": 1922,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/JoAIEE.1922.6591026",
+          "url": "https://doi.org/10.1109/JoAIEE.1922.6591026"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Gas discharge behavior, condenser discharge, oscillation/damping, and high-voltage transients."
+    },
+    {
+      "work_id": "high-voltage-insulation-1923",
+      "title": "High-Voltage Insulation",
+      "year": 1923,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "authors": [
+        "Joseph LeRoy Hayden",
+        "Charles Proteus Steinmetz"
+      ],
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/JAIEE.1924.6534047",
+          "url": "https://doi.org/10.1109/JAIEE.1924.6534047"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Insulation stress, breakdown, dielectric materials, and high-voltage engineering."
+    },
+    {
+      "work_id": "frequency-conversion-third-class-conductor-arcing-ground-1923",
+      "title": "Frequency Conversion by Third Class Conductor and Mechanism of the Arcing Ground and Other Cumulative Surges",
+      "year": 1923,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1923.5060887",
+          "url": "https://doi.org/10.1109/T-AIEE.1923.5060887"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Arcing ground, cumulative surges, frequency conversion, nonlinear discharge, and protection theory."
+    },
+    {
+      "work_id": "four-lectures-relativity-space-1923",
+      "title": "Four Lectures on Relativity and Space",
+      "year": 1923,
+      "source_type": "lecture_collection",
+      "status": "planned_source_acquisition",
+      "wikipedia_entry": true,
+      "priority": "high",
+      "processing_intent": "Steinmetz's late interpretation of relativity and space; essential for separating historical source claims from later ether-field readings."
+    },
+    {
+      "work_id": "cable-charge-and-discharge-1923",
+      "title": "Cable Charge and Discharge",
+      "year": 1923,
+      "source_type": "journal_article",
+      "status": "planned_article_acquisition",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/T-AIEE.1923.5060899",
+          "url": "https://doi.org/10.1109/T-AIEE.1923.5060899"
+        }
+      ],
+      "priority": "critical",
+      "processing_intent": "Distributed capacity, cable transients, charge/discharge curves, and surge propagation."
+    },
+    {
+      "work_id": "overdamped-condenser-oscillations-1924",
+      "title": "Overdamped Condenser Oscillations",
+      "year": 1924,
+      "source_type": "journal_article",
+      "status": "posthumous_or_late_publication_candidate",
+      "wikipedia_entry": true,
+      "external_refs": [
+        {
+          "type": "doi",
+          "value": "10.1109/JAIEE.1924.6534780",
+          "url": "https://doi.org/10.1109/JAIEE.1924.6534780"
+        }
+      ],
+      "priority": "high",
+      "processing_intent": "Condenser oscillation edge cases; verify authorship, date, and relation to transient theory before interpretation."
+    },
+    {
+      "work_id": "commonwealth-edison-generating-system-trouble",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "year": null,
+      "source_type": "report",
+      "status": "repo_extra_candidate",
+      "wikipedia_entry": false,
+      "related_local_source_id": "commonwealth-edison-generating-system-trouble",
+      "local_site_path": "/sources/commonwealth-edison-generating-system-trouble/",
+      "priority": "high",
+      "processing_intent": "Practical diagnostic source already held locally; bibliographic authority pass and OCR remain pending."
+    }
+  ],
+  "next_actions": [
+    "Acquire authoritative scans or PDFs for every planned book, pamphlet, and article.",
+    "Store raw files under source-specific folders with custody notes and checksums.",
+    "Run OCR and page-map generation source by source.",
+    "Generate equation, figure, glossary, quote, and concept candidates for each work.",
+    "Promote only scan-verified claims into public concept/equation/diagram pages."
+  ]
+}

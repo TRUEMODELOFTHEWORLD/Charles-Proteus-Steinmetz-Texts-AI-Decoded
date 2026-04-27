@@ -25,6 +25,7 @@ export default defineConfig({
           items: [
             { label: 'Project Tracker', slug: 'project-tracker' },
             { label: 'Publication Roadmap', slug: 'roadmap' },
+            { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' }
           ]
@@ -33,7 +34,9 @@ export default defineConfig({
           label: 'Source Library',
           items: [
             { label: 'Library Index', slug: 'source-library' },
+            { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
             { label: 'Processing Dashboard', slug: 'research-status' },
+            { label: 'Steinmetz Patent Register', slug: 'sources/steinmetz-patents' },
             {
               label: 'Radiation, Light and Illumination',
               items: [

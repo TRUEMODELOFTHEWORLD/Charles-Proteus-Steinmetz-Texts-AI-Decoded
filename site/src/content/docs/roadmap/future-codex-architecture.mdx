@@ -1,0 +1,145 @@
+---
+title: Future Codex Architecture
+description: Steinmetz-first architecture for a future multi-collection research library.
+---
+
+The archive may eventually grow beyond Steinmetz into a wider research library for classical electrical science, alternative cosmology, field interpretations, geometry, and disputed models. That future is exciting, but the current priority remains the Steinmetz archive.
+
+This page records the architecture principle now so the system can grow without mixing sources, claims, and interpretations.
+
+## Primary Rule
+
+Source isolation comes before synthesis.
+
+Every claim should carry enough metadata to answer:
+
+- Who said it?
+- In what source?
+- On what page or in what claim?
+- Is it an explicit source claim, modern explanation, mathematical reconstruction, historical note, interpretive reading, speculative connection, or unresolved question?
+- Has it been verified against a scan or authority record?
+
+## Future Collection Shape
+
+The future platform can become a multi-collection codex while keeping Steinmetz as its own complete research domain.
+
+```text
+/collections
+  /steinmetz
+  /tesla
+  /walter-russell
+  /eric-dollard
+  /ken-wheeler
+  /concave-earth
+
+/people
+  /charles-proteus-steinmetz
+  /nikola-tesla
+  /walter-russell
+  /eric-dollard
+  /ken-wheeler
+
+/concepts
+  /ether
+  /alternating-current
+  /resonance
+  /dielectricity
+  /magnetism
+  /transients
+  /radiant-energy
+  /field-pressure
+
+/comparisons
+  /steinmetz-vs-tesla
+  /mainstream-vs-ether-field
+  /source-attribution-method
+```
+
+## Claim Metadata Model
+
+```json
+{
+  "claim_id": "example-claim-id",
+  "person_id": "charles-proteus-steinmetz",
+  "collection_id": "steinmetz",
+  "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+  "source_location": {
+    "chapter": "Chapter 1",
+    "page": null,
+    "claim_or_figure": null
+  },
+  "claim_type": "explicit_source_claim",
+  "interpretation_layer": "steinmetz_original",
+  "confidence": "needs_scan_verification",
+  "crosslinks": [
+    "concepts/transient-phenomena",
+    "concepts/distributed-constants"
+  ]
+}
+```
+
+## Attribution Layers
+
+When multiple figures address the same concept, a mature concept page should keep the voices separate:
+
+- Steinmetz explicitly states
+- Tesla explicitly states
+- Walter Russell explicitly states
+- Eric Dollard explicitly states
+- Ken Wheeler explicitly states
+- Modern scientific view
+- Mathematical reconstruction
+- Interpretive synthesis
+- Speculative or unresolved notes
+
+The synthesis layer can be bold, but it must never pretend to be a source quotation.
+
+## Steinmetz-First Milestone
+
+Before the wider codex becomes active, the Steinmetz collection should reach these minimum conditions:
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Condition</th>
+      <th>Required State</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bibliography</td>
+      <td>Major Steinmetz books and core papers are inventoried, acquired where possible, and status-labeled.</td>
+    </tr>
+    <tr>
+      <td>Patents</td>
+      <td>Patent register is expanded beyond examples and authority-checked.</td>
+    </tr>
+    <tr>
+      <td>Core theory</td>
+      <td>AC, transient, hysteresis, symbolic method, field, dielectric, and lightning/surge sections have source-grounded pages.</td>
+    </tr>
+    <tr>
+      <td>Diagrams</td>
+      <td>Original figures and redraws are tied to source files, page references, and concepts.</td>
+    </tr>
+    <tr>
+      <td>Math</td>
+      <td>Canonical equations preserve Steinmetz notation and provide modern translations.</td>
+    </tr>
+    <tr>
+      <td>Interpretation</td>
+      <td>Ether-field readings remain visibly separate from historical fact and modern engineering explanation.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Long-Term Name Candidates
+
+The current public face remains Steinmetz Decoded. A future umbrella could use a broader name such as:
+
+- Recovered Science Archive
+- Classical and Etheric Science Codex
+- True Model Research Library
+- Research Codex Engine
+
+The final name can wait. The source model should be right first.

@@ -68,7 +68,7 @@ The first expansion pass has also copied local PDFs and, where available, downlo
 - _Theoretical Elements of Electrical Engineering_
 - _Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co._
 
-See `sources/source_catalog.json` for the current corpus inventory and processing state.
+See `sources/source_catalog.json` for the current processing corpus, `sources/steinmetz_bibliography_manifest.json` for the expanded Wikipedia-derived works intake, and `sources/steinmetz_patents/patent_register.json` for the seeded patent register.
 
 ## Quality Labels
 
@@ -149,6 +149,8 @@ It writes dashboard data for sources, concepts, equations, figures, glossary ter
 The archive now includes:
 
 - Seven source records in `sources/source_catalog.json`.
+- An expanded Steinmetz bibliography intake manifest for additional books, lecture collections, pamphlets, and papers.
+- A seeded Steinmetz patent register for the Wikipedia-listed examples, with the full 200-plus patent catalog marked as an authority-pass milestone.
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
