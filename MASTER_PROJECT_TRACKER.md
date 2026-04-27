@@ -38,7 +38,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, diagrams, first deep lecture page, figures, concepts, and equations. |
 | Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, and Commonwealth Edison are seeded. |
 | Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
-| Extract equations and derivations | Started | Equation candidates, public math pages, and the first twelve-equation canon now exist; scan verification and worked examples continue. |
+| Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, and a candidate Steinmetz hysteresis-law page now exist; scan verification and worked examples continue. |
 | Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; AC and transient redraw sheets now pair modern reading aids with original crops. |
 | Build glossary of forgotten electrical language | Started | Glossary index plus source-located pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance. |
 | Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
@@ -46,7 +46,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
 | Build hidden gems index | Started | Section exists. Needs many scan-verified entries. |
 | Build research questions section | Started | Section exists and should evolve after each source pass. |
-| Build interactive tools | Started | Frequency/wavelength, impedance, phasor/symbolic-form, power-factor, and transient RLC condenser-discharge tools exist. |
+| Build interactive tools | Started | Frequency/wavelength, impedance, phasor/symbolic-form, power-factor, hysteresis-loss, and transient RLC condenser-discharge tools exist. |
 | Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
 | Avoid hallucination | Repeating | Labels and verification queue are active. This must be enforced forever. |
 
@@ -117,7 +117,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 12. Hidden Gems Index | Started | `site/src/content/docs/hidden-gems.mdx` |
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
-| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, impedance, phasor/symbolic form, power factor, and transient RLC response. |
+| 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, impedance, phasor/symbolic form, power factor, hysteresis loss, and transient RLC response. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker
@@ -209,5 +209,5 @@ Future rule: never merge an author's position into Steinmetz's. Use comparison p
 4. Scan-verify the first 12 canonical equations and expand each with exact page anchors and additional worked examples.
 5. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
-7. Add the next interactive tools: hysteresis loop, Steinmetz equation calculator, AC waveform visualizer, and lightning/surge visualizer.
+7. Add the next interactive tools: AC waveform visualizer and lightning/surge visualizer.
 8. Improve parsers for `Theoretical Elements of Electrical Engineering` and the Commonwealth Edison report.

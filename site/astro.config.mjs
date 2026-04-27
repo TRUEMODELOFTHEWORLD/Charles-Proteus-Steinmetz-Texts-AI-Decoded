@@ -108,6 +108,7 @@ export default defineConfig({
             { label: 'Admittance', slug: 'mathematics/equations/admittance-conductance-susceptance' },
             { label: 'Power And Effective Resistance', slug: 'mathematics/equations/power-effective-resistance' },
             { label: 'Capacity Susceptance', slug: 'mathematics/equations/capacity-susceptance' },
+            { label: 'Hysteresis Law', slug: 'mathematics/equations/steinmetz-hysteresis-law' },
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
             { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' },
             { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' }

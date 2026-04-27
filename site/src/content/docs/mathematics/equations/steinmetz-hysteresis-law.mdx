@@ -1,0 +1,62 @@
+---
+title: Steinmetz Hysteresis Law
+description: The empirical 1.6-power relation for magnetic hysteresis loss.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Alternating Current Phenomena; Theoretical Elements of Electrical Engineering; Engineering Mathematics" location="AC OCR around hysteresis loss lines 12467-12670; Theoretical Elements OCR around lines 3417-3549; Engineering Mathematics OCR around lines 16544-16547" status="source-located OCR candidate; scan verification required" />
+
+## Original Form To Preserve
+
+The working historical form is:
+
+```math
+W = \eta B^{1.6}
+```
+
+where `W` is the energy lost per cycle per unit volume in the historical unit frame, `eta` is the coefficient of hysteresis, and `B` is magnetic density or magnetic induction.
+
+The power form multiplies the per-cycle loss by frequency:
+
+```math
+P = f\eta B^{1.6}
+```
+
+## Source Meaning
+
+The OCR candidate in *Alternating Current Phenomena* states that hysteresis loss is, with engineering exactness, proportional to the `1.6` power of magnetic induction. The *Theoretical Elements* OCR gives the same law in a teaching context and identifies `eta` as the coefficient of hysteresis. *Engineering Mathematics* then treats the `1.6` power as an empirical curve law rather than a deduction from first principles.
+
+## Modern Equivalent
+
+Modern magnetic-core loss models often separate hysteresis loss, eddy-current loss, and excess loss. A simplified Steinmetz-style form is still recognizable:
+
+```math
+P_h = k_h f B_{\max}^{n}
+```
+
+The exponent `n` is material- and model-dependent in modern use. The historically important Steinmetz value is `n = 1.6`.
+
+## Interactive Translation
+
+Use the [Hysteresis Loop and Steinmetz Loss tool](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#hysteresis-loop-and-steinmetz-loss) to vary `B`, `f`, `eta`, and `n`. The tool keeps the coefficient in adjustable units until the archive completes source-unit verification.
+
+<LayeredReading label="Physical Meaning" open>
+The law says that increasing magnetic density raises hysteresis loss faster than linearly. This is why magnetic material, flux density, frequency, and saturation margin become practical design questions rather than decorative theory.
+</LayeredReading>
+
+<LayeredReading label="Historical Note">
+Steinmetz's law is especially important because it turned magnetic hysteresis into an engineering calculation. It let designers estimate iron loss instead of treating magnetic material lag as a vague qualitative defect.
+</LayeredReading>
+
+<LayeredReading label="Interpretive Reading">
+Interpretive only: field-centered readers may treat hysteresis as field lag or memory. The source-grounded claim is narrower: Steinmetz models hysteresis as a measurable energy loss tied to cyclic magnetic induction.
+</LayeredReading>
+
+## Still To Verify
+
+- Exact source typography for `eta`, `B`, `W`, and `P`.
+- Historical unit conventions in each source.
+- Whether each edition uses `magnetic density`, `magnetic induction`, or another phrase in the immediate formula context.
+- How Steinmetz separates hysteresis loss from eddy-current and saturation losses in the surrounding passages.

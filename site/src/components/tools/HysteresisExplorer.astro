@@ -1,0 +1,162 @@
+<div class="tool-shell" data-hysteresis-tool>
+  <div class="tool-grid">
+    <div class="tool-controls">
+      <label>
+        Maximum magnetic density B
+        <input data-density type="range" min="0.2" max="2.0" step="0.01" value="1.2" />
+      </label>
+      <label>
+        Frequency
+        <input data-frequency type="range" min="10" max="400" step="1" value="60" />
+      </label>
+      <label>
+        Hysteresis coefficient eta
+        <input data-coefficient type="range" min="0.001" max="0.02" step="0.001" value="0.006" />
+      </label>
+      <label>
+        Steinmetz exponent
+        <input data-exponent type="range" min="1.2" max="2.4" step="0.01" value="1.6" />
+      </label>
+      <label>
+        Loop lag
+        <input data-lag type="range" min="5" max="60" step="1" value="28" />
+      </label>
+      <div class="tool-readout" data-readout></div>
+    </div>
+    <canvas class="tool-canvas" data-canvas width="900" height="360"></canvas>
+  </div>
+</div>
+
+<script>
+  function drawHysteresis(canvas, density, lagDegrees) {
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+    const centerX = width / 2;
+    const centerY = height / 2 + 10;
+    const hScale = 215;
+    const bScale = 118;
+    const lag = lagDegrees * Math.PI / 180;
+
+    ctx.clearRect(0, 0, width, height);
+    ctx.fillStyle = '#fcfbf8';
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = '#ddd8cd';
+    ctx.lineWidth = 1;
+    for (let x = 60; x <= width - 60; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x, 48);
+      ctx.lineTo(x, height - 36);
+      ctx.stroke();
+    }
+    for (let y = 60; y <= height - 40; y += 40) {
+      ctx.beginPath();
+      ctx.moveTo(46, y);
+      ctx.lineTo(width - 48, y);
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = '#4f554f';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(58, centerY);
+    ctx.lineTo(width - 58, centerY);
+    ctx.moveTo(centerX, height - 36);
+    ctx.lineTo(centerX, 46);
+    ctx.stroke();
+
+    ctx.fillStyle = '#d8e7e2';
+    ctx.strokeStyle = '#2f6f67';
+    ctx.lineWidth = 5;
+    ctx.beginPath();
+    for (let i = 0; i <= 360; i += 1) {
+      const t = i * Math.PI / 180;
+      const b = Math.sin(t);
+      const h = Math.sin(t - lag) + 0.18 * Math.sin(3 * (t - lag));
+      const saturation = Math.tanh(h * (1.18 + density * 0.18));
+      const x = centerX + saturation * hScale;
+      const y = centerY - b * bScale * Math.min(1.2, density / 1.2);
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.closePath();
+    ctx.fill();
+    ctx.stroke();
+
+    ctx.strokeStyle = '#9b4d32';
+    ctx.lineWidth = 4;
+    ctx.beginPath();
+    for (let i = 25; i <= 155; i += 1) {
+      const t = i * Math.PI / 180;
+      const b = Math.sin(t);
+      const h = Math.tanh((Math.sin(t - lag) + 0.18 * Math.sin(3 * (t - lag))) * (1.18 + density * 0.18));
+      const x = centerX + h * hScale;
+      const y = centerY - b * bScale * Math.min(1.2, density / 1.2);
+      if (i === 25) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+
+    ctx.strokeStyle = '#6b5896';
+    ctx.beginPath();
+    for (let i = 205; i <= 335; i += 1) {
+      const t = i * Math.PI / 180;
+      const b = Math.sin(t);
+      const h = Math.tanh((Math.sin(t - lag) + 0.18 * Math.sin(3 * (t - lag))) * (1.18 + density * 0.18));
+      const x = centerX + h * hScale;
+      const y = centerY - b * bScale * Math.min(1.2, density / 1.2);
+      if (i === 205) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+
+    ctx.fillStyle = '#1c2422';
+    ctx.font = '700 20px system-ui, sans-serif';
+    ctx.fillText('magnetic hysteresis loop', 62, 36);
+    ctx.font = '600 14px system-ui, sans-serif';
+    ctx.fillText('magnetizing force H', width - 194, centerY + 24);
+    ctx.fillText('magnetic density B', centerX + 12, 38);
+    ctx.fillStyle = '#526064';
+    ctx.fillText('loop area reads as energy lost per cycle', 62, height - 20);
+  }
+
+  document.querySelectorAll('[data-hysteresis-tool]').forEach((tool) => {
+    const densityInput = tool.querySelector('[data-density]');
+    const frequencyInput = tool.querySelector('[data-frequency]');
+    const coefficientInput = tool.querySelector('[data-coefficient]');
+    const exponentInput = tool.querySelector('[data-exponent]');
+    const lagInput = tool.querySelector('[data-lag]');
+    const readout = tool.querySelector('[data-readout]');
+    const canvas = tool.querySelector('[data-canvas]');
+
+    function render() {
+      const density = Number(densityInput.value);
+      const frequency = Number(frequencyInput.value);
+      const coefficient = Number(coefficientInput.value);
+      const exponent = Number(exponentInput.value);
+      const lag = Number(lagInput.value);
+      const energyPerCycle = coefficient * density ** exponent;
+      const powerDensity = frequency * energyPerCycle;
+      const doubledDensityPower = frequency * coefficient * (2 * density) ** exponent;
+
+      readout.innerHTML = `
+        <strong>Source frame:</strong> hysteresis loss by magnetic cycling<br />
+        <strong>Working law:</strong> W = eta B^n, P = f eta B^n<br />
+        <strong>Energy per cycle:</strong> ${energyPerCycle.toFixed(5)} coefficient-units<br />
+        <strong>Power density:</strong> ${powerDensity.toFixed(4)} coefficient-units per second<br />
+        <strong>Doubling B gives:</strong> ${(doubledDensityPower / powerDensity).toFixed(2)}x loss at this exponent<br />
+        <strong>Loop lag:</strong> ${lag.toFixed(0)} degrees
+      `;
+
+      drawHysteresis(canvas, density, lag);
+    }
+
+    densityInput.addEventListener('input', render);
+    frequencyInput.addEventListener('input', render);
+    coefficientInput.addEventListener('input', render);
+    exponentInput.addEventListener('input', render);
+    lagInput.addEventListener('input', render);
+    render();
+  });
+</script>

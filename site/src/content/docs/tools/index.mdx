@@ -4,6 +4,7 @@ description: Small mathematical and physical visualizers for Steinmetz concepts.
 ---
 
 import WaveRelationExplorer from '../../../components/tools/WaveRelationExplorer.astro';
+import HysteresisExplorer from '../../../components/tools/HysteresisExplorer.astro';
 import ImpedanceExplorer from '../../../components/tools/ImpedanceExplorer.astro';
 import PhasorExplorer from '../../../components/tools/PhasorExplorer.astro';
 import PowerFactorExplorer from '../../../components/tools/PowerFactorExplorer.astro';
@@ -35,6 +36,22 @@ a = A \cos \theta,\qquad b = A \sin \theta
 
 <PowerFactorExplorer />
 
+## Hysteresis Loop And Steinmetz Loss
+
+<HysteresisExplorer />
+
+This tool is a coefficient-based working calculator for Steinmetz's hysteresis-loss relation. The exact historical units and typography still require scan verification, so the calculator keeps `eta` as a tunable coefficient rather than pretending that one modern unit convention has already been finalized.
+
+```math
+W = \eta B^n
+```
+
+```math
+P = f\eta B^n
+```
+
+The classic exponent is kept adjustable, with `n = 1.6` as the historically important starting point.
+
 ## Transient RLC Response
 
 <TransientRlcExplorer />
@@ -54,6 +71,4 @@ Use it with the original figure pages and equation page rather than as a replace
 ## Planned Tools
 
 - AC waveform visualizer
-- Hysteresis loop visualizer
-- Steinmetz equation calculator
 - Lightning/surge transient visualizer

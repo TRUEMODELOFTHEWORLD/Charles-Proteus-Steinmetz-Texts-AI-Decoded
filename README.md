@@ -90,7 +90,7 @@ Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
-- Interactive frequency/wavelength, impedance/reactance, phasor/symbolic-form, power-factor, and transient RLC response tools.
+- Interactive frequency/wavelength, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, and transient RLC response tools.
 - Quality labels that separate source claims, modern interpretation, mathematical reconstruction, and speculative readings.
 
 To run it after dependencies are installed:
@@ -152,6 +152,7 @@ The archive now includes:
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
+- A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
@@ -175,6 +176,6 @@ The public site currently builds more than fifty pages, including:
 - Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, and condenser decrement.
 - Glossary pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
-- Interactive tools for frequency/wavelength, impedance/reactance, phasor/symbolic form, power factor, and transient RLC condenser-discharge response.
+- Interactive tools for frequency/wavelength, impedance/reactance, phasor/symbolic form, power factor, hysteresis loss, and transient RLC condenser-discharge response.
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures, with a modern symbolic-method redraw sheet.
 - Original scan-crop page for transient starting current, condenser charge, oscillation, and decrement figures, with a modern condenser-response redraw sheet.
