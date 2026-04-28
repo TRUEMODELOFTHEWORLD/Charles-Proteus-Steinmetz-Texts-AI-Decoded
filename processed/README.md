@@ -31,6 +31,9 @@ Corpus-wide generated indexes live at the root of this directory:
 - `concept_concordance.json`
 - `completion_audit.json`
 - `canonical_equations.json`
+- `citation_index.json`
+- `citation_index.csl.json`
+- `citation_index.bib`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

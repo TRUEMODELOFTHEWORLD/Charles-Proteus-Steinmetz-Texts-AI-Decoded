@@ -1,0 +1,241 @@
+[
+  {
+    "id": "steinmetz-decoded-project",
+    "type": "webpage",
+    "title": "Steinmetz Decoded",
+    "author": [
+      {
+        "literal": "Steinmetz Decoded contributors"
+      }
+    ],
+    "URL": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+    "note": "Cite individual source pages for source claims; cite the project for the archive, tooling, commentary, and generated indexes.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-radiation-light-and-illumination",
+    "type": "book",
+    "title": "Radiation, Light and Illumination",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/radiationlightil00steirich",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1909
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-elementary-lectures-electric-discharges-waves-impulses",
+    "type": "book",
+    "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/elementarylectur00steirich",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1911
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-engineering-mathematics",
+    "type": "book",
+    "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/engineeringmathe00steirich",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1911
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theory-calculation-alternating-current-phenomena",
+    "type": "book",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/5edtheorycalculatisteiuoft",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1916
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theoretical-elements-electrical-engineering",
+    "type": "book",
+    "title": "Theoretical Elements of Electrical Engineering",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/theoreticalelect00steirich",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1915
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theory-calculation-transient-electric-phenomena-oscillations",
+    "type": "book",
+    "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/transelectricphenom00steirich",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1909
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-general-lectures-electrical-engineering",
+    "type": "book",
+    "title": "General Lectures on Electrical Engineering",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/generallectureso00steiuoft",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1908
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-america-and-new-epoch",
+    "type": "book",
+    "title": "America and the New Epoch",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/americanewepoch00stei",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1916
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theory-calculation-electric-apparatus",
+    "type": "book",
+    "title": "Theory and Calculation of Electric Apparatus",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/theoryandcalcul04steigoog",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1917
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-four-lectures-relativity-space",
+    "type": "book",
+    "title": "Four Lectures on Relativity and Space",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/fourlecturesonre00stei",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1923
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-commonwealth-edison-generating-system-trouble",
+    "type": "report",
+    "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded/blob/main/sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1919
+        ]
+      ]
+    }
+  }
+]

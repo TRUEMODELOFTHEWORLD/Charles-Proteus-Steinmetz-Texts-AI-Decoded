@@ -13,6 +13,8 @@ The generated [Concept Concordance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/
 
 The generated [Completion Audit](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/completion-audit/) now measures source-by-source readiness for canonical review. The expert finishing standard is recorded in [World-Class Completion Criteria](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/world-class-completion-criteria/).
 
+The generated [Citation And Data Export](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/citation-and-data-export/) page publishes a public data manifest, reusable JSON exports, BibTeX, CSL JSON, and citation guidance. These exports keep review-state fields visible so external reuse does not flatten candidates into verified claims.
+
 ## Corpus Dashboard
 
 <table class="codex-status-table">
@@ -136,6 +138,8 @@ The pipeline writes machine-readable indexes in `processed/`:
 - `concept_concordance.json` for source-linked concept hits across the processed corpus.
 - `completion_audit.json` for source-by-source infrastructure readiness and next canonical-review actions.
 - `canonical_equations.json` for the first twelve-equation canon and verification state.
+- `citation_index.json`, `citation_index.csl.json`, and `citation_index.bib` for project and source citation exports.
+- Public copies of selected indexes under `/data/`, described by `/data/manifest.json`.
 - `source_processing_status.md` for the plain Markdown dashboard.
 
 ## Review Rules
@@ -144,6 +148,7 @@ The pipeline writes machine-readable indexes in `processed/`:
 - **Promoted scan crop** means the asset was cropped from an original source-page render and has a manifest plus checksum.
 - **Canonical** will be reserved for source-checked, page-anchored analysis.
 - **Interpretive reading** remains separate from source fact, modern engineering translation, and mathematical reconstruction.
+- **Reusable export** means the data can be cited or consumed by tools, but its embedded review status still controls what can be treated as verified.
 
 ## Current Canonical Work Front
 

@@ -34,3 +34,30 @@ Before an extraction becomes canonical:
 - Equations preserve original notation and include modern translation.
 - Interpretive material is clearly labeled.
 - Related concepts, equations, figures, and glossary terms are cross-linked.
+
+## Review Workflow
+
+Use the GitHub issue templates for source verification, equation review, and diagram review. They exist so review work is structured enough to become canonical later.
+
+Promotion states:
+
+- `candidate`: found by OCR, script, or first-pass reading.
+- `source-located`: tied to chapter, page, line, figure, or equation location.
+- `scan-verified`: checked against a scan or trusted edition.
+- `mathematically-reviewed`: notation, units, variables, and derivation checked.
+- `canonical`: stable public explanation with source anchors and crosslinks.
+
+## Citation And Data
+
+The project publishes citation and data exports under `site/public/data/`. Do not remove review-state fields from generated JSON. They are part of the anti-hallucination system.
+
+When adding a new source, update source custody first:
+
+- source ID
+- title
+- author/editor when known
+- year and edition when known
+- raw file or public archive link
+- processing status
+- public site path
+- checksum if a local artifact is stored

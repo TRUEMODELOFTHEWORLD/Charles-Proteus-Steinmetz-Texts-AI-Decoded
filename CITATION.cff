@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use Steinmetz Decoded, please cite the project and the specific source pages you used."
+title: "Steinmetz Decoded"
+type: dataset
+authors:
+  - name: "Steinmetz Decoded contributors"
+abstract: "A source-grounded research codex for Charles Proteus Steinmetz, including public-domain source custody, processed text, generated indexes, equations, diagrams, glossary records, and interpretive layers."
+repository-code: "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded"
+url: "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded"
+date-released: "2026-04-28"
+license: "CC-BY-4.0"
+keywords:
+  - Charles Proteus Steinmetz
+  - electrical engineering history
+  - alternating current
+  - transients
+  - hysteresis
+  - source archive
+preferred-citation:
+  type: generic
+  title: "Steinmetz Decoded: A Source-Grounded Research Codex for Charles Proteus Steinmetz"
+  authors:
+    - name: "Steinmetz Decoded contributors"
+  year: 2026
+  url: "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded"

@@ -86,6 +86,14 @@ The rule is simple: move quickly, but label the layer. A page may be useful befo
       <td>Expert finishing standards now define the final path: critical editions, citation exports, canonical review, notation ledger, diagram provenance, accessibility audit, data API, and expert review packets.</td>
     </tr>
     <tr>
+      <td>Scholarly exports</td>
+      <td>Generated citation records, `CITATION.cff`, BibTeX, CSL JSON, and a public `/data/manifest.json` now expose the archive as reusable research data without removing review labels.</td>
+    </tr>
+    <tr>
+      <td>Review governance</td>
+      <td>Editorial policy, canonical review workflow, contribution rules, and GitHub issue templates now define how candidates become stable research pages.</td>
+    </tr>
+    <tr>
       <td>Evidence ledger</td>
       <td><code>processed/evidence_ledger.json</code> indexes 3,345 source, concept, glossary, equation, figure, quote, and promoted-crop records with confidence labels.</td>
     </tr>
@@ -196,7 +204,7 @@ The rule is simple: move quickly, but label the layer. A page may be useful befo
     <tr><td>Glossary of Forgotten Electrical Language</td><td>Started</td></tr>
     <tr><td>Research Questions</td><td>Started</td></tr>
     <tr><td>Interactive Tools</td><td>Started, with site-wide reader controls and diagram lightbox support</td></tr>
-    <tr><td>Data Pipeline</td><td>Started; PDF text extraction, source-specific parsers, generated source-text/workbench/concordance pages, completion audit, annotation, crosslink, evidence ledger, and chapter atlas indexes now generate</td></tr>
+    <tr><td>Data Pipeline</td><td>Started; PDF text extraction, source-specific parsers, generated source-text/workbench/concordance pages, completion audit, scholarly exports, annotation, crosslink, evidence ledger, and chapter atlas indexes now generate</td></tr>
   </tbody>
 </table>
 
@@ -212,16 +220,16 @@ These workstreams were added after the original master plan because they are nec
     </tr>
   </thead>
   <tbody>
-    <tr><td>Critical-edition editorial policy</td><td>Pending</td></tr>
-    <tr><td>Citation and export system</td><td>Pending</td></tr>
-    <tr><td>Canonical review workflow</td><td>Started</td></tr>
+    <tr><td>Critical-edition editorial policy</td><td>Started; public policy page added</td></tr>
+    <tr><td>Citation and export system</td><td>Started; `CITATION.cff`, BibTeX, CSL JSON, citation index, and public data manifest generate</td></tr>
+    <tr><td>Canonical review workflow</td><td>Started; public workflow and issue templates added</td></tr>
     <tr><td>Mathematical errata and notation ledger</td><td>Pending</td></tr>
     <tr><td>Diagram provenance ledger</td><td>Started through crop manifests</td></tr>
     <tr><td>Edition comparison layer</td><td>Pending</td></tr>
     <tr><td>Patent-to-theory bridge</td><td>Pending</td></tr>
     <tr><td>Accessibility and reading-quality audit</td><td>Started</td></tr>
-    <tr><td>Research API and data export docs</td><td>Started through JSON indexes</td></tr>
-    <tr><td>Contributor governance and expert review packets</td><td>Pending</td></tr>
+    <tr><td>Research API and data export docs</td><td>Started through public data manifest and JSON exports</td></tr>
+    <tr><td>Contributor governance and expert review packets</td><td>Started with contribution rules and source/equation/diagram review templates</td></tr>
   </tbody>
 </table>
 
@@ -242,6 +250,7 @@ These workstreams were added after the original master plan because they are nec
 13. Acquire and process high-priority bibliography intake sources, beginning with the hysteresis, complex quantities, general circuit equations, magnetic forces, and first-edition variant works.
 14. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
 15. Build the added world-class apparatus: editorial policy, citations, canonical review workflow, notation ledger, diagram provenance ledger, accessibility audit, API docs, contribution rules, and expert review bundles.
+16. Use the public citation/data exports to support external review, dataset reuse, and future multi-author source isolation.
 
 ## Future Scope
 

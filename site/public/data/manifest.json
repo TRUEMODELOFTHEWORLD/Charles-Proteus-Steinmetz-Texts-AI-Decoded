@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-04-28",
+  "project": "Steinmetz Decoded",
+  "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+  "repository": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+  "quality_note": "Public data exports expose current review-state data. Candidate records require verification before citation as fact.",
+  "exports": [
+    {
+      "id": "source_catalog",
+      "description": "Seeded source corpus with processing status.",
+      "source_path": "sources/source_catalog.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/source_catalog.json",
+      "format": "json"
+    },
+    {
+      "id": "research_index",
+      "description": "Corpus-wide processing summary.",
+      "source_path": "processed/research_index.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/research_index.json",
+      "format": "json"
+    },
+    {
+      "id": "evidence_ledger",
+      "description": "Traceability ledger for source/candidate records.",
+      "source_path": "processed/evidence_ledger.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/evidence_ledger.json",
+      "format": "json"
+    },
+    {
+      "id": "chapter_atlas",
+      "description": "Theme routing map for processed sections.",
+      "source_path": "processed/chapter_atlas.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/chapter_atlas.json",
+      "format": "json"
+    },
+    {
+      "id": "chapter_workbench",
+      "description": "Section-level workbench records.",
+      "source_path": "processed/chapter_workbench.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/chapter_workbench.json",
+      "format": "json"
+    },
+    {
+      "id": "concept_concordance",
+      "description": "Source-text concept hit index.",
+      "source_path": "processed/concept_concordance.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/concept_concordance.json",
+      "format": "json"
+    },
+    {
+      "id": "canonical_equations",
+      "description": "First canonical equation set and review state.",
+      "source_path": "processed/canonical_equations.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/canonical_equations.json",
+      "format": "json"
+    },
+    {
+      "id": "completion_audit",
+      "description": "Source-by-source readiness audit.",
+      "source_path": "processed/completion_audit.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/completion_audit.json",
+      "format": "json"
+    },
+    {
+      "id": "citation_index",
+      "description": "Citation records for source and site artifacts.",
+      "source_path": "processed/citation_index.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/citation_index.json",
+      "format": "json"
+    },
+    {
+      "id": "citation_index_bibtex",
+      "description": "BibTeX citation export for project and source records.",
+      "source_path": "processed/citation_index.bib",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/citation_index.bib",
+      "format": "bibtex"
+    },
+    {
+      "id": "citation_index_csl",
+      "description": "CSL JSON citation export for project and source records.",
+      "source_path": "processed/citation_index.csl.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/citation_index.csl.json",
+      "format": "csl-json"
+    }
+  ]
+}

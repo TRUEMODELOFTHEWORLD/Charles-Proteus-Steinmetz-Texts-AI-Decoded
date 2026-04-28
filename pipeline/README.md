@@ -71,6 +71,14 @@ python pipeline/scripts/generate_completion_audit.py
 
 This writes `processed/completion_audit.json` and `site/src/content/docs/roadmap/completion-audit.mdx`. The audit measures infrastructure readiness for canonical review; it is not a scholarly certification.
 
+To generate public citation and data exports:
+
+```powershell
+python pipeline/scripts/generate_scholarly_exports.py
+```
+
+This writes `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, `site/public/data/manifest.json`, public copies of the core JSON indexes, and `site/src/content/docs/roadmap/citation-and-data-export.mdx`. These exports are reusable research aids; they preserve review-state data and do not certify candidate material as canonical.
+
 ## Public Corpus Pages
 
 After chapter splits and indexes exist, generate the public source-text browser, chapter workbench, and concept concordance:

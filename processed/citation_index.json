@@ -1,0 +1,358 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Citation records identify source custody and public archive pages. They are not replacements for exact page citations.",
+  "records": [
+    {
+      "id": "steinmetz-decoded-project",
+      "type": "webpage",
+      "title": "Steinmetz Decoded",
+      "author": [
+        {
+          "literal": "Steinmetz Decoded contributors"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "year": 2026,
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+      "source_url": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+      "recommended_citation": "Steinmetz Decoded contributors, Steinmetz Decoded: A Source-Grounded Research Codex for Charles Proteus Steinmetz (2026), https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
+      "verification_note": "Cite individual source pages for source claims; cite the project for the archive, tooling, commentary, and generated indexes."
+    },
+    {
+      "id": "steinmetz-radiation-light-and-illumination",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Radiation, Light and Illumination",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1909
+          ]
+        ]
+      },
+      "year": 1909,
+      "source_id": "radiation-light-and-illumination",
+      "source_status": "seeded",
+      "processed_status": "lecture splits, candidate equations, figures, concepts, glossary, quotes",
+      "internet_archive_id": "radiationlightil00steirich",
+      "local_raw_file": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/",
+      "source_url": "https://archive.org/details/radiationlightil00steirich",
+      "recommended_citation": "Charles Proteus Steinmetz, Radiation, Light and Illumination (1909). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-elementary-lectures-electric-discharges-waves-impulses",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1911
+          ]
+        ]
+      },
+      "year": 1911,
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "source_status": "seeded",
+      "processed_status": "lecture splits and candidate catalogs from OCR",
+      "internet_archive_id": "elementarylectur00steirich",
+      "local_raw_file": "sources/elementary-lectures-electric-discharges-waves-impulses/raw/elementary-lectures-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "source_url": "https://archive.org/details/elementarylectur00steirich",
+      "recommended_citation": "Charles Proteus Steinmetz, Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients (1911). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-engineering-mathematics",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1911
+          ]
+        ]
+      },
+      "year": 1911,
+      "source_id": "engineering-mathematics",
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR",
+      "internet_archive_id": "engineeringmathe00steirich",
+      "local_raw_file": "sources/engineering-mathematics/raw/engineering-mathematics-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/",
+      "source_url": "https://archive.org/details/engineeringmathe00steirich",
+      "recommended_citation": "Charles Proteus Steinmetz, Engineering Mathematics: A Series of Lectures Delivered at Union College (1911). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-theory-calculation-alternating-current-phenomena",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1916
+          ]
+        ]
+      },
+      "year": 1916,
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR; edition alignment needs review",
+      "internet_archive_id": "5edtheorycalculatisteiuoft",
+      "local_raw_file": "sources/theory-calculation-alternating-current-phenomena/raw/alternating-current-phenomena-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+      "source_url": "https://archive.org/details/5edtheorycalculatisteiuoft",
+      "recommended_citation": "Charles Proteus Steinmetz, Theory and Calculation of Alternating Current Phenomena (1916). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-theoretical-elements-electrical-engineering",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1915
+          ]
+        ]
+      },
+      "year": 1915,
+      "source_id": "theoretical-elements-electrical-engineering",
+      "source_status": "seeded",
+      "processed_status": "source-specific part/section split and candidate catalogs from OCR",
+      "internet_archive_id": "theoreticalelect00steirich",
+      "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theoretical-elements-electrical-engineering/",
+      "source_url": "https://archive.org/details/theoreticalelect00steirich",
+      "recommended_citation": "Charles Proteus Steinmetz, Theoretical Elements of Electrical Engineering (1915). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theoretical-elements-electrical-engineering/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-theory-calculation-transient-electric-phenomena-oscillations",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1909
+          ]
+        ]
+      },
+      "year": 1909,
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "source_status": "seeded",
+      "processed_status": "chapter splits and candidate catalogs from OCR; multi-section numbering requires review",
+      "internet_archive_id": "transelectricphenom00steirich",
+      "local_raw_file": "sources/theory-calculation-transient-electric-phenomena-oscillations/raw/transient-electric-phenomena-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "source_url": "https://archive.org/details/transelectricphenom00steirich",
+      "recommended_citation": "Charles Proteus Steinmetz, Theory and Calculation of Transient Electric Phenomena and Oscillations (1909). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-general-lectures-electrical-engineering",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "General Lectures on Electrical Engineering",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1908
+          ]
+        ]
+      },
+      "year": 1908,
+      "source_id": "general-lectures-electrical-engineering",
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; ordinal lecture parser generated candidate catalogs",
+      "internet_archive_id": "generallectureso00steiuoft",
+      "local_raw_file": null,
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/general-lectures-electrical-engineering/",
+      "source_url": "https://archive.org/details/generallectureso00steiuoft",
+      "recommended_citation": "Charles Proteus Steinmetz, General Lectures on Electrical Engineering (1908). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/general-lectures-electrical-engineering/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-america-and-new-epoch",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "America and the New Epoch",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1916
+          ]
+        ]
+      },
+      "year": 1916,
+      "source_id": "america-and-new-epoch",
+      "source_status": "ocr_seeded",
+      "processed_status": "source-specific historical chapter split and candidate catalogs from OCR",
+      "internet_archive_id": "americanewepoch00stei",
+      "local_raw_file": null,
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/america-and-new-epoch/",
+      "source_url": "https://archive.org/details/americanewepoch00stei",
+      "recommended_citation": "Charles Proteus Steinmetz, America and the New Epoch (1916). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/america-and-new-epoch/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-theory-calculation-electric-apparatus",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1917
+          ]
+        ]
+      },
+      "year": 1917,
+      "source_id": "theory-calculation-electric-apparatus",
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter splits and candidate catalogs generated",
+      "internet_archive_id": "theoryandcalcul04steigoog",
+      "local_raw_file": null,
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-apparatus/",
+      "source_url": "https://archive.org/details/theoryandcalcul04steigoog",
+      "recommended_citation": "Charles Proteus Steinmetz, Theory and Calculation of Electric Apparatus (1917). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-apparatus/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-four-lectures-relativity-space",
+      "type": "book",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Four Lectures on Relativity and Space",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1923
+          ]
+        ]
+      },
+      "year": 1923,
+      "source_id": "four-lectures-relativity-space",
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; lecture splits and candidate catalogs generated",
+      "internet_archive_id": "fourlecturesonre00stei",
+      "local_raw_file": null,
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/four-lectures-relativity-space/",
+      "source_url": "https://archive.org/details/fourlecturesonre00stei",
+      "recommended_citation": "Charles Proteus Steinmetz, Four Lectures on Relativity and Space (1923). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/four-lectures-relativity-space/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    },
+    {
+      "id": "steinmetz-commonwealth-edison-generating-system-trouble",
+      "type": "report",
+      "person": "Charles Proteus Steinmetz",
+      "collection": "steinmetz",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "author": [
+        {
+          "family": "Steinmetz",
+          "given": "Charles Proteus"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            1919
+          ]
+        ]
+      },
+      "year": 1919,
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_status": "pdf_text_extracted",
+      "processed_status": "embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated",
+      "internet_archive_id": null,
+      "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+      "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/",
+      "source_url": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded/blob/main/sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+      "recommended_citation": "Charles Proteus Steinmetz, Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co. (1919). Steinmetz Decoded source record: https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/",
+      "verification_note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification."
+    }
+  ]
+}

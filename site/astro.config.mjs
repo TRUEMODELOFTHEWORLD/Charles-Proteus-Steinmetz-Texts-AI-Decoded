@@ -231,6 +231,9 @@ export default defineConfig({
             { label: 'Publication Roadmap', slug: 'roadmap' },
             { label: 'Completion Audit', slug: 'roadmap/completion-audit' },
             { label: 'World-Class Criteria', slug: 'roadmap/world-class-completion-criteria' },
+            { label: 'Citation And Data Export', slug: 'roadmap/citation-and-data-export' },
+            { label: 'Editorial Policy', slug: 'roadmap/editorial-policy' },
+            { label: 'Canonical Review', slug: 'roadmap/canonical-review-workflow' },
             { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' }
           ]
         }

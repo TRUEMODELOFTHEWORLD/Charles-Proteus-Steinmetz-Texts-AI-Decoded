@@ -1,0 +1,45 @@
+name: Source verification
+description: Verify OCR, page location, quotation, or source custody.
+title: "[Source verification]: "
+labels: ["source-verification", "needs-review"]
+body:
+  - type: input
+    id: source_id
+    attributes:
+      label: Source ID
+      description: Example: radiation-light-and-illumination
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Page, chapter, line, figure, or equation location
+      description: Include the most exact location currently known.
+    validations:
+      required: true
+  - type: textarea
+    id: candidate_text
+    attributes:
+      label: Candidate text or claim
+      description: Paste the OCR passage, claim, or citation that needs verification.
+    validations:
+      required: true
+  - type: textarea
+    id: verification_result
+    attributes:
+      label: Verification notes
+      description: Record what the scan or trusted edition actually shows.
+    validations:
+      required: false
+  - type: dropdown
+    id: review_state
+    attributes:
+      label: Review state
+      options:
+        - candidate
+        - source-located
+        - scan-verified
+        - needs-verification
+        - canonical-ready
+    validations:
+      required: true

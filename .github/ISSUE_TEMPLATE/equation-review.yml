@@ -1,0 +1,50 @@
+name: Equation review
+description: Review a Steinmetz equation candidate, derivation, notation translation, or worked example.
+title: "[Equation review]: "
+labels: ["equation-review", "needs-review"]
+body:
+  - type: input
+    id: equation_id
+    attributes:
+      label: Equation ID
+      description: Use the existing equation ID if available.
+    validations:
+      required: true
+  - type: input
+    id: source_location
+    attributes:
+      label: Source location
+      description: Source title, chapter, page, line, or figure/equation number.
+    validations:
+      required: true
+  - type: textarea
+    id: original_form
+    attributes:
+      label: Original form
+      description: Transcribe Steinmetz's notation as exactly as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: modern_form
+    attributes:
+      label: Modern form or translation
+      description: Include variables, assumptions, and units if known.
+    validations:
+      required: false
+  - type: textarea
+    id: derivation_notes
+    attributes:
+      label: Derivation or review notes
+      description: Note dimensional checks, OCR uncertainty, edition differences, or textbook equivalents.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Review checklist
+      options:
+        - label: Original notation checked against scan or trusted edition.
+        - label: Variables and units identified.
+        - label: Modern equivalent separated from Steinmetz notation.
+        - label: Mathematical assumptions stated.
+        - label: Page/source reference recorded.
