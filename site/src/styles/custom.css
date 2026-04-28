@@ -344,6 +344,34 @@ a[data-variant='primary']:hover {
   overflow-wrap: anywhere;
 }
 
+.audit-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  border: 1px solid var(--sl-color-gray-3);
+  padding: 0.16rem 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.audit-pass {
+  border-color: #2d6a4f;
+  color: #2d6a4f;
+  background: rgba(45, 106, 79, 0.12);
+}
+
+.audit-partial {
+  border-color: #8a6f1e;
+  color: #6b5a17;
+  background: rgba(212, 177, 92, 0.16);
+}
+
+.audit-missing {
+  border-color: #9b4d32;
+  color: #9b4d32;
+  background: rgba(155, 77, 50, 0.12);
+}
+
 .sl-markdown-content .card,
 .sl-markdown-content .sl-card,
 .sl-markdown-content .card-grid > * {

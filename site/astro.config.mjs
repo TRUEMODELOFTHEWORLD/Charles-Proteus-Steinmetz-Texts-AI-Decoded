@@ -229,6 +229,8 @@ export default defineConfig({
           items: [
             { label: 'Project Tracker', slug: 'project-tracker' },
             { label: 'Publication Roadmap', slug: 'roadmap' },
+            { label: 'Completion Audit', slug: 'roadmap/completion-audit' },
+            { label: 'World-Class Criteria', slug: 'roadmap/world-class-completion-criteria' },
             { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' }
           ]
         }

@@ -63,6 +63,14 @@ This writes:
 
 These indexes are inventory and review tools. They count candidates, promoted original scan crops, glossary terms, concept seeds, quote candidates, and next actions. They do not promote OCR output to canonical truth.
 
+To generate the project completion audit:
+
+```powershell
+python pipeline/scripts/generate_completion_audit.py
+```
+
+This writes `processed/completion_audit.json` and `site/src/content/docs/roadmap/completion-audit.mdx`. The audit measures infrastructure readiness for canonical review; it is not a scholarly certification.
+
 ## Public Corpus Pages
 
 After chapter splits and indexes exist, generate the public source-text browser, chapter workbench, and concept concordance:

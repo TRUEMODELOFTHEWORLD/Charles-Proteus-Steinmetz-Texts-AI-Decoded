@@ -33,6 +33,8 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
+| Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
+| World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
 | Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
 | New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
@@ -62,7 +64,27 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
 | Build evidence ledger, chapter atlas, and chapter workbench | Done | `processed/evidence_ledger.json`, `processed/chapter_atlas.json`, `processed/chapter_workbench.json`, and public explanatory/generated pages are live. |
 | Build concept concordance | Done as generated research layer | `processed/concept_concordance.json` and public concept-trace pages are live as candidate source-location aids. |
+| Build completion audit and final scholarly gates | Started | `processed/completion_audit.json`, public completion audit, and world-class completion criteria are live. |
 | Avoid hallucination | Repeating | Labels and verification queue are active. This must be enforced forever. |
+
+## Expert Additions Beyond The Original Charter
+
+These are new workstreams added after the foundation was built. They define what must happen for the archive to become world-class rather than merely large.
+
+| Added Workstream | Status | Why It Matters |
+| --- | --- | --- |
+| Critical-edition editorial policy | Pending | OCR correction, uncertain readings, page breaks, spelling variants, and math transcription need consistent rules. |
+| Citation/export system | Pending | Researchers should be able to export BibTeX, CSL JSON, stable source IDs, and recommended citations. |
+| Canonical review workflow | Started | Candidate -> source-located -> scan-verified -> canonical -> peer-reviewed must be explicit. |
+| Mathematical errata and notation ledger | Pending | Original notation, OCR math defects, modern equivalents, units, and edition variants need a traceable ledger. |
+| Diagram provenance ledger | Started | Crop manifests exist; the next step is full provenance coverage for every figure and redraw. |
+| Edition comparison layer | Pending | Multiple editions can move figures, revise equations, or change notation; differences must be visible. |
+| Patent-to-theory bridge | Pending | Patents should connect to apparatus theory, hysteresis, AC, transients, and surge protection pages. |
+| Accessibility and reading-quality audit | Started | Reader controls exist; full contrast, keyboard, mobile, alt text, and table-overflow checks remain. |
+| Research API and data export | Started | JSON indexes exist; they need stable public documentation and reusable schemas. |
+| Contributor governance | Pending | Contribution, review, and claim-verification templates are needed before community expansion. |
+| Independent expert review packets | Pending | Engineers, historians, physicists, and alternative-field researchers need focused review bundles. |
+| Definitive release levels | Pending | The project needs named releases: foundation, source coverage, scan verification, equation canon, diagram canon, and definitive release. |
 
 ## Extraction Requirements From The Original Charter
 
@@ -127,6 +149,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4c. Source Text Browser | Started | `site/src/content/docs/source-texts/` generated from processed chapter records |
 | 4d. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
 | 4e. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
+| 4f. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
@@ -156,6 +179,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate public source text readers | Started | `generate_source_text_pages.py` builds 316 public source-text pages from processed chapter records. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 316 public workbench pages plus `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
+| Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
 | Generate glossary candidates | Started | `processed/glossary_index.json`. |
 | Generate equation candidates | Started | `processed/equation_index.json`. |
 | Generate diagram candidates | Started | `processed/figure_index.json`. |
@@ -181,9 +205,11 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
+| `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
 | generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
 | generated `concept-concordance/` pages | Started with 77 concept pages plus a corpus index. |
+| generated completion audit page | Started with source-by-source readiness gates and next actions. |
 | `steinmetz_bibliography_manifest.json` | Started with Wikipedia-derived works intake and source-processing status. |
 | `patent_register.json` | Started with Wikipedia-listed patent examples and Google Patents authority links. |
 
@@ -201,6 +227,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 316 source-text pages, including 304 processed text-section pages and 12 index pages. |
 | M7B. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 316 chapter-workbench pages, including 304 section maps and 12 index pages, backed by `processed/chapter_workbench.json`. |
 | M7C. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
+| M7D. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -251,7 +278,8 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `f920f7d` | Extracted Commonwealth Edison PDF text, generated page-map and report-section catalogs, added reactor/synchronism pages, and updated indexes. |
 | `5532083` | Added the generated source-text browser for all processed chapters, lectures, sections, and report divisions. |
 | `98d531d` | Added the generated chapter research workbench for all processed sections. |
-| pending commit | Added the generated concept concordance across the processed Steinmetz corpus. |
+| `d5c69f6` | Added the generated concept concordance across the processed Steinmetz corpus. |
+| pending commit | Added the generated completion audit and world-class finishing criteria. |
 
 ## Next Work Queue
 
@@ -266,3 +294,4 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 9. Use the generated source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
 10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
 11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
+12. Add the critical-edition editorial policy, citation/export system, canonical review workflow, notation ledger, diagram provenance ledger, accessibility audit, data API docs, contributor governance, and expert review packets.

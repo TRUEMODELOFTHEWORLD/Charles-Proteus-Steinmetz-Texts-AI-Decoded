@@ -92,6 +92,7 @@ Current site features include:
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
 - A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
 - A generated concept concordance that traces 77 core terms and concepts across all 304 processed text sections, with source-text and workbench links for every hit.
+- A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
@@ -186,6 +187,14 @@ python pipeline/scripts/generate_concept_concordance.py
 
 It generates `site/src/content/docs/concept-concordance/` and `processed/concept_concordance.json`, scanning every processed section for curated Steinmetz electrical, mathematical, field-language, historical, and Tesla-era overlap terms. Concordance hits are source-location aids, not final definitions.
 
+The completion audit generator is:
+
+```powershell
+python pipeline/scripts/generate_completion_audit.py
+```
+
+It generates `site/src/content/docs/roadmap/completion-audit.mdx` and `processed/completion_audit.json`, measuring source custody, section splits, public readers, workbench coverage, concepts, equations, figures, glossary terms, quote candidates, original scan crops, and curated source pages.
+
 ## Current Processing Milestone
 
 The archive now includes:
@@ -203,6 +212,7 @@ The archive now includes:
 - A generated source-text browser with 304 public text-section pages across the processed corpus.
 - A generated chapter workbench with 304 section-level research maps across the processed corpus.
 - A generated concept concordance with 77 concept pages tracing hits across all 304 processed sections.
+- A generated completion audit for all 11 seeded sources, plus public world-class finishing criteria.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
@@ -223,6 +233,7 @@ The public site currently builds more than eight hundred pages, including:
 - Full generated text-reader coverage for 304 processed chapters, lectures, sections, and report divisions.
 - Generated research workbench pages for 304 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
 - Generated concept-concordance pages for 77 terms and concepts, each linked back to source text and chapter workbench pages.
+- A generated completion-audit page and world-class criteria page for the final expert review path.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
 - Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, condenser decrement, and Commonwealth Edison synchronizing power.
