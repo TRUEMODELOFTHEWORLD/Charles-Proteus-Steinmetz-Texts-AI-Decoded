@@ -46,6 +46,7 @@ Corpus-wide generated indexes live at the root of this directory:
 - `equation_verification_queue.json`
 - `figure_verification_queue.json`
 - `patent_verification_queue.json`
+- `claim_attribution_ledger.json`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

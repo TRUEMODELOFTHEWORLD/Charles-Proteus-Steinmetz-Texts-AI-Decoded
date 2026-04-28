@@ -40,6 +40,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | World-class ledgers | `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, and `processed/expert_review_packets.json` now route notation, diagram, data, patent, concept, and interpretive-boundary review. |
 | Publication readiness | `processed/release_readiness.json`, `processed/accessibility_audit.json`, `processed/edition_comparison_index.json`, and `processed/patent_theory_bridge.json` now track release levels, accessibility, edition collation, and patent-to-theory work. |
 | Canonical verification workbench | `processed/canonical_verification_workbench.json`, equation/figure/patent verification queues, and four public roadmap pages now turn priority candidates into scan-check work cards. |
+| Claim attribution ledger | `processed/claim_attribution_ledger.json` now classifies facts, OCR candidates, equations, modern translations, figures, patents, and future interpretive layers by source and claim type. |
 | Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
 | Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
 | New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
@@ -88,6 +89,7 @@ These are new workstreams added after the foundation was built. They define what
 | Accessibility and reading-quality audit | Started | Generated structural audit covers alt text, tables, iframes, and manual review gates. |
 | Research API and data export | Started | Public data manifest, reusable JSON exports, citation index, CSL JSON, and BibTeX now generate. |
 | Canonical verification workbench | Started | Equation OCR snippets, original crop cards, and patent authority-review cards now route scan-check work item by item. |
+| Claim attribution and source isolation | Started | A generated ledger now keeps source custody, Steinmetz wording, math candidates, modern translations, diagrams, patents, and interpretation layers separate for future multi-author expansion. |
 | Contributor governance | Started | Contribution rules and source/equation/diagram review templates are now present. |
 | Independent expert review packets | Started | Six generated packets route source custody/OCR, equation notation, diagram provenance, concepts/glossary, patents, and interpretive-boundary review. |
 | Definitive release levels | Started | Named release levels now distinguish foundation, source coverage, scan verification, equation canon, diagram canon, patent authority, and definitive release. |
@@ -160,6 +162,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4h. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
 | 4i. Notation, Provenance, Schema, And Review Packets | Started | `site/src/content/docs/roadmap/notation-ledger.mdx`, `diagram-provenance-ledger.mdx`, `schema-reference.mdx`, and `expert-review-packets.mdx` generated |
 | 4j. Canonical Verification Workbench | Started | `site/src/content/docs/roadmap/canonical-verification-workbench.mdx`, `equation-verification-queue.mdx`, `figure-verification-queue.mdx`, and `patent-verification-queue.mdx` generated |
+| 4k. Claim Attribution Ledger | Started | `site/src/content/docs/roadmap/claim-attribution-ledger.mdx` and `processed/claim_attribution_ledger.json` generated |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
@@ -194,6 +197,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
 | Generate publication readiness controls | Started | `generate_publication_readiness.py` builds release readiness, accessibility audit, edition comparison, and patent bridge JSON plus public roadmap pages. |
 | Generate canonical verification queues | Started | `generate_verification_workbench.py` builds equation OCR-snippet queues, original-figure crop review cards, patent authority-review cards, and public roadmap pages. |
+| Generate claim attribution ledger | Started | `generate_claim_attribution_ledger.py` classifies evidence, canonical equations, modern translations, diagrams, and patents by claim type and interpretation layer. |
 | Generate glossary candidates | Started | `processed/glossary_index.json`. |
 | Generate equation candidates | Started | `processed/equation_index.json`. |
 | Generate diagram candidates | Started | `processed/figure_index.json`. |
@@ -235,6 +239,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `equation_verification_queue.json` | Started as the scan-check queue for canonical equation candidates, including OCR snippets and source/workbench links. |
 | `figure_verification_queue.json` | Started as the scan-crop review queue for original Steinmetz figures. |
 | `patent_verification_queue.json` | Started as the authority PDF, claim, drawing, and theory-bridge queue for seeded patents. |
+| `claim_attribution_ledger.json` | Started as the source-isolation ledger for facts, candidates, translations, diagrams, patents, and interpretive boundaries. |
 | `site/public/data/manifest.json` | Started as the public data export manifest. |
 | generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
@@ -262,6 +267,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7F. Critical scholarly ledgers | Generate notation, diagram provenance, schema, and expert review packet controls. | Generated four processed ledgers and four public roadmap pages for review routing. |
 | M7G. Publication readiness controls | Generate release, accessibility, edition, and patent bridge controls. | Generated four processed readiness indexes and four public roadmap pages. |
 | M7H. Canonical verification workbench | Generate scan-check queues for equations, figures, and patents. | Generated four processed queue indexes and four public roadmap pages with source links and OCR snippets. |
+| M7I. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 

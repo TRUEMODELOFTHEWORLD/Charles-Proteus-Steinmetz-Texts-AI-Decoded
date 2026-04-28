@@ -44,6 +44,7 @@ DATA_EXPORTS = [
     ("equation_verification_queue", "processed/equation_verification_queue.json", "OCR snippet and scan-check queue for canonical equation candidates."),
     ("figure_verification_queue", "processed/figure_verification_queue.json", "Scan crop review queue for original Steinmetz figures."),
     ("patent_verification_queue", "processed/patent_verification_queue.json", "Authority PDF, claims, drawings, and theory-bridge queue for seeded patents."),
+    ("claim_attribution_ledger", "processed/claim_attribution_ledger.json", "Source-isolation ledger for facts, candidates, translations, diagrams, patents, and interpretation layers."),
 ]
 
 

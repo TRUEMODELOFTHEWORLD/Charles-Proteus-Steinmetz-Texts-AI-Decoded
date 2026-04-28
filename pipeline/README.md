@@ -77,10 +77,11 @@ To generate public citation and data exports:
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
 python pipeline/scripts/generate_verification_workbench.py
+python pipeline/scripts/generate_claim_attribution_ledger.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first command writes notation, diagram provenance, schema-reference, and expert-review-packet ledgers plus their public roadmap pages. The second writes release, accessibility, edition-comparison, and patent bridge controls. The third writes equation, figure, patent, and canonical verification workbench queues with source links and OCR snippets. The fourth command writes `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, `site/public/data/manifest.json`, public copies of the core JSON indexes and ledgers, and `site/src/content/docs/roadmap/citation-and-data-export.mdx`. These exports are reusable research aids; they preserve review-state data and do not certify candidate material as canonical.
+The first command writes notation, diagram provenance, schema-reference, and expert-review-packet ledgers plus their public roadmap pages. The second writes release, accessibility, edition-comparison, and patent bridge controls. The third writes equation, figure, patent, and canonical verification workbench queues with source links and OCR snippets. The fourth writes a claim attribution ledger that classifies source facts, OCR candidates, modern translations, diagrams, patents, and interpretation layers. The fifth command writes `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, `site/public/data/manifest.json`, public copies of the core JSON indexes and ledgers, and `site/src/content/docs/roadmap/citation-and-data-export.mdx`. These exports are reusable research aids; they preserve review-state data and do not certify candidate material as canonical.
 
 ## Public Corpus Pages
 

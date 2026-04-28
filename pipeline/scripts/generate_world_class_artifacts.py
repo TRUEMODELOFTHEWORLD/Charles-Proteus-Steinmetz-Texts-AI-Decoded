@@ -78,6 +78,7 @@ SCHEMA_FILES = [
     ("equation_verification_queue", "processed/equation_verification_queue.json", "Equation scan-check queue with OCR line snippets."),
     ("figure_verification_queue", "processed/figure_verification_queue.json", "Original figure crop verification queue."),
     ("patent_verification_queue", "processed/patent_verification_queue.json", "Patent authority PDF, claim, drawing, and theory bridge queue."),
+    ("claim_attribution_ledger", "processed/claim_attribution_ledger.json", "Source-isolation ledger for fact, candidate, translation, patent, diagram, and interpretation layers."),
 ]
 
 

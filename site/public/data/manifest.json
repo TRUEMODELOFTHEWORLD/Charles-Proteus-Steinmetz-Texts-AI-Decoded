@@ -153,6 +153,13 @@
       "format": "json"
     },
     {
+      "id": "claim_attribution_ledger",
+      "description": "Source-isolation ledger for facts, candidates, translations, diagrams, patents, and interpretation layers.",
+      "source_path": "processed/claim_attribution_ledger.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/claim_attribution_ledger.json",
+      "format": "json"
+    },
+    {
       "id": "citation_index_bibtex",
       "description": "BibTeX citation export for project and source records.",
       "source_path": "processed/citation_index.bib",

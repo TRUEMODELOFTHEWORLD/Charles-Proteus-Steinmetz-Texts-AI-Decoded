@@ -746,6 +746,54 @@
         "verification_status"
       ],
       "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "claim_attribution_ledger",
+      "description": "Source-isolation ledger for fact, candidate, translation, patent, diagram, and interpretation layers.",
+      "path": "processed/claim_attribution_ledger.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/claim_attribution_ledger.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "claim_type_counts",
+          "collection",
+          "generated_at",
+          "layer_counts",
+          "layer_definitions",
+          "person",
+          "quality_note",
+          "record_count",
+          "records",
+          "source_counts",
+          "verification_counts"
+        ],
+        "sample_record_fields": [
+          "allowed_use",
+          "claim_type",
+          "collection",
+          "confidence",
+          "id",
+          "interpretation_layer",
+          "label",
+          "person",
+          "record_id",
+          "record_type",
+          "source_id",
+          "source_title",
+          "source_trace",
+          "status",
+          "verification_required",
+          "year"
+        ],
+        "record_count": 3380
+      },
+      "review_state_fields": [
+        "confidence",
+        "status",
+        "verification_required"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
     }
   ]
 }

@@ -238,6 +238,7 @@ export default defineConfig({
             { label: 'Equation Verification', slug: 'roadmap/equation-verification-queue' },
             { label: 'Figure Verification', slug: 'roadmap/figure-verification-queue' },
             { label: 'Patent Verification', slug: 'roadmap/patent-verification-queue' },
+            { label: 'Claim Attribution', slug: 'roadmap/claim-attribution-ledger' },
             { label: 'Notation Ledger', slug: 'roadmap/notation-ledger' },
             { label: 'Diagram Provenance', slug: 'roadmap/diagram-provenance-ledger' },
             { label: 'Schema Reference', slug: 'roadmap/schema-reference' },

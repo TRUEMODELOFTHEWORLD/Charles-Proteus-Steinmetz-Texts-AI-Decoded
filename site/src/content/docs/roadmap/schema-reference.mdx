@@ -34,6 +34,7 @@ This page documents the data shapes that make the archive reusable. It is descri
 | `equation_verification_queue` | Equation scan-check queue with OCR line snippets. | `processed/equation_verification_queue.json` | yes | candidate_status, chapter_id, chapter_refs, chapter_title, id, line_anchors, line_ranges, links |
 | `figure_verification_queue` | Original figure crop verification queue. | `processed/figure_verification_queue.json` | yes | crop_box_pixels, id, links, manifest_path, output_path, public_url, review_actions, sha256 |
 | `patent_verification_queue` | Patent authority PDF, claim, drawing, and theory bridge queue. | `processed/patent_verification_queue.json` | yes | concept_links, diagram_targets, domain_tags, links, patent_number, patent_url, pdf_url, publication_date |
+| `claim_attribution_ledger` | Source-isolation ledger for fact, candidate, translation, patent, diagram, and interpretation layers. | `processed/claim_attribution_ledger.json` | yes | allowed_use, claim_type, collection, confidence, id, interpretation_layer, label, person |
 
 ## Review-State Fields
 
