@@ -1,1 +1,313 @@
-[]
+[
+  {
+    "id": "america-and-new-epoch-introduction-01",
+    "source_id": "america-and-new-epoch",
+    "kind": "introduction",
+    "sequence": 1,
+    "number": null,
+    "roman": null,
+    "title": "Introduction",
+    "line_start": 87,
+    "line_end": 233,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/introduction-01.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-02",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 2,
+    "number": 1,
+    "roman": "I",
+    "title": "Eras in the World's History",
+    "line_start": 234,
+    "line_end": 626,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-02.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-03",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 3,
+    "number": 2,
+    "roman": "II",
+    "title": "The Epoch of the French Revolution",
+    "line_start": 627,
+    "line_end": 873,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-03.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-04",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 4,
+    "number": 3,
+    "roman": "III",
+    "title": "The Individualistic Era: From Competition to Co-operation",
+    "line_start": 874,
+    "line_end": 1745,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-04.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "industrial-organization"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-05",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 5,
+    "number": 4,
+    "roman": "IV",
+    "title": "The Individualistic Era: The Other Side",
+    "line_start": 1746,
+    "line_end": 2408,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-05.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-06",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 6,
+    "number": 5,
+    "roman": "V",
+    "title": "England in the Individualistic Era",
+    "line_start": 2409,
+    "line_end": 2775,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-06.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-07",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 7,
+    "number": 6,
+    "roman": "VI",
+    "title": "Germany in the Individualistic Era",
+    "line_start": 2776,
+    "line_end": 3206,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-07.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-08",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 8,
+    "number": 7,
+    "roman": "VII",
+    "title": "The Other European Nations in the Individualistic Era",
+    "line_start": 3207,
+    "line_end": 3740,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-08.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "political-theory",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-09",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 9,
+    "number": 8,
+    "roman": "VIII",
+    "title": "America in the Past",
+    "line_start": 3741,
+    "line_end": 4267,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-09.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-10",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 10,
+    "number": 9,
+    "roman": "IX",
+    "title": "America in the Individualistic Era",
+    "line_start": 4268,
+    "line_end": 4715,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-10.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "historical-context",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-11",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 11,
+    "number": 10,
+    "roman": "X",
+    "title": "Public and Private Corporations",
+    "line_start": 4716,
+    "line_end": 5059,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-11.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "industrial-organization"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-12",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 12,
+    "number": 11,
+    "roman": "XI",
+    "title": "Democracy and Monarchy",
+    "line_start": 5060,
+    "line_end": 5327,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-12.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "political-theory"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-13",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 13,
+    "number": 12,
+    "roman": "XII",
+    "title": "Evolution: Political Government",
+    "line_start": 5328,
+    "line_end": 5797,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-13.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "political-theory"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-14",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 14,
+    "number": 13,
+    "roman": "XIII",
+    "title": "Evolution: Industrial Government",
+    "line_start": 5798,
+    "line_end": 6232,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-14.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "industrial-organization",
+      "political-theory"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-15",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 15,
+    "number": 14,
+    "roman": "XIV",
+    "title": "Evolution: Inhibitory Power",
+    "line_start": 6233,
+    "line_end": 6597,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-15.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "political-theory"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-16",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 16,
+    "number": 15,
+    "roman": "XV",
+    "title": "The American Nation",
+    "line_start": 6598,
+    "line_end": 6974,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-16.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "political-theory",
+      "steinmetz-biographical-context"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-17",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 17,
+    "number": 16,
+    "roman": "XVI",
+    "title": "The Future Corporation",
+    "line_start": 6975,
+    "line_end": 7567,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-17.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [
+      "industrial-organization"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "america-and-new-epoch-chapter-18",
+    "source_id": "america-and-new-epoch",
+    "kind": "chapter",
+    "sequence": 18,
+    "number": 17,
+    "roman": "XVII",
+    "title": "Conclusion",
+    "line_start": 7568,
+    "line_end": 8027,
+    "text_path": "processed/america-and-new-epoch/cleaned_text/chapter-18.md",
+    "summary": "Candidate OCR chapter split; scan verification required before canonical citation.",
+    "concept_tags": [],
+    "status": "candidate"
+  }
+]

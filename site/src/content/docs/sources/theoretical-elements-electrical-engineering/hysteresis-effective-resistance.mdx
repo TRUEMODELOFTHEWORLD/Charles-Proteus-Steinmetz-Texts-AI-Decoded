@@ -1,0 +1,66 @@
+---
+title: Hysteresis and Effective Resistance
+description: Deep-decoding entry for Theoretical Elements, section 10.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theoretical Elements of Electrical Engineering" location="Section 10, OCR candidate lines 3234-3585" status="source-located OCR candidate" />
+
+## Why This Section Matters
+
+This section ties together hysteresis, phase lag, power loss, wattless current, and the engineering idea of effective resistance. It is one of the cleanest places to show why Steinmetz is not merely naming magnetic lag, but translating loss in magnetic material into circuit language.
+
+It also preserves an important distinction: Steinmetz separates magnetic hysteresis from molecular magnetic friction. The archive should keep that distinction visible because modern summaries often compress all magnetic-core loss language into a simpler "hysteresis loss" bucket.
+
+## Steinmetz's Meaning
+
+In an ideal inductive circuit with negligible resistance, the magnetizing current is wattless and lags the impressed electromotive force by a quarter period. When iron or another magnetic material is present, energy is consumed in the magnetic material. That loss changes the phase relation, so the exciting current contains both a magnetizing component and a power component.
+
+Steinmetz then introduces effective resistance: not merely the ohmic resistance of the wire, but the real-power equivalent that accounts for energy spent in the magnetic circuit. In this language, a material loss becomes visible as an in-phase component of current or voltage.
+
+## Modern Electrical Engineering Interpretation
+
+Modern engineering usually speaks of core loss, hysteresis loss, eddy-current loss, equivalent resistance, and equivalent circuits. Steinmetz is already doing that translation: magnetic loss becomes an electrical equivalent, but the physical origin remains in the magnetic material.
+
+This is why the section belongs in both the concept encyclopedia and the mathematics catalog. It is a conceptual bridge between field behavior, material memory, phase angle, and circuit representation.
+
+## Mathematical Spine
+
+The OCR gives the familiar Steinmetz-type hysteresis expression in old typography:
+
+```math
+W = \eta B^{1.6}
+```
+
+where `W` is energy loss per unit volume per cycle, `B` is flux density, and `eta` is the hysteresis coefficient.
+
+For power at frequency `f` and volume `V`, the OCR gives the corresponding power-loss form:
+
+```math
+P = V f \eta B^{1.6} \times 10^{-7}
+```
+
+The same section then treats an effective hysteretic resistance by dividing the power loss by current squared:
+
+```math
+r'' = \frac{P}{I^2}
+```
+
+These equations are strong candidates for canonical promotion, but the exponent, symbols, and constants should be checked against the scan before the equation catalog marks them as reviewed.
+
+<LayeredReading label="Modern Equivalent" open>
+In modern transformer or machine analysis, these relations become part of a core-loss model. A parallel or equivalent resistance represents real power dissipated in the core, while the magnetizing branch represents reactive excitation. Steinmetz's value is that he keeps the physical and phasor meanings tied together.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a Wheeler-style reading might describe hysteresis as field lag, memory, or inertia in magnetic material. That reading maps well to the visible phase-lag structure, but it is not the same as Steinmetz's explicit engineering claim. The source-grounded claim is magnetic material loss and phase displacement; the ether-field vocabulary remains an optional interpretive layer.
+</LayeredReading>
+
+## Related Archive Pages
+
+- [Hysteresis](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/hysteresis/)
+- [Steinmetz Hysteresis Law](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/steinmetz-hysteresis-law/)
+- [Hysteresis Motor](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-apparatus/hysteresis-motor/)
+- [Hysteresis Loop Visualizer](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#hysteresis-loss-explorer/)

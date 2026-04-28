@@ -48,8 +48,16 @@ export default defineConfig({
         {
           label: 'Research Corpus',
           items: [
+            { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
+            { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
-            { label: 'Steinmetz Patent Register', slug: 'sources/steinmetz-patents' },
+            {
+              label: 'Steinmetz Patents',
+              items: [
+                { label: 'Patent Register', slug: 'sources/steinmetz-patents' },
+                { label: 'Seeded Patent Dossiers', slug: 'sources/steinmetz-patents/seeded-patent-dossiers' }
+              ]
+            },
             {
               label: 'Radiation, Light and Illumination',
               items: [
@@ -57,7 +65,13 @@ export default defineConfig({
                 { label: 'Lecture I', slug: 'sources/radiation-light-and-illumination/lecture-01' }
               ]
             },
-            { label: 'Elementary Lectures', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
+            {
+              label: 'Elementary Lectures',
+              items: [
+                { label: 'Book Overview', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
+                { label: 'The Electric Field', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses/electric-field' }
+              ]
+            },
             {
               label: 'Engineering Mathematics',
               items: [
@@ -83,11 +97,42 @@ export default defineConfig({
                 { label: 'Standing And Traveling Waves', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves' }
               ]
             },
-            { label: 'Theoretical Elements', slug: 'sources/theoretical-elements-electrical-engineering' },
-            { label: 'General Lectures', slug: 'sources/general-lectures-electrical-engineering' },
-            { label: 'Electric Apparatus', slug: 'sources/theory-calculation-electric-apparatus' },
-            { label: 'America and the New Epoch', slug: 'sources/america-and-new-epoch' },
-            { label: 'Relativity and Space', slug: 'sources/four-lectures-relativity-space' },
+            {
+              label: 'Theoretical Elements',
+              items: [
+                { label: 'Book Overview', slug: 'sources/theoretical-elements-electrical-engineering' },
+                { label: 'Fields of Force', slug: 'sources/theoretical-elements-electrical-engineering/fields-of-force' },
+                { label: 'Hysteresis And Effective Resistance', slug: 'sources/theoretical-elements-electrical-engineering/hysteresis-effective-resistance' }
+              ]
+            },
+            {
+              label: 'General Lectures',
+              items: [
+                { label: 'Book Overview', slug: 'sources/general-lectures-electrical-engineering' },
+                { label: 'High-Frequency Surges', slug: 'sources/general-lectures-electrical-engineering/high-frequency-oscillations-surges' }
+              ]
+            },
+            {
+              label: 'Electric Apparatus',
+              items: [
+                { label: 'Book Overview', slug: 'sources/theory-calculation-electric-apparatus' },
+                { label: 'Hysteresis Motor', slug: 'sources/theory-calculation-electric-apparatus/hysteresis-motor' }
+              ]
+            },
+            {
+              label: 'America and the New Epoch',
+              items: [
+                { label: 'Book Overview', slug: 'sources/america-and-new-epoch' },
+                { label: 'Industrial Government', slug: 'sources/america-and-new-epoch/industrial-government' }
+              ]
+            },
+            {
+              label: 'Relativity and Space',
+              items: [
+                { label: 'Book Overview', slug: 'sources/four-lectures-relativity-space' },
+                { label: 'Gravitational Field', slug: 'sources/four-lectures-relativity-space/gravitational-field' }
+              ]
+            },
             { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
           ]
         },

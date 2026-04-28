@@ -1,6 +1,6 @@
 {
   "quality_note": "Glossary entries are seeded from OCR term lists and must be refined against the source text.",
-  "total_terms": 15,
+  "total_terms": 24,
   "records": [
     {
       "term": "brilliancy",
@@ -9,12 +9,6 @@
       ],
       "total_occurrence_count_in_ocr": 73,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -71,7 +65,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -81,12 +75,6 @@
       ],
       "total_occurrence_count_in_ocr": 2,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -143,7 +131,25 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
+      }
+    },
+    {
+      "term": "co-operation",
+      "modern_equivalents": [
+        "Coordinated industrial organization; spelling follows the source when present."
+      ],
+      "total_occurrence_count_in_ocr": 68,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 68,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
       }
     },
     {
@@ -195,12 +201,6 @@
       ],
       "total_occurrence_count_in_ocr": 19,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -257,7 +257,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -291,12 +291,6 @@
       ],
       "total_occurrence_count_in_ocr": 70,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -353,7 +347,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -363,12 +357,6 @@
       ],
       "total_occurrence_count_in_ocr": 18,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -425,7 +413,79 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
+      }
+    },
+    {
+      "term": "individualistic era",
+      "modern_equivalents": [
+        "Steinmetz's historical term for the competitive industrial age."
+      ],
+      "total_occurrence_count_in_ocr": 40,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 40,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "industrial capitalism",
+      "modern_equivalents": [
+        "Industrial production organized through private capital and competition."
+      ],
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "industrial government",
+      "modern_equivalents": [
+        "Steinmetz's proposed administrative structure for industrial coordination."
+      ],
+      "total_occurrence_count_in_ocr": 13,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 13,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "inhibitory power",
+      "modern_equivalents": [
+        "A supervisory or checking power rather than a direct executive power."
+      ],
+      "total_occurrence_count_in_ocr": 11,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 11,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
       }
     },
     {
@@ -435,12 +495,6 @@
       ],
       "total_occurrence_count_in_ocr": 19,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -497,7 +551,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -507,12 +561,6 @@
       ],
       "total_occurrence_count_in_ocr": 3,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -569,7 +617,61 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
+      }
+    },
+    {
+      "term": "political government",
+      "modern_equivalents": [
+        "The civic/governmental structure contrasted with industrial administration."
+      ],
+      "total_occurrence_count_in_ocr": 28,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 28,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "private corporation",
+      "modern_equivalents": [
+        "A privately owned industrial corporation."
+      ],
+      "total_occurrence_count_in_ocr": 3,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 3,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "public corporation",
+      "modern_equivalents": [
+        "A municipality, state, nation, or public body treated as a corporate actor."
+      ],
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
       }
     },
     {
@@ -579,12 +681,6 @@
       ],
       "total_occurrence_count_in_ocr": 3,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -641,7 +737,25 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
+      }
+    },
+    {
+      "term": "Social Democracy",
+      "modern_equivalents": [
+        "The socialist political movement discussed in Steinmetz's historical account."
+      ],
+      "total_occurrence_count_in_ocr": 3,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 3,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
       }
     },
     {
@@ -651,12 +765,6 @@
       ],
       "total_occurrence_count_in_ocr": 2,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -713,7 +821,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -723,12 +831,6 @@
       ],
       "total_occurrence_count_in_ocr": 29,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -785,7 +887,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -795,12 +897,6 @@
       ],
       "total_occurrence_count_in_ocr": 112,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -857,7 +953,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     },
     {
@@ -867,12 +963,6 @@
       ],
       "total_occurrence_count_in_ocr": 223,
       "sources": [
-        {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -929,7 +1019,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 10
+        "seeded": 9
       }
     }
   ]

@@ -1,0 +1,51 @@
+---
+title: Hysteresis Motor
+description: Deep-decoding entry for Theory and Calculation of Electric Apparatus, Chapter X.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theory and Calculation of Electric Apparatus" location="Chapter X, OCR candidate lines 14551-14761" status="source-located OCR candidate" />
+
+## Why This Chapter Matters
+
+This chapter connects hysteresis to actual apparatus behavior. Steinmetz describes a circular iron disk or cylinder in a revolving magnetic field. Even when eddy currents are prevented, the disk can develop torque because magnetization lags the rotating field. That makes the chapter a bridge between material memory, phase lag, torque, motor action, and measurement devices.
+
+## Source-Grounded Reading
+
+The OCR indicates that Steinmetz treats hysteresis not as an abstract loss term only, but as a phase relation that can produce a mechanical couple. The axis of resultant magnetization in the iron does not coincide with the rotating magnetomotive force; it lags behind it by a hysteretic angle.
+
+This is a valuable hidden bridge: hysteresis is both energy loss and phase-lag behavior, and in a rotating field that lag can become torque.
+
+## Mathematical Spine
+
+The OCR candidate gives a torque relation in the form:
+
+```math
+D \propto S \Phi \sin \alpha
+```
+
+where the candidate variables are:
+
+- `S`: resultant magnetomotive force.
+- `Phi`: resultant magnetism or flux-related term.
+- `alpha`: hysteretic phase angle.
+- `D`: mechanical torque.
+
+The chapter also routes back to Steinmetz's hysteresis-loss form, with OCR damage around the coefficient and exponent. Exact typography needs scan verification.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern readers can treat this as a magnetic-material phase-lag motor. The useful power is limited because the hysteretic angle is small, but the torque's relative independence from speed makes the principle useful in instruments and timing/measurement contexts.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: this chapter is a strong place to discuss hysteresis as field lag or field memory, but the archive must not claim that vocabulary as Steinmetz's own wording unless the source passage says it. The verified Steinmetz point is lag of magnetization in the hysteresis loop and its mechanical consequence.
+</LayeredReading>
+
+## Related Archive Pages
+
+- [Hysteresis](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/hysteresis/)
+- [Steinmetz Hysteresis Law](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/steinmetz-hysteresis-law/)
+- [Effective Resistance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/effective-resistance/)
+- [Hysteresis Loop and Loss Tool](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#hysteresis-loop-and-steinmetz-loss)

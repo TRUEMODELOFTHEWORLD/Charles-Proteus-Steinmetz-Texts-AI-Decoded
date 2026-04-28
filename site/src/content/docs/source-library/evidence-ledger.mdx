@@ -1,0 +1,88 @@
+---
+title: Evidence Ledger
+description: Machine-readable traceability index for the Steinmetz archive.
+---
+
+The evidence ledger is the archive's source-traceability spine. It collects every processed source record, concept occurrence, glossary entry, equation candidate, figure candidate, quote candidate, and promoted original scan crop into one machine-readable index.
+
+It is not a book of finished claims. It is a custody and confidence map that tells researchers what exists, where it came from, and how much trust the archive currently assigns to it.
+
+[Open the raw JSON ledger on GitHub](https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded/blob/main/processed/evidence_ledger.json)
+
+## Current Ledger Counts
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Record Type</th>
+      <th>Count</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Sources</td><td>11</td><td>Seeded books, lecture collections, and raw/intake records.</td></tr>
+    <tr><td>Concept records</td><td>194</td><td>OCR occurrence indexes for Steinmetz concepts across seeded sources.</td></tr>
+    <tr><td>Glossary records</td><td>122</td><td>Older or technical terms that require source-wording review.</td></tr>
+    <tr><td>Equation records</td><td>2,425</td><td>OCR-derived equation candidates, mostly requiring scan triage.</td></tr>
+    <tr><td>Figure records</td><td>325</td><td>OCR-derived figure candidates.</td></tr>
+    <tr><td>Promoted original figures</td><td>15</td><td>Scan-crop assets with manifests and checksums.</td></tr>
+    <tr><td>Quote candidates</td><td>3</td><td>Hidden-gem OCR lines awaiting scan verification.</td></tr>
+  </tbody>
+</table>
+
+## Confidence Labels
+
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Confidence</th>
+      <th>Count</th>
+      <th>Reader Rule</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>source-custody-record</code></td>
+      <td>11</td>
+      <td>Use as source inventory, not as interpretive proof.</td>
+    </tr>
+    <tr>
+      <td><code>ocr-occurrence-index</code></td>
+      <td>311</td>
+      <td>Useful for discovery; do not quote as exact wording.</td>
+    </tr>
+    <tr>
+      <td><code>source-located-ocr-candidate</code></td>
+      <td>2,753</td>
+      <td>Has source/line location, but the OCR and formula/text still need scan review.</td>
+    </tr>
+    <tr>
+      <td><code>source-located-candidate</code></td>
+      <td>5</td>
+      <td>Has a source reference, but requires review before canonical status.</td>
+    </tr>
+    <tr>
+      <td><code>scan-crop-promoted</code></td>
+      <td>15</td>
+      <td>Derived from a rendered source page and backed by a manifest and checksum.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Why This Matters
+
+The original project goal was to avoid hallucination while still allowing ambitious interpretation. The ledger is the mechanism that makes that possible:
+
+- A Steinmetz source claim must point to a source record.
+- A mathematical claim must point to an equation record or derivation page.
+- A diagram claim must point to a figure record, scan crop, or redraw manifest.
+- An ether-field reading must remain interpretive unless the ledger contains an explicit Steinmetz passage.
+- A Tesla-era comparison must be added as comparison evidence, not merged into Steinmetz's own voice.
+
+## Mature Claim Path
+
+1. Candidate appears in OCR, figure extraction, glossary extraction, or concept tagging.
+2. Candidate enters the evidence ledger with confidence and status.
+3. Researcher checks the scan, page, formula typography, and surrounding context.
+4. Record is promoted into a concept, equation, diagram, glossary, hidden-gem, or comparison page.
+5. The public page links back to the source page and keeps interpretation layers separate.

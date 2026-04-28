@@ -27,6 +27,21 @@ CATALOG_FILES = {
     "crosslinks": "crosslinks.json",
 }
 
+THEME_PATTERNS = {
+    "alternating-current": ["alternating current", "alternating-current", "a.c.", " ac "],
+    "complex-quantities": ["complex quantity", "complex quantities", "symbolic", "imaginary", " j "],
+    "dielectricity": ["dielectric", "capacity", "electrostatic", "condenser", "displacement"],
+    "ether": ["ether", "aether"],
+    "fields": ["field", "magnetic field", "electric field", "electrostatic field"],
+    "hysteresis": ["hysteresis", "magnetic lag", "molecular friction"],
+    "impedance-reactance": ["impedance", "reactance", "admittance", "conductance", "susceptance"],
+    "lightning-surges": ["lightning", "surge", "impulse", "arrester", "transient voltage"],
+    "magnetism": ["magnetism", "magnetic", "flux", "reluctance", "permeability"],
+    "radiation-light": ["radiation", "light", "illumination", "spectrum", "wave length", "frequency"],
+    "transients": ["transient", "temporary", "permanent term", "oscillation", "damping", "decrement"],
+    "waves-lines": ["wave", "waves", "transmission line", "standing wave", "traveling wave", "travelling wave"],
+}
+
 
 def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
@@ -120,12 +135,17 @@ def discover_promoted_figures(root: Path) -> list[dict[str, Any]]:
 
 def source_next_action(source: dict[str, Any], counts: dict[str, int], promoted_count: int) -> str:
     source_status = str(source.get("source_status") or "")
+    source_id = str(source.get("source_id") or "")
     if source_status == "raw":
         return "Run OCR, create bibliographic metadata, then seed candidate catalogs."
+    if source_id == "america-and-new-epoch":
+        return "Scan-verify chapter starts and keep historical/social claims separate from electrical theory."
     if counts.get("chapters", 0) == 0:
         return "Review structural parser; no chapter or lecture records were found."
-    if promoted_count == 0:
+    if counts.get("figures", 0) > 0 and promoted_count == 0:
         return "Promote scan-verified figure crops and anchor high-value figures to pages."
+    if counts.get("figures", 0) == 0:
+        return "Scan-verify structural starts, then identify whether the source has diagrams or figures worth extraction."
     if counts.get("equations", 0) > 0:
         return "Triage candidate equations into canonical, false positive, and needs-review groups."
     return "Continue scan verification and cross-link concepts, equations, and diagrams."
@@ -379,6 +399,287 @@ def build_quote_index(sources: list[dict[str, Any]], root: Path) -> dict[str, An
         "total_records": len(records),
         "status_counts": status_counts(records),
         "verification_counts": verification_counts(records),
+        "records": records,
+    }
+
+
+def infer_confidence(record_type: str, record: dict[str, Any]) -> str:
+    status = str(record.get("status") or "").lower()
+    source_ref = record.get("source_ref")
+    source_refs = record.get("source_refs")
+    if "promoted" in status or record_type == "promoted_original_figure":
+        return "scan-crop-promoted"
+    if isinstance(source_ref, dict) and source_ref.get("line_start"):
+        return "source-located-ocr-candidate"
+    if isinstance(source_refs, list) and source_refs:
+        return "source-located-candidate"
+    if record_type in {"concept", "glossary"}:
+        return "ocr-occurrence-index"
+    return "candidate-needs-review"
+
+
+def evidence_record(
+    source: dict[str, Any],
+    record_type: str,
+    record_id: str,
+    label: str,
+    status: str,
+    evidence: dict[str, Any],
+    confidence: str,
+) -> dict[str, Any]:
+    return {
+        "id": f"{source['source_id']}::{record_type}::{record_id}",
+        "person": "Charles Proteus Steinmetz",
+        "collection": "steinmetz",
+        "source_id": source["source_id"],
+        "source_title": source.get("title"),
+        "year": source.get("year"),
+        "record_type": record_type,
+        "record_id": record_id,
+        "label": label,
+        "status": status,
+        "confidence": confidence,
+        "site_path": source.get("site_path"),
+        "evidence": evidence,
+    }
+
+
+def build_evidence_ledger(
+    sources: list[dict[str, Any]],
+    root: Path,
+    promoted: list[dict[str, Any]],
+) -> dict[str, Any]:
+    records: list[dict[str, Any]] = []
+
+    for source in sources:
+        source_id = source["source_id"]
+        records.append(
+            evidence_record(
+                source,
+                "source",
+                source_id,
+                str(source.get("title") or source_id),
+                str(source.get("source_status") or "unspecified"),
+                {
+                    "processed_status": source.get("processed_status"),
+                    "internet_archive_id": source.get("internet_archive_id"),
+                    "local_raw_file": source.get("local_raw_file"),
+                },
+                "source-custody-record",
+            )
+        )
+
+        for concept in load_json(root / "processed" / source_id / "concepts.json", []):
+            if not isinstance(concept, dict):
+                continue
+            record_id = str(concept.get("id") or concept.get("label") or "").strip()
+            if not record_id:
+                continue
+            records.append(
+                evidence_record(
+                    source,
+                    "concept",
+                    record_id,
+                    str(concept.get("label") or record_id),
+                    str(concept.get("status") or "seeded"),
+                    {
+                        "occurrence_count_in_ocr": concept.get("occurrence_count_in_ocr", 0),
+                        "related": concept.get("related", []),
+                    },
+                    infer_confidence("concept", concept),
+                )
+            )
+
+        for term in load_json(root / "processed" / source_id / "glossary.json", []):
+            if not isinstance(term, dict):
+                continue
+            label = str(term.get("term") or "").strip()
+            if not label:
+                continue
+            records.append(
+                evidence_record(
+                    source,
+                    "glossary",
+                    label.lower().replace(" ", "-"),
+                    label,
+                    str(term.get("status") or "seeded"),
+                    {
+                        "modern_equivalent": term.get("modern_equivalent"),
+                        "occurrence_count_in_ocr": term.get("occurrence_count_in_ocr", 0),
+                        "source_refs": term.get("source_refs", []),
+                    },
+                    infer_confidence("glossary", term),
+                )
+            )
+
+        for equation in load_json(root / "processed" / source_id / "equations.json", []):
+            if not isinstance(equation, dict):
+                continue
+            record_id = str(equation.get("id") or "").strip()
+            if not record_id:
+                continue
+            records.append(
+                evidence_record(
+                    source,
+                    "equation",
+                    record_id,
+                    str(equation.get("original_form") or record_id),
+                    str(equation.get("status") or "candidate"),
+                    {
+                        "original_form": equation.get("original_form"),
+                        "modern_form": equation.get("modern_form"),
+                        "source_ref": compact_source_ref(equation),
+                    },
+                    infer_confidence("equation", equation),
+                )
+            )
+
+        for figure in load_json(root / "processed" / source_id / "figures.json", []):
+            if not isinstance(figure, dict):
+                continue
+            record_id = str(figure.get("id") or "").strip()
+            if not record_id:
+                continue
+            records.append(
+                evidence_record(
+                    source,
+                    "figure",
+                    record_id,
+                    str(figure.get("caption") or figure.get("figure_number") or record_id),
+                    str(figure.get("status") or "candidate"),
+                    {
+                        "figure_number": figure.get("figure_number"),
+                        "caption": figure.get("caption"),
+                        "linked_concepts": figure.get("linked_concepts", []),
+                        "source_ref": compact_source_ref(figure),
+                    },
+                    infer_confidence("figure", figure),
+                )
+            )
+
+        for quote in load_json(root / "processed" / source_id / "quotes.json", []):
+            if not isinstance(quote, dict):
+                continue
+            record_id = str(quote.get("id") or "").strip()
+            if not record_id:
+                continue
+            records.append(
+                evidence_record(
+                    source,
+                    "quote",
+                    record_id,
+                    str(quote.get("quote_candidate") or record_id),
+                    str(quote.get("status") or "candidate"),
+                    {
+                        "quote_candidate": quote.get("quote_candidate"),
+                        "why_it_matters": quote.get("why_it_matters"),
+                        "source_ref": compact_source_ref(quote),
+                    },
+                    infer_confidence("quote", quote),
+                )
+            )
+
+    source_by_id = {source["source_id"]: source for source in sources}
+    for figure in promoted:
+        source = source_by_id.get(str(figure.get("source_id")))
+        if not source:
+            continue
+        record_id = str(figure.get("id") or figure.get("output_path") or "").strip()
+        records.append(
+            evidence_record(
+                source,
+                "promoted_original_figure",
+                record_id,
+                str(figure.get("source_location") or record_id),
+                str(figure.get("status") or "promoted"),
+                {
+                    "manifest_path": figure.get("manifest_path"),
+                    "public_path": figure.get("public_path"),
+                    "sha256": figure.get("sha256"),
+                    "quality_note": figure.get("quality_note"),
+                },
+                "scan-crop-promoted",
+            )
+        )
+
+    type_counts = Counter(record["record_type"] for record in records)
+    confidence_counts = Counter(record["confidence"] for record in records)
+    source_counts = Counter(record["source_id"] for record in records)
+
+    return {
+        "quality_note": (
+            "Evidence ledger records are traceability objects. They are not all reviewed claims. "
+            "Use confidence and status before quoting or interpreting a record."
+        ),
+        "total_records": len(records),
+        "record_type_counts": dict(sorted(type_counts.items())),
+        "confidence_counts": dict(sorted(confidence_counts.items())),
+        "source_counts": dict(sorted(source_counts.items())),
+        "records": records,
+    }
+
+
+def count_theme_hits(text: str) -> dict[str, int]:
+    lower = f" {text.lower()} "
+    counts: dict[str, int] = {}
+    for theme, patterns in THEME_PATTERNS.items():
+        total = 0
+        for pattern in patterns:
+            total += lower.count(pattern.lower())
+        if total:
+            counts[theme] = total
+    return dict(sorted(counts.items(), key=lambda item: (-item[1], item[0])))
+
+
+def read_chapter_text(root: Path, text_path: str) -> str:
+    path = root / text_path
+    if not path.exists():
+        return ""
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
+def build_chapter_atlas(sources: list[dict[str, Any]], root: Path) -> dict[str, Any]:
+    records: list[dict[str, Any]] = []
+    for source in sources:
+        source_id = source["source_id"]
+        chapters = load_json(root / "processed" / source_id / "chapters.json", [])
+        if not isinstance(chapters, list):
+            continue
+        for chapter in chapters:
+            if not isinstance(chapter, dict):
+                continue
+            text_path = str(chapter.get("text_path") or "")
+            text = read_chapter_text(root, text_path)
+            theme_counts = count_theme_hits(text)
+            records.append(
+                {
+                    "id": chapter.get("id"),
+                    "source_id": source_id,
+                    "source_title": source.get("title"),
+                    "sequence": chapter.get("sequence"),
+                    "kind": chapter.get("kind"),
+                    "title": chapter.get("title"),
+                    "line_start": chapter.get("line_start"),
+                    "line_end": chapter.get("line_end"),
+                    "text_path": text_path,
+                    "status": chapter.get("status", "candidate"),
+                    "word_count": len(text.split()) if text else 0,
+                    "theme_counts": theme_counts,
+                    "top_themes": list(theme_counts)[:5],
+                }
+            )
+    source_counts = Counter(record["source_id"] for record in records)
+    theme_totals: Counter[str] = Counter()
+    for record in records:
+        theme_totals.update(record["theme_counts"])
+    return {
+        "quality_note": (
+            "Chapter atlas theme counts are OCR reading aids. They help route research work, "
+            "but they do not replace corrected text or scan verification."
+        ),
+        "total_records": len(records),
+        "source_counts": dict(sorted(source_counts.items())),
+        "theme_totals": dict(sorted(theme_totals.items(), key=lambda item: (-item[1], item[0]))),
         "records": records,
     }
 
@@ -769,6 +1070,8 @@ def main() -> int:
     write_json(out_dir / "quote_index.json", build_quote_index(sources, root))
     write_json(out_dir / "annotations_index.json", build_annotation_index(sources, root, source_summaries))
     write_json(out_dir / "crosslinks_index.json", build_crosslink_index(sources, root, promoted))
+    write_json(out_dir / "evidence_ledger.json", build_evidence_ledger(sources, root, promoted))
+    write_json(out_dir / "chapter_atlas.json", build_chapter_atlas(sources, root))
     write_status_markdown(out_dir / "source_processing_status.md", source_summaries)
 
     print(f"Wrote research indexes for {len(source_summaries)} sources to {rel(out_dir, root)}")

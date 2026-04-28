@@ -277,16 +277,16 @@
       "title": "Theoretical Elements of Electrical Engineering",
       "year": 1915,
       "source_status": "seeded",
-      "processed_status": "OCR and candidate catalogs; structural split needs custom part/section parser",
+      "processed_status": "source-specific part/section split and candidate catalogs from OCR",
       "internet_archive_id": "theoreticalelect00steirich",
       "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
       "site_path": "/sources/theoretical-elements-electrical-engineering/",
       "raw_file_count": 1,
       "has_processing_report": true,
       "has_ocr_seed": true,
-      "cleaned_text_file_count": 0,
+      "cleaned_text_file_count": 114,
       "record_counts": {
-        "chapters": 0,
+        "chapters": 114,
         "concepts": 20,
         "equations": 300,
         "figures": 10,
@@ -296,7 +296,9 @@
         "crosslinks": 0
       },
       "status_by_catalog": {
-        "chapters": {},
+        "chapters": {
+          "candidate": 114
+        },
         "concepts": {
           "seeded": 20
         },
@@ -314,7 +316,9 @@
         "crosslinks": {}
       },
       "verification_by_catalog": {
-        "chapters": {},
+        "chapters": {
+          "unspecified": 114
+        },
         "concepts": {
           "unspecified": 20
         },
@@ -332,7 +336,7 @@
         "crosslinks": {}
       },
       "promoted_original_figure_count": 0,
-      "next_action": "Review structural parser; no chapter or lecture records were found."
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
     },
     {
       "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
@@ -471,58 +475,62 @@
       "title": "America and the New Epoch",
       "year": 1916,
       "source_status": "ocr_seeded",
-      "processed_status": "Internet Archive OCR downloaded; custom chapter parser still needed for title-plus-roman chapter style",
+      "processed_status": "source-specific historical chapter split and candidate catalogs from OCR",
       "internet_archive_id": "americanewepoch00stei",
       "local_raw_file": null,
       "site_path": "/sources/america-and-new-epoch/",
       "raw_file_count": 1,
       "has_processing_report": true,
       "has_ocr_seed": true,
-      "cleaned_text_file_count": 0,
+      "cleaned_text_file_count": 18,
       "record_counts": {
-        "chapters": 0,
-        "concepts": 20,
+        "chapters": 18,
+        "concepts": 14,
         "equations": 21,
         "figures": 0,
-        "glossary": 12,
+        "glossary": 9,
         "quotes": 0,
         "annotations": 0,
         "crosslinks": 0
       },
       "status_by_catalog": {
-        "chapters": {},
+        "chapters": {
+          "candidate": 18
+        },
         "concepts": {
-          "seeded": 20
+          "seeded-source-specific": 14
         },
         "equations": {
           "candidate": 21
         },
         "figures": {},
         "glossary": {
-          "seeded": 12
+          "seeded-source-specific": 9
         },
         "quotes": {},
         "annotations": {},
         "crosslinks": {}
       },
       "verification_by_catalog": {
-        "chapters": {},
+        "chapters": {
+          "unspecified": 18
+        },
         "concepts": {
-          "unspecified": 20
+          "unspecified": 14
         },
         "equations": {
           "needs-verification": 21
         },
         "figures": {},
         "glossary": {
-          "unspecified": 12
+          "unspecified": 9
         },
         "quotes": {},
         "annotations": {},
         "crosslinks": {}
       },
       "promoted_original_figure_count": 0,
-      "next_action": "Review structural parser; no chapter or lecture records were found."
+      "next_action": "Scan-verify chapter starts and keep historical/social claims separate from electrical theory."
     },
     {
       "source_id": "theory-calculation-electric-apparatus",

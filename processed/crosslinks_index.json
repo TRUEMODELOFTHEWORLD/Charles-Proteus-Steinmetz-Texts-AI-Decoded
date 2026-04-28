@@ -1,20 +1,20 @@
 {
   "quality_note": "Crosslinks are generated navigation and review aids. Candidate links do not make a source claim canonical.",
-  "total_records": 2868,
+  "total_records": 2890,
   "manual_records": 0,
-  "generated_records": 2868,
+  "generated_records": 2890,
   "relation_counts": {
     "source-has-equation-candidate": 2425,
     "source-has-figure-candidate": 325,
     "source-has-promoted-original-figure": 15,
-    "source-mentions-concept": 74,
-    "source-uses-glossary-term": 29
+    "source-mentions-concept": 87,
+    "source-uses-glossary-term": 38
   },
   "target_type_counts": {
-    "concept": 74,
+    "concept": 87,
     "equation": 2425,
     "figure": 325,
-    "glossary-term": 29,
+    "glossary-term": 38,
     "original-scan-crop": 15
   },
   "records": [
@@ -34491,6 +34491,279 @@
         "line_start": 10437,
         "line_end": 10437,
         "verification": "needs-verification"
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "individualistic-era",
+      "target_label": "Individualistic era",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 40
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "industrial-capitalism",
+      "target_label": "Industrial capitalism",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 15
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "co-operation",
+      "target_label": "Co-operation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 68
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "competition",
+      "target_label": "Competition",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 79
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "corporation",
+      "target_label": "Corporation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 134
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "public-corporation",
+      "target_label": "Public corporation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 1
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "private-corporation",
+      "target_label": "Private corporation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 3
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "democracy",
+      "target_label": "Democracy",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 17
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "monarchy",
+      "target_label": "Monarchy",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 20
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "industrial-government",
+      "target_label": "Industrial government",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 13
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "political-government",
+      "target_label": "Political government",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 28
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "inhibitory-power",
+      "target_label": "Inhibitory power",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 11
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-mentions-concept",
+      "target_type": "concept",
+      "target_id": "social-democracy",
+      "target_label": "Social Democracy",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 3
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "individualistic-era",
+      "target_label": "individualistic era",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 40,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "industrial-capitalism",
+      "target_label": "industrial capitalism",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 15,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "co-operation",
+      "target_label": "co-operation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 68,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "public-corporation",
+      "target_label": "public corporation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 1,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "private-corporation",
+      "target_label": "private corporation",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 3,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "industrial-government",
+      "target_label": "industrial government",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 13,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "political-government",
+      "target_label": "political government",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 28,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "inhibitory-power",
+      "target_label": "inhibitory power",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 11,
+        "source_ref_count": 0
+      }
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "source_title": "America and the New Epoch",
+      "relation": "source-uses-glossary-term",
+      "target_type": "glossary-term",
+      "target_id": "social-democracy",
+      "target_label": "Social Democracy",
+      "status": "seeded-source-specific",
+      "evidence": {
+        "occurrence_count_in_ocr": 3,
+        "source_ref_count": 0
       }
     },
     {

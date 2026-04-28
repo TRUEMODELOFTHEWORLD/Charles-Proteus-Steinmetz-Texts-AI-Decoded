@@ -1,0 +1,82 @@
+---
+title: Fields of Force
+description: Deep-decoding entry for Theoretical Elements, section 19.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Theoretical Elements of Electrical Engineering" location="Section 19, OCR candidate lines 7737-7990" status="source-located OCR candidate" />
+
+## Why This Section Matters
+
+This is one of the strongest field-language passages currently seeded in the archive. Steinmetz does not treat the region around a conductor as empty scenery around a wire. He describes the surrounding space as physically changed by the current, able to exert forces, guide filings or needles, and resist the motion of conducting matter through induced currents.
+
+That makes the section essential for the archive's treatment of magnetic field, dielectric field, field diagrams, and the older language of "lines of force."
+
+## Steinmetz's Meaning
+
+Steinmetz groups three examples under one conceptual form:
+
+- A current produces a magnetic field in the surrounding space; the current is the magnetomotive force.
+- A mass produces a gravitational field; the mass is the corresponding motive cause.
+- A potential difference produces a dielectric or electrostatic field; the voltage is the electromotive force of that field.
+
+The important move is not merely vocabulary. He is teaching that a field is a condition of space caused by an exciting agency, with definite direction and intensity at each point. The conductor is not the whole phenomenon. The surrounding field is part of what must be analyzed.
+
+## Modern Electrical Engineering Interpretation
+
+Modern engineering would describe this with field quantities and boundary conditions. Around current-carrying conductors we use magnetic field intensity `H`, flux density `B`, permeability, and magnetic flux. Around conductors at different potentials we use electric field, displacement field, permittivity, capacitance, and stored electric-field energy.
+
+Steinmetz's language is older, but the engineering idea remains alive: conductor geometry, field distribution, dielectric stress, magnetic flux, and material properties matter because real apparatus lives in fields, not in ideal circuit symbols alone.
+
+## Mathematical Spine
+
+The OCR section gives the same form for different fields:
+
+```math
+F = g m
+```
+
+```math
+F = H m
+```
+
+```math
+F = K e
+```
+
+Read cautiously: the OCR has old notation and damaged symbols. The structural meaning is clear. Field intensity is measured by force per appropriate test quantity: mass in the gravitational case, magnetic pole strength in the magnetic case, and electric pole strength in the dielectric case.
+
+The section also links gradients and field intensities:
+
+```math
+B = \mu H
+```
+
+```math
+\Phi = \frac{F}{R}
+```
+
+For modern readers, `B = mu H` is the magnetic material relation in simple media, while the flux-over-reluctance expression is the magnetic-circuit analogy. Both need later scan verification before they are promoted into the canonical equation set.
+
+## Diagrammatic Reading
+
+Steinmetz emphasizes diagrams of lines of force and equipotential surfaces. Lines of force show field direction; closer spacing indicates stronger field. He points to magnetic filing maps, dielectric filing maps, and mathematical plots of the same conductor geometry.
+
+<div class="diagram-frame">
+  <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/field-wave-line.svg" alt="Recreated field-line reading aid" />
+</div>
+
+The SVG above is only a modern reading aid. The original section's figures should be promoted from the scan as a later image-custody task.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: this section is naturally attractive to field-centered and ether-field readers because Steinmetz speaks of space becoming non-neutral and capable of force action. Historically, however, this passage does not by itself prove an ether ontology. A disciplined reading separates the explicit field-of-force argument from any later metaphysical interpretation.
+</LayeredReading>
+
+## Related Archive Pages
+
+- [Electric Field from Elementary Lectures](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/electric-field/)
+- [Inductance and Capacity](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/inductance-capacity/)
+- [Distributed Constants](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/)
+- [Ether-Field Reading Guide](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/comparisons/ether-field-reading-guide/)

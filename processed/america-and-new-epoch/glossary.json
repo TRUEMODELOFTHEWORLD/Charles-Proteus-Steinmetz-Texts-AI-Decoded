@@ -1,134 +1,101 @@
 [
   {
-    "term": "ultra-red",
+    "term": "individualistic era",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "infrared",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "Steinmetz's historical term for the competitive industrial age.",
+    "occurrence_count_in_ocr": 40,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "ultra-violet",
+    "term": "industrial capitalism",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "ultraviolet",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "Industrial production organized through private capital and competition.",
+    "occurrence_count_in_ocr": 15,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "wave length",
+    "term": "co-operation",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "wavelength",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "Coordinated industrial organization; spelling follows the source when present.",
+    "occurrence_count_in_ocr": 68,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "electric waves",
+    "term": "public corporation",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "radio-frequency electromagnetic waves, broadly construed",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "A municipality, state, nation, or public body treated as a corporate actor.",
+    "occurrence_count_in_ocr": 1,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "brilliancy",
+    "term": "private corporation",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "luminance or perceived brightness, depending on context",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "A privately owned industrial corporation.",
+    "occurrence_count_in_ocr": 3,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "candle-power",
+    "term": "industrial government",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "luminous intensity in candlepower, historically",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "Steinmetz's proposed administrative structure for industrial coordination.",
+    "occurrence_count_in_ocr": 13,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "flux of light",
+    "term": "political government",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "luminous flux",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "The civic/governmental structure contrasted with industrial administration.",
+    "occurrence_count_in_ocr": 28,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "light flux density",
+    "term": "inhibitory power",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "illuminance",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "A supervisory or checking power rather than a direct executive power.",
+    "occurrence_count_in_ocr": 11,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "term": "radiant heat",
+    "term": "Social Democracy",
     "source_id": "america-and-new-epoch",
-    "modern_equivalent": "thermal radiation; Steinmetz criticizes the phrase as misleading",
-    "occurrence_count_in_ocr": 0,
+    "modern_equivalent": "The socialist political movement discussed in Steinmetz's historical account.",
+    "occurrence_count_in_ocr": 3,
     "steinmetz_usage": "",
     "mathematical_meaning": "",
     "conceptual_meaning": "",
     "source_refs": [],
-    "status": "seeded"
-  },
-  {
-    "term": "ether",
-    "source_id": "america-and-new-epoch",
-    "modern_equivalent": "historical luminiferous ether or field-bearing medium, context-dependent",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "mathematical_meaning": "",
-    "conceptual_meaning": "",
-    "source_refs": [],
-    "status": "seeded"
-  },
-  {
-    "term": "specific high frequency effect",
-    "source_id": "america-and-new-epoch",
-    "modern_equivalent": "biological or chemical effect associated with shorter wavelengths",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "mathematical_meaning": "",
-    "conceptual_meaning": "",
-    "source_refs": [],
-    "status": "seeded"
-  },
-  {
-    "term": "mechanical equivalent of light",
-    "source_id": "america-and-new-epoch",
-    "modern_equivalent": "energy-to-light conversion measure in historical photometry",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "mathematical_meaning": "",
-    "conceptual_meaning": "",
-    "source_refs": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   }
 ]

@@ -1,1 +1,2232 @@
-[]
+[
+  {
+    "id": "theoretical-elements-electrical-engineering-section-01",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 1,
+    "number": 1,
+    "roman": null,
+    "title": "Magnetism and Electric Current",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 477,
+    "line_end": 909,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-01.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-02",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 2,
+    "number": 2,
+    "roman": null,
+    "title": "Magnetism and E.m.f.",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 910,
+    "line_end": 1032,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-02.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-03",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 3,
+    "number": 3,
+    "roman": null,
+    "title": "Generation of E.m.f.",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 1033,
+    "line_end": 1243,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-03.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-04",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 4,
+    "number": 4,
+    "roman": null,
+    "title": "Power and Effective Values",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 1244,
+    "line_end": 1572,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-04.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-05",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 5,
+    "number": 5,
+    "roman": null,
+    "title": "Self-inductance and Mutual Inductance",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 1573,
+    "line_end": 1784,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-05.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-06",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 6,
+    "number": 6,
+    "roman": null,
+    "title": "Self-inductance of Continuous-current Circuits",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 1785,
+    "line_end": 2249,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-06.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-07",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 7,
+    "number": 7,
+    "roman": null,
+    "title": "Inductance in Alternating-current Circuits",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 2250,
+    "line_end": 2717,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-07.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-08",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 8,
+    "number": 8,
+    "roman": null,
+    "title": "Power in Alternating-current Circuits",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 2718,
+    "line_end": 2864,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-08.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-09",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 9,
+    "number": 9,
+    "roman": null,
+    "title": "Vector Diagrams",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 2865,
+    "line_end": 3233,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-09.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "complex-quantities"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-10",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 10,
+    "number": 10,
+    "roman": null,
+    "title": "Hysteresis and Effective Resistance",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 3234,
+    "line_end": 3585,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-10.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "hysteresis"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-11",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 11,
+    "number": 11,
+    "roman": null,
+    "title": "Capacity and Condensers",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 3586,
+    "line_end": 3760,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-11.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "dielectricity"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-12",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 12,
+    "number": 12,
+    "roman": null,
+    "title": "Impedance of Transmission Lines",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 3761,
+    "line_end": 4464,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-12.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "impedance-reactance",
+      "transmission-lines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-13",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 13,
+    "number": 13,
+    "roman": null,
+    "title": "Alternating-current Transformer",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 4465,
+    "line_end": 5263,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-13.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-14",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 14,
+    "number": 14,
+    "roman": null,
+    "title": "Rectangular Coordinates",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 5264,
+    "line_end": 5831,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-14.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "complex-quantities"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-15",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 15,
+    "number": 15,
+    "roman": null,
+    "title": "Load Characteristic of Transmission Line",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 5832,
+    "line_end": 6221,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-15.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "transmission-lines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-16",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 16,
+    "number": 16,
+    "roman": null,
+    "title": "Phase Control of Transmission Lines",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 6222,
+    "line_end": 6813,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-16.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "transmission-lines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-17",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 17,
+    "number": 17,
+    "roman": null,
+    "title": "Impedance and Admittance",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 6814,
+    "line_end": 7380,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-17.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "impedance-reactance"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-18",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 18,
+    "number": 18,
+    "roman": null,
+    "title": "Equivalent Sine Waves",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 7381,
+    "line_end": 7736,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-18.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-19",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 19,
+    "number": 19,
+    "roman": null,
+    "title": "Fields of Force",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 7737,
+    "line_end": 7990,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-19.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "fields"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-20",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "theory-section",
+    "sequence": 20,
+    "number": 20,
+    "roman": null,
+    "title": "Nomenclature",
+    "part": "Part I - General Theory",
+    "apparatus": "",
+    "line_start": 7991,
+    "line_end": 8291,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-20.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-21",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-introduction",
+    "sequence": 21,
+    "number": null,
+    "roman": null,
+    "title": "Introduction",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "",
+    "line_start": 8292,
+    "line_end": 8517,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-21.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-22",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 22,
+    "number": 1,
+    "roman": "I",
+    "title": "Synchronous Machines: General",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 8518,
+    "line_end": 8657,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-22.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-23",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 23,
+    "number": 2,
+    "roman": "II",
+    "title": "Synchronous Machines: Electromotive Forces",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 8658,
+    "line_end": 8740,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-23.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "fields",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-24",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 24,
+    "number": 3,
+    "roman": "III",
+    "title": "Synchronous Machines: Armature Reaction",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 8741,
+    "line_end": 8906,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-24.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-25",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 25,
+    "number": 4,
+    "roman": "IV",
+    "title": "Synchronous Machines: Self-inductance",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 8907,
+    "line_end": 9034,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-25.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-26",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 26,
+    "number": 5,
+    "roman": "V",
+    "title": "Synchronous Machines: Synchronous Reactance",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9035,
+    "line_end": 9169,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-26.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "impedance-reactance",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-27",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 27,
+    "number": 6,
+    "roman": "VI",
+    "title": "Synchronous Machines: Characteristic Curves of Alternating-current Generator",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9170,
+    "line_end": 9291,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-27.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-28",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 28,
+    "number": 7,
+    "roman": "VII",
+    "title": "Synchronous Machines: Synchronous Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9292,
+    "line_end": 9398,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-28.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-29",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 29,
+    "number": 8,
+    "roman": "VIII",
+    "title": "Synchronous Machines: Characteristic Curves of Synchronous Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9399,
+    "line_end": 9553,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-29.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-30",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 30,
+    "number": 9,
+    "roman": "IX",
+    "title": "Synchronous Machines: Magnetic Characteristic or Saturation Curve",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9554,
+    "line_end": 9650,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-30.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-31",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 31,
+    "number": 10,
+    "roman": "X",
+    "title": "Synchronous Machines: Efficiency and Losses",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9651,
+    "line_end": 9718,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-31.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-32",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 32,
+    "number": 11,
+    "roman": "XI",
+    "title": "Synchronous Machines: Unbalancing of Polyphase Synchronous Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9719,
+    "line_end": 9748,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-32.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-33",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 33,
+    "number": 12,
+    "roman": "XII",
+    "title": "Synchronous Machines: Starting of Synchronous Motors",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9749,
+    "line_end": 9820,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-33.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-34",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 34,
+    "number": 13,
+    "roman": "XIII",
+    "title": "Synchronous Machines: Parallel Operation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9821,
+    "line_end": 9878,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-34.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-35",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 35,
+    "number": 14,
+    "roman": "XIV",
+    "title": "Synchronous Machines: Division of Load in Parallel Operation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9879,
+    "line_end": 9917,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-35.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-36",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 36,
+    "number": 15,
+    "roman": "XV",
+    "title": "Synchronous Machines: Fluctuating Cross Currents in Parallel Operation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 9918,
+    "line_end": 10123,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-36.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-37",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 37,
+    "number": 16,
+    "roman": "XVI",
+    "title": "Synchronous Machines: Higher Frequency Cross Currents Between Synchronous Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 10124,
+    "line_end": 10189,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-37.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-38",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 38,
+    "number": 17,
+    "roman": "XVII",
+    "title": "Synchronous Machines: Short-circuit Currents of Alternators",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Machines",
+    "line_start": 10190,
+    "line_end": 10429,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-38.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-39",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 39,
+    "number": 1,
+    "roman": "I",
+    "title": "Direct-current Commutating Machines: General",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10430,
+    "line_end": 10474,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-39.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-40",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 40,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10475,
+    "line_end": 10519,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-40.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-41",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 41,
+    "number": 2,
+    "roman": "II",
+    "title": "Direct-current Commutating Machines: Armature Winding",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10520,
+    "line_end": 10585,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-41.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-42",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 42,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10586,
+    "line_end": 10645,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-42.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-43",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 43,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10646,
+    "line_end": 10684,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-43.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-44",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 44,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 175",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10685,
+    "line_end": 10736,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-44.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-45",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 45,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 177",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10737,
+    "line_end": 10777,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-45.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-46",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 46,
+    "number": 3,
+    "roman": "III",
+    "title": "Direct-current Commutating Machines: Generated E.m.fs.",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10778,
+    "line_end": 10835,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-46.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-47",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 47,
+    "number": 4,
+    "roman": "IV",
+    "title": "Direct-current Commutating Machines: Distribution of Magnetic Flux",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10836,
+    "line_end": 10844,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-47.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-48",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 48,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10845,
+    "line_end": 10940,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-48.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-49",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 49,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 181",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 10941,
+    "line_end": 11024,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-49.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-50",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 50,
+    "number": 5,
+    "roman": "V",
+    "title": "Direct-current Commutating Machines: Effect of Saturation on Magnetic Distribution",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11025,
+    "line_end": 11046,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-50.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-51",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 51,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 183",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11047,
+    "line_end": 11125,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-51.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-52",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 52,
+    "number": 6,
+    "roman": "VI",
+    "title": "Direct-current Commutating Machines: Effect of Commutating Poles",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11126,
+    "line_end": 11131,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-52.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-53",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 53,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 185",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11132,
+    "line_end": 11213,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-53.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-54",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 54,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 187",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11214,
+    "line_end": 11300,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-54.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-55",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 55,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 189",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11301,
+    "line_end": 11386,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-55.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-56",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 56,
+    "number": 7,
+    "roman": "VII",
+    "title": "Direct-current Commutating Machines: Effect of Slots on Magnetic Flux",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11387,
+    "line_end": 11400,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-56.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-57",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 57,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11401,
+    "line_end": 11540,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-57.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-58",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 58,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11541,
+    "line_end": 11615,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-58.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-59",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 59,
+    "number": 8,
+    "roman": "VIII",
+    "title": "Direct-current Commutating Machines: Armature Reaction",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11616,
+    "line_end": 11694,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-59.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-60",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 60,
+    "number": 9,
+    "roman": "IX",
+    "title": "Direct-current Commutating Machines: Saturation Curves",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11695,
+    "line_end": 11710,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-60.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-61",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 61,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11711,
+    "line_end": 11773,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-61.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-62",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 62,
+    "number": 10,
+    "roman": "X",
+    "title": "Direct-current Commutating Machines: Compounding",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11774,
+    "line_end": 11794,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-62.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-63",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 63,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 197",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11795,
+    "line_end": 11863,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-63.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-64",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 64,
+    "number": 12,
+    "roman": "XII",
+    "title": "Direct-current Commutating Machines: Efficiency and Losses",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11864,
+    "line_end": 11904,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-64.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-65",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 65,
+    "number": 13,
+    "roman": "XIII",
+    "title": "Direct-current Commutating Machines: Commutation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11905,
+    "line_end": 11980,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-65.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-66",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 66,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 201",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 11981,
+    "line_end": 12083,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-66.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-67",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 67,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12084,
+    "line_end": 12199,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-67.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-68",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 68,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 205",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12200,
+    "line_end": 12312,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-68.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-69",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 69,
+    "number": 14,
+    "roman": "XIV",
+    "title": "Direct-current Commutating Machines: Types of Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12313,
+    "line_end": 12318,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-69.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-70",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 70,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12319,
+    "line_end": 12398,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-70.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-71",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 71,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12399,
+    "line_end": 12399,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-71.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-72",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 72,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: Generators",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12400,
+    "line_end": 12491,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-72.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-73",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 73,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12492,
+    "line_end": 12659,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-73.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-74",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 74,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12660,
+    "line_end": 12763,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-74.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-75",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 75,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12764,
+    "line_end": 12779,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-75.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-76",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 76,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: Motors Shunt Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12780,
+    "line_end": 12928,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-76.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-77",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 77,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 12929,
+    "line_end": 13007,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-77.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-78",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 78,
+    "number": 15,
+    "roman": "XV",
+    "title": "Direct-current Commutating Machines: Appendix Alternating-current Commutator Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 13008,
+    "line_end": 13018,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-78.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-79",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 79,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 219",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 13019,
+    "line_end": 13119,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-79.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-80",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 80,
+    "number": null,
+    "roman": null,
+    "title": "Direct-current Commutating Machines: C. Commutating Machines 221",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Direct-current Commutating Machines",
+    "line_start": 13120,
+    "line_end": 13188,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-80.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-81",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 81,
+    "number": 1,
+    "roman": "I",
+    "title": "Synchronous Converters: General",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 13189,
+    "line_end": 13795,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-81.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-82",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 82,
+    "number": 3,
+    "roman": "III",
+    "title": "Synchronous Converters: Variation of the Ratio of Electromotive Forces",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 13796,
+    "line_end": 13888,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-82.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "fields",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-83",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 83,
+    "number": 4,
+    "roman": "IV",
+    "title": "Synchronous Converters: Armature Current and Heating",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 13889,
+    "line_end": 15160,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-83.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-84",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 84,
+    "number": 5,
+    "roman": "V",
+    "title": "Synchronous Converters: Armature Reaction",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15161,
+    "line_end": 15475,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-84.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-85",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 85,
+    "number": 6,
+    "roman": "VI",
+    "title": "Synchronous Converters: Reactive Currents and Compounding",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15476,
+    "line_end": 15585,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-85.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-86",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 86,
+    "number": 7,
+    "roman": "VII",
+    "title": "Synchronous Converters: Variable Ratio Converters (\"split Pole\" Converters)",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15586,
+    "line_end": 15734,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-86.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-87",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 87,
+    "number": 9,
+    "roman": "IX",
+    "title": "Synchronous Converters: Inverted Converters",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15735,
+    "line_end": 15810,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-87.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-88",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 88,
+    "number": 10,
+    "roman": "X",
+    "title": "Synchronous Converters: Frequency",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15811,
+    "line_end": 15892,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-88.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-89",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 89,
+    "number": 11,
+    "roman": "XI",
+    "title": "Synchronous Converters: Double-current Generators",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15893,
+    "line_end": 15982,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-89.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-90",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 90,
+    "number": 12,
+    "roman": "XII",
+    "title": "Synchronous Converters: Conclusion",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 15983,
+    "line_end": 16064,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-90.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-91",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 91,
+    "number": 13,
+    "roman": "XIII",
+    "title": "Synchronous Converters: Direct-current Converter",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 16065,
+    "line_end": 16540,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-91.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-92",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 92,
+    "number": 14,
+    "roman": "XIV",
+    "title": "Synchronous Converters: Three-wire Generator and Converter",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 16541,
+    "line_end": 16617,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-92.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-93",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 93,
+    "number": null,
+    "roman": null,
+    "title": "Synchronous Converters: Three-wire Direct-current Generator",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 16618,
+    "line_end": 16726,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-93.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-94",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 94,
+    "number": null,
+    "roman": null,
+    "title": "Synchronous Converters: Thbee-wire Converter",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Synchronous Converters",
+    "line_start": 16727,
+    "line_end": 16803,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-94.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-95",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 95,
+    "number": 1,
+    "roman": "I",
+    "title": "Alternating-current Transformer: General",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 16804,
+    "line_end": 16911,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-95.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-96",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 96,
+    "number": 2,
+    "roman": "II",
+    "title": "Alternating-current Transformer: Excitation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 16912,
+    "line_end": 17026,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-96.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-97",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 97,
+    "number": 1,
+    "roman": "I",
+    "title": "Alternating-current Transformer: Low Core-loss Type,",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 17027,
+    "line_end": 17029,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-97.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-98",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 98,
+    "number": 2,
+    "roman": "II",
+    "title": "Alternating-current Transformer: Low T*r Loss Type,",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 17030,
+    "line_end": 17323,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-98.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-99",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 99,
+    "number": null,
+    "roman": null,
+    "title": "Alternating-current Transformer: Lighting and Power Time",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 17324,
+    "line_end": 17427,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-99.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "power"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-100",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-subsection",
+    "sequence": 100,
+    "number": null,
+    "roman": null,
+    "title": "Alternating-current Transformer: Lighting Only",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 17428,
+    "line_end": 17537,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-100.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-101",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 101,
+    "number": 4,
+    "roman": "IV",
+    "title": "Alternating-current Transformer: Regulation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 17538,
+    "line_end": 18397,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-101.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-102",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 102,
+    "number": 5,
+    "roman": "V",
+    "title": "Alternating-current Transformer: Short-circuit Current",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 18398,
+    "line_end": 18460,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-102.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-103",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 103,
+    "number": 6,
+    "roman": "VI",
+    "title": "Alternating-current Transformer: Heating and Ventilation",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 18461,
+    "line_end": 18520,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-103.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-104",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 104,
+    "number": 7,
+    "roman": "VII",
+    "title": "Alternating-current Transformer: Types of Transformers",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 18521,
+    "line_end": 18665,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-104.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-105",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 105,
+    "number": 8,
+    "roman": "VIII",
+    "title": "Alternating-current Transformer: Autotransformer",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 18666,
+    "line_end": 18812,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-105.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-106",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 106,
+    "number": 9,
+    "roman": "IX",
+    "title": "Alternating-current Transformer: Reactors",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Alternating-current Transformer",
+    "line_start": 18813,
+    "line_end": 18948,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-106.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-107",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 107,
+    "number": 1,
+    "roman": "I",
+    "title": "Induction Machines: General",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 18949,
+    "line_end": 19165,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-107.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-108",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 108,
+    "number": 2,
+    "roman": "II",
+    "title": "Induction Machines: Polyphase Induction Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 19166,
+    "line_end": 20427,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-108.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-109",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 109,
+    "number": 3,
+    "roman": "III",
+    "title": "Induction Machines: Single -phase Induction Motor",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 20428,
+    "line_end": 21157,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-109.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-110",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 110,
+    "number": 4,
+    "roman": "IV",
+    "title": "Induction Machines: Induction Generator",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 21158,
+    "line_end": 21588,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-110.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-111",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 111,
+    "number": 5,
+    "roman": "V",
+    "title": "Induction Machines: Induction Booster",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 21589,
+    "line_end": 21646,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-111.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-112",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 112,
+    "number": 6,
+    "roman": "VI",
+    "title": "Induction Machines: Phase Converter",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 21647,
+    "line_end": 21812,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-112.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-113",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 113,
+    "number": 7,
+    "roman": "VII",
+    "title": "Induction Machines: Frequency Converter or General Alternating-current Transformer",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 21813,
+    "line_end": 21922,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-113.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "alternating-current",
+      "magnetism",
+      "machines"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "theoretical-elements-electrical-engineering-section-114",
+    "source_id": "theoretical-elements-electrical-engineering",
+    "kind": "apparatus-section",
+    "sequence": 114,
+    "number": 8,
+    "roman": "VIII",
+    "title": "Induction Machines: Concatenation of Induction Motors",
+    "part": "Part II - Special Apparatus",
+    "apparatus": "Induction Machines",
+    "line_start": 21923,
+    "line_end": 22191,
+    "text_path": "processed/theoretical-elements-electrical-engineering/cleaned_text/section-114.md",
+    "summary": "Candidate section split generated from OCR body headings; scan verification required.",
+    "concept_tags": [
+      "machines"
+    ],
+    "status": "candidate"
+  }
+]

@@ -1,0 +1,55 @@
+---
+title: High Frequency Oscillations and Surges
+description: Deep-decoding entry for General Lectures, Lecture VII.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="General Lectures on Electrical Engineering" location="Lecture VII, OCR candidate lines 3508-3780" status="source-located OCR candidate" />
+
+## Why This Lecture Matters
+
+This lecture is a compact Steinmetz bridge between ordinary power transmission and destructive high-frequency behavior. He begins from stored energy in a transmission circuit: electrostatic energy associated with line capacity and electromagnetic energy associated with line inductance. A sudden change in circuit condition requires that stored energy to readjust, and the readjustment appears as oscillating voltage and current.
+
+That makes the lecture central to lightning, surges, line oscillations, insulation stress, and the later patent work on protective devices.
+
+## Source-Grounded Reading
+
+The OCR shows Steinmetz distinguishing generator-frequency waves from surge oscillations. The oscillations depend on the stored energy and circuit dimensions, not directly on whether the power system is 25-cycle, 60-cycle, or high-potential direct current.
+
+He also ties frequency to wave length and propagation velocity: a line section of one length produces one natural oscillation frequency; a short arrester discharge path may produce a much higher one. This is exactly the conceptual bridge needed for the archive's distributed-constant and lightning-surge pages.
+
+## Mathematical Spine
+
+The OCR passage contains the familiar energy pair:
+
+```math
+W_C \sim \frac{e^2 C}{2}
+```
+
+```math
+W_L \sim \frac{i^2 L}{2}
+```
+
+The typography is OCR-damaged and must be scan-checked before canonical formula status. The modern reading is straightforward: capacity stores electric-field energy and inductance stores magnetic-field energy. When the circuit changes abruptly, those two energy stores exchange through an oscillatory transient.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+In modern terms, this is a transmission-line and RLC transient argument. A sudden fault, interruption, lightning-induced charge, or arrester discharge excites the natural modes of the circuit. The frequency is controlled by the effective line length, propagation velocity, inductance, and capacitance rather than by the generator's steady-state waveform.
+</LayeredReading>
+
+<LayeredReading label="Tesla-Era Comparison">
+This lecture is relevant to Tesla-era high-frequency and disruptive-discharge research, but comparison must be made carefully. Steinmetz is giving power-system engineering analysis: stored line energy, oscillating voltage/current, lightning-induced charge, arrester discharge, and destructive overvoltage.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: this lecture can be read in a field-centered vocabulary as stored dielectric and magnetic field energy seeking a new equilibrium after a boundary condition changes. That is not a replacement for Steinmetz's engineering language, but it is a useful separated reading layer.
+</LayeredReading>
+
+## Related Archive Pages
+
+- [Lightning and Surges](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/lightning-surges/)
+- [Distributed Constants](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/)
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)
+- [Lightning and Surge Traveling Wave Tool](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#lightning-and-surge-traveling-wave)
+- [Protective Device Patent Dossier](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/steinmetz-patents/seeded-patent-dossiers/#us1230615a-protective-device)

@@ -1,222 +1,156 @@
 [
   {
-    "id": "radiation",
-    "label": "Radiation",
+    "id": "individualistic-era",
+    "label": "Individualistic era",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 40,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "light",
-    "label": "Light",
+    "id": "industrial-capitalism",
+    "label": "Industrial capitalism",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 15,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "illumination",
-    "label": "Illumination",
+    "id": "co-operation",
+    "label": "Co-operation",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 68,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "electric-waves",
-    "label": "Electric waves",
+    "id": "competition",
+    "label": "Competition",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 79,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "ether",
-    "label": "Ether",
+    "id": "corporation",
+    "label": "Corporation",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 134,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "wave-length",
-    "label": "Wave length",
+    "id": "public-corporation",
+    "label": "Public corporation",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 1,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "frequency",
-    "label": "Frequency",
+    "id": "private-corporation",
+    "label": "Private corporation",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 3,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "velocity-of-light",
-    "label": "Velocity of light",
+    "id": "democracy",
+    "label": "Democracy",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 17,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "refraction",
-    "label": "Refraction",
+    "id": "monarchy",
+    "label": "Monarchy",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 20,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "refractive-index",
-    "label": "Refractive index",
+    "id": "industrial-government",
+    "label": "Industrial government",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 13,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "permeability",
-    "label": "Magnetic permeability",
+    "id": "political-government",
+    "label": "Political government",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 28,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "dielectric-constant",
-    "label": "Dielectric constant",
+    "id": "inhibitory-power",
+    "label": "Inhibitory power",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 11,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "spectrum",
-    "label": "Spectrum",
+    "id": "social-democracy",
+    "label": "Social Democracy",
     "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
+    "occurrence_count_in_ocr": 3,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   },
   {
-    "id": "ultraviolet",
-    "label": "Ultra-violet radiation",
+    "id": "world-war",
+    "label": "World war",
     "source_id": "america-and-new-epoch",
     "occurrence_count_in_ocr": 0,
     "steinmetz_usage": "",
     "modern_equivalent": "",
     "interpretive_reading": "",
     "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "ultrared",
-    "label": "Ultra-red radiation",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "luminescence",
-    "label": "Luminescence",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "arc-lamp",
-    "label": "Arc lamp",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "photometry",
-    "label": "Photometry",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "brilliancy",
-    "label": "Brilliancy",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
-  },
-  {
-    "id": "light-flux-density",
-    "label": "Light flux density",
-    "source_id": "america-and-new-epoch",
-    "occurrence_count_in_ocr": 0,
-    "steinmetz_usage": "",
-    "modern_equivalent": "",
-    "interpretive_reading": "",
-    "related": [],
-    "status": "seeded"
+    "status": "seeded-source-specific"
   }
 ]

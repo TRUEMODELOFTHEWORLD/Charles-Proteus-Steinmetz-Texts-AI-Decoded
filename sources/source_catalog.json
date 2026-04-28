@@ -44,7 +44,7 @@
     "title": "Theoretical Elements of Electrical Engineering",
     "year": 1915,
     "source_status": "seeded",
-    "processed_status": "OCR and candidate catalogs; structural split needs custom part/section parser",
+    "processed_status": "source-specific part/section split and candidate catalogs from OCR",
     "internet_archive_id": "theoreticalelect00steirich",
     "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
     "site_path": "/sources/theoretical-elements-electrical-engineering/"
@@ -74,7 +74,7 @@
     "title": "America and the New Epoch",
     "year": 1916,
     "source_status": "ocr_seeded",
-    "processed_status": "Internet Archive OCR downloaded; custom chapter parser still needed for title-plus-roman chapter style",
+    "processed_status": "source-specific historical chapter split and candidate catalogs from OCR",
     "internet_archive_id": "americanewepoch00stei",
     "local_raw_file": null,
     "site_path": "/sources/america-and-new-epoch/"

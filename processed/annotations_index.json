@@ -153,7 +153,7 @@
       "source_id": "theoretical-elements-electrical-engineering",
       "source_title": "Theoretical Elements of Electrical Engineering",
       "kind": "next-action",
-      "annotation": "Review structural parser; no chapter or lecture records were found.",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
       "target": "/sources/theoretical-elements-electrical-engineering/",
       "status": "generated-review-aid",
       "generated": true
@@ -253,7 +253,7 @@
       "source_id": "america-and-new-epoch",
       "source_title": "America and the New Epoch",
       "kind": "next-action",
-      "annotation": "Review structural parser; no chapter or lecture records were found.",
+      "annotation": "Scan-verify chapter starts and keep historical/social claims separate from electrical theory.",
       "target": "/sources/america-and-new-epoch/",
       "status": "generated-review-aid",
       "generated": true
@@ -273,7 +273,7 @@
       "source_id": "america-and-new-epoch",
       "source_title": "America and the New Epoch",
       "kind": "glossary-review",
-      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "annotation": "9 glossary records should be checked against source wording before canonical promotion.",
       "target": "processed/america-and-new-epoch/glossary.json",
       "status": "generated-review-aid",
       "generated": true
