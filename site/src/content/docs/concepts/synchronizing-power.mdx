@@ -1,0 +1,56 @@
+---
+title: Synchronizing Power
+description: Steinmetz's practical and mathematical treatment of the restoring exchange between synchronous machines.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="Discussion and appendix; PDF text candidate lines 434-3635" status="source-located PDF text candidate" />
+
+## Steinmetz Usage
+
+In the Commonwealth Edison report, synchronizing power is the restoring exchange that tends to hold alternators or station sections in step, or pull them back into step after a disturbance.
+
+The report's practical warning is severe: a short circuit may clear, but if station sections have drifted out of synchronism, voltage may remain depressed and the system may not return to normal operation. Synchronizing power is therefore not a decorative concept. It is what makes an interconnected AC system cohere after shock.
+
+## Modern Equivalent
+
+Modern electrical engineering would relate this to synchronizing torque, power-angle stability, transient stability, and out-of-step protection. The same idea appears in generator stability studies: a synchronous machine must exchange electrical power with the system in a way that restores rotor angle and speed toward stable operation.
+
+## Mathematical Explanation
+
+The appendix treats two equal-voltage alternators or station sections connected with phase or frequency displacement. In modernized candidate form:
+
+```math
+e = e_1 - e_2
+```
+
+```math
+i \sim \frac{e}{Z}
+```
+
+```math
+Z = \sqrt{R^2 + X^2}
+```
+
+The out-of-step voltage difference produces interchange current. That current produces power exchange. Depending on phase angle, impedance, voltage, and machine characteristics, the exchange may restore synchronism or allow continued slipping.
+
+## Source Caution
+
+The appendix formulas in the PDF text are OCR/PDF-layer damaged. The current equation records are source-located candidates, not reviewed transcriptions. The next step is to render pages 28-45, compare the formulas against the scan, and promote only corrected expressions.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+The report is an early practical route into transient stability. It links low voltage after a fault, loss of synchronous load, turbine-governor delay, station-section acceleration, and the reduction of synchronizing power through interconnection conditions.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: one can read synchronizing power as field-mediated energy exchange between coupled rotating electrical systems. That is conceptually suggestive, but the historical source is a power-system stability argument, not an explicit ether-field ontology.
+</LayeredReading>
+
+## Related Pages
+
+- [Synchronizing Power Equations](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/synchronizing-power-commonwealth/)
+- [Power-Limiting Reactors](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-limiting-reactors/)
+- [Oscillation And Damping](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/)
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)

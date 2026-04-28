@@ -1,0 +1,109 @@
+---
+title: Synchronizing Power in the Commonwealth Edison Report
+description: Candidate equation page for Steinmetz's appendix on alternators out of phase or out of frequency.
+---
+
+import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
+
+<SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="Appendix, Synchronous Operation, PDF pages 28-45; extracted text lines 2171-3635" status="PDF text equation candidate; scan verification needed" />
+
+## Original Form Status
+
+The PDF text layer preserves the appendix structure but damages mathematical typography. This page therefore gives modernized reading forms and source locations, not final transcriptions. Canonical promotion requires page-image review.
+
+## Alternators Out of Phase
+
+Steinmetz begins with two alternators or station groups at the same frequency but displaced in phase. The extracted text gives two equal-voltage EMFs, a resultant difference voltage, and the resulting interchange current.
+
+Modern reading form:
+
+```math
+e_1 = E\cos(\theta - \delta)
+```
+
+```math
+e_2 = E\cos(\theta + \delta)
+```
+
+```math
+e = e_1 - e_2
+```
+
+```math
+i = \frac{e}{Z}
+```
+
+The exact angle symbols and signs must be checked against the scan. The important structure is that phase displacement creates an interconnection voltage, and the interconnection impedance controls the current that flows between the machines.
+
+## Impedance Definition
+
+The appendix gives the ordinary resistance/reactance impedance relation in OCR-damaged form. Modern notation:
+
+```math
+Z = \sqrt{R^2 + X^2}
+```
+
+```math
+\tan \alpha = \frac{X}{R}
+```
+
+where `R` is resistance, `X` is reactance, `Z` is impedance magnitude, and `alpha` is the impedance angle.
+
+## Alternators Out of Frequency
+
+The appendix then considers two machines or station groups whose frequencies differ slightly:
+
+```math
+f_1 = (1 - s)f
+```
+
+```math
+f_2 = (1 + s)f
+```
+
+The slip term `s` produces a beat or oscillation relation. In physical terms, the machines are not merely offset by a fixed phase angle; they are drifting through phase relation over time.
+
+## Maximum Synchronizing Power
+
+The parser flagged the appendix condition around PDF page 44 as a high-priority formula cluster:
+
+```math
+x_2 = 2x_1 + x
+```
+
+This is a candidate reading only. Steinmetz uses the condition to discuss when synchronizing power and pull-in from frequency difference are greatest. Because the symbols are damaged by extraction, this page deliberately does not overstate the formula until scan review.
+
+## Worked Interpretation
+
+If two station sections are separated by a mostly reactive interconnection, increasing reactance limits current during a fault or phase difference. But the same reactance is also part of the path through which synchronizing energy is exchanged.
+
+That is the design tension in the Commonwealth Edison report:
+
+- too little reactance lets a local fault involve too much of the system;
+- too much or poorly placed reactance can reduce useful synchronizing action;
+- a properly chosen and placed reactor can contain trouble while still allowing a stable system relation.
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+This is a source route into transient-stability math: power-angle relation, synchronizing torque, out-of-step slip, and fault-clearing recovery. It should eventually be compared with modern swing-equation treatment, but that comparison must start from scan-verified source equations.
+</LayeredReading>
+
+## Source Records
+
+The candidate equation records are stored in:
+
+```text
+processed/commonwealth-edison-generating-system-trouble/equations.json
+```
+
+The page map is stored in:
+
+```text
+processed/commonwealth-edison-generating-system-trouble/page_map.json
+```
+
+## Related Pages
+
+- [Power-Limiting Reactors and Synchronism](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism/)
+- [Synchronizing Power](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/synchronizing-power/)
+- [Impedance And Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/impedance-reactance/)

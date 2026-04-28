@@ -1,11 +1,14 @@
 {
   "quality_note": "Most records are OCR-derived equation candidates and require scan verification.",
-  "total_records": 2425,
+  "total_records": 2645,
   "status_counts": {
-    "candidate": 2425
+    "candidate": 2425,
+    "curated-pdf-text-candidate": 6,
+    "pdf-text-extracted-candidate": 214
   },
   "verification_counts": {
-    "needs-verification": 2425
+    "needs-verification": 2425,
+    "pdf-text-extracted-needs-scan-verification": 220
   },
   "records": [
     {
@@ -38806,6 +38809,3549 @@
         "line_start": 6770,
         "line_end": 6770,
         "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-sync-emfs-0001",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e1 = E cos(...); e2 = E cos(...), OCR candidate",
+      "modern_form": "Two equal-voltage alternator EMFs displaced by a phase angle.",
+      "variables": [
+        "E: effective machine EMF",
+        "phase angle: OCR damaged",
+        "f: frequency"
+      ],
+      "physical_meaning": "Represents two alternators or station sections that remain at the same frequency but differ in phase.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2211,
+        "line_end": 2217,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-resultant-voltage-0002",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = e1 - e2 = 2E sin(...) sin(...), OCR candidate",
+      "modern_form": "Difference voltage between two equal alternating EMFs displaced in phase.",
+      "variables": [
+        "e: resultant interconnection voltage",
+        "E: machine EMF",
+        "phase displacement: OCR damaged"
+      ],
+      "physical_meaning": "The out-of-phase connection creates the interchange voltage driving current through the interconnection impedance.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2218,
+        "line_end": 2230,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-interchange-current-0003",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "i = (2E / z) sin(...) sin(...), OCR candidate",
+      "modern_form": "Interchange current equals resultant voltage over circuit impedance with phase shift.",
+      "variables": [
+        "i: interchange current",
+        "z: impedance",
+        "a: impedance phase angle"
+      ],
+      "physical_meaning": "The current between alternators is set by phase displacement and by the impedance/reactance between station sections.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2231,
+        "line_end": 2239,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-impedance-angle-0004",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z = sqrt(r^2 + x^2); tan a = x / r, OCR candidate",
+      "modern_form": "Z = sqrt(R^2 + X^2), alpha = atan(X/R)",
+      "variables": [
+        "r or R: resistance",
+        "x or X: reactance",
+        "z or Z: impedance magnitude",
+        "a or alpha: impedance angle"
+      ],
+      "physical_meaning": "Defines the interconnection impedance controlling magnitude and phase of synchronizing current.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2240,
+        "line_end": 2255,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-frequency-slip-0005",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "one alternator frequency (1 - s)f, the other (1 + s)f, OCR candidate",
+      "modern_form": "f1 = (1 - s) f; f2 = (1 + s) f",
+      "variables": [
+        "s: fractional frequency difference",
+        "f: nominal frequency"
+      ],
+      "physical_meaning": "Represents station sections slipping past each other in frequency rather than merely being out of phase.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2571,
+        "line_end": 2591,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-max-sync-power-condition-0006",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x2 = 2x1 + x, OCR candidate",
+      "modern_form": "Candidate maximum synchronizing-power condition involving machine and external reactance.",
+      "variables": [
+        "x: external circuit reactance",
+        "x1/x2: OCR labels needing scan verification"
+      ],
+      "physical_meaning": "Steinmetz uses a reactance relation to reason about maximum synchronizing power and pull-in behavior.",
+      "status": "curated-pdf-text-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3557,
+        "line_end": 3561,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0007",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "ei = E cos (0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2212,
+        "line_end": 2212,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0008",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e2 = Ecos (0+co)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2215,
+        "line_end": 2215,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0009",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= 2E sin",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2228,
+        "line_end": 2228,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0010",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z = r2+x",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2241,
+        "line_end": 2241,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0011",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "tan a = -",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2246,
+        "line_end": 2246,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0012",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r= resistance",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2249,
+        "line_end": 2249,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0013",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x = reactance",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2250,
+        "line_end": 2250,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0014",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "0))+^- cos a",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2303,
+        "line_end": 2303,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0015",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "jr- cos (2co",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2304,
+        "line_end": 2304,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0016",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "co =co oe",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2313,
+        "line_end": 2313,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0017",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= maximum value",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2314,
+        "line_end": 2314,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0018",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "the phase angle, where a = attenuation of the beat or oscillation, and",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2325,
+        "line_end": 2325,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0019",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "pf= frequency of the beat, or the periodic variation of the phase",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2335,
+        "line_end": 2335,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0020",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "co is not constant, but by (5) a function of <, addi-",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2343,
+        "line_end": 2343,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0021",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": ": p = a small quantity ; these additional terms in (3) and (4) are",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2352,
+        "line_end": 2352,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0022",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p\"i=- cos a",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2379,
+        "line_end": 2379,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0023",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "gives, substituting cos a = -",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2385,
+        "line_end": 2385,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0024",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p'Y=-!|cos(2a>-a)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2397,
+        "line_end": 2397,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0025",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "TT sin a sin 2a>",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2410,
+        "line_end": 2410,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0026",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "=- cos a cos w.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2411,
+        "line_end": 2411,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0027",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "P=- sin a sin 2co",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2428,
+        "line_end": 2428,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0028",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "for a = 90 degrees, that",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2435,
+        "line_end": 2435,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0029",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "The synchronizing power p =",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2439,
+        "line_end": 2439,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0030",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "for a = 0, that is, in the (theoretical)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2440,
+        "line_end": 2440,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0031",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "between the two alternators up to 2 w = 90 degrees, the synchronizing",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2444,
+        "line_end": 2444,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0032",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2w=180 degrees phase displacement.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2446,
+        "line_end": 2446,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0033",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 (l-cos2a>",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2455,
+        "line_end": 2455,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0034",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "avg. p=^r",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2459,
+        "line_end": 2459,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0035",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "- -- =- sin a (1",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2461,
+        "line_end": 2461,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0036",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p$ = 27rpft = 7r",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2476,
+        "line_end": 2476,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0037",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "sin a (1",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2486,
+        "line_end": 2486,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0038",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "sin a sin 2co",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2516,
+        "line_end": 2516,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0039",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "W= ^-sin a (1-cos 2 Wo )",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2522,
+        "line_end": 2522,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0040",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z= Vr 2+x",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2545,
+        "line_end": 2545,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0041",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "t an a = -",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2547,
+        "line_end": 2547,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0042",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r= resistance of circuit.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2549,
+        "line_end": 2549,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0043",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x = reactance of circuit.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2550,
+        "line_end": 2550,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0044",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p= frequency ratio of beat or oscillation, that is,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2551,
+        "line_end": 2551,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0045",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "pf= frequency of oscillation, and",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2552,
+        "line_end": 2552,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0046",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "E = effective value of machine EMF.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2553,
+        "line_end": 2553,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0047",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "The frequency of the rise and fall of the current thus is 2 pf.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2559,
+        "line_end": 2559,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0048",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "value p = .l,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2566,
+        "line_end": 2566,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0049",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "wo = 90 degrees.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2570,
+        "line_end": 2570,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0050",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "from each other in frequency by 2s, that",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2574,
+        "line_end": 2574,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0051",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "frequency (1",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2576,
+        "line_end": 2576,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0052",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "f, the other the frequency (1+s)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2578,
+        "line_end": 2578,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0053",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "CI=E cos (i",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2585,
+        "line_end": 2585,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0054",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e 2 = E cos (1+s)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2588,
+        "line_end": 2588,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0055",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= E<cos (1",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2596,
+        "line_end": 2596,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0056",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (1+s)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2599,
+        "line_end": 2599,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0057",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= 2E sin s0 sin",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2601,
+        "line_end": 2601,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0058",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "may be assumed as the same, x = 27rfL, for both component EMFs,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2619,
+        "line_end": 2619,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0059",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "s<t> sin (0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2627,
+        "line_end": 2627,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0060",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z= Vr 2+x",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2632,
+        "line_end": 2632,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0061",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Curve III the relation of ei to i for the exaggerated values s = .09.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2650,
+        "line_end": 2650,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0062",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "a) cos (1",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2657,
+        "line_end": 2657,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0063",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "^- cos (2sd>",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2686,
+        "line_end": 2686,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0064",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Usually, it is approximately: a = 90 degrees, that is, the reactance",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2717,
+        "line_end": 2717,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0065",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2^sin2s<",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2729,
+        "line_end": 2729,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0066",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "plete cycle of slip, sf, that is, is of the frequency 2sf, with two positive",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2744,
+        "line_end": 2744,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0067",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "and as the duration of one quarter cycle of slip is t =",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2750,
+        "line_end": 2750,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0068",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Si = s gives the minimum slip s",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2844,
+        "line_end": 2844,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0069",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Si = 0, that is, the machines pull",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2845,
+        "line_end": 2845,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0070",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io = ^-sins<",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2879,
+        "line_end": 2879,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0071",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2s0-a)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2884,
+        "line_end": 2884,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0072",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "sins0 represents the amplitude of the current pulsation, by (II",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2944,
+        "line_end": 2944,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0073",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "| l+c sin s0 cos (s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2959,
+        "line_end": 2959,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0074",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Let then a = angle of lag of the voltage change behind the armature",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2992,
+        "line_end": 2992,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0075",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "{ l+c sin s0 cos (s0-a",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2998,
+        "line_end": 2998,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0076",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "- cos (2s0 = a)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3014,
+        "line_end": 3014,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0077",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "\\ 1+c sin s0 cos (s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3015,
+        "line_end": 3015,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0078",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2s$",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3027,
+        "line_end": 3027,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0079",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3029,
+        "line_end": 3029,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0080",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "a) sin s$ cos (s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3030,
+        "line_end": 3030,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0081",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2s$",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3039,
+        "line_end": 3039,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0082",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3058,
+        "line_end": 3058,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0083",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "- cos (2s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3067,
+        "line_end": 3067,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0084",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "- sin (a+o-) cos (2s0",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3069,
+        "line_end": 3069,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0085",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "sin (a+a) cos (2s<",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3077,
+        "line_end": 3077,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0086",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "fraction of the reactance of the armature reaction x 2 , which appears",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3145,
+        "line_end": 3145,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0087",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "with the frequency 2sf, and assuming that the magnetizing effect of",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3183,
+        "line_end": 3183,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0088",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "the impedance z, current flows and a phase displacement 2co occurs",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3220,
+        "line_end": 3220,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0089",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "constant, and the voltages ei and e 2 are the terminal voltages.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3225,
+        "line_end": 3225,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0090",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 2E sin",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3237,
+        "line_end": 3237,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0091",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "cos (2co",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3246,
+        "line_end": 3246,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0092",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "CI=E cos",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3249,
+        "line_end": 3249,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0093",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e 2 = E cos (0+w)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3252,
+        "line_end": 3252,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0094",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r = 0, it is a = 90 degrees, and:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3260,
+        "line_end": 3260,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0095",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 2E sin",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3268,
+        "line_end": 3268,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0096",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "ID=- sin w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3284,
+        "line_end": 3284,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0097",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "co = 0, increases, reaches a maximum:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3291,
+        "line_end": 3291,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0098",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "for w = 45 degrees, or 90 degrees phase displacement between the",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3296,
+        "line_end": 3296,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0099",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Iternators, and then decreases again to zero at w = 90 degrees, or",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3297,
+        "line_end": 3297,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0100",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "I = maximum effective value of the fluctuating current,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3386,
+        "line_end": 3386,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0101",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2E =I (2Xl +x)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3399,
+        "line_end": 3399,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0102",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "where e = nominal induced voltage, effective value.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3415,
+        "line_end": 3415,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0103",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "o> =I (2",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3434,
+        "line_end": 3434,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0104",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2xi-fx+Xj sin w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3449,
+        "line_end": 3449,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0105",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2Eo sin wo = I (2xx+x)",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3483,
+        "line_end": 3483,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0106",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "(2xi+x) sin w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3487,
+        "line_end": 3487,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0107",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 sin 2w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3490,
+        "line_end": 3490,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0108",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 sin 2w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3495,
+        "line_end": 3495,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0109",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 2xi+x, or",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3558,
+        "line_end": 3558,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0110",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = nominal induced E. M. F. of alternator or group of alternators.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3719,
+        "line_end": 3719,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0111",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xii = true",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3720,
+        "line_end": 3720,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0112",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "xn= external reactance of alternator or group of alternators, thus.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3723,
+        "line_end": 3723,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0113",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xi = xn+Xi2 = total self inductive reactance of alternators or group",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3724,
+        "line_end": 3724,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0114",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "xj = effective reactance of armature reaction of alternator or group",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3726,
+        "line_end": 3726,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0115",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xo=xn+x 2",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3728,
+        "line_end": 3728,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0116",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x = reactance (or impedance) between alternators.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3737,
+        "line_end": 3737,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0117",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z = impedance of circuit between alternators.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3738,
+        "line_end": 3738,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0118",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r = resistance of circuit between alternators.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3743,
+        "line_end": 3743,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0119",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "a = phase angle of circuit between alternators, where:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3746,
+        "line_end": 3746,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0120",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "a = 90 degrees.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3751,
+        "line_end": 3751,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0121",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "w = phase displacement from mean, of oscillating alternators, thus:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3752,
+        "line_end": 3752,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0122",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2co = total phase displacement of oscillating alternators from each",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3753,
+        "line_end": 3753,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0123",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "oj = maximum phase displacement during oscillation.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3755,
+        "line_end": 3755,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0124",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "woo = initial value of w",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3756,
+        "line_end": 3756,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0125",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "pf= frequency of oscillation.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3757,
+        "line_end": 3757,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0126",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "s = slip of frequency from mean, thus :",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3758,
+        "line_end": 3758,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0127",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2s = slip of frequency of alternators from each other, and",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3759,
+        "line_end": 3759,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0128",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "sf= frequency of slip from synchronism;",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3760,
+        "line_end": 3760,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0129",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2sf= frequency of slip of alternators from each other.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3761,
+        "line_end": 3761,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0130",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "f= synchronous frequency.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3762,
+        "line_end": 3762,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0131",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "to= time required for magnetizing effect of armature reaction.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3763,
+        "line_end": 3763,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0132",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "M = momentum, in joules, of alternator or group of alternators, per",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3764,
+        "line_end": 3764,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0133",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "3M = total momentum.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3766,
+        "line_end": 3766,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0134",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "123,000 KW rating, 105,000 KW load = 85.5%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3983,
+        "line_end": 3983,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0135",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "90,000 KW load = 79%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3986,
+        "line_end": 3986,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0136",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Six 12,000 KW; 98% reactance.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3989,
+        "line_end": 3989,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0137",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 = 1.265",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3993,
+        "line_end": 3993,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0138",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e =1.265",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3994,
+        "line_end": 3994,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0139",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "5200 = 6600V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3996,
+        "line_end": 3996,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0140",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 5.76;",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3997,
+        "line_end": 3997,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0141",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xl =.458 +.405 = 863;",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3998,
+        "line_end": 3998,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0142",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "M = 50xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3999,
+        "line_end": 3999,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0143",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "91% reactance.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4003,
+        "line_end": 4003,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0144",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 =1.23.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4007,
+        "line_end": 4007,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0145",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e =6400V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4008,
+        "line_end": 4008,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0146",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 =4.60:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4009,
+        "line_end": 4009,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0147",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xl = .318+.347 = .665; M = 67xlO.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4010,
+        "line_end": 4010,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0148",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "98% reactance.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4013,
+        "line_end": 4013,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0149",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 x98 2 = 1.305.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4017,
+        "line_end": 4017,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0150",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 6770V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4018,
+        "line_end": 4018,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0151",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "134% reactance, and one 30,000 KW:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4022,
+        "line_end": 4022,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0152",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2 x 1.34 2 =1.52.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4028,
+        "line_end": 4028,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0153",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 7900V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4029,
+        "line_end": 4029,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0154",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 4.95; Xl =.325+.168 = .493; M = 78xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4030,
+        "line_end": 4030,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0155",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Vl+ ,855 2 x 1.25 2 = 1.46:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4033,
+        "line_end": 4033,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0156",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 7600 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4034,
+        "line_end": 4034,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0157",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 2.99:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4035,
+        "line_end": 4035,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0158",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Xl = .214+.168 = .382:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4036,
+        "line_end": 4036,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0159",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "M = 87xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4037,
+        "line_end": 4037,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0160",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x = 1.75",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4040,
+        "line_end": 4040,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0161",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r = .312.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4044,
+        "line_end": 4044,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0162",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 7250 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4065,
+        "line_end": 4065,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0163",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": ".263 e = 1910 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4068,
+        "line_end": 4068,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0164",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Et = .77E =1470 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4070,
+        "line_end": 4070,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0165",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "EtV3 = 2550V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4071,
+        "line_end": 4071,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0166",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io = 6400 A.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4073,
+        "line_end": 4073,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0167",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p = 6150KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4075,
+        "line_end": 4075,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0168",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p = 770KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4078,
+        "line_end": 4078,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0169",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "so =.77%;",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4081,
+        "line_end": 4081,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0170",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "1 = .70%; So+So^l.47%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4083,
+        "line_end": 4083,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0171",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "pulsating power transfer of 3p = 18,450 KW would have shown on",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4093,
+        "line_end": 4093,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0172",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "change current between the stations, rising to 6400 amperes, would",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4097,
+        "line_end": 4097,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0173",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x, = 3.97; 2x! = .875 = z; M! = 78xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4117,
+        "line_end": 4117,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0174",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "; M2 = 87xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4118,
+        "line_end": 4118,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0175",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 7750 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4120,
+        "line_end": 4120,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0176",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "E =. 181 e = 1400 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4121,
+        "line_end": 4121,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0177",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io = 3200 A.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4122,
+        "line_end": 4122,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0178",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p = 2230KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4123,
+        "line_end": 4123,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0179",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "So =.68%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4124,
+        "line_end": 4124,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0180",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 3.20:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4157,
+        "line_end": 4157,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0181",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2Xl =.709:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4158,
+        "line_end": 4158,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0182",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r = .312:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4160,
+        "line_end": 4160,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0183",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z = .84: 1^ = 78 xlO 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4161,
+        "line_end": 4161,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0184",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "M 2 = 200xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4163,
+        "line_end": 4163,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0185",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e =7330 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4165,
+        "line_end": 4165,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0186",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "E =.208 e = 1520 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4166,
+        "line_end": 4166,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0187",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Et = .69 Eo = 1050 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4167,
+        "line_end": 4167,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0188",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Et V3 = 1820 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4168,
+        "line_end": 4168,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0189",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io = 3600 A.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4169,
+        "line_end": 4169,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0190",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p = 2750 KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4170,
+        "line_end": 4170,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0191",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "1 = .47%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4173,
+        "line_end": 4173,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0192",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "80+80* = 1.22%.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4174,
+        "line_end": 4174,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0193",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "of the tie cables of '=",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4181,
+        "line_end": 4181,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0194",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= 600 KW,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4182,
+        "line_end": 4182,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0195",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "power reaching a maximum of 3p = 8250 KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4185,
+        "line_end": 4185,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0196",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 5.76:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4193,
+        "line_end": 4193,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0197",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2x! = 1.726 = z: M = 50xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4194,
+        "line_end": 4194,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0198",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 6770 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4196,
+        "line_end": 4196,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0199",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "E =.23 63 = 1560 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4197,
+        "line_end": 4197,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0200",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Eo V3~= 2700V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4198,
+        "line_end": 4198,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0201",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io=1820 A.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4199,
+        "line_end": 4199,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0202",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p=1410KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4200,
+        "line_end": 4200,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0203",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2s =1.34%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4202,
+        "line_end": 4202,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0204",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 5.35: 2x!=1.356: x = .074:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4216,
+        "line_end": 4216,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0205",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "r = .312:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4217,
+        "line_end": 4217,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0206",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "z = 1.46: M^SOxlO",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4218,
+        "line_end": 4218,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0207",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "M 2 = 78xl0 6",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4221,
+        "line_end": 4221,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0208",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "e = 7330 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4223,
+        "line_end": 4223,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0209",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "E =.215 e = 1570V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4224,
+        "line_end": 4224,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0210",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Et = 61 Eo = 950 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4225,
+        "line_end": 4225,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0211",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "Et = V3 = 1640 V.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4226,
+        "line_end": 4226,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0212",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "io = 2150 A.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4227,
+        "line_end": 4227,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0213",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "p = 1690KW.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4228,
+        "line_end": 4228,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0214",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "s =.73%.",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4229,
+        "line_end": 4229,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0215",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "1 = .59%",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4231,
+        "line_end": 4231,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0216",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "to an average of E =1910",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4312,
+        "line_end": 4312,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0217",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "phase displacement between two machines of 2co = 90 degrees, and",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4317,
+        "line_end": 4317,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0218",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "= 2100 KW per phase,",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4320,
+        "line_end": 4320,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0219",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "x 2 = 1.48:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4422,
+        "line_end": 4422,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-eq-candidate-0220",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "original_form": "2Xl = .438:",
+      "modern_form": "",
+      "variables": [],
+      "physical_meaning": "",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4423,
+        "line_end": 4423,
+        "verification": "pdf-text-extracted-needs-scan-verification"
       }
     }
   ]

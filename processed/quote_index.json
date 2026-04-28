@@ -1,11 +1,13 @@
 {
   "quality_note": "Quote candidates preserve promising OCR lines; canonical quote pages require scan verification.",
-  "total_records": 3,
+  "total_records": 8,
   "status_counts": {
-    "candidate": 3
+    "candidate": 3,
+    "pdf-text-extracted-candidate": 5
   },
   "verification_counts": {
-    "needs-verification": 3
+    "needs-verification": 3,
+    "pdf-text-extracted-needs-scan-verification": 5
   },
   "records": [
     {
@@ -48,6 +50,76 @@
         "line_start": 1553,
         "line_end": 1553,
         "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-quote-scaled-system-model",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "quote_candidate": "Steinmetz proposes a reduced operating model of stations, cables, and substations for experimental disturbance study.",
+      "why_it_matters": "This is a hidden gem because it shows Steinmetz thinking like a systems simulator before digital simulation existed.",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 121,
+        "line_end": 132,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-quote-out-of-synchronism-voltage-collapse",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "quote_candidate": "The extracted text says the stations apparently broke out of synchronism and kept voltage practically at zero.",
+      "why_it_matters": "This makes the report an early practical stability case study, not just a protection memorandum.",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 756,
+        "line_end": 771,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-quote-limit-local-power-concentration",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "quote_candidate": "Steinmetz argues that very large power systems need power-limiting reactors to limit local power concentration.",
+      "why_it_matters": "The statement connects fault-current limitation with system architecture and disturbance containment.",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 772,
+        "line_end": 786,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-quote-synchronizing-power-voltage-square",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "quote_candidate": "The report states that lowered voltage also lowers synchronizing power, which varies with voltage squared.",
+      "why_it_matters": "This is a concise bridge between short-circuit voltage depression and loss of synchronizing stability.",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 855,
+        "line_end": 861,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-quote-maximum-synchronizing-power-reactance",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "quote_candidate": "The appendix states that synchronizing power can be maximized by a specific relation between external and machine reactance.",
+      "why_it_matters": "This is the mathematical core of the report's reactor recommendation and needs scan-verified promotion.",
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 3562,
+        "line_end": 3599,
+        "verification": "pdf-text-extracted-needs-scan-verification"
       }
     }
   ]

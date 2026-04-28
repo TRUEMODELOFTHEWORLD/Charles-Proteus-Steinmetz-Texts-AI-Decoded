@@ -101,11 +101,11 @@ This dashboard exposes the working state of the archive. It is generated from th
     </tr>
     <tr>
       <td><em>Commonwealth Edison Generating System Trouble</em></td>
+      <td>5</td>
+      <td>220</td>
+      <td>1</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>Raw local PDF custody exists; diagnostic engineering source remains in intake review.</td>
+      <td>Embedded PDF text extracted; report sections, page map, equations, concepts, glossary, quotes, annotations, and crosslinks generated.</td>
     </tr>
   </tbody>
 </table>
@@ -122,8 +122,8 @@ The pipeline writes machine-readable indexes in `processed/`:
 - `quote_index.json` for hidden-gem quote candidates.
 - `annotations_index.json` for generated review notes and next-action annotations.
 - `crosslinks_index.json` for source-to-concept, source-to-term, source-to-equation, and source-to-figure navigation aids.
-- `evidence_ledger.json` for source, concept, glossary, equation, figure, quote, and promoted-crop traceability.
-- `chapter_atlas.json` for chapter/lecture theme routing across the processed OCR corpus.
+- `evidence_ledger.json` for 3,345 source, concept, glossary, equation, figure, quote, and promoted-crop traceability records.
+- `chapter_atlas.json` for 304 chapter/lecture/report-section theme routing records across the processed corpus.
 - `canonical_equations.json` for the first twelve-equation canon and verification state.
 - `source_processing_status.md` for the plain Markdown dashboard.
 
@@ -136,4 +136,4 @@ The pipeline writes machine-readable indexes in `processed/`:
 
 ## Current Canonical Work Front
 
-The next high-value milestone is not more decoration. It is to convert candidate extraction into canonical research: scan-check selected equations, correct OCR around them, build page references, and publish source-grounded explanations with original notation preserved beside modern notation.
+The next high-value milestone is not more decoration. It is to convert candidate extraction into canonical research: scan-check selected equations, correct OCR around them, build page references, crop the Commonwealth appendix figure, and publish source-grounded explanations with original notation preserved beside modern notation.

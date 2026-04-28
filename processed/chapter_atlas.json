@@ -1,8 +1,9 @@
 {
   "quality_note": "Chapter atlas theme counts are OCR reading aids. They help route research work, but they do not replace corrected text or scan verification.",
-  "total_records": 299,
+  "total_records": 304,
   "source_counts": {
     "america-and-new-epoch": 18,
+    "commonwealth-edison-generating-system-trouble": 5,
     "elementary-lectures-electric-discharges-waves-impulses": 10,
     "engineering-mathematics": 6,
     "four-lectures-relativity-space": 4,
@@ -14,17 +15,17 @@
     "theory-calculation-transient-electric-phenomena-oscillations": 58
   },
   "theme_totals": {
-    "radiation-light": 6262,
-    "magnetism": 4195,
+    "radiation-light": 6324,
+    "magnetism": 4208,
     "waves-lines": 3864,
-    "fields": 3335,
-    "impedance-reactance": 2513,
-    "dielectricity": 1956,
-    "transients": 1606,
+    "fields": 3358,
+    "impedance-reactance": 2619,
+    "dielectricity": 1972,
+    "transients": 1633,
+    "alternating-current": 897,
     "complex-quantities": 897,
-    "alternating-current": 896,
     "lightning-surges": 524,
-    "ether": 415,
+    "ether": 465,
     "hysteresis": 256
   },
   "records": [
@@ -7807,6 +7808,140 @@
         "ether",
         "waves-lines",
         "magnetism"
+      ]
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-front-letter-01",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "sequence": 1,
+      "kind": "front-matter",
+      "title": "Cover Letter to Samuel Insull",
+      "line_start": 1,
+      "line_end": 144,
+      "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/front-letter-01.md",
+      "status": "pdf-text-extracted-candidate",
+      "word_count": 615,
+      "theme_counts": {
+        "ether": 1,
+        "impedance-reactance": 1
+      },
+      "top_themes": [
+        "ether",
+        "impedance-reactance"
+      ]
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-section-01-recommendations",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "sequence": 2,
+      "kind": "report-section",
+      "title": "Recommendations",
+      "line_start": 145,
+      "line_end": 720,
+      "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-01-recommendations.md",
+      "status": "pdf-text-extracted-candidate",
+      "word_count": 2393,
+      "theme_counts": {
+        "ether": 15,
+        "impedance-reactance": 13,
+        "radiation-light": 3,
+        "transients": 3,
+        "alternating-current": 1,
+        "fields": 1
+      },
+      "top_themes": [
+        "ether",
+        "impedance-reactance",
+        "radiation-light",
+        "transients",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-section-02-discussion-of-recommendations",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "sequence": 3,
+      "kind": "report-section",
+      "title": "Discussion of Recommendations",
+      "line_start": 721,
+      "line_end": 1138,
+      "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-02-discussion-of-recommendations.md",
+      "status": "pdf-text-extracted-candidate",
+      "word_count": 1625,
+      "theme_counts": {
+        "radiation-light": 9,
+        "ether": 5,
+        "fields": 5,
+        "magnetism": 2,
+        "transients": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "ether",
+        "fields",
+        "magnetism",
+        "transients"
+      ]
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-section-03-record",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "sequence": 4,
+      "kind": "report-record",
+      "title": "Record of Four Troubles",
+      "line_start": 1139,
+      "line_end": 2164,
+      "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-03-record.md",
+      "status": "pdf-text-extracted-candidate",
+      "word_count": 4392,
+      "theme_counts": {
+        "ether": 14,
+        "impedance-reactance": 13,
+        "radiation-light": 11,
+        "transients": 7,
+        "dielectricity": 5,
+        "fields": 3,
+        "magnetism": 1
+      },
+      "top_themes": [
+        "ether",
+        "impedance-reactance",
+        "radiation-light",
+        "transients",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-appendix-01-synchronous-operation",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "sequence": 5,
+      "kind": "mathematical-appendix",
+      "title": "Appendix: Synchronous Operation",
+      "line_start": 2165,
+      "line_end": 5013,
+      "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/appendix-01-synchronous-operation.md",
+      "status": "pdf-text-extracted-candidate",
+      "word_count": 9782,
+      "theme_counts": {
+        "impedance-reactance": 79,
+        "radiation-light": 39,
+        "transients": 16,
+        "ether": 15,
+        "fields": 14,
+        "dielectricity": 11,
+        "magnetism": 10
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "radiation-light",
+        "transients",
+        "ether",
+        "fields"
       ]
     }
   ]

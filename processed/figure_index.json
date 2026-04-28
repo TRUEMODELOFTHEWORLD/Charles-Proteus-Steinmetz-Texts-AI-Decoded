@@ -1,12 +1,14 @@
 {
   "quality_note": "Candidate figure records come from OCR. Promoted crops are separate scan-derived assets.",
-  "candidate_total_records": 325,
+  "candidate_total_records": 326,
   "promoted_original_figure_count": 15,
   "status_counts": {
-    "candidate": 325
+    "candidate": 325,
+    "pdf-text-extracted-candidate": 1
   },
   "verification_counts": {
-    "needs-verification": 325
+    "needs-verification": 325,
+    "pdf-text-extracted-needs-scan-verification": 1
   },
   "candidate_records": [
     {
@@ -4882,6 +4884,26 @@
         "line_start": 6078,
         "line_end": 6078,
         "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "commonwealth-edison-generating-system-trouble-fig-001",
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "figure_number": 1,
+      "caption": "Appendix Figure 1, candidate reference for synchronous-operation current and voltage curves.",
+      "linked_concepts": [
+        "synchronism",
+        "synchronizing-power",
+        "frequency-slip",
+        "phase-angle"
+      ],
+      "status": "pdf-text-extracted-candidate",
+      "source_ref": {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2560,
+        "line_end": 2570,
+        "verification": "pdf-text-extracted-needs-scan-verification"
       }
     }
   ],

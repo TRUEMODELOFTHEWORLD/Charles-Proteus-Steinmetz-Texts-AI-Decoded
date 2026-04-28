@@ -102,9 +102,9 @@
   {
     "source_id": "commonwealth-edison-generating-system-trouble",
     "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
-    "year": null,
-    "source_status": "raw",
-    "processed_status": "local PDF copied; OCR and bibliographic verification pending",
+    "year": 1919,
+    "source_status": "pdf_text_extracted",
+    "processed_status": "embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated",
     "internet_archive_id": null,
     "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
     "site_path": "/sources/commonwealth-edison-generating-system-trouble/"

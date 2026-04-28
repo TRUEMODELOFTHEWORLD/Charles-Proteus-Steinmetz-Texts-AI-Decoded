@@ -1,0 +1,87 @@
+[
+  {
+    "id": "commonwealth-edison-generating-system-trouble-annotation-front-letter-01",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "target_type": "section",
+    "target_id": "commonwealth-edison-generating-system-trouble-front-letter-01",
+    "annotation_type": "processing-note",
+    "note": "Steinmetz introduces the investigation, notes limits in his familiarity with the expanded system, recommends study of power-limiting reactors and substation interference, and proposes a scaled operating model for experimental disturbance study.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 1,
+      "line_end": 144,
+      "pdf_page_start": 1,
+      "pdf_page_end": 7,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-annotation-section-01-recommendations",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "target_type": "section",
+    "target_id": "commonwealth-edison-generating-system-trouble-section-01-recommendations",
+    "annotation_type": "processing-note",
+    "note": "A practical protection program: inspect relays, current transformers, breaker mechanisms, substation feeder arrangements, differential relay schemes, feeder reactances, and station power-limiting reactors.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 145,
+      "line_end": 720,
+      "pdf_page_start": 7,
+      "pdf_page_end": 12,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-annotation-section-02-discussion-of-recommendations",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "target_type": "section",
+    "target_id": "commonwealth-edison-generating-system-trouble-section-02-discussion-of-recommendations",
+    "annotation_type": "processing-note",
+    "note": "Steinmetz identifies the severe symptom: after the short circuit cleared, major station sections did not promptly return to normal voltage because machines apparently drifted out of synchronism. He argues for local power limitation while preserving enough synchronizing power.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 721,
+      "line_end": 1138,
+      "pdf_page_start": 12,
+      "pdf_page_end": 16,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-annotation-section-03-record",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "target_type": "section",
+    "target_id": "commonwealth-edison-generating-system-trouble-section-03-record",
+    "annotation_type": "processing-note",
+    "note": "A dated engineering record of four 1919 system troubles, including short circuits, synchronous machine drop-outs, out-of-step operation, tie-cable behavior, reactor heating, and recovery sequence.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 1139,
+      "line_end": 2164,
+      "pdf_page_start": 16,
+      "pdf_page_end": 27,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-annotation-appendix-01-synchronous-operation",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "target_type": "section",
+    "target_id": "commonwealth-edison-generating-system-trouble-appendix-01-synchronous-operation",
+    "annotation_type": "processing-note",
+    "note": "Mathematical appendix on two alternators or station sections connected while displaced in phase or frequency. The extracted text includes candidate formulas for resultant voltage, interchange current, synchronizing power, energy transfer, and critical slip.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 2165,
+      "line_end": 5013,
+      "pdf_page_start": 27,
+      "pdf_page_end": 68,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "status": "pdf-text-extracted-candidate"
+  }
+]

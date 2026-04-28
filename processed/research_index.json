@@ -667,48 +667,81 @@
     {
       "source_id": "commonwealth-edison-generating-system-trouble",
       "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
-      "year": null,
-      "source_status": "raw",
-      "processed_status": "local PDF copied; OCR and bibliographic verification pending",
+      "year": 1919,
+      "source_status": "pdf_text_extracted",
+      "processed_status": "embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated",
       "internet_archive_id": null,
       "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
       "site_path": "/sources/commonwealth-edison-generating-system-trouble/",
       "raw_file_count": 1,
-      "has_processing_report": false,
+      "has_processing_report": true,
       "has_ocr_seed": false,
-      "cleaned_text_file_count": 0,
+      "cleaned_text_file_count": 5,
       "record_counts": {
-        "chapters": 0,
-        "concepts": 0,
-        "equations": 0,
-        "figures": 0,
-        "glossary": 0,
-        "quotes": 0,
-        "annotations": 0,
-        "crosslinks": 0
+        "chapters": 5,
+        "concepts": 12,
+        "equations": 220,
+        "figures": 1,
+        "glossary": 12,
+        "quotes": 5,
+        "annotations": 5,
+        "crosslinks": 12
       },
       "status_by_catalog": {
-        "chapters": {},
-        "concepts": {},
-        "equations": {},
-        "figures": {},
-        "glossary": {},
-        "quotes": {},
-        "annotations": {},
-        "crosslinks": {}
+        "chapters": {
+          "pdf-text-extracted-candidate": 5
+        },
+        "concepts": {
+          "pdf-text-extracted-candidate": 12
+        },
+        "equations": {
+          "curated-pdf-text-candidate": 6,
+          "pdf-text-extracted-candidate": 214
+        },
+        "figures": {
+          "pdf-text-extracted-candidate": 1
+        },
+        "glossary": {
+          "pdf-text-extracted-candidate": 12
+        },
+        "quotes": {
+          "pdf-text-extracted-candidate": 5
+        },
+        "annotations": {
+          "pdf-text-extracted-candidate": 5
+        },
+        "crosslinks": {
+          "candidate": 12
+        }
       },
       "verification_by_catalog": {
-        "chapters": {},
-        "concepts": {},
-        "equations": {},
-        "figures": {},
-        "glossary": {},
-        "quotes": {},
-        "annotations": {},
-        "crosslinks": {}
+        "chapters": {
+          "unspecified": 5
+        },
+        "concepts": {
+          "unspecified": 12
+        },
+        "equations": {
+          "pdf-text-extracted-needs-scan-verification": 220
+        },
+        "figures": {
+          "pdf-text-extracted-needs-scan-verification": 1
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {
+          "pdf-text-extracted-needs-scan-verification": 5
+        },
+        "annotations": {
+          "pdf-text-extracted-needs-scan-verification": 5
+        },
+        "crosslinks": {
+          "unspecified": 12
+        }
       },
       "promoted_original_figure_count": 0,
-      "next_action": "Run OCR, create bibliographic metadata, then seed candidate catalogs."
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
     }
   ]
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "commonwealth-edison-generating-system-trouble-fig-001",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "figure_number": 1,
+    "caption": "Appendix Figure 1, candidate reference for synchronous-operation current and voltage curves.",
+    "source_ref": {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "line_start": 2560,
+      "line_end": 2570,
+      "pdf_page_start": 32,
+      "pdf_page_end": 32,
+      "verification": "pdf-text-extracted-needs-scan-verification"
+    },
+    "linked_concepts": [
+      "synchronism",
+      "synchronizing-power",
+      "frequency-slip",
+      "phase-angle"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  }
+]

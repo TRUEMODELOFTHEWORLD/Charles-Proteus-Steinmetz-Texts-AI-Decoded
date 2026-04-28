@@ -1,0 +1,299 @@
+[
+  {
+    "id": "protective-reactance",
+    "label": "Protective reactance",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "A previously installed reactance layer that had improved operating safety before later system growth changed conditions.",
+    "modern_equivalent": "Fault-current limiting and system-segmentation reactance used as part of protection coordination.",
+    "interpretive_reading": "",
+    "related": [
+      "power-limiting-reactor",
+      "short-circuit",
+      "protective-relaying"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 58,
+        "line_end": 61,
+        "pdf_page_start": 5,
+        "pdf_page_end": 5,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "power-limiting-reactor",
+    "label": "Power limiting reactor",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 32,
+    "steinmetz_usage": "A reactor inserted between station sections or bus sections to limit local concentration of power during trouble.",
+    "modern_equivalent": "Series reactor or fault-current-limiting reactor used to bound short-circuit contribution and separate system sections.",
+    "interpretive_reading": "",
+    "related": [
+      "reactance",
+      "fault-current-limiting",
+      "synchronizing-power"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 74,
+        "line_end": 77,
+        "pdf_page_start": 5,
+        "pdf_page_end": 5,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "synchronism",
+    "label": "Synchronism",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 200,
+    "steinmetz_usage": "The condition of station sections or alternators remaining in step after a disturbance.",
+    "modern_equivalent": "Synchronous stability and out-of-step operation of interconnected generators.",
+    "interpretive_reading": "",
+    "related": [
+      "synchronizing-power",
+      "transient-stability",
+      "frequency-slip"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 585,
+        "line_end": 588,
+        "pdf_page_start": 11,
+        "pdf_page_end": 11,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "synchronizing-power",
+    "label": "Synchronizing power",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 44,
+    "steinmetz_usage": "The power exchanged through the interconnection that tends to pull alternators or station sections back into step.",
+    "modern_equivalent": "Synchronizing torque or power-angle restoring effect in synchronous-machine stability analysis.",
+    "interpretive_reading": "",
+    "related": [
+      "synchronism",
+      "reactance",
+      "phase-angle"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 434,
+        "line_end": 437,
+        "pdf_page_start": 9,
+        "pdf_page_end": 9,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "short-circuit",
+    "label": "Short circuit",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 41,
+    "steinmetz_usage": "The initiating local fault that drops voltage, trips synchronous loads, and can push station sections out of step.",
+    "modern_equivalent": "Fault event causing high current, voltage depression, protection operation, and transient stability stress.",
+    "interpretive_reading": "",
+    "related": [
+      "circuit-breaker",
+      "protective-relaying",
+      "transient-stability"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 221,
+        "line_end": 224,
+        "pdf_page_start": 7,
+        "pdf_page_end": 7,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "differential-relay",
+    "label": "Differential relay",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 4,
+    "steinmetz_usage": "A recommended method for detecting cable or feeder faults before a short circuit fully develops.",
+    "modern_equivalent": "Current-differential protection comparing currents at protected-zone boundaries.",
+    "interpretive_reading": "",
+    "related": [
+      "protective-relaying",
+      "current-transformer",
+      "split-conductor-cable"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 231,
+        "line_end": 234,
+        "pdf_page_start": 8,
+        "pdf_page_end": 8,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "circuit-breaker",
+    "label": "Circuit breaker",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 9,
+    "steinmetz_usage": "Switching apparatus that must clear a trouble rapidly enough for the system to return to normal operation.",
+    "modern_equivalent": "Fault interruption apparatus coordinated with relays and current transformers.",
+    "interpretive_reading": "",
+    "related": [
+      "protective-relaying",
+      "short-circuit"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 158,
+        "line_end": 161,
+        "pdf_page_start": 7,
+        "pdf_page_end": 7,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "current-transformer",
+    "label": "Current transformer",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "A protective-system device to be inspected for condition and reliability.",
+    "modern_equivalent": "Instrument transformer feeding relay and metering circuits.",
+    "interpretive_reading": "",
+    "related": [
+      "protective-relaying",
+      "differential-relay"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 156,
+        "line_end": 159,
+        "pdf_page_start": 7,
+        "pdf_page_end": 7,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "synchronous-machines",
+    "label": "Synchronous machines",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 176,
+    "steinmetz_usage": "Machines that may drop out, speed up, lose excitation, or fail to pull back into step during a system event.",
+    "modern_equivalent": "Synchronous generators, motors, or converters participating in transient stability behavior.",
+    "interpretive_reading": "",
+    "related": [
+      "synchronism",
+      "synchronizing-power",
+      "governor-action"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 401,
+        "line_end": 404,
+        "pdf_page_start": 9,
+        "pdf_page_end": 9,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "tie-cable",
+    "label": "Tie cable",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 15,
+    "steinmetz_usage": "Interstation cables that also served feeder duty and therefore complicated placement of power-limiting reactors.",
+    "modern_equivalent": "Interconnection or feeder cables whose protection and operating role must be coordinated.",
+    "interpretive_reading": "",
+    "related": [
+      "substation-interference",
+      "feeder-cable",
+      "power-limiting-reactor"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 78,
+        "line_end": 81,
+        "pdf_page_start": 5,
+        "pdf_page_end": 5,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "system-model",
+    "label": "Scaled system model",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 3,
+    "steinmetz_usage": "A proposed small-scale model of the generating stations, cables, and substations for disturbance experiments.",
+    "modern_equivalent": "Physical network analyzer or simulation model for studying operating contingencies.",
+    "interpretive_reading": "",
+    "related": [
+      "engineering-method",
+      "disturbance-study"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 119,
+        "line_end": 122,
+        "pdf_page_start": 5,
+        "pdf_page_end": 6,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "hunting-pulsation",
+    "label": "Hunting pulsation",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "occurrence_count_in_ocr": 12,
+    "steinmetz_usage": "A possible oscillatory condition of machines or station sections after disturbance.",
+    "modern_equivalent": "Electromechanical oscillation or power-system hunting.",
+    "interpretive_reading": "",
+    "related": [
+      "oscillation-damping",
+      "synchronism",
+      "transient-stability"
+    ],
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 623,
+        "line_end": 626,
+        "pdf_page_start": 11,
+        "pdf_page_end": 11,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  }
+]

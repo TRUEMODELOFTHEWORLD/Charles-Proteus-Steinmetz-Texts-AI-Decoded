@@ -73,6 +73,21 @@ This file turns the project charter into a practical review queue. It is meant t
     - Fig. 15 decrement of oscillation.
     - 2026-04-27 progress: Figs. 4, 11, 12, 13, 14, and 15 were found in the local scan, rendered, cropped, and promoted as scan-crop assets with manifests. They still need second-pass bibliographic and crop-coordinate review before being marked canonical.
 
+## Priority 4A: Commonwealth Edison Stability Report
+
+12a. Verify `Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.`, PDF pages 5-16:
+   - Cover letter, recommendations, and discussion section starts.
+   - Power-limiting reactor recommendations and the 1.75-ohm reactor references.
+   - The passage connecting short-circuit recovery failure with stations slipping out of synchronism.
+12b. Verify PDF pages 16-27:
+   - Record of the four 1919 troubles.
+   - Synchronous-machine drop-out counts and station-section recovery sequence.
+   - Tie-cable and reactor-heating descriptions.
+12c. Verify PDF pages 28-45:
+   - Appendix equations for alternators out of phase and out of frequency.
+   - Impedance, phase-angle, synchronizing-power, energy-transfer, and critical-slip expressions.
+   - Crop Appendix Figure 1 and create a manifest/checksum before promoting it.
+
 ## Priority 5: Tesla-Era Comparison Anchors
 
 13. Verify passages connecting periodic transient terms to high-frequency currents and wireless telegraphy.

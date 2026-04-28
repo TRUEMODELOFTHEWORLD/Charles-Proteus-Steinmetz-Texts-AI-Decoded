@@ -2,7 +2,7 @@
   "source_id": "commonwealth-edison-generating-system-trouble",
   "canonical_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
   "primary_author": "Charles Proteus Steinmetz",
-  "edition_notes": "Bibliographic metadata and OCR source still need verification.",
+  "edition_notes": "Private-circulation 1919 report. Bibliographic metadata and public-domain status still need authority review.",
   "public_domain_status": {
     "united_states": "Needs verification",
     "status": "needs-legal-review-before-public-release"
@@ -13,11 +13,23 @@
     "bytes": 2912083,
     "local_origin": "../books/Investigation of some trouble in the generating system of the Commonwealth Edison Co.pdf",
     "format": "pdf",
-    "status": "raw"
+    "status": "raw-preserved"
   },
   "processing_status": {
-    "ocr": "pending",
-    "structural_split": "pending",
-    "site_pages": "seeded"
+    "ocr": "embedded PDF text extracted; corrected OCR still pending",
+    "page_map": "generated from PDF text layer",
+    "structural_split": "source-specific report parser generated 5 candidate sections",
+    "site_pages": "overview plus deep-decoding page",
+    "generated_files": [
+      "processed/commonwealth-edison-generating-system-trouble/page_map.json",
+      "processed/commonwealth-edison-generating-system-trouble/chapters.json",
+      "processed/commonwealth-edison-generating-system-trouble/equations.json",
+      "processed/commonwealth-edison-generating-system-trouble/figures.json",
+      "processed/commonwealth-edison-generating-system-trouble/concepts.json",
+      "processed/commonwealth-edison-generating-system-trouble/glossary.json",
+      "processed/commonwealth-edison-generating-system-trouble/quotes.json",
+      "processed/commonwealth-edison-generating-system-trouble/annotations.json",
+      "processed/commonwealth-edison-generating-system-trouble/crosslinks.json"
+    ]
   }
 }

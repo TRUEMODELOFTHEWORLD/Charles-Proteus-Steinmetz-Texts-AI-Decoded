@@ -1,0 +1,233 @@
+[
+  {
+    "term": "power limiting reactor",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "series reactor used to limit power/fault-current concentration between station sections",
+    "occurrence_count_in_ocr": 10,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "series reactor used to limit power/fault-current concentration between station sections",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 638,
+        "line_end": 641,
+        "pdf_page_start": 11,
+        "pdf_page_end": 11,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "power limiting reactance",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "the reactance value supplied by a power-limiting reactor",
+    "occurrence_count_in_ocr": 4,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "the reactance value supplied by a power-limiting reactor",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 507,
+        "line_end": 510,
+        "pdf_page_start": 10,
+        "pdf_page_end": 10,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "protective reactance",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "reactance installed for protection and fault-current limitation",
+    "occurrence_count_in_ocr": 0,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "reactance installed for protection and fault-current limitation",
+    "source_refs": [],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "feeder reactance",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "series reactance in feeder circuits used to reduce local trouble propagation",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "series reactance in feeder circuits used to reduce local trouble propagation",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 371,
+        "line_end": 374,
+        "pdf_page_start": 9,
+        "pdf_page_end": 9,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "busbar reactance",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "reactance dividing busbar or station sections",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "reactance dividing busbar or station sections",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 428,
+        "line_end": 431,
+        "pdf_page_start": 9,
+        "pdf_page_end": 9,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "differential relay",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "relay scheme comparing currents to detect internal faults",
+    "occurrence_count_in_ocr": 3,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "relay scheme comparing currents to detect internal faults",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 231,
+        "line_end": 234,
+        "pdf_page_start": 8,
+        "pdf_page_end": 8,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "split conductor cable",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "cable arrangement discussed for differential protection",
+    "occurrence_count_in_ocr": 2,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "cable arrangement discussed for differential protection",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 239,
+        "line_end": 242,
+        "pdf_page_start": 8,
+        "pdf_page_end": 8,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "tie cable",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "interstation cable also used as feeder path in the report",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "interstation cable also used as feeder path in the report",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 4263,
+        "line_end": 4266,
+        "pdf_page_start": 54,
+        "pdf_page_end": 54,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "synchronous apparatus",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "synchronous machines connected to the alternating-current system",
+    "occurrence_count_in_ocr": 4,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "synchronous machines connected to the alternating-current system",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 328,
+        "line_end": 331,
+        "pdf_page_start": 8,
+        "pdf_page_end": 8,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "hunting pulsation",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "oscillatory power or speed fluctuation of synchronous machines",
+    "occurrence_count_in_ocr": 1,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "oscillatory power or speed fluctuation of synchronous machines",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 1663,
+        "line_end": 1666,
+        "pdf_page_start": 21,
+        "pdf_page_end": 21,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "synchronizing power",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "restoring power tending to hold or pull synchronous machines into step",
+    "occurrence_count_in_ocr": 44,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "restoring power tending to hold or pull synchronous machines into step",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 434,
+        "line_end": 437,
+        "pdf_page_start": 9,
+        "pdf_page_end": 9,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "term": "critical slip",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "modern_equivalent": "frequency difference or slip at which pulling into synchronism becomes critical",
+    "occurrence_count_in_ocr": 4,
+    "steinmetz_usage": "",
+    "mathematical_meaning": "",
+    "conceptual_meaning": "frequency difference or slip at which pulling into synchronism becomes critical",
+    "source_refs": [
+      {
+        "source_id": "commonwealth-edison-generating-system-trouble",
+        "line_start": 2888,
+        "line_end": 2891,
+        "pdf_page_start": 36,
+        "pdf_page_end": 36,
+        "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    ],
+    "status": "pdf-text-extracted-candidate"
+  }
+]

@@ -133,7 +133,13 @@ export default defineConfig({
                 { label: 'Gravitational Field', slug: 'sources/four-lectures-relativity-space/gravitational-field' }
               ]
             },
-            { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
+            {
+              label: 'Commonwealth Edison Trouble',
+              items: [
+                { label: 'Source Overview', slug: 'sources/commonwealth-edison-generating-system-trouble' },
+                { label: 'Reactors And Synchronism', slug: 'sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism' }
+              ]
+            }
           ]
         },
         {
@@ -159,7 +165,9 @@ export default defineConfig({
             { label: 'Dielectric Loss', slug: 'concepts/dielectric-loss' },
             { label: 'Distributed Constants', slug: 'concepts/distributed-constants' },
             { label: 'Oscillation And Damping', slug: 'concepts/oscillation-damping' },
-            { label: 'Inductance And Capacity', slug: 'concepts/inductance-capacity' }
+            { label: 'Inductance And Capacity', slug: 'concepts/inductance-capacity' },
+            { label: 'Power-Limiting Reactors', slug: 'concepts/power-limiting-reactors' },
+            { label: 'Synchronizing Power', slug: 'concepts/synchronizing-power' }
           ]
         },
         {
@@ -179,6 +187,7 @@ export default defineConfig({
             { label: 'Transient Term', slug: 'mathematics/equations/transient-term' },
             { label: 'RLC Oscillation', slug: 'mathematics/equations/rlc-oscillation' },
             { label: 'Condenser Oscillation', slug: 'mathematics/equations/condenser-oscillation-decrement' },
+            { label: 'Synchronizing Power', slug: 'mathematics/equations/synchronizing-power-commonwealth' },
             { label: 'Interactive Tools', slug: 'tools' }
           ]
         },

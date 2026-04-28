@@ -30,9 +30,9 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
 | Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, and diagram lightbox viewing. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
-| Evidence ledger | `processed/evidence_ledger.json` now indexes 3,095 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
-| Chapter atlas | `processed/chapter_atlas.json` now maps 299 chapter, lecture, and section records to OCR theme counts for research routing. |
-| New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, and America and the New Epoch on industrial government as historical context. |
+| Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
+| Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
+| New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
 | Research indexes | Generated JSON indexes for sources, concepts, equations, figures, glossary terms, and quotes under `processed/`. |
 | Verification control | `VERIFICATION_QUEUE.md` tracks the next scan-check and promotion work. |
 
@@ -43,7 +43,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Build a GitHub repo and public knowledge base | Done | Repo structure, Pages workflow, and public site are in place. |
 | Preserve raw sources, OCR, scans, metadata, and checksums | Started | First source and multi-source records exist. More checksum and custody work is needed source by source. |
 | Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, diagrams, first deep lecture page, figures, concepts, and equations. |
-| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements and America now have source-specific structural parsers. |
+| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements, America, and Commonwealth Edison now have source-specific structural parsers. |
 | Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
@@ -120,7 +120,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx` and source pages with source-access readers |
 | 4a. Expanded Bibliography Intake | Started | `site/src/content/docs/source-library/bibliography-intake.mdx` |
 | 4b. Steinmetz Patent Register | Started | `site/src/content/docs/sources/steinmetz-patents/index.mdx` |
-| 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, and historical-context pages |
+| 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
 | 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` with global lightbox viewing |
@@ -140,7 +140,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | --- | --- | --- |
 | Ingest PDFs or text files | Started | Local source folders and `sources/source_catalog.json`. |
 | Run OCR if needed | Pending | External OCR workflow still needs standardization. |
-| Split by book/chapter/page | Started | `seed_source_from_ocr.py` plus source-specific parsers for `Theoretical Elements` and `America and the New Epoch`; Commonwealth Edison still needs OCR and parsing. |
+| Split by book/chapter/page | Started | `seed_source_from_ocr.py`, `extract_pdf_text.py`, and source-specific parsers for `Theoretical Elements`, `America and the New Epoch`, and `Commonwealth Edison`. |
 | Extract equations | Started | Candidate extraction in generated indexes. |
 | Extract figures | Started | PyMuPDF image extraction and crop tooling. |
 | Create metadata | Started | Source catalog plus crop manifests. |
@@ -168,7 +168,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `annotations.json` | Started through per-source files and generated `processed/annotations_index.json`. |
 | `crosslinks.json` | Started through per-source files and generated `processed/crosslinks_index.json`. |
 | `evidence_ledger.json` | Done as the archive-wide traceability layer for source claims, candidates, and promoted assets. |
-| `chapter_atlas.json` | Done as the archive-wide OCR theme routing map for chapters and lectures. |
+| `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
 | `steinmetz_bibliography_manifest.json` | Started with Wikipedia-derived works intake and source-processing status. |
 | `patent_register.json` | Started with Wikipedia-listed patent examples and Google Patents authority links. |
 
@@ -182,7 +182,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M4. Transient canon | Verify permanent/transient terms, RLC oscillation, critical resistance, decrement, and surge figures. | Transient theory has canonical equation, diagram, and interactive response pages. |
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; source-keyed redraw sheets added; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
-| M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements and America now have source-specific parsers; next step is page-map refinement and Commonwealth Edison OCR. |
+| M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements, America, and Commonwealth Edison now have source-specific parsers; next step is scan verification and page-map refinement. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -229,7 +229,8 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `6330cc6` | Added expanded Steinmetz bibliography intake, seeded patent register, and future codex architecture page. |
 | `2d678d1` | Seeded four additional Steinmetz OCR sources and added public source entry pages. |
 | `646e3a2` | Added source reader UX, original-source access, reader filters, translation shortcuts, and diagram lightbox. |
-| pending commit | Added source-specific parsers for Theoretical Elements and America, expanded the chapter atlas, and published new deep-decoding pages. |
+| `5ad0fa6` | Added source-specific parsers for Theoretical Elements and America, expanded the chapter atlas, and published new deep-decoding pages. |
+| pending commit | Extracted Commonwealth Edison PDF text, generated page-map and report-section catalogs, added reactor/synchronism pages, and updated indexes. |
 
 ## Next Work Queue
 
@@ -240,6 +241,6 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 5. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 7. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.
-8. Run OCR and create a parser for the Commonwealth Edison report.
+8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
 9. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
 10. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.

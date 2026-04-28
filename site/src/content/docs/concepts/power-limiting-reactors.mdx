@@ -1,0 +1,52 @@
+---
+title: Power-Limiting Reactors
+description: Steinmetz's practical use of reactance to contain power-system trouble.
+---
+
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="Cover letter, recommendations, and discussion; PDF text candidate lines 74-1130" status="source-located PDF text candidate" />
+
+## Steinmetz Usage
+
+In the Commonwealth Edison report, Steinmetz uses power-limiting reactors as system-architecture devices. Their purpose is to limit how much trouble in one station section can draw in or disturb another station section.
+
+This is practical reactance. It is not only the `X` term of an impedance triangle. A reactor changes the path through which fault current, synchronizing current, and station-to-station power exchange can occur during disturbance.
+
+## Modern Equivalent
+
+Modern engineering would call this a series reactor or fault-current-limiting reactor, usually discussed in protection coordination, short-circuit studies, bus sectionalizing, and transient-stability planning.
+
+The key modern point is the same tradeoff Steinmetz sees: added reactance reduces fault-current concentration and disturbance propagation, but it also affects voltage drop, power transfer, and synchronizing power.
+
+## Mathematical Explanation
+
+For a simple interconnection, the current driven by a voltage difference is limited by impedance:
+
+```math
+I = \frac{E}{Z}
+```
+
+and for a mostly reactive path:
+
+```math
+Z \approx jX
+```
+
+Increasing `X` reduces the current for a given voltage difference. In a synchronous-machine system, however, the same interconnection impedance also participates in the restoring exchange that tends to keep machines in step.
+
+## Why It Matters
+
+Power-limiting reactors show why Steinmetz's older electrical language should not be flattened into component definitions. Reactance here is part of disturbance containment, station separation, machine stability, and operating procedure.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+Interpretive only: a field-centered reading may describe the reactor as adding magnetic field inertia or opposition to sudden current concentration. That vocabulary can be useful as a reading aid, but the source itself frames the device as a power-system engineering remedy, not as an ether-theory proof.
+</LayeredReading>
+
+## Related Pages
+
+- [Commonwealth Edison Power-Limiting Reactors and Synchronism](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism/)
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Synchronizing Power](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/synchronizing-power/)
+- [Transient Phenomena](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/)

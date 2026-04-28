@@ -1,6 +1,6 @@
 {
   "quality_note": "Glossary entries are seeded from OCR term lists and must be refined against the source text.",
-  "total_terms": 24,
+  "total_terms": 36,
   "records": [
     {
       "term": "brilliancy",
@@ -66,6 +66,24 @@
       ],
       "status_counts": {
         "seeded": 9
+      }
+    },
+    {
+      "term": "busbar reactance",
+      "modern_equivalents": [
+        "reactance dividing busbar or station sections"
+      ],
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -168,6 +186,42 @@
       ],
       "status_counts": {
         "source-located candidate": 1
+      }
+    },
+    {
+      "term": "critical slip",
+      "modern_equivalents": [
+        "frequency difference or slip at which pulling into synchronism becomes critical"
+      ],
+      "total_occurrence_count_in_ocr": 4,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 4,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "term": "differential relay",
+      "modern_equivalents": [
+        "relay scheme comparing currents to detect internal faults"
+      ],
+      "total_occurrence_count_in_ocr": 3,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 3,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -351,6 +405,24 @@
       }
     },
     {
+      "term": "feeder reactance",
+      "modern_equivalents": [
+        "series reactance in feeder circuits used to reduce local trouble propagation"
+      ],
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "term": "flux of light",
       "modern_equivalents": [
         "luminous flux"
@@ -414,6 +486,24 @@
       ],
       "status_counts": {
         "seeded": 9
+      }
+    },
+    {
+      "term": "hunting pulsation",
+      "modern_equivalents": [
+        "oscillatory power or speed fluctuation of synchronous machines"
+      ],
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -639,6 +729,42 @@
       }
     },
     {
+      "term": "power limiting reactance",
+      "modern_equivalents": [
+        "the reactance value supplied by a power-limiting reactor"
+      ],
+      "total_occurrence_count_in_ocr": 4,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 4,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "term": "power limiting reactor",
+      "modern_equivalents": [
+        "series reactor used to limit power/fault-current concentration between station sections"
+      ],
+      "total_occurrence_count_in_ocr": 10,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 10,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "term": "private corporation",
       "modern_equivalents": [
         "A privately owned industrial corporation."
@@ -654,6 +780,24 @@
       ],
       "status_counts": {
         "seeded-source-specific": 1
+      }
+    },
+    {
+      "term": "protective reactance",
+      "modern_equivalents": [
+        "reactance installed for protection and fault-current limitation"
+      ],
+      "total_occurrence_count_in_ocr": 0,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 0,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -822,6 +966,78 @@
       ],
       "status_counts": {
         "seeded": 9
+      }
+    },
+    {
+      "term": "split conductor cable",
+      "modern_equivalents": [
+        "cable arrangement discussed for differential protection"
+      ],
+      "total_occurrence_count_in_ocr": 2,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 2,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "term": "synchronizing power",
+      "modern_equivalents": [
+        "restoring power tending to hold or pull synchronous machines into step"
+      ],
+      "total_occurrence_count_in_ocr": 44,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 44,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "term": "synchronous apparatus",
+      "modern_equivalents": [
+        "synchronous machines connected to the alternating-current system"
+      ],
+      "total_occurrence_count_in_ocr": 4,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 4,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "term": "tie cable",
+      "modern_equivalents": [
+        "interstation cable also used as feeder path in the report"
+      ],
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {

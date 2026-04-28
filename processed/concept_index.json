@@ -1,6 +1,6 @@
 {
   "quality_note": "Concept counts are OCR occurrence aids, not conceptual conclusions.",
-  "total_concepts": 34,
+  "total_concepts": 46,
   "records": [
     {
       "id": "light",
@@ -320,6 +320,38 @@
       ],
       "status_counts": {
         "seeded": 9
+      }
+    },
+    {
+      "id": "synchronism",
+      "label": "Synchronism",
+      "total_occurrence_count_in_ocr": 200,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 200,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "id": "synchronous-machines",
+      "label": "Synchronous machines",
+      "total_occurrence_count_in_ocr": 176,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 176,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -755,6 +787,38 @@
       }
     },
     {
+      "id": "synchronizing-power",
+      "label": "Synchronizing power",
+      "total_occurrence_count_in_ocr": 44,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 44,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "id": "short-circuit",
+      "label": "Short circuit",
+      "total_occurrence_count_in_ocr": 41,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 41,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "id": "individualistic-era",
       "label": "Individualistic era",
       "total_occurrence_count_in_ocr": 40,
@@ -832,6 +896,22 @@
       ],
       "status_counts": {
         "seeded": 9
+      }
+    },
+    {
+      "id": "power-limiting-reactor",
+      "label": "Power limiting reactor",
+      "total_occurrence_count_in_ocr": 32,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 32,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -1091,6 +1171,22 @@
       }
     },
     {
+      "id": "tie-cable",
+      "label": "Tie cable",
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 15,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "id": "dielectric-constant",
       "label": "Dielectric constant",
       "total_occurrence_count_in_ocr": 13,
@@ -1171,6 +1267,22 @@
       }
     },
     {
+      "id": "hunting-pulsation",
+      "label": "Hunting pulsation",
+      "total_occurrence_count_in_ocr": 12,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 12,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "id": "refractive-index",
       "label": "Refractive index",
       "total_occurrence_count_in_ocr": 12,
@@ -1248,6 +1360,22 @@
       ],
       "status_counts": {
         "seeded-source-specific": 1
+      }
+    },
+    {
+      "id": "circuit-breaker",
+      "label": "Circuit breaker",
+      "total_occurrence_count_in_ocr": 9,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 9,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -1379,6 +1507,22 @@
       }
     },
     {
+      "id": "differential-relay",
+      "label": "Differential relay",
+      "total_occurrence_count_in_ocr": 4,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 4,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "id": "private-corporation",
       "label": "Private corporation",
       "total_occurrence_count_in_ocr": 3,
@@ -1395,6 +1539,22 @@
       }
     },
     {
+      "id": "system-model",
+      "label": "Scaled system model",
+      "total_occurrence_count_in_ocr": 3,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 3,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
       "id": "social-democracy",
       "label": "Social Democracy",
       "total_occurrence_count_in_ocr": 3,
@@ -1408,6 +1568,38 @@
       ],
       "status_counts": {
         "seeded-source-specific": 1
+      }
+    },
+    {
+      "id": "current-transformer",
+      "label": "Current transformer",
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
+      }
+    },
+    {
+      "id": "protective-reactance",
+      "label": "Protective reactance",
+      "total_occurrence_count_in_ocr": 1,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 1,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {

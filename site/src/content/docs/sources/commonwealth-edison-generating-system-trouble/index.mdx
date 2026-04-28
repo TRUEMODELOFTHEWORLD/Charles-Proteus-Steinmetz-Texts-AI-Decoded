@@ -1,33 +1,82 @@
 ---
 title: Commonwealth Edison Generating System Trouble
-description: A practical Steinmetz power-system investigation awaiting OCR and bibliographic verification.
+description: A practical Steinmetz power-system investigation on station trouble, reactors, synchronism, and system diagnosis.
 ---
 
 import SourceRef from '../../../../components/SourceRef.astro';
 import SourceAccess from '../../../../components/SourceAccess.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
 
-<SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="Local PDF copied" status="raw only" />
+<SourceRef source="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co." location="1919 private-circulation report, PDF text lines 1-5013" status="source-located PDF text candidate" />
 
 <SourceAccess
   title="Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co."
   localPath="sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf"
-  note="No stable public scan URL has been verified yet. The local raw file is preserved for custody, OCR, and bibliographic review."
+  note="The local raw PDF is preserved for custody. The current text layer is extracted from the PDF and must be checked against page images before exact quotation or canonical equation promotion."
 />
 
 ## Why This Source Matters
 
-This source looks different from the major textbooks: it is practical engineering investigation. That makes it valuable for understanding how Steinmetz reasoned from symptoms, measurements, apparatus behavior, and system configuration.
+This source looks different from the major textbooks: it is practical engineering investigation. Steinmetz is not teaching from a clean classroom circuit. He is diagnosing a real, large generating system after operating trouble in 1919, with station sections, tie cables, short circuits, dropped synchronous machines, relay questions, reactors, and voltage collapse after faults.
 
-It should eventually become part of a "Steinmetz engineering method" section: how he diagnoses failure, distinguishes causes, and moves between mathematical theory and real power-system operation.
+That makes the report one of the archive's strongest examples of Steinmetz's engineering method: start with system symptoms, separate ordinary fault clearing from abnormal recovery failure, identify the role of reactance and synchronizing power, and then connect the recommendation to a mathematical appendix.
 
 ## Current Status
 
-The archive already has raw-file custody: a local PDF copy, checksum, byte count, and manifest record. It has not yet been promoted into public technical interpretation because the bibliographic record, public-domain status, OCR, and page map still need a controlled review.
+The archive now has raw-file custody, PDF checksum, embedded PDF text extraction, a page map, source-specific section splits, and candidate catalogs. This is still not a corrected transcription. Every exact wording claim and every appendix equation remains scan-verification work.
 
-## Canonical Intake Pass
+<div class="codex-visual-card">
+  <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/commonwealth-edison-system-reactor-map.svg" alt="Modern reading aid for Commonwealth Edison station sections and power-limiting reactors" />
+  <div>
+    <strong>Station-section reading aid</strong>
+    <p>A modern reconstruction of the report's station chain and reactor logic. It is a guide to the source, not a substitute for the scan.</p>
+  </div>
+</div>
 
-The first research pass should establish publication date, venue, edition, and public-domain basis; generate OCR and a page map; identify any diagrams, oscillograms, machinery references, equations, or measured system quantities; and then connect verified passages to alternating-current, transient, generator, protection, and power-system diagnostic concepts.
+## Processed Artifacts
 
-## Expected Archive Value
+<table class="codex-status-table">
+  <thead>
+    <tr>
+      <th>Artifact</th>
+      <th>Current Count</th>
+      <th>Use</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>PDF pages</td><td>68</td><td>Page map for source custody and future scan review.</td></tr>
+    <tr><td>Report sections</td><td>5</td><td>Cover letter, recommendations, discussion, record, and mathematical appendix.</td></tr>
+    <tr><td>Equation candidates</td><td>220</td><td>Appendix formulas for phase displacement, frequency slip, synchronizing current, power, energy transfer, and critical slip.</td></tr>
+    <tr><td>Concept candidates</td><td>12</td><td>Power-limiting reactor, synchronism, synchronizing power, differential relay, tie cable, system model, hunting pulsation, and related terms.</td></tr>
+    <tr><td>Glossary candidates</td><td>12</td><td>Older practical power-system language tied to modern protection and stability vocabulary.</td></tr>
+    <tr><td>Figure candidates</td><td>1</td><td>Appendix Figure 1 reference for synchronous-operation curves.</td></tr>
+  </tbody>
+</table>
 
-Once verified, this source should fill a gap that textbooks do not: Steinmetz as a practical investigator. It can show how he moved from system symptoms to likely causes, how he weighed measured behavior against apparatus theory, and how his mathematical habits entered real power-station trouble analysis.
+## Structural Map
+
+- **Cover letter to Samuel Insull**: Steinmetz explains the limits of the report, recommends reactor and substation studies, and proposes a reduced operating model of the system for disturbance experiments.
+- **Recommendations**: protection devices, relays, current transformers, breaker mechanisms, feeder reactances, differential relay possibilities, and station-section reactors.
+- **Discussion of recommendations**: the crucial distinction between the short circuit itself and the failure of the system to recover normal voltage after the fault cleared.
+- **Record of four troubles**: dated event records from May, September, and October 1919, including synchronous machines dropping out and station sections failing to pull back into step.
+- **Appendix on synchronous operation**: mathematical treatment of alternators or station sections connected out of phase or out of frequency, with candidate equations for synchronizing behavior.
+
+## Deep Decoding
+
+[Open the power-limiting reactor and synchronism analysis](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism/)
+
+<LayeredReading label="Modern Electrical Engineering Interpretation" open>
+Modern readers can place this report at the intersection of fault-current limitation, relay coordination, transient stability, out-of-step operation, governor response, low-voltage recovery, and system segmentation. The report is especially valuable because Steinmetz treats protection and stability together rather than as unrelated specialties.
+</LayeredReading>
+
+<LayeredReading label="Ether-Field Interpretive Boundary">
+This source is not an ether source. Its main value is practical power-system diagnosis. Field-centered readers may still find a useful interpretive bridge in the way reactance, stored machine energy, phase relation, and synchronizing power govern the system response, but that reading must remain separate from what the report explicitly states.
+</LayeredReading>
+
+## Source Files
+
+- Processed text: `processed/commonwealth-edison-generating-system-trouble/cleaned_text/pdf-extracted-text.txt`
+- Page map: `processed/commonwealth-edison-generating-system-trouble/page_map.json`
+- Section records: `processed/commonwealth-edison-generating-system-trouble/chapters.json`
+- Equation candidates: `processed/commonwealth-edison-generating-system-trouble/equations.json`
+- Concepts and glossary: `processed/commonwealth-edison-generating-system-trouble/concepts.json`, `processed/commonwealth-edison-generating-system-trouble/glossary.json`

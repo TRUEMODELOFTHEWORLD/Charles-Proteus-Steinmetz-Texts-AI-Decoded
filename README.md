@@ -90,6 +90,7 @@ Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
+- A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
 - Quality labels that separate source claims, modern interpretation, mathematical reconstruction, and speculative readings.
 
@@ -144,6 +145,20 @@ python pipeline/scripts/build_research_indexes.py
 
 It writes dashboard data for sources, concepts, equations, figures, glossary terms, quote candidates, annotations, and crosslinks into `processed/`, including `processed/source_processing_status.md`.
 
+For PDFs with embedded text, the page-preserving extraction step is:
+
+```powershell
+python pipeline/scripts/extract_pdf_text.py `
+  --source-id commonwealth-edison-generating-system-trouble `
+  --pdf sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf
+```
+
+The source-specific Commonwealth Edison parser is:
+
+```powershell
+python pipeline/scripts/seed_commonwealth_edison_report.py
+```
+
 ## Current Processing Milestone
 
 The archive now includes:
@@ -157,6 +172,7 @@ The archive now includes:
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
+- A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
@@ -175,8 +191,8 @@ The public site currently builds more than fifty pages, including:
 
 - Source overviews for the seeded Steinmetz corpus.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
-- Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, and inductance/capacity.
-- Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, and condenser decrement.
+- Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
+- Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, condenser decrement, and Commonwealth Edison synchronizing power.
 - Glossary pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance.
 - Comparison pages for modern EE, AC symbolic method, Tesla-era science, Tesla-era transients, and ether-field interpretation.
 - Interactive tools for frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic form, power factor, hysteresis loss, transient RLC condenser-discharge response, and lightning/surge traveling waves.

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "commonwealth-edison-generating-system-trouble-front-letter-01",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "kind": "front-matter",
+    "sequence": 1,
+    "number": 1,
+    "roman": null,
+    "title": "Cover Letter to Samuel Insull",
+    "line_start": 1,
+    "line_end": 144,
+    "pdf_page_start": 1,
+    "pdf_page_end": 7,
+    "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/front-letter-01.md",
+    "summary": "Steinmetz introduces the investigation, notes limits in his familiarity with the expanded system, recommends study of power-limiting reactors and substation interference, and proposes a scaled operating model for experimental disturbance study.",
+    "concept_tags": [
+      "engineering-method",
+      "power-limiting-reactor",
+      "system-model",
+      "substation-interference"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-section-01-recommendations",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "kind": "report-section",
+    "sequence": 2,
+    "number": 2,
+    "roman": null,
+    "title": "Recommendations",
+    "line_start": 145,
+    "line_end": 720,
+    "pdf_page_start": 7,
+    "pdf_page_end": 12,
+    "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-01-recommendations.md",
+    "summary": "A practical protection program: inspect relays, current transformers, breaker mechanisms, substation feeder arrangements, differential relay schemes, feeder reactances, and station power-limiting reactors.",
+    "concept_tags": [
+      "protective-reactance",
+      "power-limiting-reactor",
+      "differential-relay",
+      "circuit-breaker",
+      "feeder-reactance"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-section-02-discussion-of-recommendations",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "kind": "report-section",
+    "sequence": 3,
+    "number": 3,
+    "roman": null,
+    "title": "Discussion of Recommendations",
+    "line_start": 721,
+    "line_end": 1138,
+    "pdf_page_start": 12,
+    "pdf_page_end": 16,
+    "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-02-discussion-of-recommendations.md",
+    "summary": "Steinmetz identifies the severe symptom: after the short circuit cleared, major station sections did not promptly return to normal voltage because machines apparently drifted out of synchronism. He argues for local power limitation while preserving enough synchronizing power.",
+    "concept_tags": [
+      "short-circuit",
+      "synchronism",
+      "synchronizing-power",
+      "power-limiting-reactor",
+      "transient-stability"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-section-03-record",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "kind": "report-record",
+    "sequence": 4,
+    "number": 4,
+    "roman": null,
+    "title": "Record of Four Troubles",
+    "line_start": 1139,
+    "line_end": 2164,
+    "pdf_page_start": 16,
+    "pdf_page_end": 27,
+    "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/section-03-record.md",
+    "summary": "A dated engineering record of four 1919 system troubles, including short circuits, synchronous machine drop-outs, out-of-step operation, tie-cable behavior, reactor heating, and recovery sequence.",
+    "concept_tags": [
+      "event-record",
+      "short-circuit",
+      "synchronous-machines",
+      "out-of-synchronism",
+      "tie-cable",
+      "hunting-pulsation"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  },
+  {
+    "id": "commonwealth-edison-generating-system-trouble-appendix-01-synchronous-operation",
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "kind": "mathematical-appendix",
+    "sequence": 5,
+    "number": 5,
+    "roman": null,
+    "title": "Appendix: Synchronous Operation",
+    "line_start": 2165,
+    "line_end": 5013,
+    "pdf_page_start": 27,
+    "pdf_page_end": 68,
+    "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/appendix-01-synchronous-operation.md",
+    "summary": "Mathematical appendix on two alternators or station sections connected while displaced in phase or frequency. The extracted text includes candidate formulas for resultant voltage, interchange current, synchronizing power, energy transfer, and critical slip.",
+    "concept_tags": [
+      "synchronous-operation",
+      "synchronizing-power",
+      "phase-angle",
+      "frequency-slip",
+      "reactance",
+      "impedance"
+    ],
+    "status": "pdf-text-extracted-candidate"
+  }
+]

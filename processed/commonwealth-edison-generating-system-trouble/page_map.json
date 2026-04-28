@@ -1,0 +1,694 @@
+{
+  "source_id": "commonwealth-edison-generating-system-trouble",
+  "source_pdf": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+  "source_pdf_sha256": "a8a8dd905cd493a22a5443f2e496038fb1fe0ee75bdcab2bbafa6547778748c6",
+  "pdf_page_count": 68,
+  "generated_at_utc": "2026-04-28T09:25:20+00:00",
+  "text_path": "processed/commonwealth-edison-generating-system-trouble/cleaned_text/pdf-extracted-text.txt",
+  "page_map_path": "processed/commonwealth-edison-generating-system-trouble/page_map.json",
+  "quality_note": "Text was extracted from the PDF text layer. It is not corrected OCR and must be checked against page images before canonical quotation.",
+  "pages_with_text": 64,
+  "total_char_count": 106122,
+  "records": [
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 0,
+      "pdf_page_number": 1,
+      "line_start": 1,
+      "line_end": 14,
+      "char_count": 163,
+      "word_count": 26,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 1,
+      "pdf_page_number": 2,
+      "line_start": 15,
+      "line_end": 17,
+      "char_count": 0,
+      "word_count": 0,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 2,
+      "pdf_page_number": 3,
+      "line_start": 18,
+      "line_end": 31,
+      "char_count": 134,
+      "word_count": 22,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 3,
+      "pdf_page_number": 4,
+      "line_start": 32,
+      "line_end": 36,
+      "char_count": 35,
+      "word_count": 5,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 4,
+      "pdf_page_number": 5,
+      "line_start": 37,
+      "line_end": 114,
+      "char_count": 2470,
+      "word_count": 414,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 5,
+      "pdf_page_number": 6,
+      "line_start": 115,
+      "line_end": 132,
+      "char_count": 669,
+      "word_count": 110,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 6,
+      "pdf_page_number": 7,
+      "line_start": 133,
+      "line_end": 220,
+      "char_count": 1819,
+      "word_count": 290,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 7,
+      "pdf_page_number": 8,
+      "line_start": 221,
+      "line_end": 325,
+      "char_count": 2732,
+      "word_count": 449,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 8,
+      "pdf_page_number": 9,
+      "line_start": 326,
+      "line_end": 441,
+      "char_count": 2561,
+      "word_count": 430,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 9,
+      "pdf_page_number": 10,
+      "line_start": 442,
+      "line_end": 546,
+      "char_count": 2838,
+      "word_count": 491,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 10,
+      "pdf_page_number": 11,
+      "line_start": 547,
+      "line_end": 648,
+      "char_count": 2680,
+      "word_count": 448,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 11,
+      "pdf_page_number": 12,
+      "line_start": 649,
+      "line_end": 733,
+      "char_count": 2607,
+      "word_count": 426,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 12,
+      "pdf_page_number": 13,
+      "line_start": 734,
+      "line_end": 859,
+      "char_count": 2830,
+      "word_count": 477,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 13,
+      "pdf_page_number": 14,
+      "line_start": 860,
+      "line_end": 982,
+      "char_count": 2682,
+      "word_count": 449,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 14,
+      "pdf_page_number": 15,
+      "line_start": 983,
+      "line_end": 1090,
+      "char_count": 2573,
+      "word_count": 419,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 15,
+      "pdf_page_number": 16,
+      "line_start": 1091,
+      "line_end": 1182,
+      "char_count": 2196,
+      "word_count": 391,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 16,
+      "pdf_page_number": 17,
+      "line_start": 1183,
+      "line_end": 1274,
+      "char_count": 2300,
+      "word_count": 393,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 17,
+      "pdf_page_number": 18,
+      "line_start": 1275,
+      "line_end": 1394,
+      "char_count": 2564,
+      "word_count": 436,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 18,
+      "pdf_page_number": 19,
+      "line_start": 1395,
+      "line_end": 1491,
+      "char_count": 2026,
+      "word_count": 366,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 19,
+      "pdf_page_number": 20,
+      "line_start": 1492,
+      "line_end": 1586,
+      "char_count": 2186,
+      "word_count": 374,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 20,
+      "pdf_page_number": 21,
+      "line_start": 1587,
+      "line_end": 1686,
+      "char_count": 2605,
+      "word_count": 421,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 21,
+      "pdf_page_number": 22,
+      "line_start": 1687,
+      "line_end": 1753,
+      "char_count": 2433,
+      "word_count": 409,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 22,
+      "pdf_page_number": 23,
+      "line_start": 1754,
+      "line_end": 1840,
+      "char_count": 2691,
+      "word_count": 450,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 23,
+      "pdf_page_number": 24,
+      "line_start": 1841,
+      "line_end": 1924,
+      "char_count": 2599,
+      "word_count": 435,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 24,
+      "pdf_page_number": 25,
+      "line_start": 1925,
+      "line_end": 2067,
+      "char_count": 2853,
+      "word_count": 451,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 25,
+      "pdf_page_number": 26,
+      "line_start": 2068,
+      "line_end": 2137,
+      "char_count": 2395,
+      "word_count": 390,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 26,
+      "pdf_page_number": 27,
+      "line_start": 2138,
+      "line_end": 2140,
+      "char_count": 8,
+      "word_count": 1,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 27,
+      "pdf_page_number": 28,
+      "line_start": 2141,
+      "line_end": 2234,
+      "char_count": 1261,
+      "word_count": 231,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 28,
+      "pdf_page_number": 29,
+      "line_start": 2235,
+      "line_end": 2352,
+      "char_count": 1652,
+      "word_count": 316,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 29,
+      "pdf_page_number": 30,
+      "line_start": 2353,
+      "line_end": 2418,
+      "char_count": 1606,
+      "word_count": 293,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 30,
+      "pdf_page_number": 31,
+      "line_start": 2419,
+      "line_end": 2510,
+      "char_count": 1018,
+      "word_count": 220,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 31,
+      "pdf_page_number": 32,
+      "line_start": 2511,
+      "line_end": 2583,
+      "char_count": 1842,
+      "word_count": 346,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 32,
+      "pdf_page_number": 33,
+      "line_start": 2584,
+      "line_end": 2689,
+      "char_count": 1598,
+      "word_count": 319,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 33,
+      "pdf_page_number": 34,
+      "line_start": 2690,
+      "line_end": 2745,
+      "char_count": 1895,
+      "word_count": 338,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 34,
+      "pdf_page_number": 35,
+      "line_start": 2746,
+      "line_end": 2825,
+      "char_count": 1922,
+      "word_count": 345,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 35,
+      "pdf_page_number": 36,
+      "line_start": 2826,
+      "line_end": 2883,
+      "char_count": 1326,
+      "word_count": 238,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 36,
+      "pdf_page_number": 37,
+      "line_start": 2884,
+      "line_end": 2984,
+      "char_count": 1792,
+      "word_count": 333,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 37,
+      "pdf_page_number": 38,
+      "line_start": 2985,
+      "line_end": 3071,
+      "char_count": 1301,
+      "word_count": 240,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 38,
+      "pdf_page_number": 39,
+      "line_start": 3072,
+      "line_end": 3159,
+      "char_count": 1981,
+      "word_count": 320,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 39,
+      "pdf_page_number": 40,
+      "line_start": 3160,
+      "line_end": 3235,
+      "char_count": 1548,
+      "word_count": 298,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 40,
+      "pdf_page_number": 41,
+      "line_start": 3236,
+      "line_end": 3329,
+      "char_count": 1626,
+      "word_count": 286,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 41,
+      "pdf_page_number": 42,
+      "line_start": 3330,
+      "line_end": 3394,
+      "char_count": 1695,
+      "word_count": 279,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 42,
+      "pdf_page_number": 43,
+      "line_start": 3395,
+      "line_end": 3474,
+      "char_count": 1514,
+      "word_count": 271,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 43,
+      "pdf_page_number": 44,
+      "line_start": 3475,
+      "line_end": 3559,
+      "char_count": 2061,
+      "word_count": 332,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 44,
+      "pdf_page_number": 45,
+      "line_start": 3560,
+      "line_end": 3594,
+      "char_count": 300,
+      "word_count": 70,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 45,
+      "pdf_page_number": 46,
+      "line_start": 3595,
+      "line_end": 3638,
+      "char_count": 146,
+      "word_count": 50,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 46,
+      "pdf_page_number": 47,
+      "line_start": 3639,
+      "line_end": 3642,
+      "char_count": 33,
+      "word_count": 6,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 47,
+      "pdf_page_number": 48,
+      "line_start": 3643,
+      "line_end": 3666,
+      "char_count": 80,
+      "word_count": 26,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 48,
+      "pdf_page_number": 49,
+      "line_start": 3667,
+      "line_end": 3719,
+      "char_count": 1427,
+      "word_count": 233,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 49,
+      "pdf_page_number": 50,
+      "line_start": 3720,
+      "line_end": 3924,
+      "char_count": 694,
+      "word_count": 248,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 50,
+      "pdf_page_number": 51,
+      "line_start": 3925,
+      "line_end": 4009,
+      "char_count": 1334,
+      "word_count": 271,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 51,
+      "pdf_page_number": 52,
+      "line_start": 4010,
+      "line_end": 4077,
+      "char_count": 1738,
+      "word_count": 322,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 52,
+      "pdf_page_number": 53,
+      "line_start": 4078,
+      "line_end": 4159,
+      "char_count": 1683,
+      "word_count": 337,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 53,
+      "pdf_page_number": 54,
+      "line_start": 4160,
+      "line_end": 4240,
+      "char_count": 2179,
+      "word_count": 385,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 54,
+      "pdf_page_number": 55,
+      "line_start": 4241,
+      "line_end": 4347,
+      "char_count": 2144,
+      "word_count": 370,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 55,
+      "pdf_page_number": 56,
+      "line_start": 4348,
+      "line_end": 4421,
+      "char_count": 2117,
+      "word_count": 385,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 56,
+      "pdf_page_number": 57,
+      "line_start": 4422,
+      "line_end": 4510,
+      "char_count": 2053,
+      "word_count": 379,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 57,
+      "pdf_page_number": 58,
+      "line_start": 4511,
+      "line_end": 4606,
+      "char_count": 1602,
+      "word_count": 319,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 58,
+      "pdf_page_number": 59,
+      "line_start": 4607,
+      "line_end": 4670,
+      "char_count": 1414,
+      "word_count": 274,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 59,
+      "pdf_page_number": 60,
+      "line_start": 4671,
+      "line_end": 4761,
+      "char_count": 1876,
+      "word_count": 336,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 60,
+      "pdf_page_number": 61,
+      "line_start": 4762,
+      "line_end": 4880,
+      "char_count": 2724,
+      "word_count": 463,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 61,
+      "pdf_page_number": 62,
+      "line_start": 4881,
+      "line_end": 4920,
+      "char_count": 1204,
+      "word_count": 200,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 62,
+      "pdf_page_number": 63,
+      "line_start": 4921,
+      "line_end": 4928,
+      "char_count": 44,
+      "word_count": 10,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 63,
+      "pdf_page_number": 64,
+      "line_start": 4929,
+      "line_end": 4932,
+      "char_count": 33,
+      "word_count": 6,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 64,
+      "pdf_page_number": 65,
+      "line_start": 4933,
+      "line_end": 4937,
+      "char_count": 10,
+      "word_count": 3,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 65,
+      "pdf_page_number": 66,
+      "line_start": 4938,
+      "line_end": 4940,
+      "char_count": 0,
+      "word_count": 0,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 66,
+      "pdf_page_number": 67,
+      "line_start": 4941,
+      "line_end": 4943,
+      "char_count": 0,
+      "word_count": 0,
+      "text_status": "pdf-text-extracted"
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "pdf_page_index": 67,
+      "pdf_page_number": 68,
+      "line_start": 4944,
+      "line_end": 4946,
+      "char_count": 0,
+      "word_count": 0,
+      "text_status": "pdf-text-extracted"
+    }
+  ]
+}

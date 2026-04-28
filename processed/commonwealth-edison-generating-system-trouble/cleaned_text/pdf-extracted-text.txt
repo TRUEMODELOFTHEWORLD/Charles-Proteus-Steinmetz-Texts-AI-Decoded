@@ -1,0 +1,5013 @@
+[[PDF_PAGE:1]]
+FOR PRIVATE CIRCULATION ONLY
+Investigation
+of
+some
+Trouble
+in the
+Generating System
+of the
+Commonwealth Edison Co.
+Chicago
+1919
+Charles P. Steinmetz, A. M., Ph. D.
+[[END_PDF_PAGE:1]]
+
+[[PDF_PAGE:2]]
+
+[[END_PDF_PAGE:2]]
+
+[[PDF_PAGE:3]]
+Investigation
+of
+some
+Trouble
+in the
+Generating System
+of the
+Commonwealth Edison
+Co.
+Chicago
+1919
+Charles P. Steinmetz, A. M., Ph. D.
+[[END_PDF_PAGE:3]]
+
+[[PDF_PAGE:4]]
+COPYRIGHT
+1910
+CHARLES P. STEINMETZ
+[[END_PDF_PAGE:4]]
+
+[[PDF_PAGE:5]]
+Schenectady, N. Y., December 19, 1919.
+Mr. S. Insull, Pres.
+Commonwealth Edison Company,
+Chicago,
+111.
+My dear Mr. Insull:
+Enclosed
+I send you report of investigation
+of. some operating trou-
+bles in the generating system of the Commonwealth Edison Company,
+during 1919, with some recommendations.
+I am sending copies of the
+report to Mr. L. Ferguson and to Mr. R. F. Schuchardt.
+I regret that
+in some respects the report
+is not as final and conclusive as
+I
+like to
+see it, but during the years of successful operation since the installation
+of the protective reactances, your system has grown and changed so
+much, and while
+I have received very complete and extremely
+satis-
+factory information and data from your engineers,
+it necessarily is not
+possible for me to be as fully familiar with the system, as I was once,
+but I hope that I shall now be able to keep in closer touch with
+it.
+Some of my recommendations therefore are more general, and
+re-
+quire further study by the operating engineers, and
+I shall be glad to
+co-operate therein, and expect to be in Chicago again in January. More
+particularly this applies to :
+1.)
+The installation of power limiting reactors between the North-
+west Station and Fisk Street, which appears to me extremely desirable
+to eliminate the excessive interference between these stations in case of
+trouble in one of them.
+As, however, the tie cables between these
+sta-
+tions are also used as feeder cables for intermediate substations, a study
+by your engineers, in which I shall be glad to co-operate,
+is necessary
+to devise an arrangement of installation of reactors, which would not
+interfere with the economic use of tie cables of substation feeder cables.
+2.)
+The substations were originally operated by separate feeders,
+but the need of using the feeder cables and apparatus in the most eco-
+nomical manner has
+led
+to
+tying
+substations
+together on
+the same
+feeder, which necessarily increases the interference between substations
+and between generating stations in case of trouble, and further changes
+are
+contemplated
+and
+desirable.
+It
+therefore
+appears
+advisable
+to
+make a thorough study of substation operation with the view of com-
+bining the most economical use of cables and apparatus with the mini-
+mum possibility of interference between stations in case of local trou-
+ble.
+Such study can be made only by the operating engineers who are
+fully familiar with all the conditions, but
+I shall be glad to co-operate
+in
+it.
+[[END_PDF_PAGE:5]]
+
+[[PDF_PAGE:6]]
+One suggestion which I like to bring to your consideration is that of
+building a typical model of your system, generating stations, cables and
+substations, perhaps in 1/20,000 size. We have done that for a number
+of transmission systems and while your system is far larger and more
+complex, I believe
+it can be done and such model, operated by direct
+current, may be contained in a large room, and while not
+all, many
+operating questions could be studied on
+it by the engineers, and the
+effect of various disturbances and troubles experimentally investigated
+without endangering your big system.
+With best regards,
+Yours very truly,
+(Signed) CHARLES P. STEINMETZ.
+CPS:R
+[[END_PDF_PAGE:6]]
+
+[[PDF_PAGE:7]]
+INVESTIGATION OF SOME TROUBLE IN THE GEN-
+ERATING SYSTEM OF THE COMMONWEALTH
+EDISON CO. OF CHICAGO, DURING 1919
+By Charles P. Steinmetz, A.M., Ph.D.
+I
+RECOMMENDATIONS
+From the
+investigation,
+the
+following recommendations appear
+to
+me justified:
+1.)
+To reduce the liability of trouble, by carefully going over all
+the
+controlling
+devices, such
+as
+relays,
+current transformers,
+circuit
+breaker-operating mechanisms, etc., especially those at or near the gen-
+erating stations to ascertain whether they are in perfect condition and
+whether they are of the most reliable and safest type now
+available,
+and where necessary replace them or change them
+to the
+safest and
+most reliable now available for the existing conditions
+of operation.
+It must be expected, that during the time which many of the controlling
+devices have been in operation in the system, advances have been made
+in type and design of circuit controlling devices.
+The conditions
+of
+operation have become more
+severe, due
+to
+the
+increase of the
+size
+of the system and especially due to the increasing interconnection of
+substations
+by
+tie
+cables.
+While
+such
+interconnection
+materially
+increases the economy
+in the use of the cables,
+it
+also
+increases the
+severity and extent of local troubles such
+as short
+circuits.
+Further-
+more, many of the controlling devices are not new any more.
+While
+it is economically not feasible to replace or remodel the con-
+trolling
+devices
+every
+few
+years
+with
+every advance
+of
+the
+art,
+it
+probably
+is economically
+feasible
+to do
+so with regard
+to
+the
+con-
+trolling devices located in the generating stations proper.
+2.)
+To study the possibility of intercepting many of the troubles in
+their beginning, before they have fully developed into a short circuit.
+Cable breakdowns apparently are not always instantaneous, but often
+[[END_PDF_PAGE:7]]
+
+[[PDF_PAGE:8]]
+Report of Charles P. Steinmetz
+develop gradually within a time from a few seconds to many days.
+A
+sufficiently sensitive
+differential
+relay thus may
+discover
+a beginning
+cable fault, and cut off the cable, before the fault has developed into a
+ground or
+short.
+In a
+split conductor
+cable, the two parts
+of each
+conductor
+are
+so
+closely
+identical,
+that
+a
+very
+sensitive
+differential
+relay can be placed between them, and
+as
+a
+fault
+naturally would
+develop
+in one of the cable halves
+first,
+the relay would
+act
+at the
+very beginning of the
+fault.
+The possibilities and limitations, and in
+general the economic
+feasibility of the
+split conductor
+cable, should
+thus be investigated.
+Similar
+results are given by grouping in pairs
+of identical cables with
+differential
+relays between them.
+This
+latter
+arrangement perhaps is somewhat less sensitive and reliable, since with
+two separate cables, no matter how
+identical they may be, a transient
+may occur in the one and not
+or a different transient
+in the other,
+and the
+sensitivity of the
+differential
+relay thus probably has
+to be
+lowered not to be affected by transients.
+On the other hand, the latter
+arrangement would not require such extensive replacement of cables.
+Systems involving the use of sheath transformers or other schemes for
+tripping out on small ground
+currents, and
+still
+other arrangements
+for accomplishing the result of operating on an incipient fault, should
+be investigated.
+It appears that some cable
+failures are preceded by a gradual
+de-
+crease of the insulation resistance, especially while hot, extending over
+many days.
+Such failures might be intercepted by a systematic testing
+of the cables with high voltage direct current, essentially a high voltage
+resistance measurement, and the possibility of such should be investi-
+gated.
+The time for such tests should be chosen immediately after the
+peak loads of the day, when the cables are at their maximum tempera-
+tures.
+I understand that simple devices for getting high voltage direct
+current for testing purposes have been developed.
+3.)
+To cut off the troubles from the generating stations by the
+in-
+stallation of feeder reactances.
+By far the largest majority of troubles leading to short circuit occur
+in the feeder cables and beyond them, in the substations, but very few
+only
+in the generators, and extremely few on the busbars.
+The gen-
+erators have power limiting
+reactors, but no power
+limiting reactors
+are used in the feeders, and as the result, any short circuit in a feeder
+cable, near the generating station,
+is practically a short circuit on the
+busbars, that is, pulls the voltage of the station section down to nothing,
+drops out the synchronous apparatus and thus gives serious and wide-
+[[END_PDF_PAGE:8]]
+
+[[PDF_PAGE:9]]
+Report of Charles P. Steinmetz
+spread trouble.
+Such short circuits in the feeder cable near the gen-
+erating stations, however, may be expected to be more frequent than
+short
+circuits
+in the generating
+station
+itself, and the
+installation of
+reliable
+feeder
+reactors
+thus would
+eliminate
+the majority
+of
+short
+circuits from materially affecting the generating stations, that
+is, from
+becoming serious.
+I would recommend that 0.9 ohm, or at least 0.7 ohm feeder reactors
+(5.2%
+to 4%
+for
+a 300 ampere
+line)
+be
+installed, and
+the
+circuit
+breakers be
+set to cut
+off as quickly
+as possible,
+in case
+of a short
+circuit
+in the feeder.
+I believe such a feeder reactance would
+in no
+way
+adversely
+affect
+the
+operation
+of
+the
+substations,
+but
+it would
+limit
+the
+short
+circuit
+to
+about
+100,000 KVA.
+If
+then
+the
+circuit
+breakers can be made to open
+this
+short
+in
+less than a second, the
+station voltage will be only a
+little affected during the short, due to
+the great sluggishness of the turbo-alternator
+fields, and immediately
+come back to practically normal, so that
+it may be expected that no
+synchronous apparatus will be dropped out, that
+is, the trouble limited
+to the short circuited feeder cable and
+its substations.
+If, however, the
+short circuit holds on for several seconds, an appreciable voltage drop
+must be expected
+in the generating stations, and
+at least some of the
+synchronous apparatus supplied from this generating station would be
+dropped out.
+The advantage of feeder reactors thus not merely consists in limiting
+the short circuit current and thereby the voltage drop and
+in general
+the shock on the system, but, by permitting to set the circuit breakers
+for a materially shorter time limit,
+it also greatly reduces the duration
+of such short circuit and thereby correspondingly reduces the
+liability
+of dropping synchronous apparatus and spreading the trouble beyond
+the feeder
+directly involved.
+4.)
+Install a power limiting busbar reactance between the two sec-
+tions of Fisk Street Station, so as to tie the three station sections
+:
+Fisk
+Street A, Quarry Street and Fisk B, together into a ring.
+This should
+increase the synchronizing power between
+these
+stations.
+It
+should
+also guard against the system being cut into two parts out of synchron-
+ism with each other, in case that a short circuit
+at the busbars of an
+intermediary section (Quarry Street or Fisk Street B), drops the volt-
+age of this section to zero and thereby destroys its synchronizing power.
+The same size of reactance as now used, of about 1.75 ohms, would
+be recommended.
+[[END_PDF_PAGE:9]]
+
+[[PDF_PAGE:10]]
+4
+Report of Charles P. Steinmetz
+5.)
+I should recommend strongly to endeavor to change the present
+connection between the Northwest Station and the rest of the system,
+which now consists of six cables to Fisk Street B; and to connect the
+Northwest
+Station by
+cables and
+power-limiting
+reactances
+to
+Fisk
+Street A, as well as Fisk Street B, thus making a second ring, between
+Fisk Street B, Northwest Station and Fisk Street A, that
+is, have the
+entire system of four station-sections tied together into a double ring,
+by five power limiting reactors.
+At present, due to the absence of power limiting reactances and the
+low resistance
+(.3 ohms)
+of the tie cables between the Northwest Sta-
+tion and Fisk Street B, these two stations are practically on the same
+busbars.
+This imposes too
+severe a duty on the controlling devices
+such as circuit breakers, of these two stations, and a trouble in one of
+these two stations is equally severe in the other, that
+is, a short circuit
+on the busbars of either station puts both stations out of service and
+thereby involves too large a part of the entire system, as borne out by
+the experience of September
+18th.
+As the present
+six
+tie cables between Northwest
+Station and
+Fisk
+Street B, are also used as, feeder cables to intermediary substations, in
+the proposed
+ring connection and
+installation of
+reactances,
+careful
+study must be given to make the arrangement such as not to interfere
+with the economical use of these tie cables as feeder cables to the inter-
+mediary substations.
+Possibly three (or even two)
+of these cables may
+be used between Northwest Station and Fisk B;
+three
+(or even two)
+between Northwest
+Station and Fisk A;
+these three
+(or two)
+cables
+brought together at the station end to a short auxiliary bus and a power
+limiting reactance installed between
+this auxiliary bus and
+the main
+bus of the station.
+This would divide the power limiting reactance into
+halves, one at each end, thus giving a total of four new reactances, two
+at the Northwest
+Station, one
+at Fisk A, and one
+at Fisk
+B,
+for the
+interconnection with the Northwest Station.
+Each of the reactors then
+would be about .875 ohms (half the size of the present power limiting
+busbar reactors)
+.
+Such an arrangement may require a slight increase
+of excitation of the synchronous converters in the substations connected
+to these tie cables, to keep their voltage by giving the current a slight
+lead.
+Another possibility, which might be more convenient, would be
+to
+install
+normal
+feeder
+reactors
+at
+each
+end
+of
+each
+of
+the
+tie
+cables, and install the rest of the required reactance in the substation,
+arranged so that the substation or the individual converters in the sub-
+stations can tap the feeder cable
+at either side of
+this reactance,
+de-
+pending on from which station
+it intends to take the power.
+That
+is,
+[[END_PDF_PAGE:10]]
+
+[[PDF_PAGE:11]]
+Report of Charles P. Steinmetz
+5
+two busbars may be used in the substation, connected together by the
+power limiting reactance, the one connected to the one, the other to the
+other generating station, and the converters arranged so that they can
+be thrown on either of the two busbars.
+Possibly a still better arrange-
+ment may be devised.
+Until reactors are installed between the Northwest Station and the
+rest of the system,
+I would recommend, whenever there
+is any serious
+trouble in the Northwest Station, or in Fisk Street B, which connects
+with
+it, to immediately open all the tie lines between these two stations,
+and synchronizing them together again
+after the trouble
+is perfectly
+cleared.
+6.)
+Install in each station section, as permanent busbar instruments,
+as many
+suitable synchronoscopes
+as there are other
+station
+sections
+(three at present) , for the purpose of continually indicating the phase
+difference and the frequency difference of the station section from all
+other station sections.
+If by some trouble a station section has broken
+out of synchronism with the rest of the system,
+it appears practically
+impossible without the assistance of a synchronoscope, to control the
+steam supply in this station section so as to have it promptly drop back
+into
+synchronism.
+With
+a
+synchronoscope,
+however,
+indicating
+the
+speed difference of the
+station from the next adjoining
+station, with
+which
+it
+is out of synchronism (though
+still tied with
+it by the react-
+ance), merely the ordinary action of synchronizing will bring the sta-
+tion quickly back into synchronism.
+Such synchronoscope would
+also
+indicate the phase
+difference
+be-
+tween adjoining stations due to the power flow over the busbar react-
+ances, and thereby permit most economical load
+control.
+Such
+syn-
+chronoscope would be very valuable
+in
+case
+of trouble,
+in showing
+what happens :
+whether the stations are out of synchronism, or hunting
+against each other, or steady but with excessive power flow over the re-
+actors, etc.
+It is possible that a more sensitive type of synchronoscope
+will have to be designed, than the present one.
+7.)
+For the present, until 4, 5 and 6, have been carried out I would
+recommend, in case the voltage of a station section disappears, as result
+of a short circuit at or near the
+station, and
+if the voltage does not
+promptly come back
+after the clearing of the short
+circuit,
+to open
+the power limiting reactor or reactors which connect this station section
+with the rest of the system, and thereby
+isolate
+it.
+Then, as soon
+as
+the voltage has
+recovered,
+the
+isolated
+station should
+again be
+syn-
+chronized
+in with the rest of the system.
+If, after thus
+isolating the
+[[END_PDF_PAGE:11]]
+
+[[PDF_PAGE:12]]
+6
+Report of Charles P. Steinmetz
+generating station in which the trouble has occurred, the voltage does
+not promptly recover,
+it means that the individual generators of this
+station have broken out of synchronism, and the quickest way of restor-
+ing service probably
+is, to disconnect the generators from each other,
+and synchronize them again.
+8.)
+A special study should be made of the method of operation
+of the substations, that
+is,
+their connection
+to
+the generating system
+and to each other, to get the most satisfactory compromise beween
+re-
+liability and economy; that
+is, to use the feeder copper most econom-
+ically, and at the same time in case of trouble reduce to a minimum the
+interference of the substations with each other, and of the generating
+station sections with each other through the substations.
+The question then requires consideration, whether and how
+far
+tie
+feeders between substations are
+to be used, and how they should be
+controlled and protected.
+Whether every important substation should
+receive power from two generating station
+sections, and whether and
+what protection
+in this case can be afforded against
+interference
+be-
+tween the two substation sections in case of trouble in any generating
+station
+section.
+Or whether each substation should be fed from one
+generating station section only, but adjacent substations connected to
+different generating station sections, so that in case of a substation shut-
+ting down by trouble in the generating section feeding
+it, the adjacent
+substation can maintain service,
+etc.
+Also, the question of the control of the converters in the substations
+should be investigated, whether the A.C. circuit breakers might be set
+somewhat higher; whether the D.C. reverse current relay may not be
+given
+a time
+limit and
+its
+setting
+increased;
+whether
+a
+D.C. power
+limiting resistance might be considered,
+etc.
+Discussion
+of Recommendations
+While recommendations 1) to 3) should greatly reduce the frequency
+of troubles or keep them out of the generating system by isolating or
+localizing them by the feeder reactors,
+it obviously
+is not possible to
+absolutely guard against the occasional troubles in the generating sys-
+tem, such as short circuits.
+But as soon as the trouble
+is cleared as by
+the opening of the circuit breakers, in a second or a few seconds, the
+system should immediately return to normal, and to begin to pick up
+again
+the
+load which
+the
+short
+circuit dropped.
+The most
+serious
+feature of the troubles of September 18th, May 19th, and October 22nd,
+in my opinion, was that with the clearing of the short circuit, the sys-
+[[END_PDF_PAGE:12]]
+
+[[PDF_PAGE:13]]
+Report of Charles P. Steinmetz
+tern did not promptly come back to normal voltage, but in a large part
+of the system
+(Fisk
+Street B and Northwest)
+the
+voltage remained
+practically zero for about a quarter of an hour after the trouble had
+been cleared.
+It appears, as the result of the momentary short circuit
+the stations had broken out of synchronism with each other and were
+not able to pull back
+into synchronism, but kept
+drifting
+past each
+other
+indefinitely,
+short
+circuiting
+each
+other and
+thus
+keeping
+the
+voltage down to practically zero.
+In these very large power systems,
+it
+is essential
+for the
+safety of
+operation to limit the possible local concentration of power, by divid-
+ing the system by power limiting reactors.
+To
+fulfill their purposes,
+these reactors must be fairly large, and the value of 1.75 ohms used
+in the power
+limiting busbar
+reactors of the Commonwealth Edison
+Company of Chicago,
+is by no means too high.
+Necessarily, however,
+these power limiting reactors also
+limit the synchronizing power
+be-
+tween the station sections.
+Thus if in a station section as Fisk Street A,
+which
+is connected by one power
+limiting reactor to the
+rest of the
+system, full load of 60,000 KW is suddenly thrown off
+as by a short
+circuit at the busbars dropping out the synchronous machines
+in the
+substations
+while
+full
+steam
+supply
+is
+still
+on,
+the
+synchronizing
+power coming over the power
+limiting reactor
+is
+insufficient to hold
+the station in step, and the station breaks synchronism and speeds up.
+Whether synchronous operation
+is preserved
+or synchronism broken,
+depends on the relative speed, with which the synchronous machines in
+the substations drop out, the turbine governors shut off steam and the
+alternators speed
+up.
+The synchronous machines
+in the
+substations,
+carrying load on the direct current side and feeding back on the alter-
+nating
+side, probably would drop out very quickly, while the turbine
+governors must take an appreciable time to reduce the steam supply,
+and the alternators speed up
+rapidly;
+at
+full voltage and
+full steam
+supply, a
+little over a second
+after the load has dropped
+off, the
+sta-
+tions would have speeded up
+so
+as to have broken synchronism with
+the
+rest of the system,
+in spite of the maximum synchronizing power
+exerted over the power limiting reactor.
+In reality obviously the load
+cannot drop
+off instantly but would hold on an appreciable time, and
+the governors would immediately begin
+to
+cut
+off steam;
+but on the
+other hand, the station voltage has dropped under short circuit, and
+is
+below normal, and with
+it the synchronizing power
+(which goes with
+the square of the voltage)
+.
+Tying the station section by power limiting
+reactors to two other station sections (as by installing a reactor between
+Fisk
+Street A and
+B,
+thus completing ring
+connection)
+would
+give
+[[END_PDF_PAGE:13]]
+
+[[PDF_PAGE:14]]
+8
+Report of Charles P. Steinmetz
+ample synchronizing power, at full voltage, to keep the station section
+in synchronism with the
+rest of the system, even
+at no load but
+full
+steam supply,
+so that
+it could break out of synchronism only
+if the
+short circuit lasts
+sufficiently long to demagnetize the alternator fields
+and thereby drop the voltage.
+Therefore
+it is recommended to tie all the stations by power limiting
+reactors into ring connection.
+If a short circuit occurs at or near the busbars of a station
+section,
+it necessarily drops the busbar voltage to
+zero.
+It takes, however,
+a
+number
+of seconds
+for
+the
+short
+circuit current
+to
+demagnetize
+the
+alternator
+fields, and
+if therefore the short circuit
+is opened quickly,
+the
+alternator
+field magnetism
+is
+still
+there,
+at
+least
+partly, and the
+station voltage thus comes back instantly,
+at
+least partly.
+If then the
+station section has
+sufficient synchronizing power against the adjacent
+section,
+it
+is probable that it would remain in synchronism, no further
+trouble would occur, and
+it would probably catch again many of the
+synchronous machines receiving power from
+it.
+If, however, the short circuit lasts long enough to materially demag-
+netize the alternator fields, then at the clearing of the short, the voltage
+does not immediately come back,
+as the
+field magnetism would
+first
+have to build up.
+Without voltage there obviously can be no synchron-
+izing power, and the station
+section thus probably
+drifts out of syn-
+chronism with the rest of the system.
+With the load being released by
+the dropping out of the synchronous machines in the substations, before
+the governors can
+cut
+off steam,
+the turbo-alternators will probably
+have speeded up and operated their emergency steam cut
+off, as with
+full steam and no load
+this takes only about
+~L~y2 to 3 seconds.
+The
+machines then slow down
+until again put on governor
+control.
+As
+there are necessarily very great differences between the individual ma-
+chines in the speed at which they trip the excess speed cut
+off, in the
+time required to reach this speed, and
+in the rate of slowing down,
+it
+is obvious that when governor control
+is restored, the individual ma-
+chines and the station section as a whole probably are
+far from syn-
+chronism with the
+rest
+of the system.
+It
+therefore
+is hardly
+to be
+expected that they would promptly drop
+into synchronism but rather
+would continue indefinitely to
+drift out of synchronism with the
+rest
+of the system.
+Two
+alternators
+or
+stations, thrown
+together
+out
+of synchronism,
+that
+is, differing in frequency from each other, will promptly, that
+is,
+practically instantly, pull each other into step, that
+is, the slow machine
+[[END_PDF_PAGE:14]]
+
+[[PDF_PAGE:15]]
+Report of Charles P. Steinmetz
+speeds up and the fast machine slows down,
+if their frequency differ-
+ence was low enough.
+This, however, would, with
+turbo-alternators,
+require a frequency difference not much exceeding one percent, and
+it
+is not probable that
+the unloaded
+station,
+idling on
+the
+governors,
+would be so close in frequency to the loaded station, especially as the
+frequency difference in normal steam governing of these turbo-alterna-
+tors is 4% between no load and full load.
+If the frequency difference
+is
+greater, the two
+stations continue
+drifting past each
+other
+out
+of
+synchronism, but steadily a power transfer between them tends to pull
+them nearer together, so that, even with an initial frequency difference
+of 5%,
+they
+should
+pull
+each
+other
+into
+synchronism,
+in
+about
+a
+minute, more or less.
+However, this synchronizing power
+is so small,
+only a fraction of 1% of the rated load, and much less than the exci-
+tation or friction and windage losses
+in the machines, so that the
+in-
+evitable variations
+in the steam supply when governing
+at no
+load,
+probably are much larger and overshadow
+this synchronizing power.
+That
+is,
+it has only a theoretical
+interest, and practically the stations
+would indefinitely drift past each other out of synchronism; with the
+fluctuations of steam supply,
+etc., sometimes coming nearer together,
+sometimes drifting farther apart,
+etc., until at some time they happen
+to
+drift close enough together
+within \%
+so as to pull each other
+in
+step.
+The characteristic of this drift out of synchronism is that the fluctua-
+tions of current, etc., are constant, and not gradually decreasing, as in
+hunting oscillations, and the frequency or period of fluctuation
+is
+ir-
+regular.
+This seems to agree with the observations.
+It appears then :
+if a station section has dropped out of synchronism
+by
+a
+short
+circuit
+or
+other
+trouble,
+as
+indicated by
+its
+voltage not
+coming back promptly at the clearing of the short, then
+it is not prob-
+able that this station
+section will pull
+itself into synchronism within
+reasonable time, but regular synchronizing appears necessary.
+Either the reactor or reactors connecting this station section should
+be opened, thus isolating this
+station and allowing
+it to again build
+up
+its voltage, and then
+it should be synchronized
+in again with the
+rest of the system.
+Or, without opening the reactors, the
+station may be synchronized
+into the system by controlling the steam supply in correspondence with
+the indications of synchronoscopes connected between this station and
+the adjacent stations.
+[[END_PDF_PAGE:15]]
+
+[[PDF_PAGE:16]]
+10
+*
+Report of Charles P. Steinmetz
+Similar
+drifting
+past
+each
+other,
+out
+of
+synchronism, may
+also
+occur, as the result of a disturbance such as a short
+circuit, between
+the turbo-alternators of one station, especially
+if they are machines of
+different types, as in the Northwest Station.
+Or a single machine may
+break out of synchronism, while the other machines in the same station
+stay in step
+especially if the off machine
+is of different type, as No.
+11 in Fisk Street.
+As there are no power limiting reactors used between
+the machines of the same station, the quickest way of restoring syn-
+chronism would probably be, in the first case, to open the circuit break-
+ers of the individual machines and then synchronize them again ; in the
+latter case, to open the circuit breakers of the
+off machine, and syn-
+chronize
+it
+again.
+II
+RECORD
+Four troubles were studied, occurring respectively on
+September
+18th, 1919,
+3:47 P.M.
+September 18th, 1919,
+5:27 P.M.
+October 22nd,
+1919, 12:20 P.M.
+May
+19th,
+1919,
+7:25 A.M.
+The generating system
+is
+divided
+into
+four
+sections,
+connected
+in
+tandem, with the A section of Fisk Street, and the Northwest Station as
+the two ends of the chain, and with power limiting reactors stated to
+be
+1.75 ohms each, between Fisk A and Quarry
+Street, and between
+Quarry
+Street and Fisk B, and
+six
+tie cables of negligible reactance
+and about .3 ohms joint resistance between Fisk B and the Northwest
+Station.
+1.)
+Sept. 18th, 19193:47 P. M.
+a)
+A short circuit close to the busbars of B section of Fisk Street
+held on for several seconds, before
+it was opened.
+As there are no power limiting reactors between Fisk B and North-
+west Station, and the six tie cables between these stations are of very
+low resistance, the Northwest Station was just as seriously affected as
+Fisk B, and indeed acted like a part of Fisk B.
+b)
+All the synchronous machines on Fisk Street B, and on North-
+west Station dropped out, and many synchronous machines on Fisk A
+and Quarry
+Street:
+44 synchronous machines on Fisk B and 18 on
+Northwest are recorded as shut down.
+Of 26 machines on Fisk A, 12
+dropped
+out and
+14 stayed
+in;
+of 8 machines on Quarry
+Street, 4
+dropped out and 4 stayed in.
+[[END_PDF_PAGE:16]]
+
+[[PDF_PAGE:17]]
+Report of Charles P. Steinmetz
+11
+c)
+Due to the voltage dropping to zero under the short circuit, the
+turbo-alternators in Fisk B and Northwest Station dropped out of syn-
+chronism with each other, and out of synchronism with Quarry Street
+and Fisk A; but Quarry Street and Fisk A remained
+in synchronism
+with each other.
+d)
+Due
+to the load being taken
+off by the dropping out of syn-
+chronous machines, the turbo-alternators
+in Fisk B and in the North-
+west
+Station
+speeded up
+until
+the emergency
+governors
+tripped
+the
+steam valves.
+The turbo-alternators were put back on the governors
+immediately.
+e)
+The turbo-alternators
+in Fisk B and
+in Northwest Station did
+not pull into step with each other, but remained out of synchronism;
+the voltage
+at the busbars of these two
+stations remained
+practically
+zero, and an
+excessive current fed
+into
+Fisk B from Quarry
+Street,
+heating the power limiting reactor B.
+f )
+After 7 minutes, the tie line between Fisk Street B and Quarry
+Street, that
+is, the power limiting reactor B, was opened, and Quarry
+Street and Fisk A, came back to normal.
+About the same time, the
+30,000 KW machine in Northwest Station began to lose
+its excitation,
+and was disconnected.
+g)
+Fisk B and Northwest remained out of synchronism with each
+other,
+with
+practically zero voltage
+at the
+busbars,
+for
+six minutes
+longer.
+Then the voltage suddenly came back, the alternators in Fisk
+B pulling into synchronism with each other and with the one remaining
+(20,000 KW) machine in Northwest.
+Remarks :
+a)
+A short circuit at the busbars of a station
+section, pulling the
+voltage down to zero, necessarily must drop out
+all the synchronous
+machines on this section, unless the short circuit is opened so quickly,
+that the synchronous machines during the period of zero voltage did
+not yet drop behind by half a pole, but at the reappearance of voltage
+are still in step.
+With a dead short this would usually require opening
+the short in a fraction of a second.
+b)
+The purpose
+of
+sectionalizing
+the
+system by power
+limiting
+reactors was to
+limit trouble occurring on one station section
+to
+this
+section, and keep
+it from affecting the other sections.
+The system of sectionalizing therefore has not worked satisfactorily
+in this case, as all the synchronous machines in Northwest, and nearly
+[[END_PDF_PAGE:17]]
+
+[[PDF_PAGE:18]]
+12
+Report of Charles P. Steinmetz
+half in Fisk A and Quarry Street have dropped out due to the trouble
+in Fisk B.
+There
+is no power
+limitation between
+the Northwest
+Station and
+Fisk B, and any trouble on one of these two stations thus
+affects the
+other with practically the same severity. This is undesirable, as thereby
+trouble on one of these stations affects too large a part of the entire
+system.
+It
+is dangerous, as Fisk B and Northwest combined give too
+large a power for safe handling under all emergencies.
+Furthermore,
+due
+to
+the
+connection
+between
+these
+stations
+being
+practically
+all
+resistance and no reactance, the synchronizing power between Fisk B
+and Northwest must be small, and when synchronism is once lost under
+short circuit, etc., trouble must be anticipated in these stations pulling
+into synchronism with each other.
+The interference between Fisk A, Quarry Street and Fisk B sections
+which are connected with each other by power limiting reactors
+re-
+sults in serious trouble on one of these sections dropping out numerous
+synchronous machines in the other
+sections.
+It may partly be direct
+interference between
+the
+station
+sections,
+partly through
+substations
+fed simultaneously by several of these sections, and either requires fur-
+ther investigation.
+c)
+If the busbar voltage of a station section drops to zero by short
+circuit,
+for
+a
+sufficiently
+long time
+to permit
+the turbine
+speeds
+to
+change
+appreciably,
+this
+station
+section
+is
+out
+of synchronism with
+the rest of the system, as at short circuit of zero voltage there is nothing
+to hold
+it in step.
+As soon, however, as the short is removed, the volt-
+age should come back and the station section drop into step again with
+the rest of the system.
+This did not occur, but station sections remained
+out of step with each other at practically zero voltage for a considerable
+time, about a quarter of an hour.
+Apparently, the synchronizing power
+between the station sections is lower than desirable, and the speed con-
+trol of the
+alternators not such
+as to bring them promptly so
+close
+together in speed as to drop into
+step.
+d)
+The tandem or chain connection of the stations has the disad-
+vantage that
+if an intermediary
+station,
+as Fisk B
+or Quarry
+Street,
+even momentarily drops
+out
+of synchronism by
+a
+short
+circuit,
+the
+system
+is cut in two.
+Ring connection
+of the
+station
+sections would
+have the advantage
+that,
+if one
+station
+section drops
+out of step by
+some
+accident,
+all the other
+station
+sections are
+still
+connected with
+each other and thereby can remain in synchronism.
+[[END_PDF_PAGE:18]]
+
+[[PDF_PAGE:19]]
+Report of Charles P. Steinmetz
+13
+2.)
+Oct. 22nd, 191912:20 P. M.
+The trouble was very similar to that on September 18th, 3:37 P. M.,
+a short circuit close to the busbar of Fisk B, except that:
+a)
+The short circuit apparently opened very quickly.
+b)
+The
+tie
+lines were operated manually, separating Fisk B and
+Northwest stations.
+c)
+Most of the synchronous machines on Fisk B and Northwest,
+and a few on Fisk A and Quarry Street dropped out:
+Of 52 synchron-
+ous machines on Fisk B and Northwest, 46 are recorded
+as dropped
+out, six as remaining in synchronism; of 6 machines on Quarry Street,
+2, and of 35 machines on Fisk A, 4 dropped out, the remaining stayed
+in step.
+d)
+In Fisk Street B, and Northwest, the voltage dropped to prac-
+tically zero, but came back at the opening of the tie line.
+Remarks:
+Apparently,
+the
+interference between
+the
+stations was
+less
+in
+this
+case, probably due to the short duration of the short circuit, and the
+opening of the tie line B, so that only few synchronous machines
+fell
+out in the other sections, and some even stayed in step in the disturbed
+section if the report is correct.
+3.)
+Sept. 18th, 19195:27 P. M.
+a)
+One hour forty minutes after the
+first trouble, resulting from a
+short near the busbars of Fisk
+B, a short
+circuit occurred near
+the
+busbar
+of Fisk A, and held
+for
+several
+seconds, while
+the
+tie
+line
+reactor B was
+still open, that
+is, Fisk B and Northwest cut
+off from
+Quarry Street and Fisk A.
+b)
+All synchronous machines on Fisk A dropped
+out, and a few
+on Quarry Street, Fisk B and Northwest; 39 synchronous machines on
+Fisk A are recorded as having dropped out, 3 on Quarry Street, 5 on
+Fisk B and 1 on Northwest.
+Remarks:
+a)
+Some synchronous machines dropped out on Fisk B and North-
+west, although
+the
+tie
+line between
+these
+stations and
+the
+station
+in
+which the trouble occurred, was
+open, showing
+interference between
+generating
+stations
+through
+the
+substations;
+these
+synchronous
+ma-
+chines were
+in the same
+stations with machines
+fed from Fisk A or
+Quarry Street.
+[[END_PDF_PAGE:19]]
+
+[[PDF_PAGE:20]]
+14
+Report of Charles P. Steinmetz
+b)
+The synchronous machines on Fisk B, Northwest and Quarry
+Street, which dropped out, did so by overload.
+This
+is undesirable as
+with numerous synchronous machines, fed from the troubled station A,
+dropped out, those which receive power from the other stations should
+hold on to carry the load.
+4.)
+May 19th, 1919
+7:25 A. M.
+a)
+A generator in Fisk Street A burned out, short circuiting with
+only the generator power limiting reactance, of about .4 ohms, between
+the short and the busbars.
+b)
+The voltage dropped about 1,000 volts in
+all four
+station sec-
+tions
+a little more in Fisk A, where the trouble occurred, a little less
+in Fisk B and Northwest, the stations most remote from the trouble.
+c)
+A violent fluctuation of voltage resulted in all four stations, with
+an amplitude apparently of 1,000 to 2,000 volts, most severe in Fisk A,
+where the trouble originated, of an irregular period of about 1 second
+per beat.
+d)
+The tie line reactor B, got very hot.
+e)
+The drop
+of voltage and the voltage
+fluctuation
+lasted
+for 18
+minutes, with only slight decrease.
+Then they suddenly disappeared
+and normal voltage returned.
+f)
+During the disturbance, the frequency of the system fluctuated
+by about two cycles, that is 8%, and three machines in Fisk A
+where
+the trouble originated
+tripped their excess speed governors and
+cut
+off steam.
+g)
+Some synchronous machines dropped out of step, but the exact
+record
+is no more available.
+Remarks:
+a)
+The
+fluctuation and drop
+of voltage, extending over
+all
+four
+stations, and
+its long duration, probably were of similar nature and
+cause
+as the
+loss
+of voltage
+in
+the trouble on September
+18th and
+October 22nd.
+b)
+The most serious
+question, which unfortunately cannot be
+de-
+cided with the present data,
+is
+:
+whether this voltage drop and fluctua-
+tion was an
+actual
+hunting
+of
+the
+generating
+stations
+against
+each
+other, due to lack of synchronizing power, or whether
+it was hunting
+of the steam governors of the stations against each other, or whether
+it was only apparent, and due to the reaction on the generators of the
+substations when starting synchronous machines.
+This should be fur-
+ther investigated.
+[[END_PDF_PAGE:20]]
+
+[[PDF_PAGE:21]]
+Report of Charles P. Steinmetz
+15
+c)
+It appears to me certain that in this case the generating stations
+have remained in synchronism with each other throughout the entire
+18 minutes of disturbance.
+If the station sections had dropped out of
+synchronism with each other, materially greater voltage drops should
+have occurred.
+d)
+The observed speed fluctuation, by 8%, then would mean that
+the
+entire system
+simultaneously
+speeded up and slowed down, but
+not that material speed differences existed
+at the same time between
+different turbines.
+During such periodic speed pulsations, temporarily
+some machines may run
+faster than
+others, but
+for such
+short time
+only, as not to slip out of synchronism.
+As the observed speed fluctua-
+tion is close to the range, for which the excess speed governors are set,
+it may be expected that some machines may trip their emergency cut
+off, and as the speed fluctuation may be expected to be greatest at the
+source of disturbance, Fisk A, the tripping out may be expected first in
+Fisk A, as was observed; 3 machines tripped out there.
+e)
+Suppose a large number of synchronous machines are tripped
+out by a momentary short circuit, but the voltage immediately comes
+back at the opening of the short, and a number of substations immedi-
+ately proceed to start their synchronous machines from the alternating
+side.
+Even
+with such
+large
+station
+sections,
+the
+starting
+of
+several
+large synchronous machines would temporarily pull down the voltage.
+The voltage would rapidly recover by the speeding up of the synchron-
+ous machines which had been
+started.
+This would cause some other
+substations
+to
+start their synchronous machines and again pull down
+the voltage, and so a series of successive voltage drops and recoveries
+would result in irregular sequence, until the last synchronous machine
+is started.
+This would, in the voltage curve, give the appearance of a
+hunting pulsation, such as shown by the records.
+This theoretically
+is
+a possibility, but whether
+it was the cause, cannot be decided from the
+records.
+Synchronoscopes between the station sections, however, would
+indi-
+cate that
+it
+is not
+a
+true
+hunting, due
+to
+instability
+of
+the
+station
+sections, but a voltage fluctuation due to excessive fluctuating lagging
+load, as given by the starting of synchronous machines.
+f)
+Sufficiently
+sensitive synchronoscopes between
+the
+station
+sec-
+tions would
+indicate whether the
+station
+sections
+are
+in phase with
+each
+other
+or out of synchronism, whether they are hunting against
+each
+other, and whether and what phase displacement
+exists between
+the station sections.
+[[END_PDF_PAGE:21]]
+
+[[PDF_PAGE:22]]
+16
+Report of Charles P. Steinmetz
+HI
+OPERATION
+Momentum of Alternators
+The emergency steam cut offs of the turbo-alternators are stated to
+he set for an excess speed of about 10%.
+Considering the 12,000 KW units typical and of most interest, since
+most of the units in Fisk Street where the trouble originated are of this
+size.
+An increase of speed of 10% with the steam valve open for full load,
+would require 2 2/3 seconds.
+With the steam valve opened for over-
+load, by a momentary short circuit, the speeding up to the speed limit
+would occur
+still more rapidly.
+The ordinary steam governor cannot
+well be made to act quicker than this, in cutting steam off completely,
+without danger of steam governor hunting interfering with the stability
+of the system; furthermore, all the steam in turbine and the passages
+beyond the valve would still accelerate
+it.
+Thus tripping of the excess
+speed emergency steam cut
+off may be expected whenever a serious
+short circuit on a station section drops out all the synchronous machines
+and thereby suddenly relieves the load.
+Deceleration
+tests were made by the operating engineers on
+four
+turbo-alternators, with excitation and without excitation, by allowing
+the machines to speed up on the
+throttle,
+until the excess speed cut
+off tripped, and then observing the rate of slowing down.
+The observed excess speed above normal,
+at which the emergency
+cut off operated, varied from 6.7% to 12% with the different machines,
+and varied by as much as 1.3%
+in successive tests of the same ma-
+chine.
+With the steam valve wide open during acceleration, an appre-
+ciably higher excess speed may be expected.
+The rate of slowing down, after the steam is cut off, varied from 4%
+to 13.4% per minute at no excitation and from 6.75%
+to 20.4% per
+minute with the field excited.
+It follows herefrom:
+suppose by a short circuit
+lasting an appre-
+ciable time, the load
+is dropped, and the turbo-alternators speed up
+and trip their emergency steam valves and then begin to slow down.
+Then the individual turbo-alternators in the different station
+sections,
+and even
+in the same station
+section, may be expected
+to
+differ ma-
+terially from each other in speed, probably as much as 5 to 10%.
+With such great differences of speed, between the different machines,
+diffiulties in synchronizing, that
+is, in the machines pulling each other
+into step, may be expected, especially between different station sections.
+[[END_PDF_PAGE:22]]
+
+[[PDF_PAGE:23]]
+Report of Charles P. Steinmetz
+17
+SYNCHRONIZING
+A
+If two alternators, or groups of alternators, such as station sections,
+are connected together in synchronism, that
+is, at the same speed, but
+out of phase with each other, they tend to pull each other into phase.
+The machine which
+is ahead
+in phase, gives
+off power and thereby
+drops back, slows down, and the machine which
+is behind in phase,
+receives power and thereby runs ahead, speeds up, and as the
+result,
+when the two machines have come in phase with each other, the one
+which was ahead,
+is going slower, the one which was behind
+is going
+faster, and the former now drops behind, the latter runs ahead in phase,
+and the phase difference between the machine
+reverses, and the ma-
+chines thus oscillate against each other, while the interchange current
+between the machines fluctuates between a maximum value at maximum
+phase difference, and zero or a minimum value when machines are in
+phase.
+If there were no damping effects, this
+oscillation would con-
+tinue with constant amplitude. Due to the damping effects exerted mainly
+by the lag of the
+field
+flux behind the resultant field excitation
+(the
+armature
+reaction
+component
+of
+the
+synchronous
+impedance),
+the
+amplitude of the
+oscillation steadily diminishes,
+until the oscillation
+disappears.
+That
+is, the interchange current between two alternators
+which are in synchronism but out of phase, pulsates, with approximate-
+ly constant frequency of the beat, but with an amplitude, which grad-
+ually decreases to nothing.
+If the EMFs of the two machines are equal, then
+at the moment
+when the two machines are in phase, there
+is no resultant EMF, and
+thus no current, and when the machines are out of phase, the resultant
+EMF
+is approximately in quadrature with the EMF of either machine.
+If then
+the
+circuit between
+the two
+machines
+should
+contain
+only
+resistance but no reactance, the interchange current between the two
+machines would be in phase with the resultant EMF, thus in quadrature
+to the EMF of either machine, or a wattless current with regards to the
+EMFs of the machines, that
+is, there would be no power transfer be-
+tween the machines, or no synchronizing power.
+If, however,
+in the
+circuit between the two machines the resistance
+is negligible compared
+with the reactance, the interchange current lags
+(approximately), 90
+degrees behind the resultant EMF, thus is in phase with the EMF of the
+one machine, in opposition with that of the other machine, thus
+is an
+energy current consuming power from the one and delivering power
+to the other machine.
+Thus only the reactive component of the inter-
+change current between two alternators which are in synchronism but
+[[END_PDF_PAGE:23]]
+
+[[PDF_PAGE:24]]
+18
+Report of Charles P. Steinmetz
+out of phase, transfers power between the alternators and is synchron-
+izing current, while the energy component of the interchange current
+does not contribute to bring the machines into phase.
+If the EMFs of the two machines are unequal, then upon the power
+transferring or synchronizing current due to the phase difference, super-
+poses a reactive current which magnetizes the machine of lower voltage
+and thereby raises its voltage, and demagnetizes the machine of higher
+voltage and thereby lowers its voltage, but does not transfer power be-
+tween the machines and does not appreciably change the phenomena
+of power transfer by the synchronizing current, so that here and in the
+following, where we
+are mainly
+interested
+in
+the magnitude
+of the
+effects, we may for simplicity assume equality of EMF of the machines.
+B
+If two alternators or groups of alternators such as station sections,
+are connected together out of synchronism, that is while differing from
+each other in frequency, they slowly slip past each other, and during
+each cycle of slip, or beat, a periodic energy transfer takes place, while
+the interchange current periodically rises and falls.
+During one-quar-
+ter the cycle of slip, or beat, the alternators are partly in phase with
+each other, that
+is, their EMFs are in the same direction.
+The slower
+machine then receives energy and accelerates, the faster machine gives
+off energy and slows down and the two machines thus
+are brought
+nearer
+to each other
+in speed, pulled towards synchronism.
+During
+the next quarter cycle of speed, however, the alternators are partly in
+opposition, that
+is their EMFs are in opposite directions.
+The faster
+machine then receives energy and speeds up, the slower machine gives
+off energy and slows down, and the two machines pull apart again, by
+the
+same
+amount by which
+they
+pulled
+together
+in
+the
+preceding
+quarter cycle of
+slip.
+Thus the machines can pull
+into step only
+if
+the energy transferred during one-quarter cycle of slip
+is
+sufficient to
+bring them
+into
+step,
+that
+is,
+is
+larger than the energy
+required
+to
+speed the momentum of the slower machine up to synchronous speed
+(or slow down the momentum of the faster machine to synchronism)
+.
+This gives the maximum value of slip from synchronism, at which the
+machines will promptly pull into step, or the limits of synchronizing
+power.
+c
+If, however, the two machines, or station
+sections,
+are out of syn-
+chronism with each other by a greater speed difference than that from
+which they can pull each other into step
+in one-quarter cycle of slip,
+[[END_PDF_PAGE:24]]
+
+[[PDF_PAGE:25]]
+Report of Charles P. Steinmetz
+19
+and
+if the machine voltage were perfectly constant, then the machines
+would never come into synchronism, but would continue
+indefinitely
+to slip past each other, coming nearer together during the one-quarter
+cycle of slip where their voltages are in the same direction, and drifting
+apart again by the same amount during the next quarter cycle of slip,
+where their voltages are in opposition.
+In reality, however, the EMF
+of the machines
+is not constant, but must vary periodically with the
+frequency of the current fluctuations,
+that
+is, twice the frequency of
+the
+slip.
+The current in the
+circuit between the two alternators pul-
+sates, between large values during the quarter cycle of slip, when the
+EMFs
+of the
+alternators are
+in opposition, and small values during
+the next quarter cycle of slip, when the EMFs are in the same direction,
+and with it varies the armature reaction.
+The phase difference between
+the
+resultant
+current, and
+the EMF
+of each
+alternator
+periodically
+changes from
+to 360 degrees, during each cycle of
+slip.
+With the
+periodic
+fluctuation of the current and
+its phase angle, the armature
+reaction of the machine fluctuates, and thereby
+gives a periodic
+fluc-
+tuation of voltage.
+As, however, the armature
+reaction
+requires an
+appreciable time
+to
+develop,
+the voltage
+fluctuation
+is not
+in
+phase
+with the fluctuating current, but lags behind
+it, by an angle depending
+on the time required for the armature reaction to exert its magnetizing
+effect.
+The result thereof
+is that the power interchange between the
+two
+alternators
+is not
+entirely
+alternating with the frequency
+of the
+slip,
+that
+is,
+alternately
+accelerating
+each machine and
+then
+again
+slowing
+it down by the same amount, but has a constant though small
+component, which
+is positive, that
+is, accelerating
+in the slower, and
+negative, that
+is
+retarding,
+in the
+faster machine.
+This represents
+a
+continuous
+synchronizing power, which
+steadily
+pulls
+the
+machines
+together in speed, until their speed difference has become small enough
+to pull suddenly
+into
+step.
+If thus two
+alternators, or
+station
+sections, are out of synchronism
+with each other by so great a frequency difference,
+that they cannot
+pull each
+other
+into
+step
+within
+one-quarter
+cycle of
+slip, then
+the
+alternators
+continue
+slipping
+past each
+other,
+with
+large
+fluctuating
+currents
+flowing between them.
+These current
+fluctuations
+and
+the
+voltage fluctuations caused by them
+do not decrease
+(as
+in hunting
+or in other synchronous oscillations), but remain practically constant
+in amplitude, but the fluctuations gradually become slower, that
+is, the
+frequency of beats decreases, while the machines pull nearer together
+in frequency, that
+is, their speed difference decreases, until the critical
+speed difference
+is reached, where the acceleration during one-quarter
+[[END_PDF_PAGE:25]]
+
+[[PDF_PAGE:26]]
+20
+Report of Charles P. Steinmetz
+cycle of slip brings the machine up to
+full synchronism.
+Then sud-
+denly the machines drop into step with each other, the excess current
+vanishes and normal voltage comes back, after a short oscillation of
+constant frequency of beats, but rapidly decreasing amplitude.
+Apparently, this is what happened in the trouble on September 18th,
+1919.
+If two alternators or groups of alternators such as station sections,
+are connected to each other through a reactance, and the driving power
+of each group of alternators equals its load (plus losses), then no cur-
+rent and no power flows over the dividing reactor, and both alternators
+are in phase.
+If now, with the same load, the driving power on one
+alternator is increased, on the other decreased, or with the same driving
+power, the load on the one
+is increased, on the other decreased, but
+the terminal voltage kept the same, then current and power flows over
+the dividing reactor, resulting in a phase displacement between the two
+alternators
+(or
+station
+sections).
+This phase displacement
+increases
+with the increase of power transfer.
+This gives a case where current
+and power is carried over a reactance from one circuit to another one,
+without any voltage drop.
+It
+is
+this, on which
+the
+use of
+limiting
+busbar reactors
+is based.
+The power transfer reaches a maximum at
+90 degrees phase displacement;
+this gives the limits of synchronizing
+power, and any further increase of power transfer causes the two alter-
+nators to drop out of synchronism with each other.
+Too large reactance between the alternators reduces the synchroniz-
+ing power by limiting the synchronizing current;
+too small reactance
+may again reduce the maximum synchronizing power by lowering the
+EMF by the large voltage drop due to the large interchange currents.
+With a capacity of about 60,000 KW per station section and machines
+of the general
+characteristics
+of those involved (100%
+synchronous
+reactance, \2^/^% true reactance, in average) , maximum synchronizing
+power would require a reactance between each station section and the
+rest of the system of a
+little
+less than one ohm, so that the proposed
+arrangement of ring connection of the stations through power limiting
+reactors of 1.75 ohms should give about the maximum synchronizing
+power.
+Mathematical and numerical
+data pertaining
+to
+the preceding
+are
+given in the Appendix.
+[[END_PDF_PAGE:26]]
+
+[[PDF_PAGE:27]]
+Appendix
+[[END_PDF_PAGE:27]]
+
+[[PDF_PAGE:28]]
+22
+Report of Charles P. Steinmetz
+APPENDIX
+Synchronous Operation
+A
+Consider the case of two
+alternators or groups of alternators
+such as station sections, which are running in synchronism with each
+other, that is, have the same frequency f, but are connected together
+while out of phase with each other by angle 2w.
+That
+is, the one
+alternator
+has
+the
+voltage
+phase
+(<f>
+to),
+the
+other
+the
+voltage
+phase (0+w).
+We may assume the
+alternators
+as
+of equal
+voltage,
+since
+a
+voltage difference superposes on the synchronizing energy current
+due to the phase difference, a reactive magnetizing current due to
+the
+voltage
+difference
+without
+materially
+changing
+the
+energy
+relations.
+The EMFs of the two alternators then may be represented by:
+ei = E cos (0
+co)
+1
+e2 = Ecos (0+co)
+/
+(1)
+and the resultant voltage in the circuit between the alternators then is :
+e = ei
+e 2
+= E cos
+\
+(<f>
+co)
+cos
+(</>+ co)
+[
+= 2E sin
+co sin
+(2)
+and the interchange currentwbeteen the alternators is:
+2E
+.
+i =
+sin
+co sin
+(<j>
+a)
+(3)
+where:
+z = r2+x
+2
+is the impedance of the circuit between the two alternators, and the
+phase angle a is given by:
+x
+tan a = -
+r
+and:
+r= resistance
+x = reactance
+of
+the
+circuit
+between
+the
+alternators
+(including
+their
+internal
+resistances and reactances).
+[[END_PDF_PAGE:28]]
+
+[[PDF_PAGE:29]]
+Report of Charles P. Steinmetz
+23
+The power of one of the two alternators then is given by:
+2E
+2
+=
+sin
+co sin
+(d>
+a) cos
+(<f>
+co)
+z
+E
+2
+f
+1
+=
+sin
+co sin
+{ (20
+a
+co)+sin
+(co
+cm
+Z
+I
+J
+E
+2
+E
+2
+E
+2
+=
+sin
+co sin
+(2<f>
+a
+0))+^- cos a
+jr- cos (2co
+a)
+(4)
+^7
+^7
+The phase angle
+co of the EMF is not constant, but pulsates with
+approximately constant low frequency, the frequency of the beat,
+and decreasing amplitude.
+co =co oe
+= maximum value
+of the phase
+angle,
+then may
+approximately
+represent
+the
+gradually
+decreasing
+amplitude
+of
+the phase angle, where a = attenuation of the beat or oscillation, and
+-at
+.
+...
+co=a>oo
+sin pc/>
+(5;
+would approximately represent the instantaneous value of the phase
+angle
+co where:
+pf= frequency of the beat, or the periodic variation of the phase
+angle.
+[In the derivation of equations
+(3) and
+(4),
+co has been assumed
+as constant.
+As
+co is not constant, but by (5) a function of <, addi-
+tional terms appear in equations
+(3) and
+(4).
+Since, however, the
+frequency of variation of
+co is very low compared with the frequency
+of
+<j>
+: p = a small quantity ; these additional terms in (3) and (4) are
+small, and equations (3) and (4) are correct with sufficient approxima-
+tion, especially in the present case, where we are essentially interested
+in the magnitude of the power relations.]
+In equation (4), the first term:
+E
+2
+.
+Pi
+sin
+co sin
+(2c>
+a
+co)
+is of double the frequency
+2f.
+It thus does not represent energy
+transfer between
+the two
+alternators,
+but merely
+represents
+the
+energy storage and return, twice per cycle, occurring in any inductive
+circuit.
+It thus is of no further interest.
+The second term
+p"i=- cos a
+[[END_PDF_PAGE:29]]
+
+[[PDF_PAGE:30]]
+24
+Report of Charles P. Steinmetz
+gives, substituting cos a = -
+;
+z
+E
+2g
+P"i=2?
+2
+where g is the conductance of the circuit.
+That is, this term is the
+energy loss in the conductance, that is, the resistance of the circuit,
+and thus also is of no further interest.
+The third term:
+p'Y=-!|cos(2a>-a)
+is of the low frequency of the beat, or the current fluctuation between
+the two
+alternators:
+pf.
+It thus represents the energy transfer
+between the two alternators, during their periodic oscillations,
+or, resolving the last equation:
+E
+2
+E
+2
+p'Y=
+TT sin a sin 2a>
+=- cos a cos w.
+2z
+2z
+The second term:
+E 2
+p'Y'=
+- cos
+a. cos
+a>
+has the same sign for negative w, that is, when the machine is lagging,
+as for positive w when the machine is leading, thus it represents no
+energy transfer between the machines.
+The synchronizing power, or energy transfer during the synchro-
+nizing oscillations of two alternators, which are out of phase but in
+synchronism, thus is given by the expression:
+E
+2
+P=- sin a sin 2co
+(6)
+Thus, the synchronizing power p, is a maximum, and
+is :
+_E
+2
+.
+for a = 90 degrees, that
+is,
+if the resistance r of the circuit between
+the alternators is negligible compared with the reactance.
+The synchronizing power p =
+for a = 0, that is, in the (theoretical)
+case, when the circuit between the alternators contains no reactance,
+but only resistance.
+For phase angles w up to 45 degrees, that is, phase displacements
+between the two alternators up to 2 w = 90 degrees, the synchronizing
+power increases ; beyond this it decreases again and becomes zero for
+2w=180 degrees phase displacement.
+[[END_PDF_PAGE:30]]
+
+[[PDF_PAGE:31]]
+Report of Charles P. Steinmetz
+25
+The average value of p may be approximated by:
+E 2
+.
+2 (l-cos2a>
+)
+E 2
+.
+avg. p=^r
+sin a
+- -- =- sin a (1
+cos 2a>
+)
+2Z
+7T
+COo
+7TCOZ
+where
+coo denotes the maximum value of
+co
+and as the duration of one half cycle of oscillation
+during which the
+power transfer remains in the same direction
+is given by equation
+(5) as:
+p$ = 27rpft = 7r
+that is,
+t==
+2p~f
+The energy transfer between the two machines, during each half
+cycle of oscillation, is given by:
+W =
+avg. p.
+(8)
+F 2
+sin a (1
+cos 2&>
+)
+2 TrpfcooZ
+in
+this, E
+is the maximum value of the voltage of each machine.
+Denoting by :
+F
+- E
+E ~72
+the effective value of the machine voltage, gives the effective values :
+Resultant voltage:
+e = 2E
+sinco
+(2
+1
+)
+Current:
+2F
+io=
+- sin w
+(3
+1
+)
+z
+Power transfer:
+F
+2
+p=
+sin a sin 2co
+(6
+l
+)
+z
+Energy transfer during each half cycle of oscillation or beat:
+W= ^-sin a (1-cos 2 Wo )
+(8
+1
+)
+TrpfwoZ
+where :
+co=cooo
+sin p<
+(5)
+is
+the
+angle
+of phase
+displacement
+of
+either machine, from
+the
+average ;
+[[END_PDF_PAGE:31]]
+
+[[PDF_PAGE:32]]
+26
+Report of Charles P. Steinmetz
+z= Vr 2+x
+2
+t an a = -
+r
+r= resistance of circuit.
+x = reactance of circuit.
+p= frequency ratio of beat or oscillation, that is,
+pf= frequency of oscillation, and
+E = effective value of machine EMF.
+As seen from the equations, during each complete cycle of the
+oscillations, of frequency pf, the current i twice rises and falls, thus
+reaching two maxima, and the power p twice reaches a maximum
+and twice reverses, so that the energy W flows one way during half
+the cycle, and in the opposite direction during the other half cycle.
+The frequency of the rise and fall of the current thus is 2 pf.
+Figure 1.
+I and II show the curve i and voltage ei of the oscilla-
+tion,
+for
+the
+(exaggerated)
+value p = .l,
+for
+o> =45
+degrees and
+wo = 90 degrees.
+B
+Consider now the case that two alternators, or groups of alter-
+nators such as station sections, are connected together while different
+from each other in frequency by 2s, that
+is, one alternator has the
+frequency (1
+s)
+f, the other the frequency (1+s)
+f.
+We may again assume the alternators as of equal voltage, since a
+voltage difference merely superposes on the synchronizing energy
+current a reactive'magnetizing current, without materially changing
+the energy relations.
+The EMFs of the two alternators then may be represented by:
+CI=E cos (i
+s)j<
+\
+e 2 = E cos (1+s)
+<t>
+J
+(9)
+The resultant voltage in'the circuit between the two alternators then is
+:
+e = ei
+e 2
+= E<cos (1
+s)
+<p
+cos (1+s)
+<f>\
+= 2E sin s0 sin
+<
+(10)
+[Assumingjnow that s is a small quantity (just as we assumed in
+A, that p is a^small quantity), that is, that the two alternators have
+nearly the samejfrequency.
+The change of sin
+s<
+then is slow com-
+pared with that of sin<, and for all phenomena of the frequency
+f,
+sin
+s<j> may be assumed as constant, and the reactance of the circuit
+[[END_PDF_PAGE:32]]
+
+[[PDF_PAGE:33]]
+Report of Charles P. Steinmetz
+27
+may be assumed as the same, x = 27rfL, for both component EMFs,
+ei and e 2 that
+is, for both frequencies (1
+s) f and (1+s)
+f.]
+The interchange current between the alternators then is:
+i =
+sin
+s<t> sin (0
+a)
+z
+.
+where:
+z= Vr 2+x
+2
+tana=-
+(11)
+With regards to the EMF of one of the alternators, for instance,
+ei this current always lags.
+Its lag is 90 degrees when the current is
+a maximum.
+With decrease of current, the lag decreases from 90
+degrees in the one, and increases in the next beat, and approaches in
+phase respectively in opposition, when the current
+is a minimum.
+The power factor thus varies from zero at maximum
+current,
+to
+unity at zero current, and its average thus is low.
+Fig.
+1 shows as
+Curve III the relation of ei to i for the exaggerated values s = .09.
+The power of one of the two alternators then is given by :
+2F" 2
+=
+- sin
+s<
+sin ($
+a) cos (1
+s)
+<f>
+E
+2
+f
+|
+=
+sin s0
+<
+sin [(2
+s)
+<f>
+a]+sin
+(s<
+a)
+>
+z
+I
+J
+TT 2
+TT 2
+TT 2
+=
+sin
+sin [(2
+s)
+<4
+a]-}-s- cos a
+^- cos (2sd>
+a)
+z
+2z
+2z
+The
+first term again
+is the double frequency term representing
+the energy storage by inductance; the second term
+is the power
+consumed by the resistance of the circuit.
+Neither thus represents
+energy transfer between the alternators.
+The third term
+:
+E2
+(sj,_
+\
+(i2\
+is
+a
+slow
+pulsation
+of
+energy,
+which
+alternately
+accelerates
+the
+machine and thus tends to bring it nearer to synchronism, and then
+retards it again.
+Usually, it is approximately: a = 90 degrees, that is, the reactance
+is large compared with the resistance, and equation
+(12) then be-
+comes :
+[[END_PDF_PAGE:33]]
+
+[[PDF_PAGE:34]]
+28
+Report of Charles P. Steinmetz
+E
+2
+p =
+2^sin2s<
+During each cycle of the frequency sf, of the
+slip from synchro-
+nism or average frequency, the amplitude of the current
+i thus twice
+becomes zero and in phase, and twice reaches a maximum, when the
+alternators are in opposition, and the power p four times reaches a
+maximum and four times becomes zero and reverses, twice when
+the current comes into phase with the EMF, but the current becomes
+zero, and twice when the current is a maximum, but in quadrature
+with
+the EMF, and the power thus becomes
+zero.
+The power
+transfer between the alternators thus reverses four times per com-
+plete cycle of slip, sf, that is, is of the frequency 2sf, with two positive
+and two negative maxima.
+The average value of the power is:
+2 = Ef
+7T
+7TZ
+and as the duration of one quarter cycle of slip is t =
+j-p, the energy
+transfer between the two machines, during a quarter cycle of slip
+thus is:
+1
+2
+-S55
+There is thus that difference between the slipping of alternators
+past each other out of synchronism, and the oscillation of the alter-
+nators against each other at synchronism
+(A), that in the slipping
+the power fluctuation and the reversal of the energy is of twice the
+frequency of the current fluctuation, while in the oscillation of the
+alternators against each other at synchronism, the power fluctuation
+or reversal of energy flow
+is of the same frequency as the current
+fluctuation.
+If two alternators
+are connected together while out of synch-
+ronism, and slowly
+slip past each other, during each half cycle of
+slip, or beat, while the two machines EMF pass from in phase to in
+opposition to in phase again, a periodic energy transfer takes place.
+During one quarter cycle of slip (that
+is, while one alternator EMF
+slips behind, the other pulls ahead of the minimum frequency by
+one quarter cycle, and the two alternator EMFs thus
+slip against
+[[END_PDF_PAGE:34]]
+
+[[PDF_PAGE:35]]
+Report of Charles P. Steinmetz
+29
+each other by one quarter cycle), the alternators are partly in phase
+with each other, and the slower machine receives energy from the
+faster machine.
+The two machines are thereby brought nearer to
+each other in speed, pulled towards synchronism.
+During the next
+quarter
+cycle of
+slip, however,
+the two
+alternators
+are partly
+in
+opposition, and the faster machine receives energy from the slower
+one.
+The faster machine then speeds up, the slower machine slows
+down, and the two machines pull apart again, by the same amount
+by which they pulled together in the preceding quarter cycle of slip
+(if their EMF
+is constant).
+Thus the two machines can pull into
+step only if the energy transferred during one quarter cycle of slip,
+W, is larger than the energy required to speed up the momentum M
+of the machine, to full synchronism.
+Due to the energy transfer W between the machines, resulting
+in an alternate speeding up and slowing down, the slip s is not con-
+stant, but pulsates periodically, between the minimum value s
+Si,
+at the end
+of the quarter
+cycle during which the machines pull
+together, and
+beginning
+of
+the
+quarter
+cycle
+during which
+the
+machines pull apart, and a maximum value s+Si, at the end of the
+quarter cycle, during which the machines pull apart, and beginning
+at the quarter cycle during which the machines pull together
+where
+Si is the amplitude of the pulsation of slip.
+As the energy required
+to accelerate the momentum M of the machine by the speed 2s i
+is
+4s jM, it follows:
+W
+E
+2
+l
+16
+7rsfzM
+is the amplitude
+of the speed fluctuation
+of the two
+alternators
+during their slipping past each other, out of synchronism with the
+slip
+s.
+Si = s gives the minimum slip s
+Si = 0, that is, the machines pull
+into synchronism.
+The maximum
+slip
+Si from which the two machines
+pull into
+synchronism with each
+other, thus
+is given by
+substituting
+si = s
+in (14), as:
+E
+So=
+[[END_PDF_PAGE:35]]
+
+[[PDF_PAGE:36]]
+30
+Report of Charles P. Steinmetz
+So thus is the limit of synchronizing power.
+Substituting again the effective value of EMF, E
+, for the maxi-
+mum value E, by:
+JR
+Eo= V2
+gives the effective values:
+Resultant voltage:
+e = 2E
+sins4>
+(10
+l
+)
+Current:
+2F"
+io = ^-sins<
+(Hi)
+z
+Power transfer:
+p =
+cos (2s0-a)
+(12
+1
+)
+X
+Energy transfer during one quarter cycle of sUp:
+Amplitude of pulsation of slip:
+Critical Slip, from which
+the machines pull each other into synchro-
+nism, or limits of synchronizing power:
+These expressions are very similar to those of A, with
+s<
+taking
+the place of
+, and 2s the place of p.
+C
+With two machines out of synchronism with each other by a
+greater speed difference 2s, than that, from which the machines can
+pull each other into synchronism within one quarter cycle of slip,
+from the equations of B it would follow, that the machines can never
+pull each other into synchronism,
+if the voltage E
+is constant, but
+must indefinitely continue to
+slip past each other, coming nearer
+together during one quarter cycle of slip, and dropping apart again
+by the same amount during the next quarter cycle of slip.
+This, however, is under the assumption, that the machine EMF
+E
+is constant.
+In reality, however, E
+is not constant, but varies
+periodically with the same frequency as the current fluctuates.
+The
+[[END_PDF_PAGE:36]]
+
+[[PDF_PAGE:37]]
+Report of Charles P. Steinmetz
+31
+current in the circuit between the machines and thus the armature
+reaction in the machine varies in amplitude and in phase difference
+against the machine voltage, and the machine voltage varies with
+the amplitude and the phase of the armature reaction.
+Consider,
+as approximation,
+the armature reaction as propor-
+tional to the quadrature component of the current.
+The EMF of
+the machine would then be expressed by an approximate equation of
+the form:
+E = E
+|
+1
+c sin
+s<
+sin
+<f>
+\
+where
+<f> is the phase angle between the current and the EMF and
+sins0 represents the amplitude of the current pulsation, by (II
+1
+)
+it is, however, by (9) and (11):
+<p=(<f>
+a)
+(1
+s)
+90 degrees
+= s0
+a+90 degrees
+thus:
+f
+1
+E = E
+| l+c sin s0 cos (s0
+a)
+j>
+(16)
+Substituting
+(16) into the expression of the power of the alter-
+nator (12
+x
+), the equations
+still remain alternating, that
+is, there
+is
+no resultant synchronizing power, but equal positive and negative
+values of power alternate.
+However, (16) assumes that the magnetizing effect of the armature
+reaction
+is instantaneous, that
+is, that the EMF E at any moment
+is the value corresponding to the armature reaction existing at this
+moment.
+This, however, is not the case, and the armature reaction
+is
+not
+instantaneous,
+but
+requires
+an
+appreciable
+time,
+several
+seconds, to develop, and the magnetizing or demagnetizing effect of
+the armature reaction on the voltage therefore materially lags behind
+the armature reaction.
+Let then a = angle of lag of the voltage change behind the armature
+reaction which causes it.
+It is then
+f
+1
+E = E
+{ l+c sin s0 cos (s0-a
+<r)
+\
+(17)
+I
+J
+and, substituting (17) into (12
+1
+), give the power transfer between the
+machines :
+E
+2
+f
+1
+2
+p=
+- cos (2s0 = a)
+\ 1+c sin s0 cos (s0
+a
+a)
+\
+z
+[[END_PDF_PAGE:37]]
+
+[[PDF_PAGE:38]]
+32
+Report of Charles P. Steinmetz
+or approximately, since c is a small quantity:
+p =
+cos (2s$
+a) -\
+cos (2s0
+a) sin s$ cos (s0
+a
+a)
+z
+z
+The first term:
+E
+2
+p' = -
+cos (2s$
+a)
+is
+the
+slowly
+alternating
+energy
+transfer between
+the
+machines
+which causes
+their speed to
+fluctuate, but does not permanently
+bring them nearer to each other, that
+is,
+exerts no synchronizing
+power.
+The second term :
+p" =
+cos (2s0
+a) sin s<
+cos
+(s<
+a
+a)
+z
+f
+=
+- cos (2s0
+a) | sin (a
+- sin (a+o-) cos (2s0
+a)+^^-|sm(4s0
+2a
+<r)
+sina-
+The first two terms of this expression :
+TT
+2
+sin (a+a) cos (2s<
+a)
+sin
+4s</>
+2a
+z
+and
+cE
+2
+2z
+are slowly
+alternating, thus represent no permanent
+acceleration,
+that is, no synchronizing power.
+The third term however:
+cE
+2
+.
+P ~2z~ Sm *
+'
+'
+is constant, that
+is, represents a continuous synchronizing power,
+which steadily pulls the machines together, until their speed differ-
+ence 2s has become small enough to pull the machines suddenly into
+step.
+If thus two alternators or station sections, are considerably out
+of synchronism with each other, they continue slipping past each
+other, with large fluctuating currents flowing between them, and the
+speeds of the machines fluctuating with the fluctuation of the current.
+These currents do not decrease in amplitude, but remain of practically
+[[END_PDF_PAGE:38]]
+
+[[PDF_PAGE:39]]
+Report of Charles P. Steinmetz
+33
+constant value, but their period of fluctuation gradually gets slower,
+that
+is,
+the
+fluctuation gradually becomes
+slower,
+while currents
+slowly pull the machines nearer into synchronism with each other,
+that is decrease their frequency difference, until the critical frequency
+2s
+is reached (where the acceleration during a quarter cycle of slip,
+2si, reaches full synchronism.)
+Then the machines suddenly drop
+into synchronism, but oscillate in phase against each other, with an
+approximately constant frequency of oscillation, but with a current
+fluctuation,
+which
+steadily
+(and
+usually
+rapidly)
+decreases, until
+steady conditions of speed, current and voltage are reached.
+The armature reaction of the alternator
+is represented by the
+difference of the synchronism reactance x and the true reactance xi,
+that is, by an effective reactance of armature reaction.
+X2 = Xo
+Xi.
+The co-efficient c in the synchronizing power, p
+(18),
+is that
+fraction of the reactance of the armature reaction x 2 , which appears
+during the short time of the current fluctuation.
+Thus c is the larger,
+the slower the fluctuation, that
+is, the
+less
+s.
+In other words,
+c
+increases
+with
+decreasing
+slip,
+that
+is,
+increasing
+approach
+to
+synchronism.
+Inversely, a
+is a maximum and practically 90 degrees for large
+values of s, where the voltage fluctuation lags practically 90 degrees
+behind the fluctuation of the armature reaction, and decreases with
+decreasing
+s, that
+is, increasing approach to synchronism,
+c sin a
+and thus the synchronizing power p
+(18), thus should be a maximum
+at some moderate slip
+s, and decrease for larger as well as smaller
+sh'ps.
+Assuming that
+it takes
+to seconds for the
+field to build up to
+correspond to the armature reaction.
+With the current fluctuating
+with the frequency 2sf, and assuming that the magnetizing effect of
+the
+armature
+reaction
+is
+sinoidal
+which at best
+is but
+a very
+crude approximation, it would be:
+1
+~4sft
+and:
+thus:
+[[END_PDF_PAGE:39]]
+
+[[PDF_PAGE:40]]
+34
+Report of Charles P. Steinmetz
+However, secondary
+effects occur and more or less modify the
+value po such as the
+effect
+of secondary currents, induced in the
+field structure by that component of the armature current which is
+due to the EMF of the other machine, and which gives an induction
+motor torque, tending to pull the machines together into
+synch-
+ronism.
+D
+Consider two alternators or groups of alternators such as station
+sections of the same terminal voltage, connected with each other
+through an impedance
+z, and in synchronism with each other.
+If
+then the load distribution between the alternators differs from the
+distribution of their driving power, electric power is transferred over
+the impedance z, current flows and a phase displacement 2co occurs
+between the two sides of the reactor z.
+In this case, the phase angle w is constant, and not periodically
+fluctuating as in A, but varies with changes of distribution of load ;
+the equations, however, are the same as in A, except that now w is
+constant, and the voltages ei and e 2 are the terminal voltages.
+It thus is,
+Current in the impedance:
+2E
+.
+1 =
+sm
+a) sm
+(<
+a)
+JE
+Voltage across the impedance:
+e = 2E sin
+co sin
+<
+Power transferred over impedance:
+E
+2
+P =
+2~
+tcos a
+cos (2co
+a)]
+where E is maximum value of the terminal voltages:
+CI=E cos
+(</>
+w)
+e 2 = E cos (0+w)
+and a the phase angle of the impedance.
+If the impedance z
+is a reactance, that
+is, the resistance
+r,
+is
+negligible:
+r = 0, it is a = 90 degrees, and:
+2E
+.
+i =
+sm
+o> cos
+<(>
+x
+e = 2E sin
+co sin
+<
+E 2
+=
+sm
+[[END_PDF_PAGE:40]]
+
+[[PDF_PAGE:41]]
+Report of Charles P. Steinmetz
+35
+or, substituting the effective values:
+E = E
+V2:
+2E
+.
+ID=- sin w
+e = 2E
+sin w
+p=
+sin 2w
+x
+The power p thus is zero for
+co = 0, increases, reaches a maximum:
+E
+2
+Dm
+X
+for w = 45 degrees, or 90 degrees phase displacement between the
+Iternators, and then decreases again to zero at w = 90 degrees, or
+opposition.
+At maximum power transfer, it is:
+E
+V2
+_
+1m
+= E
+V2
+E
+The foremost
+difficulty, and uncertainty
+in the application of
+the preceding equations, is found in the selection of the proper values
+of the machine EMF E
+.
+E
+is not the terminal voltage; by slipping
+past each other without external impedance, the terminal voltage of
+the
+alternators
+goes down
+to
+zero.
+Neither
+is E
+the "nominal
+induced voltage," as this has no actual existence, but is the voltage
+which would be induced by
+the
+field
+excitation
+if the saturation
+curve of the machine continued as a straight line.
+It appears to me
+that E
+must be considered as the actual induced voltage, that
+is,
+the voltage induced by the actual field
+flux, that
+is, the field flux
+due to the resultant of field excitation and armature reaction. The
+armature
+reaction,
+however,
+fluctuates with the current between
+zero and a maximum, while the actual field flux
+is practically con-
+stant,
+since the magnetic
+field cannot follow the
+relatively rapid
+fluctuation of armature reaction.
+The
+magnetic
+effect
+of
+the
+armature
+reaction
+is represented
+electrically
+in
+the
+synchronous
+reactance
+XQ.
+The
+synchronous
+reactance thus consists of a true self-inductive reactance
+Xi, which
+is instantaneous, and an effective reactance of armature reaction x,
+[[END_PDF_PAGE:41]]
+
+[[PDF_PAGE:42]]
+36
+Report of Charles P. Steinmetz
+which requires appreciable time to develop, and does not correspond
+to any real magnetic flux.
+In turbo-alternators, x 2 usually is very much larger than xi.
+Electrically, the actual induced EMF thus should be the nominal
+induced voltage e
+, which corresponds to the
+field
+excitation,
+less
+the reactance drop of the average current in the effective reactance
+of armature reaction, x 2 .
+If then
+I = maximum effective value of the fluctuating current,
+the average current is
+~, and the actual induced voltage thus is:
+m
+=
+~-
+It
+is,
+however,
+in two
+alternators connected together out
+of
+synchronism, through an additional reactance:
+2E =I (2Xl +x)
+where x is the additional reactance through which the alternators of
+actual induced voltage E
+and true self-inductive reactance Xi are
+connected
+together,
+while running out of synchronism with each
+other.
+From these two equations fellows:
+Maximum (effective) value of the fluctuating interchange current:
+(20)
+(21)
+9
+_
+2x x+x 2+x
+and, actual induced voltage:
+where e = nominal induced voltage, effective value.
+If the alternators are connected through an impedance z, z takes
+the place of x, combining vectorially with xi and x2 .
+In this calculation, the armature reaction has been assumed as
+demagnetizing, and the impedance voltage therefore subtracted from
+the nominal induced voltage.
+This appears
+correct,
+as the inter-
+change current between the
+alternators out of synchronism with
+each other, is essentially a lagging current, throughout, as illustrated
+in Fig.
+1.
+If the two alternators are in synchronism, but out of phase with
+each other by a maximum phase displacement angle 2co
+, it is:
+2E
+sin
+o> =I (2
+[[END_PDF_PAGE:42]]
+
+[[PDF_PAGE:43]]
+Report of Charles P. Steinmetz
+37
+and, again assuming the armature reaction as demagnetizing:
+v
+Ixi
+^0=60
+n~
+thus:
+the maximum
+(effective) value of the fluctuating exchange
+current:
+2xi-fx+Xj sin w
+and, actual induced voltage:
+E^XI+X
+._..
+o
+eo
+"~*
+i.***/
+where eo is the nominal induced voltage, effective value.
+However, in this case of alternators in synchronism but oscillating
+against each other, at least for small and moderate values of w
+the
+interchange current I
+is essentially an energy current with regards
+to the machine voltage, and the reactive component of this current
+alternately changes between lag and lead, that is, between demagnet-
+izing and magnetizing.
+Therefore,
+the correctness
+is doubtful of
+subtracting the impedance voltage from the nominal induced voltage
+to get the induced voltage, but it would be:
+E = Ve
+! -i 2x 2
+2
+and as i varies between
+and I, the average of E would be the mean
+between e and
+Ve
+2
+I*xj
+J
+, thus:
+combining with the equation:
+2Eo sin wo = I (2xx+x)
+gives:
+T _
+2e
+(2xi+x) sin w
+~(2x,+x)
+2-fx 3
+2 sin 2w
+E
+(2xi+x)'
+(2xi+x)
+2 -|-x 2
+2 sin 2w
+It
+is probable that the true value of E
+lies between (23) and
+(25), but nearer to (25).
+Substituting these values
+(21),
+(23),
+(25) into the equations of
+A, B and C, and substituting
+in these equations, as the impedance of the circuit between the two
+alternators, gives the equations tabulated in F.
+The
+nominal
+induced EMF
+e
+is
+derived
+by
+combining the
+terminal voltage e with the impedance voltage iz, where z is the total
+[[END_PDF_PAGE:43]]
+
+[[PDF_PAGE:44]]
+38
+Report of Charles P. Steinmetz
+impedance inside of the terminals, true reactance as well as effective
+reactance
+of
+armature
+reaction.
+For
+non-inductive
+load
+and
+synchronous machine load may be assumed as approximately non-
+inductive
+this gives:
+= Ve
+2 +(ix)
+= e Vl+
+2
+(26)
+where
+is the percentage reactance, and the resistance is neglected,
+as small compared with the reactance.
+However, this expression neglects the change of reactance with
+increase of magnetic saturation,
+increase of magnetic leakage be-
+tween field poles, etc., and therefore, especially hi turbo-alternators
+with their enormous magnetic fields, high saturation and high field
+leakage, this expression is not very accurate, and reasonably reliable
+only in the mean range of current and voltage.
+In B, and C, the case of two alternators, or groups of alternators
+out of synchronism with each other, the equations of synchronizing
+power, energy and critical slip :
+p, p
+, W, S
+, contain the term
+2xi+x
+2xi+x+x 2
+thus are a maximum, if this term is a maximum.
+This is the case if:
+x 2 = 2xi+x, or
+x = x 2
+2xi
+that is:
+The synchronizng power between alternators out of synchronism
+with each other
+is a maximum, and the frequency difference from
+which they
+pull each
+other
+into
+synchronism,
+is
+greatest,
+if the
+alternators or group of alternators are connected together through a
+reactance which
+is
+equal
+to
+the
+effective
+reactance
+of armature
+reaction, less twice the self inductive reactance of the circuit between
+the alternators or groups of alternators.
+With two alternators or
+groups
+of
+alternators
+connected
+together
+without
+any
+external
+reactance, this means, if the self inductive reactance of the alternators
+or group of alternators is one-third the synchronous reactance.
+With
+turbo-alternators, the self inductive reactance usually is much less,
+and with such machines the synchronizing power thus
+is increased
+by the insertion of external reactance.
+Substituting above relation into the equations of B, and C, gives
+as the expressions for the case of maximum synchronizing power:
+[[END_PDF_PAGE:44]]
+
+[[PDF_PAGE:45]]
+Report of Charles P. Steinmetz
+39
+Actual machine EMF:
+Resultant EMF :
+e = e
+sin
+en sin
+i
+Resultant current:
+io =
+Power fluctuation of low frequency :
+p =
+~
+-
+4X2
+e
+2
+Energy transfer of low frequency :
+W =
+r>
+*
+f
+T-*
+Contmuous power transfer :
+P =
+Critical slip :
+s =
+a
+cep
+2 sin a
+8 Xj
+So
+4 V27rfx 2M
+[[END_PDF_PAGE:45]]
+
+[[PDF_PAGE:46]]
+40
+Report of Charles P. Steinmetz
+a
+03
+ffl
+111
+3
+2 -s
+"i
+ts
+x
+o
+.&
+S
+"3
+It*
+III
+* ss
+I
+3 *
+S
+I
+I
+1w
+o
+.
+Id
+<u
+C
+ISu
+(8
+r-
+u.
+S
+Id
+* +
+11
+9
+i
+1
+u
+w
+[[END_PDF_PAGE:46]]
+
+[[PDF_PAGE:47]]
+Report of Charles P. Steinmetz
+41
+[[END_PDF_PAGE:47]]
+
+[[PDF_PAGE:48]]
+42
+Report of Charles P. Steinmetz
+w
+w
+N
+CO
+a
+3
+cU
+.&
+co
+S2
+2
+-x
+V
+60
+2
++
+w
+x
+>
+W
+[[END_PDF_PAGE:48]]
+
+[[PDF_PAGE:49]]
+Report of Charles P. Steinmetz
+43
+Denotations
+e = nominal induced E. M. F. of alternator or group of alternators.
+Xii = true
+self inductive reactance of alternator or group of alter-
+nators.
+xn= external reactance of alternator or group of alternators, thus.
+Xi = xn+Xi2 = total self inductive reactance of alternators or group
+of alternators.
+xj = effective reactance of armature reaction of alternator or group
+of alternators, thus:
+Xo=xn+x 2
+synchronous
+reactance
+of
+alternator
+or
+group
+of
+alternators.
+x = reactance (or impedance) between alternators.
+z = impedance of circuit between alternators.
+=
+Vi- 2+(2x!+x)
+2
+, where
+r = resistance of circuit between alternators.
+Or
+approximately
+a = phase angle of circuit between alternators, where:
+tan
+a =
+Or approximately
+:
+a = 90 degrees.
+w = phase displacement from mean, of oscillating alternators, thus:
+2co = total phase displacement of oscillating alternators from each
+other.
+oj = maximum phase displacement during oscillation.
+woo = initial value of w
+pf= frequency of oscillation.
+s = slip of frequency from mean, thus :
+2s = slip of frequency of alternators from each other, and
+sf= frequency of slip from synchronism;
+2sf= frequency of slip of alternators from each other.
+f= synchronous frequency.
+to= time required for magnetizing effect of armature reaction.
+M = momentum, in joules, of alternator or group of alternators, per
+phase, that is:
+3M = total momentum.
+[[END_PDF_PAGE:49]]
+
+[[PDF_PAGE:50]]
+44
+Report of Charles P. Steinmetz
+.s
+o
+!
+s
+I
+..
+O
+i
+i
+.2
+.a
+-a
+6c
+|l
+II
+fc
+II
+11
+1
+g
+IO
+^g
+'ia
+v
+tf
+so o
+in o
+o\
+ON o
+t
+SO
+ON O
+ON
+CM
+SO
+CO
+1/5
+CO
+CO
+-
+SO
+so
+ON
+1/5
+CO O
+<M
+CO
+SO
+Tf
+<*
+co
+CO O
+Ift
+co
+co m
+S m
+i
+i
+CM
+^
+^
+co
+co
+X
+so
+CO
+in
+w
+QQ
+II
+v>O
+ills
+SO
+so
+i-* O
+^N.
+CO
+to
+CO
+SO
+^
+CM
+p-H
+CO
+CO
+O
+CM
+CO
+CM
+in
+r-l
+CO
+CO
+CO
+so
+CO O
+*S
+I-H
+so
+CM *
+r-l t-
+CO O
+II*
+I
+^ M
+CM
+in O O
+ON
+CM O
+ON
+CO
+CO O
+i
+I
+in O
+r-|
+pH
+i-l
+i
+I
+i
+I
+A
+i!
+2 W
+3
+fig* 3 a
+(V
+**
+^
+CO
+CM
+CM
+a ^s
+58?
+c^
+O5
+co
+in
+CM
+in o
+co m
+so
+i
+I
+CM
+CM
+CM
+CM O
+01
+o
+CM
+H
+-S
+*j
+<MO
+oO
+o o
+K""*
+^2
+CO o m
+o
+CM
+SO
+ON
+ON
+O O O
+OO
+t>
+t-
+to
+oc
+o o o o o
+o o o o o
+O O
+O^
+O^
+G^
+CM"
+T
+cT
+in o
+rH
+rH
+CN
+CN
+CO
+o
+1/5
+O
+1/5
+Oo
+1
+Ooo
+W
+*~*
+..
+M
+8
+1
+1
+[[END_PDF_PAGE:50]]
+
+[[PDF_PAGE:51]]
+Report of Charles P. Steinmetz
+45
+H
+In the trouble of September 18th, 1919, the following machines
+were involved
+:
+In Fisk B and Northwest Station :
+123,000 KW rating, 105,000 KW load = 85.5%
+In Fisk A and Quarry Street:
+114,000 KW rating,
+90,000 KW load = 79%
+It was:
+Fisk A:
+Six 12,000 KW; 98% reactance.
+79% load.
+Thus:
+Vl+.79x.98
+2 = 1.265
+e =1.265
+x
+5200 = 6600V.
+x 2 = 5.76;
+Xl =.458 +.405 = 863;
+M = 50xl0 6
+.
+Quarry St. :
+Three 14,000 KW:
+91% reactance.
+79% load.
+Thus:
+Vl+.79x.91
+2 =1.23.
+e =6400V.
+x 2 =4.60:
+Xl = .318+.347 = .665; M = 67xlO.
+FiskB:
+Four 12,000 KW;
+98% reactance.
+85.5% load.
+Thus:
+Vr+.855
+2 x98 2 = 1.305.
+e = 6770V.
+One 25,000 KW was immediately shut down.
+Northwest Station:
+One 20,000 KW:
+134% reactance, and one 30,000 KW:
+125%
+reactance.
+85.5% load.
+20,000 KW:
+Vl-f.855
+2 x 1.34 2 =1.52.
+e = 7900V.
+x 2 = 4.95; Xl =.325+.168 = .493; M = 78xl0 6
+.
+30,000 KW:
+Vl+ ,855 2 x 1.25 2 = 1.46:
+e = 7600 V.
+x 2 = 2.99:
+Xl = .214+.168 = .382:
+M = 87xl0 6
+.
+Busbar reactors :
+x = 1.75
+Tie cables
+x =
+.074
+r = .312.
+(1.)
+Assuming,
+at
+first,
+that
+the two machines
+in Northwest
+Station are in sychronism with each other, and the four machines in
+Fisk B are in synchronism with each other, but that Fisk B
+is out
+of synchronism with Northwest Station.
+It
+is then, in the circuit
+between Fisk B and Northwest Station:
+[[END_PDF_PAGE:51]]
+
+[[PDF_PAGE:52]]
+46
+Report of Charles P. Steinmetz
+Nominal induced EMF, average:
+e = 7250 V.
+Actual induced EMF:
+E 2 =
+.263 e = 1910 V.
+Terminal voltage, average:
+Et = .77E =1470 V.
+EtV3 = 2550V.
+Current between stations, maximum effective value:
+io = 6400 A.
+Max. pulsating power, per phase:
+p = 6150KW.
+Max. steady power transfer, per phase
+:
+p = 770KW.
+Critical slip
+:
+so =.77%;
+So
+1 = .70%; So+So^l.47%
+These values do not well agree with the observations recorded,
+and while so many assumptions had to be made in the calculations
+that the exact numerical values can not be relied upon too closely,
+nevertheless,
+the
+general magnitude of the numerical values can
+generally be relied upon.
+It is probable that a terminal voltage of
+2550 would not have escaped notice in the indicating meter ; a slowly
+pulsating power transfer of 3p = 18,450 KW would have shown on
+the record as a bad fluctuation, while the record shows an apparently
+steady flow of about 1000 KW only.
+Also, the fluctuating inter-
+change current between the stations, rising to 6400 amperes, would
+probably have shown marked distress in the cable.
+It must therefore be assumed that the generators in the same
+stations did not stay
+in synchronism with each
+other, and more
+particularly that the 20,000 and the 30,000 KW unit in Northwest
+Station broke out of synchronism.
+The behaviour of these machines,
+as the gradual loss of the field, is an indication in the same direction.
+(2.)
+With the 20,000 and the 30,000 KW units of Northwest
+Station
+out
+of synchronism
+with
+each
+other on
+the busbars the
+following relations would be obtained :
+x, = 3.97; 2x! = .875 = z; M! = 78xl0 6
+; M2 = 87xl0 6
+.
+e = 7750 V.
+E =. 181 e = 1400 V.
+io = 3200 A.
+p = 2230KW.
+So =.68%
+so
+1 =.64%
+so+xo^l.32%
+[[END_PDF_PAGE:52]]
+
+[[PDF_PAGE:53]]
+Report of Charles P. Steinmetz
+47
+Thus
+with
+the
+breaking
+of
+the
+synchronism
+between
+these
+machines, the voltage and the circulating current materially dropped,
+and with it also the current circulating between these machines and
+Fisk B.
+The 30,000 KW machine then was shut down, leaving the 20,000
+KW as the only unit in Northwest Station, drafting out of synchro-
+nism with Fisk B.
+Assuming,
+however, that
+the four 12,000 KW
+units in Fisk B have kept in synchronism with each other, the rela-
+tions obtained:
+(3.)
+One 20,000 KW unit in Northwest Station; four 12,000 KW
+units in Fisk B in synchronism with each other, but the two stations
+out of synchronism with each other :
+x 2 = 3.20:
+2Xl =.709:
+x=.074:
+r = .312:
+z = .84: 1^ = 78 xlO 6
+:
+M 2 = 200xl0 6
+.
+e =7330 V.
+E =.208 e = 1520 V.
+Et = .69 Eo = 1050 V.
+Et V3 = 1820 V.
+io = 3600 A.
+p = 2750 KW.
+so -.75%:
+so
+1 = .47%
+80+80* = 1.22%.
+While the values of p and
+i
+are much lower than in (1), still they
+are much larger than indicated by the records; 3600 A. maximum
+effective value of interchange current would give a loss in resistance
+3 rin 2
+of the tie cables of '=
+= 600 KW,
+in addition to the fluctuating
+Zi
+power reaching a maximum of 3p = 8250 KW.
+Assuming then that not only the two stations, Fisk B and North-
+west, but also the individual generators in either station had broken
+synchronism.
+The conditions then pertain:
+(4.)
+Two 12,000 KW alternators in Fisk B out of synchronism
+with each other:
+x 2 = 5.76:
+2x! = 1.726 = z: M = 50xl0 6
+.
+e = 6770 V.
+E =.23 63 = 1560 V.
+Eo V3~= 2700V.
+io=1820 A.
+p=1410KW.
+s =.67%
+2s =1.34%
+(5.)
+The 20,000 KW
+unit
+in
+Northwest
+Station
+against one
+12,000 KW unit in Fisk Street, B.
+[[END_PDF_PAGE:53]]
+
+[[PDF_PAGE:54]]
+48
+Report of Charles P. Steinmetz
+x 2 = 5.35: 2x!=1.356: x = .074:
+r = .312:
+z = 1.46: M^SOxlO
+6
+:
+M 2 = 78xl0 6
+.
+e = 7330 V.
+E =.215 e = 1570V.
+Et = 61 Eo = 950 V.
+Et = V3 = 1640 V.
+io = 2150 A.
+p = 1690KW.
+s =.73%.
+so
+1 = .59%
+so+so^l.32%
+This means, with all the alternators in Fisk B and in Northwest
+Station out of synchronism with each other, the terminal voltage
+will be between
+1640 and
+nothing.
+The interchange current cir-
+culating between them will reach maximum amplitudes not exceeding
+1820 to 2150 amperes effective.
+The
+i 2r loss in the tie cables then
+would fluctuate between maximum values of 1500 to 2200 KW and
+nothing, with a probable average of about 900 KW.
+This agrees
+with the observation that the wattmeter in the tie lines was very
+steady showing about 1000 KW, and the voltage was in appreciable.
+The conclusion therefore
+is inevitable, that in this trouble, not
+only
+the Northwest
+Station and
+the
+Fisk
+Street B Station had
+broken synchronism with each other, but that the individual gene-
+ators in the Fisk Street B Station and in the Northwest Station had
+broken synchronism with each other also, and were drifting past each
+other out of synchronism.
+The important question then
+is, what caused these alternators
+and stations to break synchronism.
+That the Northwest Station and the Fisk Street B Station drifted
+out of step with each other was to be expected.
+As the
+tie cable
+which connect the bus bars of these two stations with each other
+contain appreciable resistance but practically no reactance, and the
+synchronizing power depends on the reactance,
+there can be only
+very
+little synchronizing power between these stations, that
+is, in
+normal synchronous operations of these two stations,
+it
+is the in-
+dividual generators of one station which synchronize with those of
+the other station, rather than the stations as a whole.
+However, the
+alternators
+in Fisk
+Street B, have considerable
+reactance, and no resistance between each other.
+The reason for
+their breaking synchronism with each other must be found
+in the
+great drop of voltage resulting from the break of synchronism be-
+tween Fisk
+Street B and Northwest
+Station.
+The
+synchronizing
+[[END_PDF_PAGE:54]]
+
+[[PDF_PAGE:55]]
+Report of Charles P. Steinmetz
+49
+power
+is
+proportional
+to
+the
+square
+of the
+voltage. With Fisk
+Street B and Northwest Station out of synchronism with each other
+but the individual alternators in either station
+still in synchronism
+with each other (Case
+1), the actual induced voltage in these two
+stations drops
+to an average of E =1910
+volts per phase.
+The
+synchronizing power between two machines, for instance, two of the
+12,000 KW alternators of Fisk Street B, reaches a maximum at a
+phase displacement between two machines of 2co = 90 degrees, and
+then is:
+p =
+= 2100 KW per phase,
+or a total of 6300 KW, or about half load, and still less in (Case 3),
+after the 30,000 KW unit had been shut down.
+Thus,
+if the load is suddenly released on these machines, unless
+the steam supply can be reduced almost instantly to less than half
+load, these machines will be torn out of synchronism with each other.
+But by breaking synchronism between machines in the same stations
+as the 20,000 and the 30,000 in Northwest Station
+the voltage is
+still further lowered and thereby the synchronizing power reduced,
+so
+that,
+if one machine breaks out
+of synchronism under
+these
+circumstances,
+all
+will break.
+This must have happened on Sep-
+tember
+18th,
+1919.
+In
+other
+words,
+the
+break of synchronism
+between Fisk Street B and Northwest Station lowers the voltage so
+that there
+is not
+sufficient synchronizing power
+left to keep the
+individual machines in each station in synchronism with each other.
+The important question then arises, what is theminimum machine
+voltage necessary to assure the individual machines of each station
+to remain in synchronism with each other irrespective of any sudden
+release of full load.
+That is, at what voltage does the synchronizing
+power
+of the individual machines become greater than
+full
+load.
+This is gven by:
+E
+2
+1
+..
+P=
+grating
+as shown in the following table:
+TABLE
+Lowest Voltage
+at Which Machines Stay
+in Synchronism,
+If Full Load
+is Thrown Off
+Bating of Machine,
+KW
+12,000
+14,000
+20,000
+25,000
+30,000
+35,000
+Voltage per
+Phase,
+E =
+2,630
+2,490
+2,560
+2,740
+2,770
+2,650
+Eo V"=
+4,560
+4,500
+4,430
+4,750
+4,810
+4,600
+[[END_PDF_PAGE:55]]
+
+[[PDF_PAGE:56]]
+50
+Report of Charles P. Steinmetz
+As seen, as long as the actual induced voltage does not drop below
+5000 volts there appears no danger of any of the machines breaking
+out of synchronism with the other machines in the same station.
+The insertion of sufficiently large power limiting reactors between
+Fisk Street B and Northwest Station would in case of these stations
+breaking synchronism with each other, maintain
+sufficient voltage
+in these stations, so that the machines in each station may be ex-
+pected to keep in synchronism with each other.
+Coming now to the consideration of the relation between Fisk
+Street B and Quarry Street Station, during the trouble of September
+18th, 1919:
+(6.)
+Four 12,000KW alternators in Fisk Street B, out of synch-
+ronism over a power limiting reactor with three 14,000 KW alter-
+nators in Quarry Street, the latter in synchronism with each other:
+x 2 = 1.48:
+2Xl = .438:
+x=1.75:
+z = 2.19:
+Mi = 200 x 10 6
+:
+M 2 = 200xl0 6
+.
+e = 6585 V.
+Eo = .597 e = 3930 V.
+E
+V3 = 6800 V.
+= 3500 V.
+Et V3 = 6000 V.
+io = 3600 A.
+p = 7000KW.
+So = s
+1 = .76%
+s+s =1.52%
+As seen, in Quarry Street, the voltage E
+V3
+is 6800, thus well
+above the value required for stability of synchronous operation of
+the alternators in this station, and no danger existed of their breaking
+synchronism.
+The record shows during the
+disturbance, while Quarry Street
+was connected with Fisk Street B out of synchronism, a fairly uniform
+sustained
+voltage
+of 6800,
+preceded by an
+initial drop
+of
+short
+duration, below 6000 volts.
+The latter may be accounted for by the
+feeding back from Quarry Street over the substations into Fisk B
+and Northwest Station, which pulled the voltage of Quarry
+Street
+down, until the substations cut off, and required some time to recover.
+The above calculated voltage of 6000
+is lower than the
+observed
+voltage of 6800.
+However, Quarry
+Street was
+also connected
+to
+Fisk Street A, and the latter station was assisting Quarry Street in
+feeding the current over power limiting reactor B into Fisk B and
+Northwest Station.
+We may thus estimate the effect of Fisk A in
+holding up the voltage.
+[[END_PDF_PAGE:56]]
+
+[[PDF_PAGE:57]]
+Report of Charles P. Steinmetz
+51
+(7.)
+Four 12,000 KW alternators in Fisk B, out of synchronism
+over a power limiting
+reactor with
+three 14,000 KW alternators
+in Quarry Street, the latter in synchronism with each other, and over
+a second power limiting
+reactor,
+with
+six 12,000 KW alternators
+in Fisk A.
+. x 2 =1.21:
+2Xl = .414:
+x=1.75:
+z = 2.16: Mi = 200 x 10:
+M 2 =500x 10 6
+.
+e = 6635 V.
+Eo = .64 e = 4240 V.
+E VT= 7350 V.
+E t = 3800 V.
+Et V3 = 6600 V.
+io = 3900 A.
+p = 8300KW.
+so =-82%.
+As seen, the calculated value of the terminal voltage of Quarry
+Street, 6600, agrees as closely with the observed value of 6800 V. as
+can
+be
+expected from
+such approximated
+calculations, especially
+when
+considering that some synchronous machines had been lost
+by Quarry Street in the substations, and the load thereby reduced,
+which would result hi an increase of voltage.
+As the total impedance of Fisk Street A is about
+1.1, and it
+is
+connected to Quarry Street by x=1.75, the voltage of Fisk Street A
+should be higher than Quarry
+Street
+in
+the proportion
+of
+1.1 to
+1.1+ 1.75.
+This gives for Fisk Street A: Et V3 = 8100 V.
+This well
+agrees with the average of the voltage record of Fisk Street A during
+the first seven minutes of the disturbance.
+Allowing for the continuously low voltage maintained at Fisk
+Street B
+by
+the
+out
+of synchronism
+condition with Northwest
+Station,
+the
+fluctuating
+current over
+the
+reactor B between
+Fisk
+Street B and Quarry Street would vary approximately between 1200
+and 2700 amperes.
+Assuming a temperature rise of these reactors
+of 30C. at 600 A., this would give an estimated
+final temperature
+rise, at this excessive overload, of 600 to 800C., so that it should be
+expected that after seven minutes, when
+this reactor was discon-
+nected, it would be very hot.
+The reactor A, between Quarry Street and Fisk Street A, should
+carry a current of 500
+to
+1000
+amperes,
+thus would not become
+heated.
+The conclusion then is
+:
+As the calculated numerical values agree
+with the records of observation as closely as can be expected from
+[[END_PDF_PAGE:57]]
+
+[[PDF_PAGE:58]]
+52
+Report of Charles P. Steinmetz
+such necessarily approximated calculations, it appears safe to accept
+the correctness of the explanation that
+Fisk Street A and Quarry Street remained in synchronism with
+each other, but Fisk Street B and Northwest Station broke out of
+synchronism
+with
+Quarry
+Street
+and
+with
+each
+other, and the
+individual machines of these latter two stations broke out of synchron-
+ism with each other, and were
+unable to pull into
+step, due to
+frequency
+differences greater than
+permissible by the small syn-
+chronising power existing between these machines at the low voltage
+existing due to the break of synchronism between the stations.
+I
+In the trouble of May
+19th,
+1919, the following machines were
+involved :
+Fisk A:
+Five
+12,000 KW = 60,000
+KW.
+Load
+32,000 KW = 53%:
+98% Reactance.
+.53 2 x.98
+2 = 1.13
+e = 5900V.
+x2 = 5.76:
+Xl =.458+.405 = .863: M = 50xlO.
+Quarry Street :
+Four
+14,000 KW = 56,000
+KW.
+Load
+35,000 KW = 62.5%:
+91% Reactance.
+Vl+.625
+2 x.91
+2 = 1.15
+e =6000V.
+x 2 = 4.60:
+Xl =.318+ .347 = .665: M = 67xlO.
+FiskB:
+Three
+12,000 KW
+and
+one
+25,000 KW = 61,000 KW. Load
+45,000 KW = 74%.
+98%:
+>100% Reactance.
+.74 2 x.98 2 =1.24
+e = 6450V.
+Vl+.74
+2 x 1.20 2 =1.30
+e = 6750V.
+25,000, estimated:
+x 2 = 4.0:
+xi = .45: M = 85xlO.
+Northwest :
+Two 20,000 KW and one 30,000 KW = 70,000 KW.
+Load50,OOOKW = 71%.
+134%:
+125% Reactance.
+20,000:
+Vl+ .71 2 x 1.34 2 =1.38
+e = 7170V.
+x 2 = 4.95:
+xi =
+.325+. 168 = .493; M = 78xl0 6
+.
+30,000:
+Vl+ .71 2 x 1.25 2 = 1.34
+e =7000 V.
+x 2 = 2.99:
+Xl = .214+.168 = .382 M = 87xl0 6
+.
+Busbar reactors :
+x = 1.75
+Tie cables:
+x=
+.074;
+r=.312.
+[[END_PDF_PAGE:58]]
+
+[[PDF_PAGE:59]]
+Report of Charles P. Steinmetz
+53
+Let us assume at
+first that these stations have dropped out of
+synchronism with each other, due to the trouble in Fisk A, and are
+drifting past each other, and calculate by the preceding equations
+for this condition the voltages and currents in the different stations,
+and compare them with the recorded values, to see whether this
+assumption is reasonable.
+It is then:
+(1.)
+Fisk A out of synchronism with Quarry Street:
+x 2 = (1.15+1.15)^-2 = 1.15;
+2x 1 = .173+.166 =
+.
+x=1.75
+z = 2.09
+e = 5950V.
+E =
+?- e =.645e =3840 V.
+z-f-x 2
+Et =
+Eo = 3530 V.
+Et V3~= 6100 V.
+(2.)
+Quarry Street out of synchronism with Fisk B and Fisk A :
+x 2 =(1.15+.61)-7-2 = .88;
+2Xl = .166+.087 =
+.
+x = .875;
+z = 1.128
+E =.564e =
+E=3120V.
+Et V3 = 5400 V.
+io=6250 A.
+(3.)
+Fisk B out of synchronism with Northwest Station:
+x 2 = (1.30+ 1.36) -=-2 = 1.33; 2Xl = .176+.150 = .326; x = .074;
+r = .312;
+z = .507.
+e =6830 V.
+E =.276e =1880 V.
+E=1530 V.
+Et V3 = 2650 V.
+io=7400 A.
+For the reasons discussed before, it is not probable the individual
+machines in Fisk B and Northwest Station would stay in synchronism
+with each other.
+As the relatively high terminal voltage recorded in
+the stations shows that the individual machines stayed
+in synchro-
+nism with each other, the case thus may be considered of Fisk B and
+Northwest
+Station
+in
+synchronism with
+each
+other,
+but
+out
+of
+synchronism with Quarry Street:
+[[END_PDF_PAGE:59]]
+
+[[PDF_PAGE:60]]
+54
+Report of Charles P. Steinmetz
+(4.)
+Fisk B and Northwest Station in synchronism with each
+other, but out of synchronism with Quarry Street :
+X2 = (.683+ 1.15)4- 2 = .92; 2x! = .13+.166 = .299; x = 1.75;
+z = 2.05.
+eo- 6840V.
+E =.69e = 4720'V.
+Et =4250 V.
+Et V3 = 7350V.
+io = 4600 A.
+Herefrom then we
+get the
+terminal voltages
+of the
+different
+stations
+:
+Fisk A:
+Quarry:
+Fisk B:
+Nw. St.:
+(1.)
+All 4 stations out
+of synchronism :
+Calculated
+ter-
+minal voltage.
+.
+.
+6100
+5400
+2650
+2650
+Observed
+records
+7800 to 8200
+7900 to 8100
+8300 to 8400
+8400 to 8500
+8100 to 8500
+(2.) Fisk B and Nw.
+Station in synchronism:
+Calculated
+6100
+5400
+7350
+7350
+Observed
+records
+7800 to 8200
+7900 to 8100
+8300 to 8400
+8400 to 8500
+8100 to 8500
+As seen, the calculated values are uniformly very much lower
+than the observed values, and while no very great accuracy can be
+attributed to such approximated calculations, the difference
+is too
+great to be accounted for, and it must therefore be concluded that in
+this trouble none of the stations had broken synchronism, but
+all
+the four stations had kept in synchronism with each other.
+Assuming then as reasonable, that in the trouble of May 19th,
+the
+four
+station
+sections had kept
+in synchronism,
+the question
+remains to account for the great drop and fluctuations of voltage,
+which were greatest at the source of the trouble, Fisk Street A, and
+decreased towards the other end of the station chain, whether due
+to the hunting of the stations against each other, or due to excessive
+load of lagging current, caused by starting of synchronous machines,
+or due to some other cause.
+Assuming
+first, that the voltage drop and voltage fluctuations
+was due
+to
+the
+simultaneous
+starting
+of numerous
+synchronous
+machines.
+To estimate the effect thereof, in the following table are
+given, in columns (1) to (3), the recorded voltages of the four stations:
+[[END_PDF_PAGE:60]]
+
+[[PDF_PAGE:61]]
+Report of Charles P. Steinmetz
+55
+The initial minimum and the final minimum towards the end of the
+disturbance, and
+the average
+fluctuation.
+In
+the second
+line
+is
+given the average phase voltage, that is terminal voltage divided by
+V3.
+Column (4) then gives the average drop of voltage; column (5)
+the
+total
+station impedance,
+true
+reactance
+as
+well
+as
+effective
+reactance of armature
+reaction.
+As we have to do here with
+a
+sustained
+voltage
+drop,
+the armature
+reaction comes
+into
+play.
+Column
+(6) then gives the average value of the lagging current in
+each station, which would account for this voltage drop.
+As seen
+these are fairly moderate currents.
+This would be the lagging current
+drawn from the stations in starting the synchronous machines in the
+substations.
+As (practically)
+all the synchronous machines in Fisk
+A had dropped out, but only a few on the other stations, most of this
+lagging load would be on Fisk Street A.
+Assuming then that half
+this current had been consumed directly from the stations, the other
+half transferred over the power limiting reactors to Fisk Street A.
+Column (7) would then give the average lagging current consumed in
+each station, and Column (8) the current transferred over the power
+limiting
+reactors between
+the
+stations,
+to
+the
+next
+station, and
+Column (9) gives the load on each station, in KYA.
+As Fisk Street A
+lost a load of about 32,000 KW in synchronous machines, a load of
+12,000 KVA starting current of these synchronous machines, during
+eighteen minutes, does not appear excessive, and the
+lesser values
+in the other
+stations
+also appear of reasonable magnitude.
+The
+voltage across the power limiting reactors, in Column (10). and the
+phase angles between the stations, in Column (11), are very moderate:
+only a
+little over 5 degrees maximum phase displacement between
+Fisk A and Quarry
+Street.
+That
+is, the strain
+is very moderate,
+and very far from the limits of synchronizing power.
+Assuming now the second explanation, hunting of the stations.
+Column
+(12)
+then
+gives the
+estimated
+values
+of the quadrature
+voltage resulting from the swing of the machines, which would be
+required to bring about the observed voltage drop:
+V5200 2
+e
+2
+where 5200
+is the normal phase voltage of the stations, and e the
+observed phase
+voltage.
+The
+total phase angle of swing then
+is
+given as 2 a? 1 in Column (13).
+As the limits of synchronizing power
+are at 90 degrees phase angle, and the maximum estimated phase
+angle of swing is 30 degrees,
+it would appear
+if this explanation is
+correct
+that
+the
+stations were
+still
+far from the
+limits
+of
+their
+synchronizing power, that is, quite stable.
+Column (14) then gives
+the true self inductive reactance of the stations, and Column
+(15)
+[[END_PDF_PAGE:61]]
+
+[[PDF_PAGE:62]]
+56
+Report of Charles P. Steinmetz
+gives two values of the surging current in the stations resulting from
+the oscillations of the machines.
+The lower value is calculated by
+the total station impedance, Column
+(5), the higher value by the
+self inductive impedance Column
+(14).
+The true value would be
+intermediate, probably nearer the
+larger
+figure,
+as the period
+of
+oscillation is too fast to develop more than a small part of the effective
+reactance of armature reaction.
+Either of the two assumptions gives values of magnitude which
+are reasonable and in accordance with the observed data, so that in
+the absence of any data on the phase angle between the stations, it
+is not possible to decide which is the correct explanation.
+It must
+be
+recognized,
+however,
+that
+neither
+of the two
+explanations
+is
+entirely satisfactory, as either
+fails to account sufficiently for the
+excessive heating of the reactor B between Quarry Street and Fisk
+Street B.
+This makes it the more desirable, in view of the import-
+ance of fully understanding the phenomenon, to install phase angle
+indicators, that is suitable synchronoscopes, in all the stations, and
+carefully observe them in case of any trouble in the system.
+[[END_PDF_PAGE:62]]
+
+[[PDF_PAGE:63]]
+Report of Charles P. Steinmetz
+57
+y,
+/O
+3j
+^
+[[END_PDF_PAGE:63]]
+
+[[PDF_PAGE:64]]
+58
+Report of Charles P. Steinmetz
+[[END_PDF_PAGE:64]]
+
+[[PDF_PAGE:65]]
+S8
+RARE
+6K
+[[END_PDF_PAGE:65]]
+
+[[PDF_PAGE:66]]
+
+[[END_PDF_PAGE:66]]
+
+[[PDF_PAGE:67]]
+
+[[END_PDF_PAGE:67]]
+
+[[PDF_PAGE:68]]
+
+[[END_PDF_PAGE:68]]

@@ -16,7 +16,7 @@ This dashboard is generated from the processed JSON catalogs. Counts describe cu
 | America and the New Epoch | source-specific historical chapter split and candidate catalogs from OCR | 18 | 21 | 0 | 0 | 9 | 0 | Scan-verify chapter starts and keep historical/social claims separate from electrical theory. |
 | Theory and Calculation of Electric Apparatus | Internet Archive OCR downloaded; chapter splits and candidate catalogs generated | 22 | 300 | 13 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
 | Four Lectures on Relativity and Space | Internet Archive OCR downloaded; lecture splits and candidate catalogs generated | 4 | 170 | 19 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
-| Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co. | local PDF copied; OCR and bibliographic verification pending | 0 | 0 | 0 | 0 | 0 | 0 | Run OCR, create bibliographic metadata, then seed candidate catalogs. |
+| Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co. | embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated | 5 | 220 | 1 | 0 | 12 | 5 | Promote scan-verified figure crops and anchor high-value figures to pages. |
 
 ## Quality Rules
 

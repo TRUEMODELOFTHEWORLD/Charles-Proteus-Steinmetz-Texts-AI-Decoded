@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "protective-reactance",
+    "reason": "Protective reactance appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "power-limiting-reactor",
+    "reason": "Power limiting reactor appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "synchronism",
+    "reason": "Synchronism appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "synchronizing-power",
+    "reason": "Synchronizing power appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "short-circuit",
+    "reason": "Short circuit appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "differential-relay",
+    "reason": "Differential relay appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "circuit-breaker",
+    "reason": "Circuit breaker appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "current-transformer",
+    "reason": "Current transformer appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "synchronous-machines",
+    "reason": "Synchronous machines appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "tie-cable",
+    "reason": "Tie cable appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "system-model",
+    "reason": "Scaled system model appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  },
+  {
+    "source_id": "commonwealth-edison-generating-system-trouble",
+    "from_type": "source",
+    "from_id": "commonwealth-edison-generating-system-trouble",
+    "to_type": "concept",
+    "to_id": "hunting-pulsation",
+    "reason": "Hunting pulsation appears in the Commonwealth Edison report intake.",
+    "status": "candidate"
+  }
+]
