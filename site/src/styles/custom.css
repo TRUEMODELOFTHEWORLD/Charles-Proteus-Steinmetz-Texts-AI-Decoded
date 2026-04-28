@@ -544,7 +544,8 @@ a[data-variant='primary']:hover {
   margin: 1rem 0;
 }
 
-.source-text-tags span {
+.source-text-tags span,
+.source-text-tags a {
   border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 70%, transparent);
   border-radius: 999px;
   background: color-mix(in srgb, var(--codex-panel) 88%, transparent);
@@ -552,6 +553,12 @@ a[data-variant='primary']:hover {
   padding: 0.25rem 0.55rem;
   font-size: 0.82rem;
   font-weight: 800;
+  text-decoration: none;
+}
+
+.source-text-tags a:hover {
+  border-color: var(--codex-gold);
+  color: var(--sl-color-text-accent);
 }
 
 .sl-markdown-content pre {

@@ -50,6 +50,7 @@ export default defineConfig({
           items: [
             { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
             { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
+            { label: 'Chapter Workbench', slug: 'chapter-workbench' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
             {

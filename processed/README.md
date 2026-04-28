@@ -25,6 +25,9 @@ Corpus-wide generated indexes live at the root of this directory:
 - `quote_index.json`
 - `annotations_index.json`
 - `crosslinks_index.json`
+- `evidence_ledger.json`
+- `chapter_atlas.json`
+- `chapter_workbench.json`
 - `canonical_equations.json`
 - `source_processing_status.md`
 

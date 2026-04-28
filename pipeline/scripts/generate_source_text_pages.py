@@ -167,6 +167,8 @@ These pages expose the current processed chapter, lecture, section, or report te
 
 [Open curated source overview]({BASE_URL}{source_site_path})
 
+[Open generated chapter workbench]({BASE_URL}/chapter-workbench/{source_id}/)
+
 <div class="source-text-warning" data-layer="source">
   <strong>Status:</strong> OCR/PDF text is useful for research navigation, but exact quotation still requires scan verification.
 </div>
@@ -220,6 +222,7 @@ import SourceRef from '../../../../components/SourceRef.astro';
 
 <div class="source-text-toolbar" data-layer="source">
   <a href="{BASE_URL}/source-texts/{source_id}/">Source text index</a>
+  <a href="{BASE_URL}/chapter-workbench/{source_id}/{source_page_slug(record)}/">Chapter workbench</a>
   <a href="{BASE_URL}{source_site_path}">Curated source overview</a>
   <a href="https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded/blob/main/{html_escape(record.get('text_path') or '')}">Open text file on GitHub</a>
 </div>

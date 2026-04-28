@@ -90,6 +90,7 @@ Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
+- A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
@@ -168,6 +169,14 @@ python pipeline/scripts/generate_source_text_pages.py
 
 It generates `site/src/content/docs/source-texts/`, including one index page, per-source indexes, and reader pages for all processed chapters, lectures, sections, and report divisions.
 
+The chapter research workbench generator is:
+
+```powershell
+python pipeline/scripts/generate_chapter_workbench.py
+```
+
+It generates `site/src/content/docs/chapter-workbench/` and `processed/chapter_workbench.json`, joining each processed section to source text links, theme routing, concept/glossary hits, candidate equations, candidate figures, candidate quote passages, modern reading prompts, and explicitly labeled interpretive boundaries.
+
 ## Current Processing Milestone
 
 The archive now includes:
@@ -183,6 +192,7 @@ The archive now includes:
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
 - A generated source-text browser with 304 public text-section pages across the processed corpus.
+- A generated chapter workbench with 304 section-level research maps across the processed corpus.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
@@ -197,10 +207,11 @@ https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded
 
 ## Current Live-Ready Site Surface
 
-The public site currently builds more than fifty pages, including:
+The public site currently builds more than seven hundred pages, including:
 
 - Source overviews for the seeded Steinmetz corpus.
 - Full generated text-reader coverage for 304 processed chapters, lectures, sections, and report divisions.
+- Generated research workbench pages for 304 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
 - Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, condenser decrement, and Commonwealth Edison synchronizing power.

@@ -7,6 +7,8 @@ This dashboard exposes the working state of the archive. It is generated from th
 
 The generated [Source Text Browser](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/) now exposes 304 processed text sections across the corpus. These reader pages are pagefind-disabled so broad OCR/PDF text coverage does not swamp curated search results.
 
+The generated [Chapter Workbench](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/) now exposes 304 section-level research maps across the corpus, joining source text links with theme snippets, concept/glossary hits, candidate equations, candidate figures, quote candidates, and promotion checklists.
+
 ## Corpus Dashboard
 
 <table class="codex-status-table">
@@ -126,6 +128,7 @@ The pipeline writes machine-readable indexes in `processed/`:
 - `crosslinks_index.json` for source-to-concept, source-to-term, source-to-equation, and source-to-figure navigation aids.
 - `evidence_ledger.json` for 3,345 source, concept, glossary, equation, figure, quote, and promoted-crop traceability records.
 - `chapter_atlas.json` for 304 chapter/lecture/report-section theme routing records across the processed corpus.
+- `chapter_workbench.json` for 304 section-level research workbench records across the processed corpus.
 - `canonical_equations.json` for the first twelve-equation canon and verification state.
 - `source_processing_status.md` for the plain Markdown dashboard.
 

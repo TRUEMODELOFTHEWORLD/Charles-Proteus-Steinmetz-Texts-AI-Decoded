@@ -57,9 +57,22 @@ This writes:
 - `processed/glossary_index.json`
 - `processed/concept_index.json`
 - `processed/quote_index.json`
+- `processed/evidence_ledger.json`
+- `processed/chapter_atlas.json`
 - `processed/source_processing_status.md`
 
 These indexes are inventory and review tools. They count candidates, promoted original scan crops, glossary terms, concept seeds, quote candidates, and next actions. They do not promote OCR output to canonical truth.
+
+## Public Corpus Pages
+
+After chapter splits and indexes exist, generate the public source-text browser and chapter workbench:
+
+```powershell
+python pipeline/scripts/generate_source_text_pages.py
+python pipeline/scripts/generate_chapter_workbench.py
+```
+
+The source-text browser exposes the current processed text for every chapter, lecture, section, or report division. The chapter workbench joins each section to theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, source links, and promotion checklists. Both layers are candidate research aids, not corrected editions.
 
 ## PDF Image Extraction
 
