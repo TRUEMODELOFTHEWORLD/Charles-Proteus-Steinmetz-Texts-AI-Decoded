@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Automated accessibility scan. It catches structural risks, but contrast, keyboard flow, mobile fit, and screen-reader behavior still need manual review.",
+  "page_count": 821,
+  "image_tag_count": 106,
+  "image_tag_missing_alt": 0,
+  "markdown_image_count": 0,
+  "markdown_image_missing_alt": 0,
+  "iframe_count": 0,
+  "html_table_count": 37,
+  "long_table_pages": [
+    "site/src/content/docs/project-tracker/index.mdx",
+    "site/src/content/docs/source-library/chapter-atlas.mdx"
+  ],
+  "issue_pages": [],
+  "gates": {
+    "image_alt_text": "pass",
+    "table_overflow": "needs-manual-mobile-review",
+    "color_contrast": "needs-manual-contrast-review",
+    "keyboard_navigation": "needs-manual-keyboard-review",
+    "math_readability": "needs-manual-katex-review"
+  }
+}

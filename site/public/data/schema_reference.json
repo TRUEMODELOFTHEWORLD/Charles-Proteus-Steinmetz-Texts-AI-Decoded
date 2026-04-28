@@ -455,6 +455,144 @@
         "reviewer_profile"
       ],
       "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "release_readiness",
+      "description": "Named publication release levels and readiness states.",
+      "path": "processed/release_readiness.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/release_readiness.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "levels",
+          "quality_note"
+        ],
+        "sample_record_fields": [
+          "generated_at",
+          "levels",
+          "quality_note"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "accessibility_audit",
+      "description": "Automated accessibility-readiness scan and manual review gates.",
+      "path": "processed/accessibility_audit.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/accessibility_audit.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "gates",
+          "generated_at",
+          "html_table_count",
+          "iframe_count",
+          "image_tag_count",
+          "image_tag_missing_alt",
+          "issue_pages",
+          "long_table_pages",
+          "markdown_image_count",
+          "markdown_image_missing_alt",
+          "page_count",
+          "quality_note"
+        ],
+        "sample_record_fields": [
+          "gates",
+          "generated_at",
+          "html_table_count",
+          "iframe_count",
+          "image_tag_count",
+          "image_tag_missing_alt",
+          "issue_pages",
+          "long_table_pages",
+          "markdown_image_count",
+          "markdown_image_missing_alt",
+          "page_count",
+          "quality_note"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "edition_comparison_index",
+      "description": "Edition collation queue for seeded sources.",
+      "path": "processed/edition_comparison_index.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/edition_comparison_index.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records"
+        ],
+        "sample_record_fields": [
+          "edition_review_status",
+          "internet_archive_id",
+          "local_raw_file",
+          "priority",
+          "processed_status",
+          "review_actions",
+          "source_id",
+          "title",
+          "year"
+        ],
+        "record_count": 11
+      },
+      "review_state_fields": [
+        "edition_review_status",
+        "processed_status",
+        "review_actions"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "patent_theory_bridge",
+      "description": "Seeded bridge from patents to concepts and theory-review targets.",
+      "path": "processed/patent_theory_bridge.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/patent_theory_bridge.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "concept_to_patents",
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records",
+          "scope_warning"
+        ],
+        "sample_record_fields": [
+          "bridge_status",
+          "concept_links",
+          "diagram_targets",
+          "domain_tags",
+          "patent_number",
+          "patent_url",
+          "pdf_url",
+          "publication_date",
+          "research_status",
+          "title"
+        ],
+        "record_count": 11
+      },
+      "review_state_fields": [
+        "bridge_status",
+        "research_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
     }
   ]
 }

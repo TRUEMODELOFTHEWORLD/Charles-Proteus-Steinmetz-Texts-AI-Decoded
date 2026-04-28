@@ -26,6 +26,10 @@ This page documents the data shapes that make the archive reusable. It is descri
 | `diagram_provenance_ledger` | Original crop and redraw provenance ledger. | `processed/diagram_provenance_ledger.json` | yes | asset_type, crop_box_pixels, height, id, manifest_path, output_path, public_url, quality_note |
 | `schema_reference` | Machine-readable schema/reference guide. | `processed/schema_reference.json` | yes | files, generated_at, quality_note |
 | `expert_review_packets` | Review bundles for experts and contributors. | `processed/expert_review_packets.json` | yes | artifact_links, id, ready_count, reviewer_profile, scope, tasks, title |
+| `release_readiness` | Named publication release levels and readiness states. | `processed/release_readiness.json` | yes | generated_at, levels, quality_note |
+| `accessibility_audit` | Automated accessibility-readiness scan and manual review gates. | `processed/accessibility_audit.json` | yes | gates, generated_at, html_table_count, iframe_count, image_tag_count, image_tag_missing_alt, issue_pages, long_table_pages |
+| `edition_comparison_index` | Edition collation queue for seeded sources. | `processed/edition_comparison_index.json` | yes | edition_review_status, internet_archive_id, local_raw_file, priority, processed_status, review_actions, source_id, title |
+| `patent_theory_bridge` | Seeded bridge from patents to concepts and theory-review targets. | `processed/patent_theory_bridge.json` | yes | bridge_status, concept_links, diagram_targets, domain_tags, patent_number, patent_url, pdf_url, publication_date |
 
 ## Review-State Fields
 

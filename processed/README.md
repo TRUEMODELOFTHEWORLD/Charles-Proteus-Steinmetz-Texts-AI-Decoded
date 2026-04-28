@@ -38,6 +38,10 @@ Corpus-wide generated indexes live at the root of this directory:
 - `diagram_provenance_ledger.json`
 - `schema_reference.json`
 - `expert_review_packets.json`
+- `release_readiness.json`
+- `accessibility_audit.json`
+- `edition_comparison_index.json`
+- `patent_theory_bridge.json`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

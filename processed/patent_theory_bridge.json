@@ -1,0 +1,439 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Patent-to-theory bridge. Patent records are seeded and must not be treated as complete until authority PDFs, drawings, and claims are checked.",
+  "record_count": 11,
+  "scope_warning": "Wikipedia states that Steinmetz held over 200 patents, but the current Wikipedia bibliography lists only selected examples. This file seeds those listed examples and must not be treated as a complete patent bibliography.",
+  "concept_to_patents": {
+    "alternating current": [
+      "US533244A"
+    ],
+    "alternating-current machinery": [
+      "US559419A",
+      "USRE11576E"
+    ],
+    "cooling": [
+      "US865617A"
+    ],
+    "distributed constants": [
+      "US1230615A"
+    ],
+    "eddy currents": [
+      "US594145A"
+    ],
+    "effective resistance": [
+      "US714412A"
+    ],
+    "electric discharge": [
+      "US1025932A"
+    ],
+    "electromotive force": [
+      "US533244A"
+    ],
+    "field excitation": [
+      "US559419A",
+      "USRE11576E"
+    ],
+    "heating": [
+      "US1042986A"
+    ],
+    "high-frequency currents": [
+      "US1230615A"
+    ],
+    "hysteresis and loss": [
+      "US594145A"
+    ],
+    "illumination": [
+      "US1025932A"
+    ],
+    "induction": [
+      "US1042986A"
+    ],
+    "induction motor": [
+      "US714412A",
+      "US865617A"
+    ],
+    "inductor dynamo": [
+      "USRE11576E"
+    ],
+    "ionization": [
+      "US1025932A"
+    ],
+    "lightning surges": [
+      "US1230615A"
+    ],
+    "magnetic field": [
+      "US559419A"
+    ],
+    "magnetic flux": [
+      "US559419A",
+      "US594145A",
+      "USRE11576E"
+    ],
+    "magnetic leakage": [
+      "US1042986A"
+    ],
+    "magnetic reluctance": [
+      "US594145A"
+    ],
+    "magnetomotive force": [
+      "US717464A"
+    ],
+    "phase displacement": [
+      "US533244A"
+    ],
+    "phase relation": [
+      "US717464A"
+    ],
+    "polyphase currents": [
+      "US533244A"
+    ],
+    "polyphase systems": [
+      "US717464A"
+    ],
+    "power factor": [
+      "US1042986A"
+    ],
+    "power measurement": [
+      "US583950A"
+    ],
+    "quadrature": [
+      "US583950A"
+    ],
+    "radiation": [
+      "US1025932A"
+    ],
+    "reflection": [
+      "US1230615A"
+    ],
+    "resistance loss": [
+      "US865617A"
+    ],
+    "rotating magnetic field": [
+      "US714412A"
+    ],
+    "slip": [
+      "US714412A",
+      "US865617A"
+    ],
+    "spectrum": [
+      "US1025932A"
+    ],
+    "surge resistance": [
+      "US1230615A"
+    ],
+    "symbolic method": [
+      "US533244A"
+    ],
+    "three-phase systems": [
+      "US583950A"
+    ],
+    "torque": [
+      "US714412A",
+      "US865617A"
+    ],
+    "transformer action": [
+      "US1042986A"
+    ],
+    "transformers": [
+      "US717464A"
+    ],
+    "wattless component": [
+      "US583950A"
+    ]
+  },
+  "records": [
+    {
+      "patent_number": "US533244A",
+      "title": "System of distribution by alternating currents",
+      "publication_date": "1895-01-29",
+      "patent_url": "https://patents.google.com/patent/US533244A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US533244.pdf",
+      "domain_tags": [
+        "alternating-current distribution",
+        "single-phase and polyphase systems",
+        "phase displacement",
+        "monocyclic system"
+      ],
+      "concept_links": [
+        "alternating current",
+        "polyphase currents",
+        "phase displacement",
+        "electromotive force",
+        "symbolic method"
+      ],
+      "diagram_targets": [
+        "distribution system diagram",
+        "generator bank diagram",
+        "phase-modifying coil regulation diagram",
+        "geometrical phase-displacement diagram"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US559419A",
+      "title": "Inductor-dynamo",
+      "publication_date": "1896-05-05",
+      "patent_url": "https://patents.google.com/patent/US559419A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US559419.pdf",
+      "domain_tags": [
+        "inductor dynamo",
+        "synchronous generator",
+        "magnetic flux",
+        "machine economy"
+      ],
+      "concept_links": [
+        "magnetic field",
+        "magnetic flux",
+        "field excitation",
+        "alternating-current machinery"
+      ],
+      "diagram_targets": [
+        "electric circuit diagram",
+        "magnetic path sketch",
+        "modified machine form"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US583950A",
+      "title": "Three-phase induction-meter",
+      "publication_date": "1897-06-08",
+      "patent_url": "https://patents.google.com/patent/US583950A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US583950.pdf",
+      "domain_tags": [
+        "three-phase metering",
+        "induction wattmeter",
+        "quadrature",
+        "unbalanced load"
+      ],
+      "concept_links": [
+        "three-phase systems",
+        "power measurement",
+        "quadrature",
+        "wattless component"
+      ],
+      "diagram_targets": [
+        "meter connection diagram",
+        "electromotive-force triangle",
+        "phase-relation diagram"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US594145A",
+      "title": "Inductor-dynamo",
+      "publication_date": "1897-11-23",
+      "patent_url": "https://patents.google.com/patent/US594145A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US594145.pdf",
+      "domain_tags": [
+        "inductor dynamo",
+        "auxiliary air-gap",
+        "eddy currents",
+        "magnetic reluctance"
+      ],
+      "concept_links": [
+        "magnetic reluctance",
+        "eddy currents",
+        "magnetic flux",
+        "hysteresis and loss"
+      ],
+      "diagram_targets": [
+        "end elevation of machine",
+        "side elevation",
+        "magnetic reluctance path diagram"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US714412A",
+      "title": "Induction-motor",
+      "publication_date": "1902-11-25",
+      "patent_url": "https://patents.google.com/patent/US714412A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US714412.pdf",
+      "domain_tags": [
+        "induction motor",
+        "squirrel-cage winding",
+        "starting torque",
+        "secondary resistance"
+      ],
+      "concept_links": [
+        "induction motor",
+        "slip",
+        "torque",
+        "effective resistance",
+        "rotating magnetic field"
+      ],
+      "diagram_targets": [
+        "motor sectional view",
+        "secondary conductor arrangement",
+        "resistance-varying disk",
+        "secondary conductor detail"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US717464A",
+      "title": "System of electrical distribution",
+      "publication_date": "1902-12-30",
+      "patent_url": "https://patents.google.com/patent/US717464A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US717464.pdf",
+      "domain_tags": [
+        "electrical distribution",
+        "two-phase to three-phase transformation",
+        "magnetomotive force",
+        "phase conversion"
+      ],
+      "concept_links": [
+        "polyphase systems",
+        "phase relation",
+        "magnetomotive force",
+        "transformers"
+      ],
+      "diagram_targets": [
+        "transformer-core diagram",
+        "phase-vector diagram",
+        "exciter connection diagram"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US865617A",
+      "title": "Induction-motor",
+      "publication_date": "1907-09-10",
+      "patent_url": "https://patents.google.com/patent/US865617A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US865617.pdf",
+      "domain_tags": [
+        "induction motor",
+        "high-resistance rotor",
+        "fluid cooling",
+        "reversing service"
+      ],
+      "concept_links": [
+        "induction motor",
+        "resistance loss",
+        "cooling",
+        "torque",
+        "slip"
+      ],
+      "diagram_targets": [
+        "motor section",
+        "hollow conductor and end-ring cooling path"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US1025932A",
+      "title": "Means for producing light",
+      "publication_date": "1912-05-07",
+      "patent_url": "https://patents.google.com/patent/US1025932A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1025932.pdf",
+      "domain_tags": [
+        "electric lighting",
+        "mercury arc",
+        "spectral modification",
+        "ionized vapors"
+      ],
+      "concept_links": [
+        "illumination",
+        "radiation",
+        "spectrum",
+        "electric discharge",
+        "ionization"
+      ],
+      "diagram_targets": [
+        "lamp construction views",
+        "series circuit diagram",
+        "modified lamp forms"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US1042986A",
+      "title": "Induction-furnace",
+      "publication_date": "1912-10-29",
+      "patent_url": "https://patents.google.com/patent/US1042986A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1042986.pdf",
+      "domain_tags": [
+        "induction furnace",
+        "induction heating",
+        "power factor",
+        "magnetic leakage"
+      ],
+      "concept_links": [
+        "induction",
+        "magnetic leakage",
+        "power factor",
+        "transformer action",
+        "heating"
+      ],
+      "diagram_targets": [
+        "vertical furnace section",
+        "horizontal furnace section",
+        "step-down transformer relation"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "US1230615A",
+      "title": "Protective device",
+      "publication_date": "1917-06-19",
+      "patent_url": "https://patents.google.com/patent/US1230615A/en",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/US1230615.pdf",
+      "domain_tags": [
+        "surge protection",
+        "high-voltage transmission",
+        "surge resistance",
+        "high-frequency transients"
+      ],
+      "concept_links": [
+        "surge resistance",
+        "distributed constants",
+        "lightning surges",
+        "reflection",
+        "high-frequency currents"
+      ],
+      "diagram_targets": [
+        "transformer protection circuit",
+        "inductance and shunt resistance arrangement"
+      ],
+      "research_status": "seeded_patent_record_needs_pdf_claim_and_drawing_extraction",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    },
+    {
+      "patent_number": "USRE11576E",
+      "title": "Inductor-dynamo",
+      "publication_date": "1896-11-24",
+      "patent_url": "https://patents.google.com/patent/USRE11576E/",
+      "pdf_url": "https://patentimages.storage.googleapis.com/pdfs/USRE11576.pdf",
+      "domain_tags": [
+        "reissue patent",
+        "inductor dynamo",
+        "magnetic paths",
+        "machine construction"
+      ],
+      "concept_links": [
+        "magnetic flux",
+        "field excitation",
+        "inductor dynamo",
+        "alternating-current machinery"
+      ],
+      "diagram_targets": [
+        "side elevation",
+        "end elevation",
+        "electric circuit diagram",
+        "magnetic path sketch"
+      ],
+      "research_status": "seeded_patent_record_needs_reissue_lineage_review",
+      "bridge_status": "seeded theory bridge; needs PDF, drawing, claim, and source-text verification"
+    }
+  ]
+}

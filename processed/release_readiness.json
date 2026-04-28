@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Release levels are project-management gates, not scholarly certification by themselves.",
+  "levels": [
+    {
+      "id": "foundation-release",
+      "title": "Foundation Release",
+      "status": "pass",
+      "definition": "Public site, source corpus, generated readers, project tracker, and deployment workflow exist."
+    },
+    {
+      "id": "source-coverage-release",
+      "title": "Source Coverage Release",
+      "status": "pass",
+      "definition": "Every seeded source has public source-text and chapter-workbench coverage."
+    },
+    {
+      "id": "scan-verification-release",
+      "title": "Scan Verification Release",
+      "status": "partial",
+      "definition": "Priority source claims, equations, and diagrams are checked against scans."
+    },
+    {
+      "id": "equation-canon-release",
+      "title": "Equation Canon Release",
+      "status": "partial",
+      "definition": "Canonical equations have scan verification, notation ledger entries, derivations, and worked examples."
+    },
+    {
+      "id": "diagram-canon-release",
+      "title": "Diagram Canon Release",
+      "status": "partial",
+      "definition": "Major diagrams have original crops, provenance, captions, redraws, and linked explanations."
+    },
+    {
+      "id": "patent-authority-release",
+      "title": "Patent Authority Release",
+      "status": "started",
+      "definition": "Steinmetz patents are authority-checked, downloaded, drawn, summarized, and linked to theory."
+    },
+    {
+      "id": "definitive-steinmetz-release",
+      "title": "Definitive Steinmetz Release",
+      "status": "future",
+      "definition": "All priority books, papers, diagrams, equations, glossary terms, patents, and comparisons pass canonical review."
+    }
+  ]
+}

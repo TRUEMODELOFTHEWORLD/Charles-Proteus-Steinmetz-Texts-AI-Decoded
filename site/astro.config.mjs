@@ -238,6 +238,10 @@ export default defineConfig({
             { label: 'Diagram Provenance', slug: 'roadmap/diagram-provenance-ledger' },
             { label: 'Schema Reference', slug: 'roadmap/schema-reference' },
             { label: 'Expert Review Packets', slug: 'roadmap/expert-review-packets' },
+            { label: 'Release Levels', slug: 'roadmap/release-levels' },
+            { label: 'Accessibility Audit', slug: 'roadmap/accessibility-audit' },
+            { label: 'Edition Comparison', slug: 'roadmap/edition-comparison-layer' },
+            { label: 'Patent Theory Bridge', slug: 'roadmap/patent-to-theory-bridge' },
             { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' }
           ]
         }

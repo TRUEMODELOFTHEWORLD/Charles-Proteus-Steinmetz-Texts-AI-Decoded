@@ -36,6 +36,10 @@ DATA_EXPORTS = [
     ("diagram_provenance_ledger", "processed/diagram_provenance_ledger.json", "Original crop and redraw provenance ledger."),
     ("schema_reference", "processed/schema_reference.json", "Descriptive schema reference for processed and public data."),
     ("expert_review_packets", "processed/expert_review_packets.json", "Expert review bundles for canonical promotion work."),
+    ("release_readiness", "processed/release_readiness.json", "Named publication release levels and readiness states."),
+    ("accessibility_audit", "processed/accessibility_audit.json", "Automated accessibility-readiness scan and manual review gates."),
+    ("edition_comparison_index", "processed/edition_comparison_index.json", "Edition collation queue for seeded sources."),
+    ("patent_theory_bridge", "processed/patent_theory_bridge.json", "Seeded bridge from patents to concepts and theory-review targets."),
 ]
 
 

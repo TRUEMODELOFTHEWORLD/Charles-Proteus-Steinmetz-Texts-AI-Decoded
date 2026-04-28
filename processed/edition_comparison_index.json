@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Edition comparison index. It marks edition work to do; it does not claim editions have been collated.",
+  "record_count": 11,
+  "records": [
+    {
+      "source_id": "radiation-light-and-illumination",
+      "title": "Radiation, Light and Illumination",
+      "year": 1909,
+      "internet_archive_id": "radiationlightil00steirich",
+      "local_raw_file": "sources/radiation-light-and-illumination/raw/radiation-light-and-illumination-1909-ia-scan.pdf",
+      "processed_status": "lecture splits, candidate equations, figures, concepts, glossary, quotes",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1911,
+      "internet_archive_id": "elementarylectur00steirich",
+      "local_raw_file": "sources/elementary-lectures-electric-discharges-waves-impulses/raw/elementary-lectures-local.pdf",
+      "processed_status": "lecture splits and candidate catalogs from OCR",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "engineering-mathematics",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "year": 1911,
+      "internet_archive_id": "engineeringmathe00steirich",
+      "local_raw_file": "sources/engineering-mathematics/raw/engineering-mathematics-local.pdf",
+      "processed_status": "chapter splits and candidate catalogs from OCR",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1916,
+      "internet_archive_id": "5edtheorycalculatisteiuoft",
+      "local_raw_file": "sources/theory-calculation-alternating-current-phenomena/raw/alternating-current-phenomena-local.pdf",
+      "processed_status": "chapter splits and candidate catalogs from OCR; edition alignment needs review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "high",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "year": 1915,
+      "internet_archive_id": "theoreticalelect00steirich",
+      "local_raw_file": "sources/theoretical-elements-electrical-engineering/raw/theoretical-elements-local.pdf",
+      "processed_status": "source-specific part/section split and candidate catalogs from OCR",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "year": 1909,
+      "internet_archive_id": "transelectricphenom00steirich",
+      "local_raw_file": "sources/theory-calculation-transient-electric-phenomena-oscillations/raw/transient-electric-phenomena-local.pdf",
+      "processed_status": "chapter splits and candidate catalogs from OCR; multi-section numbering requires review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "general-lectures-electrical-engineering",
+      "title": "General Lectures on Electrical Engineering",
+      "year": 1908,
+      "internet_archive_id": "generallectureso00steiuoft",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; ordinal lecture parser generated candidate catalogs",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "america-and-new-epoch",
+      "title": "America and the New Epoch",
+      "year": 1916,
+      "internet_archive_id": "americanewepoch00stei",
+      "local_raw_file": null,
+      "processed_status": "source-specific historical chapter split and candidate catalogs from OCR",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-electric-apparatus",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "year": 1917,
+      "internet_archive_id": "theoryandcalcul04steigoog",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; chapter splits and candidate catalogs generated",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "four-lectures-relativity-space",
+      "title": "Four Lectures on Relativity and Space",
+      "year": 1923,
+      "internet_archive_id": "fourlecturesonre00stei",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; lecture splits and candidate catalogs generated",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "year": 1919,
+      "internet_archive_id": null,
+      "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
+      "processed_status": "embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated",
+      "edition_review_status": "needs edition comparison",
+      "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    }
+  ]
+}

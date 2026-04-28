@@ -97,6 +97,34 @@
       "format": "json"
     },
     {
+      "id": "release_readiness",
+      "description": "Named publication release levels and readiness states.",
+      "source_path": "processed/release_readiness.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/release_readiness.json",
+      "format": "json"
+    },
+    {
+      "id": "accessibility_audit",
+      "description": "Automated accessibility-readiness scan and manual review gates.",
+      "source_path": "processed/accessibility_audit.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/accessibility_audit.json",
+      "format": "json"
+    },
+    {
+      "id": "edition_comparison_index",
+      "description": "Edition collation queue for seeded sources.",
+      "source_path": "processed/edition_comparison_index.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/edition_comparison_index.json",
+      "format": "json"
+    },
+    {
+      "id": "patent_theory_bridge",
+      "description": "Seeded bridge from patents to concepts and theory-review targets.",
+      "source_path": "processed/patent_theory_bridge.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/patent_theory_bridge.json",
+      "format": "json"
+    },
+    {
       "id": "citation_index_bibtex",
       "description": "BibTeX citation export for project and source records.",
       "source_path": "processed/citation_index.bib",

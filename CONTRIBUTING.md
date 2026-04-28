@@ -53,6 +53,8 @@ The project publishes citation and data exports under `site/public/data/`. Do no
 
 Use the notation ledger, diagram provenance ledger, schema reference, and expert review packets before promoting a large change. They show which records are source-located, scan-derived, reconstructed, or still awaiting review.
 
+Use the release-level, accessibility, edition-comparison, and patent bridge pages before calling a milestone public-ready. They make the difference between broad coverage and reviewed publication explicit.
+
 When adding a new source, update source custody first:
 
 - source ID
