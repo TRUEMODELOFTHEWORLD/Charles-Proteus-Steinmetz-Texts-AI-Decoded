@@ -51,6 +51,7 @@ export default defineConfig({
             { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
             { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
+            { label: 'Concept Concordance', slug: 'concept-concordance' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
             {
@@ -148,6 +149,7 @@ export default defineConfig({
           label: 'Concept Encyclopedia',
           items: [
             { label: 'Concept Index', slug: 'concepts' },
+            { label: 'Concept Concordance', slug: 'concept-concordance' },
             { label: 'Radiation', slug: 'concepts/radiation' },
             { label: 'Electric Waves', slug: 'concepts/electric-waves' },
             { label: 'Lightning And Surges', slug: 'concepts/lightning-surges' },

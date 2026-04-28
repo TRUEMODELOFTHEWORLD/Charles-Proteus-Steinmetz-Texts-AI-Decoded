@@ -28,6 +28,7 @@ Corpus-wide generated indexes live at the root of this directory:
 - `evidence_ledger.json`
 - `chapter_atlas.json`
 - `chapter_workbench.json`
+- `concept_concordance.json`
 - `canonical_equations.json`
 - `source_processing_status.md`
 

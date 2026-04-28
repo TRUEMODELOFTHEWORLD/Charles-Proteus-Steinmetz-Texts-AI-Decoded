@@ -65,14 +65,15 @@ These indexes are inventory and review tools. They count candidates, promoted or
 
 ## Public Corpus Pages
 
-After chapter splits and indexes exist, generate the public source-text browser and chapter workbench:
+After chapter splits and indexes exist, generate the public source-text browser, chapter workbench, and concept concordance:
 
 ```powershell
 python pipeline/scripts/generate_source_text_pages.py
 python pipeline/scripts/generate_chapter_workbench.py
+python pipeline/scripts/generate_concept_concordance.py
 ```
 
-The source-text browser exposes the current processed text for every chapter, lecture, section, or report division. The chapter workbench joins each section to theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, source links, and promotion checklists. Both layers are candidate research aids, not corrected editions.
+The source-text browser exposes the current processed text for every chapter, lecture, section, or report division. The chapter workbench joins each section to theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, source links, and promotion checklists. The concept concordance scans the same corpus for curated Steinmetz terminology and links each hit back to source text and workbench pages. These layers are candidate research aids, not corrected editions.
 
 ## PDF Image Extraction
 
