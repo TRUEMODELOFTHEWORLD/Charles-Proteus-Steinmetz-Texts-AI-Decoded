@@ -1,0 +1,41 @@
+name: Expert review packet
+description: Coordinate a larger review bundle across sources, equations, diagrams, glossary terms, patents, or interpretive boundaries.
+title: "[Expert review]: "
+labels: ["expert-review", "needs-review"]
+body:
+  - type: dropdown
+    id: packet
+    attributes:
+      label: Review packet
+      options:
+        - source-custody-and-ocr
+        - equation-canon-and-notation
+        - diagram-provenance
+        - concept-and-glossary
+        - patent-authority-pass
+        - interpretive-boundaries
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: List source IDs, equation IDs, crop IDs, pages, terms, or patent numbers included in this pass.
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings
+      description: Record corrections, confirmations, uncertain readings, or needed follow-up.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Review controls
+      options:
+        - label: Source locations or artifact IDs are recorded.
+        - label: Candidate and verified material are separated.
+        - label: Any interpretation is labeled apart from source fact.
+        - label: Follow-up issues or PRs are linked.

@@ -37,6 +37,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Scholarly exports | `CITATION.cff`, `processed/citation_index.json`, CSL JSON, BibTeX, public `/data/` exports, and a data manifest now publish reusable research data with review-state labels intact. |
 | Review governance | Editorial policy, canonical review workflow, contribution rules, and GitHub issue templates now guide source, equation, and diagram promotion. |
+| World-class ledgers | `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, and `processed/expert_review_packets.json` now route notation, diagram, data, patent, concept, and interpretive-boundary review. |
 | Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
 | Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
 | New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
@@ -78,14 +79,14 @@ These are new workstreams added after the foundation was built. They define what
 | Critical-edition editorial policy | Started | OCR correction, uncertain readings, page breaks, spelling variants, and math transcription now have a public rule page. |
 | Citation/export system | Started | Researchers can export BibTeX, CSL JSON, stable source IDs, recommended citations, and public JSON data. |
 | Canonical review workflow | Started | Candidate -> source-located -> scan-verified -> mathematically reviewed -> context reviewed -> canonical is public and tied to issue templates. |
-| Mathematical errata and notation ledger | Pending | Original notation, OCR math defects, modern equivalents, units, and edition variants need a traceable ledger. |
-| Diagram provenance ledger | Started | Crop manifests exist; the next step is full provenance coverage for every figure and redraw. |
+| Mathematical errata and notation ledger | Started | The first generated notation ledger maps source and modern symbols across the canonical equation seed set. |
+| Diagram provenance ledger | Started | The generated provenance ledger maps 15 original crops and 9 modern redraws with source, asset, and review-state fields. |
 | Edition comparison layer | Pending | Multiple editions can move figures, revise equations, or change notation; differences must be visible. |
 | Patent-to-theory bridge | Pending | Patents should connect to apparatus theory, hysteresis, AC, transients, and surge protection pages. |
 | Accessibility and reading-quality audit | Started | Reader controls exist; full contrast, keyboard, mobile, alt text, and table-overflow checks remain. |
 | Research API and data export | Started | Public data manifest, reusable JSON exports, citation index, CSL JSON, and BibTeX now generate. |
 | Contributor governance | Started | Contribution rules and source/equation/diagram review templates are now present. |
-| Independent expert review packets | Pending | Engineers, historians, physicists, and alternative-field researchers need focused review bundles. |
+| Independent expert review packets | Started | Six generated packets route source custody/OCR, equation notation, diagram provenance, concepts/glossary, patents, and interpretive-boundary review. |
 | Definitive release levels | Pending | The project needs named releases: foundation, source coverage, scan verification, equation canon, diagram canon, and definitive release. |
 
 ## Extraction Requirements From The Original Charter
@@ -154,6 +155,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4f. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 4g. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
 | 4h. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
+| 4i. Notation, Provenance, Schema, And Review Packets | Started | `site/src/content/docs/roadmap/notation-ledger.mdx`, `diagram-provenance-ledger.mdx`, `schema-reference.mdx`, and `expert-review-packets.mdx` generated |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
@@ -185,6 +187,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
 | Generate scholarly exports | Started | `generate_scholarly_exports.py` builds `CITATION.cff`, citation JSON, CSL JSON, BibTeX, public `/data/` exports, a data manifest, and the public citation/export page. |
+| Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
 | Generate glossary candidates | Started | `processed/glossary_index.json`. |
 | Generate equation candidates | Started | `processed/equation_index.json`. |
 | Generate diagram candidates | Started | `processed/figure_index.json`. |
@@ -214,6 +217,10 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `citation_index.json` | Started as the archive-wide citation record set for project and source records. |
 | `citation_index.csl.json` | Started as the CSL JSON export for citation managers. |
 | `citation_index.bib` | Started as the BibTeX export for citation managers. |
+| `notation_ledger.json` | Started as the source/modern symbol review ledger for the first canonical equation set. |
+| `diagram_provenance_ledger.json` | Started as the provenance ledger for original crops and modern redraws. |
+| `schema_reference.json` | Started as the descriptive schema reference for processed and public exports. |
+| `expert_review_packets.json` | Started as the routed expert-review bundle index. |
 | `site/public/data/manifest.json` | Started as the public data export manifest. |
 | generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
@@ -238,6 +245,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7C. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
 | M7D. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
 | M7E. Scholarly export and review governance | Generate citation/data exports and public review rules. | Generated `CITATION.cff`, citation index, BibTeX, CSL JSON, public data manifest, editorial policy, canonical review workflow, and GitHub review templates. |
+| M7F. Critical scholarly ledgers | Generate notation, diagram provenance, schema, and expert review packet controls. | Generated four processed ledgers and four public roadmap pages for review routing. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -290,7 +298,8 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `98d531d` | Added the generated chapter research workbench for all processed sections. |
 | `d5c69f6` | Added the generated concept concordance across the processed Steinmetz corpus. |
 | `feb0145` | Added the generated completion audit and world-class finishing criteria. |
-| pending commit | Added scholarly citation/data exports, editorial policy, canonical review workflow, and issue templates. |
+| `62967cd` | Added scholarly citation/data exports, editorial policy, canonical review workflow, and issue templates. |
+| pending commit | Added notation, diagram provenance, schema reference, and expert review packet ledgers. |
 
 ## Next Work Queue
 
@@ -305,5 +314,5 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 9. Use the generated source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
 10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
 11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
-12. Use the new citation/data exports and review templates to prepare external expert review packets.
-13. Add the remaining world-class apparatus: notation ledger, expanded diagram provenance ledger, accessibility audit, schema reference docs, edition comparison layer, patent-to-theory bridge, and named release levels.
+12. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
+13. Add the remaining world-class apparatus: accessibility audit, formal JSON schemas, edition comparison layer, patent-to-theory bridge, and named release levels.

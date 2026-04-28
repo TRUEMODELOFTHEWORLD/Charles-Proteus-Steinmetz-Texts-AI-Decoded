@@ -1,0 +1,460 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Schema reference for public and processed data. It is descriptive, not a formal JSON Schema validator yet.",
+  "files": [
+    {
+      "id": "source_catalog",
+      "description": "Seeded source records and custody pointers.",
+      "path": "sources/source_catalog.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/source_catalog.json",
+      "schema_summary": {
+        "container": "array",
+        "top_level_fields": [
+          "internet_archive_id",
+          "local_raw_file",
+          "processed_status",
+          "site_path",
+          "source_id",
+          "source_status",
+          "title",
+          "year"
+        ],
+        "record_count": 11
+      },
+      "review_state_fields": [
+        "processed_status",
+        "source_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "research_index",
+      "description": "Corpus-wide processing inventory.",
+      "path": "processed/research_index.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/research_index.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "quality_note",
+          "source_count",
+          "sources"
+        ],
+        "sample_record_fields": [
+          "quality_note",
+          "source_count",
+          "sources"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "evidence_ledger",
+      "description": "Traceability records for source/candidate/promoted items.",
+      "path": "processed/evidence_ledger.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/evidence_ledger.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "confidence_counts",
+          "quality_note",
+          "record_type_counts",
+          "records",
+          "source_counts",
+          "total_records"
+        ],
+        "sample_record_fields": [
+          "collection",
+          "confidence",
+          "evidence",
+          "id",
+          "label",
+          "person",
+          "record_id",
+          "record_type",
+          "site_path",
+          "source_id",
+          "source_title",
+          "status",
+          "year"
+        ],
+        "record_count": 3345
+      },
+      "review_state_fields": [
+        "confidence",
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "chapter_atlas",
+      "description": "Theme routing records for processed sections.",
+      "path": "processed/chapter_atlas.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/chapter_atlas.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "quality_note",
+          "records",
+          "source_counts",
+          "theme_totals",
+          "total_records"
+        ],
+        "sample_record_fields": [
+          "id",
+          "kind",
+          "line_end",
+          "line_start",
+          "sequence",
+          "source_id",
+          "source_title",
+          "status",
+          "text_path",
+          "theme_counts",
+          "title",
+          "top_themes",
+          "word_count"
+        ],
+        "record_count": 304
+      },
+      "review_state_fields": [
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "chapter_workbench",
+      "description": "Section-level research workbench records.",
+      "path": "processed/chapter_workbench.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/chapter_workbench.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "quality_note",
+          "records",
+          "source_counts",
+          "total_records"
+        ],
+        "sample_record_fields": [
+          "concept_hits",
+          "equation_count",
+          "equations",
+          "figure_count",
+          "figures",
+          "glossary_hits",
+          "id",
+          "kind",
+          "label",
+          "line_end",
+          "line_start",
+          "links",
+          "location",
+          "opening_excerpt",
+          "quote_count",
+          "quotes",
+          "sequence",
+          "slug",
+          "source_id",
+          "source_title",
+          "status",
+          "theme_counts",
+          "theme_snippets",
+          "title",
+          "top_themes",
+          "word_count",
+          "year"
+        ],
+        "record_count": 304
+      },
+      "review_state_fields": [
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "concept_concordance",
+      "description": "Source-text concept hit records.",
+      "path": "processed/concept_concordance.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/concept_concordance.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "collection",
+          "concepts",
+          "generated_at",
+          "person",
+          "quality_note",
+          "section_count",
+          "source_count",
+          "total_concepts"
+        ],
+        "sample_record_fields": [
+          "collection",
+          "concepts",
+          "generated_at",
+          "person",
+          "quality_note",
+          "section_count",
+          "source_count",
+          "total_concepts"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "canonical_equations",
+      "description": "First equation canon and review state.",
+      "path": "processed/canonical_equations.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/canonical_equations.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "quality_note",
+          "records",
+          "total_records"
+        ],
+        "sample_record_fields": [
+          "id",
+          "modern_form",
+          "original_form",
+          "site_path",
+          "source_id",
+          "source_ref",
+          "source_title",
+          "status",
+          "title",
+          "why_canonical"
+        ],
+        "record_count": 12
+      },
+      "review_state_fields": [
+        "source_ref",
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "completion_audit",
+      "description": "Source-by-source readiness gates.",
+      "path": "processed/completion_audit.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/completion_audit.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "project_gates",
+          "quality_note",
+          "source_audits"
+        ],
+        "sample_record_fields": [
+          "curated_public_pages",
+          "gates",
+          "has_ocr_seed",
+          "has_source_manifest",
+          "links",
+          "next_actions",
+          "original_crop_manifests",
+          "processed_status",
+          "raw_file_count",
+          "readiness",
+          "readiness_percent",
+          "record_counts",
+          "source_id",
+          "source_status",
+          "source_text_pages",
+          "title",
+          "workbench_pages",
+          "year"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "processed_status",
+        "source_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "citation_index",
+      "description": "Project and source citation records.",
+      "path": "processed/citation_index.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/citation_index.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "records"
+        ],
+        "sample_record_fields": [
+          "author",
+          "id",
+          "issued",
+          "recommended_citation",
+          "site_url",
+          "source_url",
+          "title",
+          "type",
+          "verification_note",
+          "year"
+        ],
+        "record_count": 12
+      },
+      "review_state_fields": [
+        "verification_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "notation_ledger",
+      "description": "Equation notation and translation ledger.",
+      "path": "processed/notation_ledger.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/notation_ledger.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records",
+          "symbol_count",
+          "symbol_index"
+        ],
+        "sample_record_fields": [
+          "equation_id",
+          "modern_form",
+          "original_form",
+          "review_actions",
+          "site_path",
+          "source_id",
+          "source_ref",
+          "source_title",
+          "status",
+          "symbols",
+          "title"
+        ],
+        "record_count": 12
+      },
+      "review_state_fields": [
+        "review_actions",
+        "source_ref",
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "diagram_provenance_ledger",
+      "description": "Original crop and redraw provenance ledger.",
+      "path": "processed/diagram_provenance_ledger.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/diagram_provenance_ledger.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "original_crop_count",
+          "original_crop_status_counts",
+          "original_crops",
+          "quality_note",
+          "redraw_count",
+          "redraws"
+        ],
+        "sample_record_fields": [
+          "asset_type",
+          "crop_box_pixels",
+          "height",
+          "id",
+          "manifest_path",
+          "output_path",
+          "public_url",
+          "quality_note",
+          "sha256",
+          "source_id",
+          "source_image",
+          "source_location",
+          "source_title",
+          "status",
+          "width"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note",
+        "status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "schema_reference",
+      "description": "Machine-readable schema/reference guide.",
+      "path": "processed/schema_reference.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/schema_reference.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "files",
+          "generated_at",
+          "quality_note"
+        ],
+        "sample_record_fields": [
+          "files",
+          "generated_at",
+          "quality_note"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "expert_review_packets",
+      "description": "Review bundles for experts and contributors.",
+      "path": "processed/expert_review_packets.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/expert_review_packets.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "packet_count",
+          "packets",
+          "quality_note"
+        ],
+        "sample_record_fields": [
+          "artifact_links",
+          "id",
+          "ready_count",
+          "reviewer_profile",
+          "scope",
+          "tasks",
+          "title"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "reviewer_profile"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    }
+  ]
+}

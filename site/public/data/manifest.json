@@ -69,6 +69,34 @@
       "format": "json"
     },
     {
+      "id": "notation_ledger",
+      "description": "Equation notation and translation review ledger.",
+      "source_path": "processed/notation_ledger.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/notation_ledger.json",
+      "format": "json"
+    },
+    {
+      "id": "diagram_provenance_ledger",
+      "description": "Original crop and redraw provenance ledger.",
+      "source_path": "processed/diagram_provenance_ledger.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/diagram_provenance_ledger.json",
+      "format": "json"
+    },
+    {
+      "id": "schema_reference",
+      "description": "Descriptive schema reference for processed and public data.",
+      "source_path": "processed/schema_reference.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/schema_reference.json",
+      "format": "json"
+    },
+    {
+      "id": "expert_review_packets",
+      "description": "Expert review bundles for canonical promotion work.",
+      "source_path": "processed/expert_review_packets.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/expert_review_packets.json",
+      "format": "json"
+    },
+    {
       "id": "citation_index_bibtex",
       "description": "BibTeX citation export for project and source records.",
       "source_path": "processed/citation_index.bib",

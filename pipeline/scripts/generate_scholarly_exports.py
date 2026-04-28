@@ -32,6 +32,10 @@ DATA_EXPORTS = [
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),
     ("completion_audit", "processed/completion_audit.json", "Source-by-source readiness audit."),
     ("citation_index", "processed/citation_index.json", "Citation records for source and site artifacts."),
+    ("notation_ledger", "processed/notation_ledger.json", "Equation notation and translation review ledger."),
+    ("diagram_provenance_ledger", "processed/diagram_provenance_ledger.json", "Original crop and redraw provenance ledger."),
+    ("schema_reference", "processed/schema_reference.json", "Descriptive schema reference for processed and public data."),
+    ("expert_review_packets", "processed/expert_review_packets.json", "Expert review bundles for canonical promotion work."),
 ]
 
 

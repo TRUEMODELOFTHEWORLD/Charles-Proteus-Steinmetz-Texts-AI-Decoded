@@ -1,0 +1,902 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Notation ledger for review. It maps source and modern symbols but does not certify typography until scan verification is complete.",
+  "record_count": 12,
+  "symbol_count": 31,
+  "symbol_index": [
+    {
+      "symbol": "b",
+      "meaning_note": "Susceptance component of admittance.",
+      "equation_ids": [
+        "ac-admittance-components",
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "B",
+      "meaning_note": "Modern susceptance symbol.",
+      "equation_ids": [
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "B_C",
+      "meaning_note": "Modern capacity susceptance notation used in the archive translation.",
+      "equation_ids": [
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "C",
+      "meaning_note": "Capacity or capacitance. Preserve Steinmetz's capacity language before modernizing it.",
+      "equation_ids": [
+        "ac-condensive-reactance",
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "cos",
+      "meaning_note": "Cosine function used in power-factor relations.",
+      "equation_ids": [
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "e",
+      "meaning_note": "Electromotive force or voltage in older notation; verify whether RMS or instantaneous value is meant.",
+      "equation_ids": [
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "f",
+      "meaning_note": "Frequency. Check whether Steinmetz is using cycles per second or angular frequency in the surrounding text.",
+      "equation_ids": [
+        "rli-velocity-frequency-wavelength",
+        "ac-inductive-reactance",
+        "ac-condensive-reactance",
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "radiation-light-and-illumination",
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "g",
+      "meaning_note": "Conductance component of admittance.",
+      "equation_ids": [
+        "ac-admittance-reciprocal",
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "G",
+      "meaning_note": "Modern conductance symbol.",
+      "equation_ids": [
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "I",
+      "meaning_note": "Alternating current quantity or complex current, depending on chapter context.",
+      "equation_ids": [
+        "ac-symbolic-rectangular-form",
+        "ac-symbolic-ohms-law",
+        "ac-power-factor-equation",
+        "ac-effective-resistance-power"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "i",
+      "meaning_note": "Current component or instantaneous/current magnitude in Steinmetz-era notation. Needs local context.",
+      "equation_ids": [
+        "ac-symbolic-rectangular-form",
+        "ac-power-factor-equation",
+        "ac-effective-resistance-power"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "i'",
+      "meaning_note": "Quadrature current component in the symbolic-method passage.",
+      "equation_ids": [
+        "ac-symbolic-rectangular-form"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "j",
+      "meaning_note": "Imaginary operator used by Steinmetz as a quarter-period or 90-degree rotation.",
+      "equation_ids": [
+        "ac-symbolic-rectangular-form",
+        "ac-symbolic-operator-j",
+        "ac-impedance-complex-form"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "L",
+      "meaning_note": "Inductance.",
+      "equation_ids": [
+        "ac-inductive-reactance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "lambda",
+      "meaning_note": "Wave length in the source relation; modern notation usually uses lambda.",
+      "equation_ids": [
+        "rli-velocity-frequency-wavelength"
+      ],
+      "source_ids": [
+        "radiation-light-and-illumination"
+      ]
+    },
+    {
+      "symbol": "omega",
+      "meaning_note": "Modern angular frequency notation used in archive translations.",
+      "equation_ids": [
+        "ac-inductive-reactance",
+        "ac-condensive-reactance",
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "P",
+      "meaning_note": "Power.",
+      "equation_ids": [
+        "ac-power-factor-equation",
+        "ac-effective-resistance-power"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "P_o",
+      "meaning_note": "Real or output power notation in the source record; verify typography against scan.",
+      "equation_ids": [
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "phi",
+      "meaning_note": "Modern phase-angle notation.",
+      "equation_ids": [
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "pi",
+      "meaning_note": "Circle constant in frequency/reactance relations; verify whether source writes pi as a symbol or text.",
+      "equation_ids": [
+        "ac-inductive-reactance",
+        "ac-condensive-reactance",
+        "ac-dielectric-capacity-susceptance"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "r",
+      "meaning_note": "Resistance or effective resistance in Steinmetz notation, depending on source context.",
+      "equation_ids": [
+        "ac-impedance-complex-form",
+        "ac-admittance-components",
+        "ac-effective-resistance-power"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "R",
+      "meaning_note": "Modern resistance symbol.",
+      "equation_ids": [
+        "ac-impedance-complex-form",
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "R_eff",
+      "meaning_note": "Modern effective-resistance notation used in the archive translation.",
+      "equation_ids": [
+        "ac-effective-resistance-power"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "S",
+      "meaning_note": "Velocity of propagation in Steinmetz's radiation notation.",
+      "equation_ids": [
+        "rli-velocity-frequency-wavelength"
+      ],
+      "source_ids": [
+        "radiation-light-and-illumination"
+      ]
+    },
+    {
+      "symbol": "theta",
+      "meaning_note": "Phase angle in source notation.",
+      "equation_ids": [
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "v",
+      "meaning_note": "Modern velocity symbol used when translating Steinmetz's S.",
+      "equation_ids": [
+        "rli-velocity-frequency-wavelength"
+      ],
+      "source_ids": [
+        "radiation-light-and-illumination"
+      ]
+    },
+    {
+      "symbol": "V",
+      "meaning_note": "Modern voltage symbol.",
+      "equation_ids": [
+        "ac-symbolic-ohms-law",
+        "ac-power-factor-equation"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "x",
+      "meaning_note": "Reactance in Steinmetz AC notation.",
+      "equation_ids": [
+        "ac-inductive-reactance",
+        "ac-condensive-reactance",
+        "ac-impedance-complex-form",
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "X",
+      "meaning_note": "Modern reactance symbol.",
+      "equation_ids": [
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "Y",
+      "meaning_note": "Admittance.",
+      "equation_ids": [
+        "ac-admittance-reciprocal",
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    },
+    {
+      "symbol": "Z",
+      "meaning_note": "Impedance as a complex AC quantity.",
+      "equation_ids": [
+        "ac-impedance-complex-form",
+        "ac-symbolic-ohms-law",
+        "ac-admittance-reciprocal",
+        "ac-admittance-components"
+      ],
+      "source_ids": [
+        "theory-calculation-alternating-current-phenomena"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "equation_id": "rli-velocity-frequency-wavelength",
+      "title": "Velocity, Frequency, and Wave Length",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "original_form": "f = S / lambda; equivalently S = f lambda",
+      "modern_form": "v = f lambda",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Lecture I, cleaned OCR lines 248-259 and 697-703",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/velocity-frequency-wavelength/",
+      "symbols": [
+        {
+          "symbol": "f",
+          "meaning_note": "Frequency. Check whether Steinmetz is using cycles per second or angular frequency in the surrounding text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "S",
+          "meaning_note": "Velocity of propagation in Steinmetz's radiation notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "lambda",
+          "meaning_note": "Wave length in the source relation; modern notation usually uses lambda.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "v",
+          "meaning_note": "Modern velocity symbol used when translating Steinmetz's S.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-symbolic-rectangular-form",
+      "title": "Rectangular Complex Quantity",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "I = i + ji'",
+      "modern_form": "I = I_real + j I_quadrature",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 285-290",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/symbolic-rectangular-components/",
+      "symbols": [
+        {
+          "symbol": "I",
+          "meaning_note": "Alternating current quantity or complex current, depending on chapter context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "i",
+          "meaning_note": "Current component or instantaneous/current magnitude in Steinmetz-era notation. Needs local context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "i'",
+          "meaning_note": "Quadrature current component in the symbolic-method passage.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "j",
+          "meaning_note": "Imaginary operator used by Steinmetz as a quarter-period or 90-degree rotation.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-symbolic-operator-j",
+      "title": "The Operator j",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "j^2 = -1",
+      "modern_form": "j = sqrt(-1), used as a 90 degree rotation operator in phasor analysis",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333 and promoted Fig. 24 crop",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/symbolic-operator-j/",
+      "symbols": [
+        {
+          "symbol": "j",
+          "meaning_note": "Imaginary operator used by Steinmetz as a quarter-period or 90-degree rotation.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-inductive-reactance",
+      "title": "Inductive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "x = 2 pi f L",
+      "modern_form": "X_L = omega L = 2 pi f L",
+      "status": "source-located candidate; OCR symbol defects present",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 292-315 and 373-376",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/reactance-forms/",
+      "symbols": [
+        {
+          "symbol": "f",
+          "meaning_note": "Frequency. Check whether Steinmetz is using cycles per second or angular frequency in the surrounding text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "x",
+          "meaning_note": "Reactance in Steinmetz AC notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "L",
+          "meaning_note": "Inductance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "pi",
+          "meaning_note": "Circle constant in frequency/reactance relations; verify whether source writes pi as a symbol or text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "omega",
+          "meaning_note": "Modern angular frequency notation used in archive translations.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-condensive-reactance",
+      "title": "Condensive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "x_1 = 1 / (2 pi f C)",
+      "modern_form": "X_C = 1 / (omega C) = 1 / (2 pi f C)",
+      "status": "source-located candidate; OCR symbol defects present",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 351-380",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/reactance-forms/",
+      "symbols": [
+        {
+          "symbol": "f",
+          "meaning_note": "Frequency. Check whether Steinmetz is using cycles per second or angular frequency in the surrounding text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "x",
+          "meaning_note": "Reactance in Steinmetz AC notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "C",
+          "meaning_note": "Capacity or capacitance. Preserve Steinmetz's capacity language before modernizing it.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "pi",
+          "meaning_note": "Circle constant in frequency/reactance relations; verify whether source writes pi as a symbol or text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "omega",
+          "meaning_note": "Modern angular frequency notation used in archive translations.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-impedance-complex-form",
+      "title": "Complex Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "Z = r + jx",
+      "modern_form": "Z = R + jX",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/impedance-reactance/",
+      "symbols": [
+        {
+          "symbol": "j",
+          "meaning_note": "Imaginary operator used by Steinmetz as a quarter-period or 90-degree rotation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "x",
+          "meaning_note": "Reactance in Steinmetz AC notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "Z",
+          "meaning_note": "Impedance as a complex AC quantity.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "r",
+          "meaning_note": "Resistance or effective resistance in Steinmetz notation, depending on source context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "R",
+          "meaning_note": "Modern resistance symbol.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-symbolic-ohms-law",
+      "title": "Symbolic Ohm's Law",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "E = ZI, I = E / Z, Z = E / I",
+      "modern_form": "V = ZI",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter V, Symbolic Method, cleaned OCR lines 326-383",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/impedance-reactance/",
+      "symbols": [
+        {
+          "symbol": "I",
+          "meaning_note": "Alternating current quantity or complex current, depending on chapter context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "Z",
+          "meaning_note": "Impedance as a complex AC quantity.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "V",
+          "meaning_note": "Modern voltage symbol.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-admittance-reciprocal",
+      "title": "Admittance As Reciprocal Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "Y = 1 / Z = g - jb",
+      "modern_form": "Y = 1 / Z; sign convention depends on reactance convention",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter VIII, Admittance, Conductance, Susceptance, cleaned OCR lines 48-222",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/admittance-conductance-susceptance/",
+      "symbols": [
+        {
+          "symbol": "Z",
+          "meaning_note": "Impedance as a complex AC quantity.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "Y",
+          "meaning_note": "Admittance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "g",
+          "meaning_note": "Conductance component of admittance.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-admittance-components",
+      "title": "Conductance and Susceptance From Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "g = r / (r^2 + x^2), b = x / (r^2 + x^2)",
+      "modern_form": "For Z = R + jX and Y = G - jB: G = R/(R^2+X^2), B = X/(R^2+X^2)",
+      "status": "mathematical reconstruction from source relation",
+      "source_ref": {
+        "location": "Chapter VIII relation plus algebraic reciprocal; existing public derivation",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/admittance-conductance-susceptance/",
+      "symbols": [
+        {
+          "symbol": "x",
+          "meaning_note": "Reactance in Steinmetz AC notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "Z",
+          "meaning_note": "Impedance as a complex AC quantity.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "r",
+          "meaning_note": "Resistance or effective resistance in Steinmetz notation, depending on source context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "Y",
+          "meaning_note": "Admittance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "g",
+          "meaning_note": "Conductance component of admittance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "b",
+          "meaning_note": "Susceptance component of admittance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "R",
+          "meaning_note": "Modern resistance symbol.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "X",
+          "meaning_note": "Modern reactance symbol.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "G",
+          "meaning_note": "Modern conductance symbol.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "B",
+          "meaning_note": "Modern susceptance symbol.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-power-factor-equation",
+      "title": "AC Power Equation",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "P_o = ei cos theta",
+      "modern_form": "P = VI cos phi",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter I, Introduction, cleaned OCR lines 248-254",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/power-effective-resistance/",
+      "symbols": [
+        {
+          "symbol": "I",
+          "meaning_note": "Alternating current quantity or complex current, depending on chapter context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "i",
+          "meaning_note": "Current component or instantaneous/current magnitude in Steinmetz-era notation. Needs local context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "P_o",
+          "meaning_note": "Real or output power notation in the source record; verify typography against scan.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "P",
+          "meaning_note": "Power.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "e",
+          "meaning_note": "Electromotive force or voltage in older notation; verify whether RMS or instantaneous value is meant.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "V",
+          "meaning_note": "Modern voltage symbol.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "theta",
+          "meaning_note": "Phase angle in source notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "phi",
+          "meaning_note": "Modern phase-angle notation.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "cos",
+          "meaning_note": "Cosine function used in power-factor relations.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-effective-resistance-power",
+      "title": "Effective Resistance From Real Power",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "P = i^2 r",
+      "modern_form": "R_eff = P / I^2",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter I, Introduction, cleaned OCR lines 236-246 and Chapter XII lines 64-85",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/power-effective-resistance/",
+      "symbols": [
+        {
+          "symbol": "I",
+          "meaning_note": "Alternating current quantity or complex current, depending on chapter context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "i",
+          "meaning_note": "Current component or instantaneous/current magnitude in Steinmetz-era notation. Needs local context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "r",
+          "meaning_note": "Resistance or effective resistance in Steinmetz notation, depending on source context.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "P",
+          "meaning_note": "Power.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "R_eff",
+          "meaning_note": "Modern effective-resistance notation used in the archive translation.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    },
+    {
+      "equation_id": "ac-dielectric-capacity-susceptance",
+      "title": "Capacity Susceptance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "original_form": "b = 2 pi f C",
+      "modern_form": "B_C = omega C = 2 pi f C",
+      "status": "source-located candidate",
+      "source_ref": {
+        "location": "Chapter XIV, Dielectric Losses, cleaned OCR lines 209-221 and 595-599",
+        "verification": "needs scan verification"
+      },
+      "site_path": "/mathematics/equations/capacity-susceptance/",
+      "symbols": [
+        {
+          "symbol": "f",
+          "meaning_note": "Frequency. Check whether Steinmetz is using cycles per second or angular frequency in the surrounding text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "C",
+          "meaning_note": "Capacity or capacitance. Preserve Steinmetz's capacity language before modernizing it.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "b",
+          "meaning_note": "Susceptance component of admittance.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "pi",
+          "meaning_note": "Circle constant in frequency/reactance relations; verify whether source writes pi as a symbol or text.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "omega",
+          "meaning_note": "Modern angular frequency notation used in archive translations.",
+          "review_state": "needs source-context verification"
+        },
+        {
+          "symbol": "B_C",
+          "meaning_note": "Modern capacity susceptance notation used in the archive translation.",
+          "review_state": "needs source-context verification"
+        }
+      ],
+      "review_actions": [
+        "Check original typography and subscripts against scan.",
+        "Confirm whether quantities are RMS, maximum, instantaneous, or symbolic.",
+        "Record unit conventions and edition differences if found."
+      ]
+    }
+  ]
+}

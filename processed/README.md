@@ -34,6 +34,10 @@ Corpus-wide generated indexes live at the root of this directory:
 - `citation_index.json`
 - `citation_index.csl.json`
 - `citation_index.bib`
+- `notation_ledger.json`
+- `diagram_provenance_ledger.json`
+- `schema_reference.json`
+- `expert_review_packets.json`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

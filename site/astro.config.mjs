@@ -234,6 +234,10 @@ export default defineConfig({
             { label: 'Citation And Data Export', slug: 'roadmap/citation-and-data-export' },
             { label: 'Editorial Policy', slug: 'roadmap/editorial-policy' },
             { label: 'Canonical Review', slug: 'roadmap/canonical-review-workflow' },
+            { label: 'Notation Ledger', slug: 'roadmap/notation-ledger' },
+            { label: 'Diagram Provenance', slug: 'roadmap/diagram-provenance-ledger' },
+            { label: 'Schema Reference', slug: 'roadmap/schema-reference' },
+            { label: 'Expert Review Packets', slug: 'roadmap/expert-review-packets' },
             { label: 'Future Codex Architecture', slug: 'roadmap/future-codex-architecture' }
           ]
         }

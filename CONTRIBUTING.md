@@ -51,6 +51,8 @@ Promotion states:
 
 The project publishes citation and data exports under `site/public/data/`. Do not remove review-state fields from generated JSON. They are part of the anti-hallucination system.
 
+Use the notation ledger, diagram provenance ledger, schema reference, and expert review packets before promoting a large change. They show which records are source-located, scan-derived, reconstructed, or still awaiting review.
+
 When adding a new source, update source custody first:
 
 - source ID

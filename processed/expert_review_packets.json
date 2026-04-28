@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Expert review packets route review work. They are invitations to verify, not certificates of completion.",
+  "packet_count": 6,
+  "packets": [
+    {
+      "id": "source-custody-and-ocr",
+      "title": "Source Custody And OCR Review",
+      "reviewer_profile": "Historian of technology, archivist, or careful source transcriber.",
+      "scope": "Check source manifests, editions, OCR, page maps, public source links, and scan access.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/completion-audit/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/source_catalog.json"
+      ],
+      "ready_count": 11,
+      "tasks": [
+        "Confirm edition/year/publisher fields for each source.",
+        "Check OCR readings only against scans or trusted editions.",
+        "Record missing checksums, page maps, and public archive links."
+      ]
+    },
+    {
+      "id": "equation-canon-and-notation",
+      "title": "Equation Canon And Notation Review",
+      "reviewer_profile": "Electrical engineer, mathematician, or power-systems educator.",
+      "scope": "Review the first equation canon, notation translations, units, and worked-example readiness.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/notation-ledger/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/canonical_equations.json",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/notation_ledger.json"
+      ],
+      "ready_count": 12,
+      "tasks": [
+        "Verify original typography against scans.",
+        "Separate Steinmetz notation from modern notation.",
+        "Check dimensions, assumptions, RMS/maximum conventions, and sign conventions."
+      ]
+    },
+    {
+      "id": "diagram-provenance",
+      "title": "Diagram Provenance Review",
+      "reviewer_profile": "Engineer, technical illustrator, or documentation reviewer.",
+      "scope": "Check original crops, crop boxes, figure numbers, captions, checksums, and redraw labels.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/diagram-provenance-ledger/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/diagram_provenance_ledger.json"
+      ],
+      "ready_count": 15,
+      "tasks": [
+        "Verify each crop against the source scan and figure caption.",
+        "Confirm redraws are labeled as reconstruction.",
+        "Link diagrams to concepts, equations, and source text sections."
+      ]
+    },
+    {
+      "id": "concept-and-glossary",
+      "title": "Concept And Glossary Review",
+      "reviewer_profile": "Electrical theory reader, historian, or terminology specialist.",
+      "scope": "Promote generated concept hits into source-located definitions and glossary pages.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/concept_concordance.json"
+      ],
+      "ready_count": 77,
+      "tasks": [
+        "Distinguish original usage from modern equivalent.",
+        "Mark obsolete, renamed, absorbed, or still-current terms.",
+        "Add exact source locations before calling a definition canonical."
+      ]
+    },
+    {
+      "id": "patent-authority-pass",
+      "title": "Patent Authority Pass",
+      "reviewer_profile": "Patent researcher, apparatus historian, or electrical engineer.",
+      "scope": "Turn the seeded patent register into verified patent dossiers with PDFs, drawings, claims, and theory links.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/steinmetz-patents/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/steinmetz-patents/seeded-patent-dossiers/"
+      ],
+      "ready_count": 11,
+      "tasks": [
+        "Download and checksum each patent PDF.",
+        "Extract drawings and claim text.",
+        "Link patents to Steinmetz theory only where a source-located overlap exists."
+      ]
+    },
+    {
+      "id": "interpretive-boundaries",
+      "title": "Interpretive Boundary Review",
+      "reviewer_profile": "Modern EE reader, Tesla-era researcher, or alternative-field researcher.",
+      "scope": "Check that modern, Tesla-era, and ether-field readings remain labeled and never replace Steinmetz source claims.",
+      "artifact_links": [
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/comparisons/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/comparisons/ether-field-reading-guide/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/editorial-policy/",
+        "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/canonical-review-workflow/"
+      ],
+      "ready_count": null,
+      "tasks": [
+        "Mark explicit Steinmetz statements separately from interpretive readings.",
+        "Prevent cross-author synthesis from being presented as historical fact.",
+        "Add source references or downgrade unsupported claims to questions."
+      ]
+    }
+  ]
+}
