@@ -76,10 +76,12 @@
     const results = form.querySelector('.codex-ask-results');
     const contentRoot = document.querySelector('main') || document.body;
 
-    const nodes = Array.from(contentRoot.querySelectorAll('p, li, td, blockquote'))
-      .filter((node) => !node.closest('.codex-reader-controls'))
-      .map((node) => node.textContent.replace(/\s+/g, ' ').trim())
-      .filter((text) => text.length > 65);
+    function pageTextNodes() {
+      return Array.from(contentRoot.querySelectorAll('p, li, td, blockquote, pre.source-text-loader'))
+        .filter((node) => !node.closest('.codex-reader-controls'))
+        .map((node) => node.textContent.replace(/\s+/g, ' ').trim())
+        .filter((text) => text.length > 65);
+    }
 
     function search() {
       const query = input.value.trim().toLowerCase();
@@ -89,7 +91,7 @@
       }
 
       const terms = query.split(/\s+/).filter(Boolean);
-      const matches = nodes
+      const matches = pageTextNodes()
         .filter((text) => terms.every((term) => text.toLowerCase().includes(term)))
         .slice(0, 6);
 
@@ -156,8 +158,27 @@
     });
   }
 
+  function setupSourceTextLoaders() {
+    const loaders = Array.from(document.querySelectorAll('.source-text-loader[data-source-text-url]'));
+    if (!loaders.length) return;
+
+    loaders.forEach(async (loader) => {
+      const url = loader.dataset.sourceTextUrl;
+      if (!url) return;
+      try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const text = await response.text();
+        loader.textContent = text || '[Source text asset is empty.]';
+      } catch (error) {
+        loader.textContent = `Could not load source text asset. Open it directly: ${url}`;
+      }
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     buildReaderControls();
+    setupSourceTextLoaders();
     setupLightbox();
   });
 })();

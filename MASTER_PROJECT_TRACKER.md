@@ -30,6 +30,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
 | Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, and diagram lightbox viewing. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
+| Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
 | Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
 | New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
@@ -42,8 +43,8 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | --- | --- | --- |
 | Build a GitHub repo and public knowledge base | Done | Repo structure, Pages workflow, and public site are in place. |
 | Preserve raw sources, OCR, scans, metadata, and checksums | Started | First source and multi-source records exist. More checksum and custody work is needed source by source. |
-| Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, diagrams, first deep lecture page, figures, concepts, and equations. |
-| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements, America, and Commonwealth Edison now have source-specific structural parsers. |
+| Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, full generated lecture text pages, diagrams, first deep lecture page, figures, concepts, and equations. |
+| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements, America, and Commonwealth Edison now have source-specific structural parsers, and all processed sections have generated public text-reader pages. |
 | Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; needs all-source expansion and scan-grounded promotion. |
@@ -117,9 +118,10 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 1. Home | Done | `site/src/content/docs/index.mdx` |
 | 2. Who Was Steinmetz? | Done | `site/src/content/docs/who-was-steinmetz.mdx` |
 | 3. Why Steinmetz Matters | Done | `site/src/content/docs/why-steinmetz-matters.mdx` |
-| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx` and source pages with source-access readers |
+| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx`, source pages with source-access readers, and generated source-text browser pages |
 | 4a. Expanded Bibliography Intake | Started | `site/src/content/docs/source-library/bibliography-intake.mdx` |
 | 4b. Steinmetz Patent Register | Started | `site/src/content/docs/sources/steinmetz-patents/index.mdx` |
+| 4c. Source Text Browser | Started | `site/src/content/docs/source-texts/` generated from processed chapter records |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
@@ -146,6 +148,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Create metadata | Started | Source catalog plus crop manifests. |
 | Generate concept tags | Started | Research index builder. |
 | Generate summaries | Started | Public source and chapter pages, mostly curated. |
+| Generate public source text readers | Started | `generate_source_text_pages.py` builds 316 public source-text pages from processed chapter records. |
 | Generate glossary candidates | Started | `processed/glossary_index.json`. |
 | Generate equation candidates | Started | `processed/equation_index.json`. |
 | Generate diagram candidates | Started | `processed/figure_index.json`. |
@@ -169,6 +172,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `crosslinks.json` | Started through per-source files and generated `processed/crosslinks_index.json`. |
 | `evidence_ledger.json` | Done as the archive-wide traceability layer for source claims, candidates, and promoted assets. |
 | `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
+| generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
 | `steinmetz_bibliography_manifest.json` | Started with Wikipedia-derived works intake and source-processing status. |
 | `patent_register.json` | Started with Wikipedia-listed patent examples and Google Patents authority links. |
 
@@ -183,6 +187,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; source-keyed redraw sheets added; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements, America, and Commonwealth Edison now have source-specific parsers; next step is scan verification and page-map refinement. |
+| M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 316 source-text pages, including 304 processed text-section pages and 12 index pages. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -231,6 +236,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `646e3a2` | Added source reader UX, original-source access, reader filters, translation shortcuts, and diagram lightbox. |
 | `5ad0fa6` | Added source-specific parsers for Theoretical Elements and America, expanded the chapter atlas, and published new deep-decoding pages. |
 | pending commit | Extracted Commonwealth Edison PDF text, generated page-map and report-section catalogs, added reactor/synchronism pages, and updated indexes. |
+| pending commit | Added the generated source-text browser for all processed chapters, lectures, sections, and report divisions. |
 
 ## Next Work Queue
 
@@ -242,5 +248,6 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 7. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.
 8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
-9. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
-10. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
+9. Use the generated source-text browser to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
+10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
+11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.

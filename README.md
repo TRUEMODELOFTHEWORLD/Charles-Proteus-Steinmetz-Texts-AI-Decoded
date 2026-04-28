@@ -89,6 +89,7 @@ The public site skeleton lives in `site/` and uses Astro + Starlight. It support
 Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
+- A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
@@ -159,6 +160,14 @@ The source-specific Commonwealth Edison parser is:
 python pipeline/scripts/seed_commonwealth_edison_report.py
 ```
 
+The public source-text browser generator is:
+
+```powershell
+python pipeline/scripts/generate_source_text_pages.py
+```
+
+It generates `site/src/content/docs/source-texts/`, including one index page, per-source indexes, and reader pages for all processed chapters, lectures, sections, and report divisions.
+
 ## Current Processing Milestone
 
 The archive now includes:
@@ -173,6 +182,7 @@ The archive now includes:
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
+- A generated source-text browser with 304 public text-section pages across the processed corpus.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
@@ -190,6 +200,7 @@ https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded
 The public site currently builds more than fifty pages, including:
 
 - Source overviews for the seeded Steinmetz corpus.
+- Full generated text-reader coverage for 304 processed chapters, lectures, sections, and report divisions.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
 - Equation pages for wavelength/frequency, symbolic operator `j`, reactance forms, impedance/reactance, admittance, power/effective resistance, capacity susceptance, transient terms, RLC oscillation, condenser decrement, and Commonwealth Edison synchronizing power.
