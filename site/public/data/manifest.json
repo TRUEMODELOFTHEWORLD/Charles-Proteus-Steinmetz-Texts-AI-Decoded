@@ -125,6 +125,34 @@
       "format": "json"
     },
     {
+      "id": "canonical_verification_workbench",
+      "description": "Top-level queue index for canonical equation, figure, and patent verification.",
+      "source_path": "processed/canonical_verification_workbench.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/canonical_verification_workbench.json",
+      "format": "json"
+    },
+    {
+      "id": "equation_verification_queue",
+      "description": "OCR snippet and scan-check queue for canonical equation candidates.",
+      "source_path": "processed/equation_verification_queue.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/equation_verification_queue.json",
+      "format": "json"
+    },
+    {
+      "id": "figure_verification_queue",
+      "description": "Scan crop review queue for original Steinmetz figures.",
+      "source_path": "processed/figure_verification_queue.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/figure_verification_queue.json",
+      "format": "json"
+    },
+    {
+      "id": "patent_verification_queue",
+      "description": "Authority PDF, claims, drawings, and theory-bridge queue for seeded patents.",
+      "source_path": "processed/patent_verification_queue.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/patent_verification_queue.json",
+      "format": "json"
+    },
+    {
       "id": "citation_index_bibtex",
       "description": "BibTeX citation export for project and source records.",
       "source_path": "processed/citation_index.bib",

@@ -1,0 +1,2848 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Equation verification queue. OCR snippets are review aids; exact canonical equations require scan verification.",
+  "record_count": 12,
+  "status_counts": {
+    "needs_line_anchor": 1,
+    "ready_for_scan_check": 11
+  },
+  "source_counts": {
+    "radiation-light-and-illumination": 1,
+    "theory-calculation-alternating-current-phenomena": 11
+  },
+  "records": [
+    {
+      "id": "rli-velocity-frequency-wavelength",
+      "title": "Velocity, Frequency, and Wave Length",
+      "source_id": "radiation-light-and-illumination",
+      "source_title": "Radiation, Light and Illumination",
+      "chapter_refs": [
+        {
+          "chapter_id": "radiation-light-and-illumination-lecture-01",
+          "chapter_title": "Nature And Different Forms Of Radiation",
+          "text_path": "processed/radiation-light-and-illumination/cleaned_text/lecture-01.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-01/"
+        }
+      ],
+      "chapter_id": "radiation-light-and-illumination-lecture-01",
+      "chapter_title": "Nature And Different Forms Of Radiation",
+      "original_form": "f = S / lambda; equivalently S = f lambda",
+      "modern_form": "v = f lambda",
+      "candidate_status": "source-located candidate",
+      "source_location": "Lecture I, cleaned OCR lines 248-259 and 697-703",
+      "line_ranges": [
+        {
+          "start": 248,
+          "end": 259
+        },
+        {
+          "start": 697,
+          "end": 703
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 248,
+          "end": 259,
+          "section_kind": "lecture",
+          "section_number": 1
+        },
+        {
+          "start": 697,
+          "end": 703,
+          "section_kind": "lecture",
+          "section_number": 1
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 248,
+            "end": 259
+          },
+          "text_path": "processed/radiation-light-and-illumination/cleaned_text/lecture-01.md",
+          "line_count": 939,
+          "context_start": 246,
+          "context_end": 261,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 246,
+              "text": "NATURE AND DIFFERENT FORMS OF RADIATION. 1 "
+            },
+            {
+              "line": 247,
+              "text": ""
+            },
+            {
+              "line": 248,
+              "text": "The frequency of radiation follows from the velocity of light, "
+            },
+            {
+              "line": 249,
+              "text": "and the wave length. "
+            },
+            {
+              "line": 250,
+              "text": ""
+            },
+            {
+              "line": 251,
+              "text": "The average wave length of visible radiation, or light, is about "
+            },
+            {
+              "line": 252,
+              "text": "lw = 60 microcentimeters,* that is, 60 X 10~8 cm. (or about "
+            },
+            {
+              "line": 253,
+              "text": "^<y^<5-<y in.) and since the speed is S = 3 X 1010 cm. the frequency "
+            },
+            {
+              "line": 254,
+              "text": ""
+            },
+            {
+              "line": 255,
+              "text": "a "
+            },
+            {
+              "line": 256,
+              "text": ""
+            },
+            {
+              "line": 257,
+              "text": "is / = r- = 500 X 1012, or 500 millions of millions of cycles per "
+            },
+            {
+              "line": 258,
+              "text": ""
+            },
+            {
+              "line": 259,
+              "text": "LW "
+            },
+            {
+              "line": 260,
+              "text": ""
+            },
+            {
+              "line": 261,
+              "text": "second, that is, inconceivably high compared with the frequencies "
+            }
+          ],
+          "section_kind": "lecture",
+          "section_number": 1,
+          "chapter_id": "radiation-light-and-illumination-lecture-01",
+          "chapter_title": "Nature And Different Forms Of Radiation"
+        },
+        {
+          "range": {
+            "start": 697,
+            "end": 703
+          },
+          "text_path": "processed/radiation-light-and-illumination/cleaned_text/lecture-01.md",
+          "line_count": 939,
+          "context_start": 695,
+          "context_end": 705,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 695,
+              "text": ""
+            },
+            {
+              "line": 696,
+              "text": "Zero point chosen at c = 128 cycles per second. "
+            },
+            {
+              "line": 697,
+              "text": "Speed of radiation S = 3 X lu10 cm. "
+            },
+            {
+              "line": 698,
+              "text": ""
+            },
+            {
+              "line": 699,
+              "text": ""
+            },
+            {
+              "line": 700,
+              "text": "Cycles. "
+            },
+            {
+              "line": 701,
+              "text": ""
+            },
+            {
+              "line": 702,
+              "text": "Wave Length in Air "
+            },
+            {
+              "line": 703,
+              "text": "(or Vacuum). "
+            },
+            {
+              "line": 704,
+              "text": ""
+            },
+            {
+              "line": 705,
+              "text": "Octave: Q^/ "
+            }
+          ],
+          "section_kind": "lecture",
+          "section_number": 1,
+          "chapter_id": "radiation-light-and-illumination-lecture-01",
+          "chapter_title": "Nature And Different Forms Of Radiation"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/velocity-frequency-wavelength/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/",
+        "external_source": "https://archive.org/details/radiationlightil00steirich",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-01/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-symbolic-rectangular-form",
+      "title": "Rectangular Complex Quantity",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "I = i + ji'",
+      "modern_form": "I = I_real + j I_quadrature",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 285-290",
+      "line_ranges": [
+        {
+          "start": 285,
+          "end": 290
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 285,
+          "end": 290,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 285,
+            "end": 290
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 283,
+          "context_end": 292,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 283,
+              "text": "reduced to the elementary algebra of complex quantities. "
+            },
+            {
+              "line": 284,
+              "text": ""
+            },
+            {
+              "line": 285,
+              "text": "31. If / = I + ji' is a sine wave of alternating current, and "
+            },
+            {
+              "line": 286,
+              "text": "r is the resistance, the voltage consumed by the resistance is in "
+            },
+            {
+              "line": 287,
+              "text": "phase with the current, and equal to the product of the current "
+            },
+            {
+              "line": 288,
+              "text": "and resistance. Or "
+            },
+            {
+              "line": 289,
+              "text": ""
+            },
+            {
+              "line": 290,
+              "text": "rl = ri -\\- jri'. "
+            },
+            {
+              "line": 291,
+              "text": ""
+            },
+            {
+              "line": 292,
+              "text": "If L is the inductance, and x = 2x/L the inductive react- "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-rectangular-components/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-symbolic-operator-j",
+      "title": "The Operator j",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "j^2 = -1",
+      "modern_form": "j = sqrt(-1), used as a 90 degree rotation operator in phasor analysis",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333 and promoted Fig. 24 crop",
+      "line_ranges": [
+        {
+          "start": 317,
+          "end": 333
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 317,
+          "end": 333,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 317,
+            "end": 333
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 315,
+          "context_end": 335,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 315,
+              "text": "jxl = jxi — xi' . "
+            },
+            {
+              "line": 316,
+              "text": ""
+            },
+            {
+              "line": 317,
+              "text": "Hence, the voltage required to overcome the resistance, r, and "
+            },
+            {
+              "line": 318,
+              "text": "the reactance, x, is "
+            },
+            {
+              "line": 319,
+              "text": ""
+            },
+            {
+              "line": 320,
+              "text": "{r -\\- jx)I; "
+            },
+            {
+              "line": 321,
+              "text": "that is, "
+            },
+            {
+              "line": 322,
+              "text": ""
+            },
+            {
+              "line": 323,
+              "text": "Z = r •\\- jx is the expression of the impedance of t he circuit "
+            },
+            {
+              "line": 324,
+              "text": "in complex quantities. "
+            },
+            {
+              "line": 325,
+              "text": ""
+            },
+            {
+              "line": 326,
+              "text": "Hence, if / = ^ + ji' is the current, the voltage required to "
+            },
+            {
+              "line": 327,
+              "text": "overcome the impedance, Z = r -\\- jx, is "
+            },
+            {
+              "line": 328,
+              "text": ""
+            },
+            {
+              "line": 329,
+              "text": "E ^ ZI = {r+ jx) {i + ji') "
+            },
+            {
+              "line": 330,
+              "text": "= {ri + j^xi') -\\- j{ri' + xi) ; "
+            },
+            {
+              "line": 331,
+              "text": "hence, since j^ = — 1 "
+            },
+            {
+              "line": 332,
+              "text": ""
+            },
+            {
+              "line": 333,
+              "text": "E = (ri — xi') + j(ri' + xi) ; "
+            },
+            {
+              "line": 334,
+              "text": "or, ii E = e -\\- je' is the impressed voltage and Z = r -\\- jx the "
+            },
+            {
+              "line": 335,
+              "text": "impedance, the current through the circuit is "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-operator-j/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-inductive-reactance",
+      "title": "Inductive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "x = 2 pi f L",
+      "modern_form": "X_L = omega L = 2 pi f L",
+      "candidate_status": "source-located candidate; OCR symbol defects present",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 292-315 and 373-376",
+      "line_ranges": [
+        {
+          "start": 292,
+          "end": 315
+        },
+        {
+          "start": 373,
+          "end": 376
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 292,
+          "end": 315,
+          "section_kind": "chapter",
+          "section_number": 5
+        },
+        {
+          "start": 373,
+          "end": 376,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 292,
+            "end": 315
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 290,
+          "context_end": 317,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 290,
+              "text": "rl = ri -\\- jri'. "
+            },
+            {
+              "line": 291,
+              "text": ""
+            },
+            {
+              "line": 292,
+              "text": "If L is the inductance, and x = 2x/L the inductive react- "
+            },
+            {
+              "line": 293,
+              "text": "ance, the e.m.f. produced by the reactance, or the counter e.m.f. "
+            },
+            {
+              "line": 294,
+              "text": ""
+            },
+            {
+              "line": 295,
+              "text": "1 In this representation of the sine wave by the exponential expression of "
+            },
+            {
+              "line": 296,
+              "text": "the complex quantity, the angle 0 necessarily must be expressed in radians, "
+            },
+            {
+              "line": 297,
+              "text": "and not in degrees, that is, with one complete revolution or cycle as 2 tt. or "
+            },
+            {
+              "line": 298,
+              "text": ""
+            },
+            {
+              "line": 299,
+              "text": "180 "
+            },
+            {
+              "line": 300,
+              "text": "with — = 57.3° as unit. "
+            },
+            {
+              "line": 301,
+              "text": ""
+            },
+            {
+              "line": 302,
+              "text": ""
+            },
+            {
+              "line": 303,
+              "text": "SYMBOLIC METHOD 35 "
+            },
+            {
+              "line": 304,
+              "text": ""
+            },
+            {
+              "line": 305,
+              "text": "of self-induction, is the product of the current and reactance, "
+            },
+            {
+              "line": 306,
+              "text": "and lags in phase 90° behind the current; it is, therefore, repre- "
+            },
+            {
+              "line": 307,
+              "text": "sented by the expression "
+            },
+            {
+              "line": 308,
+              "text": ""
+            },
+            {
+              "line": 309,
+              "text": "— jxl = — jxi -\\- xi'. "
+            },
+            {
+              "line": 310,
+              "text": ""
+            },
+            {
+              "line": 311,
+              "text": "The voltage required to overcome the reactance is consequently "
+            },
+            {
+              "line": 312,
+              "text": "90° ahead of the current (or, as usually expressed, the current "
+            },
+            {
+              "line": 313,
+              "text": "lags 90° behind the e.m.f.), and represented by the expression "
+            },
+            {
+              "line": 314,
+              "text": ""
+            },
+            {
+              "line": 315,
+              "text": "jxl = jxi — xi' . "
+            },
+            {
+              "line": 316,
+              "text": ""
+            },
+            {
+              "line": 317,
+              "text": "Hence, the voltage required to overcome the resistance, r, and "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        },
+        {
+          "range": {
+            "start": 373,
+            "end": 376
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 371,
+          "context_end": 378,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 371,
+              "text": "both may be combined in the name reactance. "
+            },
+            {
+              "line": 372,
+              "text": ""
+            },
+            {
+              "line": 373,
+              "text": "We therefore have the conclusion that "
+            },
+            {
+              "line": 374,
+              "text": "If r = resistance and L — inductance, "
+            },
+            {
+              "line": 375,
+              "text": ""
+            },
+            {
+              "line": 376,
+              "text": "thus X = 2 TcJL = inductive reactance. "
+            },
+            {
+              "line": 377,
+              "text": ""
+            },
+            {
+              "line": 378,
+              "text": "If C = capacity, Xi = ^ — 77-, = condensive reactance, "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/reactance-forms/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-condensive-reactance",
+      "title": "Condensive Reactance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "x_1 = 1 / (2 pi f C)",
+      "modern_form": "X_C = 1 / (omega C) = 1 / (2 pi f C)",
+      "candidate_status": "source-located candidate; OCR symbol defects present",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 351-380",
+      "line_ranges": [
+        {
+          "start": 351,
+          "end": 380
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 351,
+          "end": 380,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 351,
+            "end": 380
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 349,
+          "context_end": 382,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 349,
+              "text": "I i + ji' i^ -F i'^ i^ -\\- i\"- \"^ ^ i- + i'^ ' "
+            },
+            {
+              "line": 350,
+              "text": ""
+            },
+            {
+              "line": 351,
+              "text": "32. If C is the capacity of a condenser in series in a circuit "
+            },
+            {
+              "line": 352,
+              "text": "in which exists a current I = i + ji' , the voltage impressed upon "
+            },
+            {
+              "line": 353,
+              "text": ""
+            },
+            {
+              "line": 354,
+              "text": "the terminals of the condenser is E = ^ .^, 90° behind the cur- "
+            },
+            {
+              "line": 355,
+              "text": ""
+            },
+            {
+              "line": 356,
+              "text": ""
+            },
+            {
+              "line": 357,
+              "text": "36 ALTERNATING-CURRENT PHENOMENA "
+            },
+            {
+              "line": 358,
+              "text": ""
+            },
+            {
+              "line": 359,
+              "text": "ji "
+            },
+            {
+              "line": 360,
+              "text": ""
+            },
+            {
+              "line": 361,
+              "text": "rent; and may be represented by — o'— 779 or — jxj, where "
+            },
+            {
+              "line": 362,
+              "text": ""
+            },
+            {
+              "line": 363,
+              "text": "Ztt/u "
+            },
+            {
+              "line": 364,
+              "text": ""
+            },
+            {
+              "line": 365,
+              "text": "^1 ~ o — Tr* i^ ^^6 condensive reactance or condensance of the "
+            },
+            {
+              "line": 366,
+              "text": "Z irjL "
+            },
+            {
+              "line": 367,
+              "text": ""
+            },
+            {
+              "line": 368,
+              "text": "condenser. "
+            },
+            {
+              "line": 369,
+              "text": ""
+            },
+            {
+              "line": 370,
+              "text": "Condensive reactance is of opposite sign to inductive reactance; "
+            },
+            {
+              "line": 371,
+              "text": "both may be combined in the name reactance. "
+            },
+            {
+              "line": 372,
+              "text": ""
+            },
+            {
+              "line": 373,
+              "text": "We therefore have the conclusion that "
+            },
+            {
+              "line": 374,
+              "text": "If r = resistance and L — inductance, "
+            },
+            {
+              "line": 375,
+              "text": ""
+            },
+            {
+              "line": 376,
+              "text": "thus X = 2 TcJL = inductive reactance. "
+            },
+            {
+              "line": 377,
+              "text": ""
+            },
+            {
+              "line": 378,
+              "text": "If C = capacity, Xi = ^ — 77-, = condensive reactance, "
+            },
+            {
+              "line": 379,
+              "text": ""
+            },
+            {
+              "line": 380,
+              "text": "Z — r -{- j(x — Xi) is the impedance of the circuit. "
+            },
+            {
+              "line": 381,
+              "text": "Ohm's law is then re-established as follows: "
+            },
+            {
+              "line": 382,
+              "text": ""
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/reactance-forms/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-impedance-complex-form",
+      "title": "Complex Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "Z = r + jx",
+      "modern_form": "Z = R + jX",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 317-333",
+      "line_ranges": [
+        {
+          "start": 317,
+          "end": 333
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 317,
+          "end": 333,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 317,
+            "end": 333
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 315,
+          "context_end": 335,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 315,
+              "text": "jxl = jxi — xi' . "
+            },
+            {
+              "line": 316,
+              "text": ""
+            },
+            {
+              "line": 317,
+              "text": "Hence, the voltage required to overcome the resistance, r, and "
+            },
+            {
+              "line": 318,
+              "text": "the reactance, x, is "
+            },
+            {
+              "line": 319,
+              "text": ""
+            },
+            {
+              "line": 320,
+              "text": "{r -\\- jx)I; "
+            },
+            {
+              "line": 321,
+              "text": "that is, "
+            },
+            {
+              "line": 322,
+              "text": ""
+            },
+            {
+              "line": 323,
+              "text": "Z = r •\\- jx is the expression of the impedance of t he circuit "
+            },
+            {
+              "line": 324,
+              "text": "in complex quantities. "
+            },
+            {
+              "line": 325,
+              "text": ""
+            },
+            {
+              "line": 326,
+              "text": "Hence, if / = ^ + ji' is the current, the voltage required to "
+            },
+            {
+              "line": 327,
+              "text": "overcome the impedance, Z = r -\\- jx, is "
+            },
+            {
+              "line": 328,
+              "text": ""
+            },
+            {
+              "line": 329,
+              "text": "E ^ ZI = {r+ jx) {i + ji') "
+            },
+            {
+              "line": 330,
+              "text": "= {ri + j^xi') -\\- j{ri' + xi) ; "
+            },
+            {
+              "line": 331,
+              "text": "hence, since j^ = — 1 "
+            },
+            {
+              "line": 332,
+              "text": ""
+            },
+            {
+              "line": 333,
+              "text": "E = (ri — xi') + j(ri' + xi) ; "
+            },
+            {
+              "line": 334,
+              "text": "or, ii E = e -\\- je' is the impressed voltage and Z = r -\\- jx the "
+            },
+            {
+              "line": 335,
+              "text": "impedance, the current through the circuit is "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/impedance-reactance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-symbolic-ohms-law",
+      "title": "Symbolic Ohm's Law",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+      "chapter_title": "Symbolic Method",
+      "original_form": "E = ZI, I = E / Z, Z = E / I",
+      "modern_form": "V = ZI",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter V, Symbolic Method, cleaned OCR lines 326-383",
+      "line_ranges": [
+        {
+          "start": 326,
+          "end": 383
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 326,
+          "end": 383,
+          "section_kind": "chapter",
+          "section_number": 5
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 326,
+            "end": 383
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-05.md",
+          "line_count": 505,
+          "context_start": 324,
+          "context_end": 385,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 324,
+              "text": "in complex quantities. "
+            },
+            {
+              "line": 325,
+              "text": ""
+            },
+            {
+              "line": 326,
+              "text": "Hence, if / = ^ + ji' is the current, the voltage required to "
+            },
+            {
+              "line": 327,
+              "text": "overcome the impedance, Z = r -\\- jx, is "
+            },
+            {
+              "line": 328,
+              "text": ""
+            },
+            {
+              "line": 329,
+              "text": "E ^ ZI = {r+ jx) {i + ji') "
+            },
+            {
+              "line": 330,
+              "text": "= {ri + j^xi') -\\- j{ri' + xi) ; "
+            },
+            {
+              "line": 331,
+              "text": "hence, since j^ = — 1 "
+            },
+            {
+              "line": 332,
+              "text": ""
+            },
+            {
+              "line": 333,
+              "text": "E = (ri — xi') + j(ri' + xi) ; "
+            },
+            {
+              "line": 334,
+              "text": "or, ii E = e -\\- je' is the impressed voltage and Z = r -\\- jx the "
+            },
+            {
+              "line": 335,
+              "text": "impedance, the current through the circuit is "
+            },
+            {
+              "line": 336,
+              "text": ""
+            },
+            {
+              "line": 337,
+              "text": "I _^ _e^je'_ "
+            },
+            {
+              "line": 338,
+              "text": "Z r + jx' "
+            },
+            {
+              "line": 339,
+              "text": ""
+            },
+            {
+              "line": 340,
+              "text": "or, multiplying numerator and denominator by (r — jx) to "
+            },
+            {
+              "line": 341,
+              "text": "eliminate the imaginary from the denominator, we have "
+            },
+            {
+              "line": 342,
+              "text": ""
+            },
+            {
+              "line": 343,
+              "text": "Y _ (e -\\- je') (r — jx) _er -\\- e'x . e'r — ex ^ "
+            },
+            {
+              "line": 344,
+              "text": ""
+            },
+            {
+              "line": 345,
+              "text": "or, if £\" = e + je' is the impressed voltage and 7 = t + ji' the "
+            },
+            {
+              "line": 346,
+              "text": "current in the circuit, its impedance is "
+            },
+            {
+              "line": 347,
+              "text": ""
+            },
+            {
+              "line": 348,
+              "text": "jE ^ e + je' ^ (e + je') (i - ji') ^ ei + e'i' . e'i - ei' "
+            },
+            {
+              "line": 349,
+              "text": "I i + ji' i^ -F i'^ i^ -\\- i\"- \"^ ^ i- + i'^ ' "
+            },
+            {
+              "line": 350,
+              "text": ""
+            },
+            {
+              "line": 351,
+              "text": "32. If C is the capacity of a condenser in series in a circuit "
+            },
+            {
+              "line": 352,
+              "text": "in which exists a current I = i + ji' , the voltage impressed upon "
+            },
+            {
+              "line": 353,
+              "text": ""
+            },
+            {
+              "line": 354,
+              "text": "the terminals of the condenser is E = ^ .^, 90° behind the cur- "
+            },
+            {
+              "line": 355,
+              "text": ""
+            },
+            {
+              "line": 356,
+              "text": ""
+            },
+            {
+              "line": 357,
+              "text": "36 ALTERNATING-CURRENT PHENOMENA "
+            },
+            {
+              "line": 358,
+              "text": ""
+            },
+            {
+              "line": 359,
+              "text": "ji "
+            },
+            {
+              "line": 360,
+              "text": ""
+            },
+            {
+              "line": 361,
+              "text": "rent; and may be represented by — o'— 779 or — jxj, where "
+            },
+            {
+              "line": 362,
+              "text": ""
+            },
+            {
+              "line": 363,
+              "text": "Ztt/u "
+            },
+            {
+              "line": 364,
+              "text": ""
+            },
+            {
+              "line": 365,
+              "text": "^1 ~ o — Tr* i^ ^^6 condensive reactance or condensance of the "
+            },
+            {
+              "line": 366,
+              "text": "Z irjL "
+            },
+            {
+              "line": 367,
+              "text": ""
+            },
+            {
+              "line": 368,
+              "text": "condenser. "
+            },
+            {
+              "line": 369,
+              "text": ""
+            },
+            {
+              "line": 370,
+              "text": "Condensive reactance is of opposite sign to inductive reactance; "
+            },
+            {
+              "line": 371,
+              "text": "both may be combined in the name reactance. "
+            },
+            {
+              "line": 372,
+              "text": ""
+            },
+            {
+              "line": 373,
+              "text": "We therefore have the conclusion that "
+            },
+            {
+              "line": 374,
+              "text": "If r = resistance and L — inductance, "
+            },
+            {
+              "line": 375,
+              "text": ""
+            },
+            {
+              "line": 376,
+              "text": "thus X = 2 TcJL = inductive reactance. "
+            },
+            {
+              "line": 377,
+              "text": ""
+            },
+            {
+              "line": 378,
+              "text": "If C = capacity, Xi = ^ — 77-, = condensive reactance, "
+            },
+            {
+              "line": 379,
+              "text": ""
+            },
+            {
+              "line": 380,
+              "text": "Z — r -{- j(x — Xi) is the impedance of the circuit. "
+            },
+            {
+              "line": 381,
+              "text": "Ohm's law is then re-established as follows: "
+            },
+            {
+              "line": 382,
+              "text": ""
+            },
+            {
+              "line": 383,
+              "text": "E = ZI, I = y, Z = -J- "
+            },
+            {
+              "line": 384,
+              "text": ""
+            },
+            {
+              "line": 385,
+              "text": "The more general form gives not only the intensity of the wave "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 5,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "chapter_title": "Symbolic Method"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/impedance-reactance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-admittance-reciprocal",
+      "title": "Admittance As Reciprocal Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-08",
+          "chapter_title": "Admittance, Conductance, Susceptance",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-08.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-08/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-08/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-08",
+      "chapter_title": "Admittance, Conductance, Susceptance",
+      "original_form": "Y = 1 / Z = g - jb",
+      "modern_form": "Y = 1 / Z; sign convention depends on reactance convention",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter VIII, Admittance, Conductance, Susceptance, cleaned OCR lines 48-222",
+      "line_ranges": [
+        {
+          "start": 48,
+          "end": 222
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 48,
+          "end": 222,
+          "section_kind": "chapter",
+          "section_number": 8
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 48,
+            "end": 222
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-08.md",
+          "line_count": 584,
+          "context_start": 46,
+          "context_end": 224,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 46,
+              "text": "ADMITTANCE, CONDUCTANCE, SUSCEPTANCE 55 "
+            },
+            {
+              "line": 47,
+              "text": ""
+            },
+            {
+              "line": 48,
+              "text": "49. In alternating-current circuits, instead of the term resist- "
+            },
+            {
+              "line": 49,
+              "text": "ance we have the term impedance, Z = r -\\- jx, with its two "
+            },
+            {
+              "line": 50,
+              "text": "components, the resistance, r, and the reactance, x, in the formula "
+            },
+            {
+              "line": 51,
+              "text": "of Ohm's law, E = IZ. The resistance, r, gives the component "
+            },
+            {
+              "line": 52,
+              "text": "of e.m.f. in phase with the current, or the power component "
+            },
+            {
+              "line": 53,
+              "text": "of the e.m.f., Ir; the reactance, x, gives the component of the "
+            },
+            {
+              "line": 54,
+              "text": "e.m.f. in quadrature with the current, or the wattless component "
+            },
+            {
+              "line": 55,
+              "text": "of e.m.f., Ix; both combined give the total e.m.f., "
+            },
+            {
+              "line": 56,
+              "text": ""
+            },
+            {
+              "line": 57,
+              "text": "Iz = iVr^ + x^. "
+            },
+            {
+              "line": 58,
+              "text": "Since e.m.fs. are combined by adding their complex expressions, "
+            },
+            {
+              "line": 59,
+              "text": "we have: "
+            },
+            {
+              "line": 60,
+              "text": ""
+            },
+            {
+              "line": 61,
+              "text": "The joint impedance of a number of series-connected impedances "
+            },
+            {
+              "line": 62,
+              "text": "is the sum of the individual impedances, when expressed in com- "
+            },
+            {
+              "line": 63,
+              "text": "plex quantities. "
+            },
+            {
+              "line": 64,
+              "text": ""
+            },
+            {
+              "line": 65,
+              "text": "In graphical representation impedances have not to be added, "
+            },
+            {
+              "line": 66,
+              "text": "but are combined in their proper phase by the law of parallelo- "
+            },
+            {
+              "line": 67,
+              "text": "gram in the same manner as the e.m.fs. corresponding to them. "
+            },
+            {
+              "line": 68,
+              "text": ""
+            },
+            {
+              "line": 69,
+              "text": "The term impedance becomes inconvenient, however, when "
+            },
+            {
+              "line": 70,
+              "text": "dealing with parallel-connected circuits; or, in other words, when "
+            },
+            {
+              "line": 71,
+              "text": "several currents are produced by the same e.m.f., such as in "
+            },
+            {
+              "line": 72,
+              "text": "cases where Ohm's law is expressed in the form, "
+            },
+            {
+              "line": 73,
+              "text": ""
+            },
+            {
+              "line": 74,
+              "text": "/ = I "
+            },
+            {
+              "line": 75,
+              "text": ". Z "
+            },
+            {
+              "line": 76,
+              "text": ""
+            },
+            {
+              "line": 77,
+              "text": "It is preferable, then, to introduce the reciprocal of impe- "
+            },
+            {
+              "line": 78,
+              "text": "dance, which may be called the admittance of the circuit, or "
+            },
+            {
+              "line": 79,
+              "text": ""
+            },
+            {
+              "line": 80,
+              "text": "Z "
+            },
+            {
+              "line": 81,
+              "text": ""
+            },
+            {
+              "line": 82,
+              "text": "As the reciprocal of the complex quantity, Z = r -{- jx, the "
+            },
+            {
+              "line": 83,
+              "text": "admittance is a complex quantity also, or Y = g — jh; it con- "
+            },
+            {
+              "line": 84,
+              "text": "sists of the component, g, which respresents the coefficient of "
+            },
+            {
+              "line": 85,
+              "text": "current in phase with the e.m.f., or the power or active com- "
+            },
+            {
+              "line": 86,
+              "text": "ponent, gE, of the current, in the equation of Ohm's law, "
+            },
+            {
+              "line": 87,
+              "text": ""
+            },
+            {
+              "line": 88,
+              "text": "I =YE ={g- jh)E, "
+            },
+            {
+              "line": 89,
+              "text": ""
+            },
+            {
+              "line": 90,
+              "text": "and the component, h, which represents the coefficient of current "
+            },
+            {
+              "line": 91,
+              "text": "in quadrature with the e.m.f., or wattless or reactive component, "
+            },
+            {
+              "line": 92,
+              "text": "hE, of the current. "
+            },
+            {
+              "line": 93,
+              "text": ""
+            },
+            {
+              "line": 94,
+              "text": "g is called the conductance, and h the susceptance, of the cir- "
+            },
+            {
+              "line": 95,
+              "text": "cuit. Hence the conductance, g, is the power component, and "
+            },
+            {
+              "line": 96,
+              "text": ""
+            },
+            {
+              "line": 97,
+              "text": ""
+            },
+            {
+              "line": 98,
+              "text": "56 ALTERNATING-CURRENT PHENOMENA "
+            },
+            {
+              "line": 99,
+              "text": ""
+            },
+            {
+              "line": 100,
+              "text": "the susceptance, h, the wattless component, of the admittance, "
+            },
+            {
+              "line": 101,
+              "text": "Y = g ~ jb, while the numerical value of admittance is "
+            },
+            {
+              "line": 102,
+              "text": ""
+            },
+            {
+              "line": 103,
+              "text": "y = Vg' + h^; "
+            },
+            {
+              "line": 104,
+              "text": ""
+            },
+            {
+              "line": 105,
+              "text": "the resistance, r, is the power component, and the reactance, "
+            },
+            {
+              "line": 106,
+              "text": "X, the wattless component, of the impedance, Z = r -^ jx, the "
+            },
+            {
+              "line": 107,
+              "text": "numerical value of impedance being "
+            },
+            {
+              "line": 108,
+              "text": ""
+            },
+            {
+              "line": 109,
+              "text": "z = Vr^ + x^. "
+            },
+            {
+              "line": 110,
+              "text": ""
+            },
+            {
+              "line": 111,
+              "text": "50. As shown, the term admittance implies resolving the cur- "
+            },
+            {
+              "line": 112,
+              "text": "rent into two components, in phase and in quadrature with the "
+            },
+            {
+              "line": 113,
+              "text": "e.m.f., or the power or active component and the wattless or "
+            },
+            {
+              "line": 114,
+              "text": "reactive component; while the term impedance implies resolving "
+            },
+            {
+              "line": 115,
+              "text": "the e.m.f. into two components, in phase and in quadrature "
+            },
+            {
+              "line": 116,
+              "text": "with the current, or the power component and the wattless or "
+            },
+            {
+              "line": 117,
+              "text": "reactive component. "
+            },
+            {
+              "line": 118,
+              "text": ""
+            },
+            {
+              "line": 119,
+              "text": "It must be understood, however, that the conductance is not "
+            },
+            {
+              "line": 120,
+              "text": "the reciprocal of the resistance, but depends upon the reactance "
+            },
+            {
+              "line": 121,
+              "text": "as well as upon the resistance. Only when the reactance x = 0, "
+            },
+            {
+              "line": 122,
+              "text": "or in continuous-current circuits, is the conductance the recip- "
+            },
+            {
+              "line": 123,
+              "text": "rocal of resistance. "
+            },
+            {
+              "line": 124,
+              "text": ""
+            },
+            {
+              "line": 125,
+              "text": "Again, only in circuits with zero resistance (r = 0) is the "
+            },
+            {
+              "line": 126,
+              "text": "susceptance the reciprocal of reactance; otherwise, the suscep- "
+            },
+            {
+              "line": 127,
+              "text": "tance depends upon reactance and upon resistance. "
+            },
+            {
+              "line": 128,
+              "text": ""
+            },
+            {
+              "line": 129,
+              "text": "The conductance is zero for two values of the resistance: "
+            },
+            {
+              "line": 130,
+              "text": ""
+            },
+            {
+              "line": 131,
+              "text": "1. If r = oo^ or a: = co ^ since in this case there is no current, "
+            },
+            {
+              "line": 132,
+              "text": "and either component of the current = 0. "
+            },
+            {
+              "line": 133,
+              "text": ""
+            },
+            {
+              "line": 134,
+              "text": "2. If r = 0, since in this case the current in the circuit is in "
+            },
+            {
+              "line": 135,
+              "text": "quadrature with the e.m.f., and thus has no power component. "
+            },
+            {
+              "line": 136,
+              "text": ""
+            },
+            {
+              "line": 137,
+              "text": "Similarly, the susceptance, b, is zero for two values of the "
+            },
+            {
+              "line": 138,
+              "text": "reactance: "
+            },
+            {
+              "line": 139,
+              "text": ""
+            },
+            {
+              "line": 140,
+              "text": "1. If a; = 00, or r = oo . "
+            },
+            {
+              "line": 141,
+              "text": ""
+            },
+            {
+              "line": 142,
+              "text": "2. Ux = 0. "
+            },
+            {
+              "line": 143,
+              "text": ""
+            },
+            {
+              "line": 144,
+              "text": "From the definition of admittance, Y = g — jb, as the recip- "
+            },
+            {
+              "line": 145,
+              "text": "rocal of the impedance, Z = r -\\- jx, "
+            },
+            {
+              "line": 146,
+              "text": "we have "
+            },
+            {
+              "line": 147,
+              "text": ""
+            },
+            {
+              "line": 148,
+              "text": "\\^ "
+            },
+            {
+              "line": 149,
+              "text": "f "
+            },
+            {
+              "line": 150,
+              "text": ""
+            },
+            {
+              "line": 151,
+              "text": "or, multiplying numerator and denominator on the right side by "
+            },
+            {
+              "line": 152,
+              "text": "(r - jx), "
+            },
+            {
+              "line": 153,
+              "text": ""
+            },
+            {
+              "line": 154,
+              "text": "h — r — jx "
+            },
+            {
+              "line": 155,
+              "text": ""
+            },
+            {
+              "line": 156,
+              "text": "■ ^ ~ 3 - (r+jx) (r - jx)' "
+            },
+            {
+              "line": 157,
+              "text": ""
+            },
+            {
+              "line": 158,
+              "text": ""
+            },
+            {
+              "line": 159,
+              "text": "ADMITTANCE, CONDUCTANCE, SUSCEPTANCE 57 "
+            },
+            {
+              "line": 160,
+              "text": "hence, since "
+            },
+            {
+              "line": 161,
+              "text": ""
+            },
+            {
+              "line": 162,
+              "text": ""
+            },
+            {
+              "line": 163,
+              "text": "(r + "
+            },
+            {
+              "line": 164,
+              "text": ""
+            },
+            {
+              "line": 165,
+              "text": "jx) (r - "
+            },
+            {
+              "line": 166,
+              "text": ""
+            },
+            {
+              "line": 167,
+              "text": "jx) = "
+            },
+            {
+              "line": 168,
+              "text": ""
+            },
+            {
+              "line": 169,
+              "text": "_ J.2 _j_ 2^2 "
+            },
+            {
+              "line": 170,
+              "text": ""
+            },
+            {
+              "line": 171,
+              "text": "= "
+            },
+            {
+              "line": 172,
+              "text": ""
+            },
+            {
+              "line": 173,
+              "text": "^^ "
+            },
+            {
+              "line": 174,
+              "text": ""
+            },
+            {
+              "line": 175,
+              "text": "jb = "
+            },
+            {
+              "line": 176,
+              "text": ""
+            },
+            {
+              "line": 177,
+              "text": "r "
+            },
+            {
+              "line": 178,
+              "text": ""
+            },
+            {
+              "line": 179,
+              "text": "-^r "
+            },
+            {
+              "line": 180,
+              "text": ""
+            },
+            {
+              "line": 181,
+              "text": "X "
+            },
+            {
+              "line": 182,
+              "text": ""
+            },
+            {
+              "line": 183,
+              "text": "r "
+            },
+            {
+              "line": 184,
+              "text": ""
+            },
+            {
+              "line": 185,
+              "text": "22 "
+            },
+            {
+              "line": 186,
+              "text": ""
+            },
+            {
+              "line": 187,
+              "text": ". aj "
+            },
+            {
+              "line": 188,
+              "text": ""
+            },
+            {
+              "line": 189,
+              "text": "J.2 _|_ -J.2 "
+            },
+            {
+              "line": 190,
+              "text": ""
+            },
+            {
+              "line": 191,
+              "text": "■2 + a;2 "
+            },
+            {
+              "line": 192,
+              "text": ""
+            },
+            {
+              "line": 193,
+              "text": "•^2^ "
+            },
+            {
+              "line": 194,
+              "text": ""
+            },
+            {
+              "line": 195,
+              "text": "or "
+            },
+            {
+              "line": 196,
+              "text": ""
+            },
+            {
+              "line": 197,
+              "text": ""
+            },
+            {
+              "line": 198,
+              "text": "9 ^2 _^ 2-2 "
+            },
+            {
+              "line": 199,
+              "text": ""
+            },
+            {
+              "line": 200,
+              "text": "0 = o 1 o 2' "
+            },
+            {
+              "line": 201,
+              "text": ""
+            },
+            {
+              "line": 202,
+              "text": ""
+            },
+            {
+              "line": 203,
+              "text": "and conversely "
+            },
+            {
+              "line": 204,
+              "text": ""
+            },
+            {
+              "line": 205,
+              "text": ""
+            },
+            {
+              "line": 206,
+              "text": "r = "
+            },
+            {
+              "line": 207,
+              "text": ""
+            },
+            {
+              "line": 208,
+              "text": ""
+            },
+            {
+              "line": 209,
+              "text": "J.2 "
+            },
+            {
+              "line": 210,
+              "text": ""
+            },
+            {
+              "line": 211,
+              "text": "g' "
+            },
+            {
+              "line": 212,
+              "text": ""
+            },
+            {
+              "line": 213,
+              "text": "+ 62 "
+            },
+            {
+              "line": 214,
+              "text": "6 "
+            },
+            {
+              "line": 215,
+              "text": ""
+            },
+            {
+              "line": 216,
+              "text": "2/' "
+            },
+            {
+              "line": 217,
+              "text": "^^ "
+            },
+            {
+              "line": 218,
+              "text": ""
+            },
+            {
+              "line": 219,
+              "text": "•\" ~ ^2 _|_ 52 - ^2 "
+            },
+            {
+              "line": 220,
+              "text": ""
+            },
+            {
+              "line": 221,
+              "text": "By these equations, the conductance and susceptance can be "
+            },
+            {
+              "line": 222,
+              "text": "calculated from resistance and reactance, and conversely. "
+            },
+            {
+              "line": 223,
+              "text": "Multiplying the equations for g and r, we get "
+            },
+            {
+              "line": 224,
+              "text": ""
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 8,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-08",
+          "chapter_title": "Admittance, Conductance, Susceptance"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/admittance-conductance-susceptance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-08/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-08/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-admittance-components",
+      "title": "Conductance and Susceptance From Impedance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [],
+      "chapter_id": null,
+      "chapter_title": null,
+      "original_form": "g = r / (r^2 + x^2), b = x / (r^2 + x^2)",
+      "modern_form": "For Z = R + jX and Y = G - jB: G = R/(R^2+X^2), B = X/(R^2+X^2)",
+      "candidate_status": "mathematical reconstruction from source relation",
+      "source_location": "Chapter VIII relation plus algebraic reciprocal; existing public derivation",
+      "line_ranges": [],
+      "line_anchors": [],
+      "needs_line_anchor": true,
+      "ocr_snippets": [],
+      "verification_status": "needs_line_anchor",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/admittance-conductance-susceptance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft"
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-power-factor-equation",
+      "title": "AC Power Equation",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+          "chapter_title": "Introduction",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-01.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+      "chapter_title": "Introduction",
+      "original_form": "P_o = ei cos theta",
+      "modern_form": "P = VI cos phi",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter I, Introduction, cleaned OCR lines 248-254",
+      "line_ranges": [
+        {
+          "start": 248,
+          "end": 254
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 248,
+          "end": 254,
+          "section_kind": "chapter",
+          "section_number": 1
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 248,
+            "end": 254
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-01.md",
+          "line_count": 562,
+          "context_start": 246,
+          "context_end": 256,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 246,
+              "text": "more fully discussed in Chapter VIII. "
+            },
+            {
+              "line": 247,
+              "text": ""
+            },
+            {
+              "line": 248,
+              "text": "In alternating-current circuits the power equation contains "
+            },
+            {
+              "line": 249,
+              "text": "a third term, which, in sine waves, is the cosine of the angle of "
+            },
+            {
+              "line": 250,
+              "text": "the difference of phase between e.m.f. and current: "
+            },
+            {
+              "line": 251,
+              "text": ""
+            },
+            {
+              "line": 252,
+              "text": "Po = ei cos d. "
+            },
+            {
+              "line": 253,
+              "text": "Consequently, even if e and i are both large, Po may be very "
+            },
+            {
+              "line": 254,
+              "text": "small, if cos d is small, that is, 6 near 90°. "
+            },
+            {
+              "line": 255,
+              "text": ""
+            },
+            {
+              "line": 256,
+              "text": "Kirchhoff's laws become meaningless in their original form, "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 1,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+          "chapter_title": "Introduction"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/power-effective-resistance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-effective-resistance-power",
+      "title": "Effective Resistance From Real Power",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+          "chapter_title": "Introduction",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-01.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/"
+        },
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-12",
+          "chapter_title": "Effective Resistance And Reactance",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-12.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-12/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-12/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+      "chapter_title": "Introduction",
+      "original_form": "P = i^2 r",
+      "modern_form": "R_eff = P / I^2",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter I, Introduction, cleaned OCR lines 236-246 and Chapter XII lines 64-85",
+      "line_ranges": [
+        {
+          "start": 236,
+          "end": 246
+        },
+        {
+          "start": 64,
+          "end": 85
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 236,
+          "end": 246,
+          "section_kind": "chapter",
+          "section_number": 1
+        },
+        {
+          "start": 64,
+          "end": 85,
+          "section_kind": "chapter",
+          "section_number": 12
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 236,
+            "end": 246
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-01.md",
+          "line_count": 562,
+          "context_start": 234,
+          "context_end": 248,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 234,
+              "text": "later chapters. "
+            },
+            {
+              "line": 235,
+              "text": ""
+            },
+            {
+              "line": 236,
+              "text": "5. In Joule's law, P = i^r, r is not the true ohmic resistance, "
+            },
+            {
+              "line": 237,
+              "text": "but the \"effective resistance;\" that is, the ratio of the power "
+            },
+            {
+              "line": 238,
+              "text": "component of e.m.f. to the current. Since in alternating-cur- "
+            },
+            {
+              "line": 239,
+              "text": "rent circuits, in addition to the energy expended iii the ohmic re- "
+            },
+            {
+              "line": 240,
+              "text": "sistance of the conductor, energy is expended, partly outside, "
+            },
+            {
+              "line": 241,
+              "text": "partly inside of the conductor, by magnetic hysteresis, mutual "
+            },
+            {
+              "line": 242,
+              "text": "induction, dielectric hysteresis, etc., the effective resistance, "
+            },
+            {
+              "line": 243,
+              "text": "r, is in general larger than the true resistance of the conductor, "
+            },
+            {
+              "line": 244,
+              "text": "sometimes many time larger, as in transformers at open sec- "
+            },
+            {
+              "line": 245,
+              "text": "ondary circuit, and is no longer a constant of the circuit. It is "
+            },
+            {
+              "line": 246,
+              "text": "more fully discussed in Chapter VIII. "
+            },
+            {
+              "line": 247,
+              "text": ""
+            },
+            {
+              "line": 248,
+              "text": "In alternating-current circuits the power equation contains "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 1,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-01",
+          "chapter_title": "Introduction"
+        },
+        {
+          "range": {
+            "start": 64,
+            "end": 85
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-12.md",
+          "line_count": 2764,
+          "context_start": 62,
+          "context_end": 87,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 62,
+              "text": "is the effective suscepta7ice of the circuit. "
+            },
+            {
+              "line": 63,
+              "text": ""
+            },
+            {
+              "line": 64,
+              "text": "While the true ohmic resistance represents the expenditure "
+            },
+            {
+              "line": 65,
+              "text": "of power as heat inside of the electric conductor b}^ a current "
+            },
+            {
+              "line": 66,
+              "text": "of uniform density, the effective resistance represents the total "
+            },
+            {
+              "line": 67,
+              "text": "expenditure of power. "
+            },
+            {
+              "line": 68,
+              "text": ""
+            },
+            {
+              "line": 69,
+              "text": "Since in an alternating-current circuit, in general power is "
+            },
+            {
+              "line": 70,
+              "text": "expended not only in the conductor, but also outside of it, "
+            },
+            {
+              "line": 71,
+              "text": "through hysteresis, secondary currents, etc., the effective resist- "
+            },
+            {
+              "line": 72,
+              "text": "ance frequently differs from the true ohmic resistance in such "
+            },
+            {
+              "line": 73,
+              "text": "way as to represent a larger expenditure of power. "
+            },
+            {
+              "line": 74,
+              "text": ""
+            },
+            {
+              "line": 75,
+              "text": "In dealing with alternating-current circuits, it is necessarj-, "
+            },
+            {
+              "line": 76,
+              "text": "therefore, to substitute everywhere the values \"effective re- "
+            },
+            {
+              "line": 77,
+              "text": "sistance,\" \"effective reactance,\" \"effective conductance,\" and "
+            },
+            {
+              "line": 78,
+              "text": "\"effective susceptance,\" to make the calculation applicable to "
+            },
+            {
+              "line": 79,
+              "text": "general alternating-current circuits, such as inductive reactances "
+            },
+            {
+              "line": 80,
+              "text": "containing iron, etc. "
+            },
+            {
+              "line": 81,
+              "text": ""
+            },
+            {
+              "line": 82,
+              "text": "While the true ohmic resistance is a constant of the circuit, "
+            },
+            {
+              "line": 83,
+              "text": "depending only upon the temperature, but not upon the e.m.f., "
+            },
+            {
+              "line": 84,
+              "text": "etc., the effective resistance and effective reactance are, in gen- "
+            },
+            {
+              "line": 85,
+              "text": "eral, not constants, but depend upon the e.m.f., current, etc. "
+            },
+            {
+              "line": 86,
+              "text": "This dependence is the cause of most of the difficulties met in "
+            },
+            {
+              "line": 87,
+              "text": "dealing analytically with alternating-current circuits containing "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 12,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-12",
+          "chapter_title": "Effective Resistance And Reactance"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/power-effective-resistance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/",
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-12/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/",
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-12/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    },
+    {
+      "id": "ac-dielectric-capacity-susceptance",
+      "title": "Capacity Susceptance",
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "chapter_refs": [
+        {
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-14",
+          "chapter_title": "Dielectric Losses",
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-14.md",
+          "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-14/",
+          "chapter_workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-14/"
+        }
+      ],
+      "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-14",
+      "chapter_title": "Dielectric Losses",
+      "original_form": "b = 2 pi f C",
+      "modern_form": "B_C = omega C = 2 pi f C",
+      "candidate_status": "source-located candidate",
+      "source_location": "Chapter XIV, Dielectric Losses, cleaned OCR lines 209-221 and 595-599",
+      "line_ranges": [
+        {
+          "start": 209,
+          "end": 221
+        },
+        {
+          "start": 595,
+          "end": 599
+        }
+      ],
+      "line_anchors": [
+        {
+          "start": 209,
+          "end": 221,
+          "section_kind": "chapter",
+          "section_number": 14
+        },
+        {
+          "start": 595,
+          "end": 599,
+          "section_kind": "chapter",
+          "section_number": 14
+        }
+      ],
+      "needs_line_anchor": false,
+      "ocr_snippets": [
+        {
+          "range": {
+            "start": 209,
+            "end": 221
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-14.md",
+          "line_count": 1074,
+          "context_start": 207,
+          "context_end": 223,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 207,
+              "text": "the corresponding values of the second layer. "
+            },
+            {
+              "line": 208,
+              "text": ""
+            },
+            {
+              "line": 209,
+              "text": "It is then : "
+            },
+            {
+              "line": 210,
+              "text": ""
+            },
+            {
+              "line": 211,
+              "text": "yA "
+            },
+            {
+              "line": 212,
+              "text": "g = -y- = electric conductance "
+            },
+            {
+              "line": 213,
+              "text": ""
+            },
+            {
+              "line": 214,
+              "text": "kA "
+            },
+            {
+              "line": 215,
+              "text": "C = -J- = electrostatic capacity of the layer "
+            },
+            {
+              "line": 216,
+              "text": ""
+            },
+            {
+              "line": 217,
+              "text": ""
+            },
+            {
+              "line": 218,
+              "text": "of dielectric, hence: "
+            },
+            {
+              "line": 219,
+              "text": ""
+            },
+            {
+              "line": 220,
+              "text": "2 irfk A "
+            },
+            {
+              "line": 221,
+              "text": "b = 2irfC = — J — = capacity susceptance, and "
+            },
+            {
+              "line": 222,
+              "text": ""
+            },
+            {
+              "line": 223,
+              "text": ""
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 14,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-14",
+          "chapter_title": "Dielectric Losses"
+        },
+        {
+          "range": {
+            "start": 595,
+            "end": 599
+          },
+          "text_path": "processed/theory-calculation-alternating-current-phenomena/cleaned_text/chapter-14.md",
+          "line_count": 1074,
+          "context_start": 593,
+          "context_end": 601,
+          "status": "ocr_snippet_extracted",
+          "lines": [
+            {
+              "line": 593,
+              "text": "part of circuit: "
+            },
+            {
+              "line": 594,
+              "text": ""
+            },
+            {
+              "line": 595,
+              "text": "where g is the effective conductance of the dielectric circuit, or "
+            },
+            {
+              "line": 596,
+              "text": "the energy component of the admittance, representing the energy "
+            },
+            {
+              "line": 597,
+              "text": "consumption by leakage, dielectric hysteresis, corona, etc., and h "
+            },
+            {
+              "line": 598,
+              "text": "= 2 tt/C is the capacity susceptance. Instead of the admittance "
+            },
+            {
+              "line": 599,
+              "text": "Y, its reciprocal, the impedance Z = r — jx, may be used. "
+            },
+            {
+              "line": 600,
+              "text": ""
+            },
+            {
+              "line": 601,
+              "text": "The main differences between the dielectric and the electro- "
+            }
+          ],
+          "section_kind": "chapter",
+          "section_number": 14,
+          "chapter_id": "theory-calculation-alternating-current-phenomena-chapter-14",
+          "chapter_title": "Dielectric Losses"
+        }
+      ],
+      "verification_status": "ready_for_scan_check",
+      "links": {
+        "equation_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/capacity-susceptance/",
+        "source_overview": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+        "external_source": "https://archive.org/details/5edtheorycalculatisteiuoft",
+        "source_texts": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-14/"
+        ],
+        "chapter_workbenches": [
+          "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-14/"
+        ]
+      },
+      "review_actions": [
+        "Open the source scan and confirm the printed equation typography.",
+        "Check the OCR snippet against the scan and repair symbols, primes, subscripts, and signs.",
+        "Record whether Steinmetz is using maximum, effective, instantaneous, or symbolic quantities.",
+        "Update the equation page only after source text and notation checks agree."
+      ],
+      "quality_label": "source-located OCR candidate; not scan-certified"
+    }
+  ]
+}

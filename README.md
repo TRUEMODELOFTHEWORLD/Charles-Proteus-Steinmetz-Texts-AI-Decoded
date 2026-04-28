@@ -97,6 +97,7 @@ Current site features include:
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
 - Generated notation, diagram provenance, schema reference, and expert review packet ledgers that turn broad coverage into reviewable scholarly work.
 - Generated release-level, accessibility-audit, edition-comparison, and patent-to-theory bridge controls for publication readiness.
+- A generated canonical verification workbench that turns the first equation canon, promoted original crops, and seeded patents into source-linked scan-check queues.
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
@@ -204,10 +205,11 @@ The scholarly apparatus generators are:
 ```powershell
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
+python pipeline/scripts/generate_verification_workbench.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The second adds release, accessibility, edition, and patent bridge controls. The third publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
+The first command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The second adds release, accessibility, edition, and patent bridge controls. The third generates source-linked canonical verification queues for equations, figures, and patents. The fourth publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
 
 It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, public data exports under `site/public/data/`, and the public citation/data export page. These exports preserve review-state fields so candidate records are not confused with verified claims.
 
@@ -233,6 +235,7 @@ The archive now includes:
 - Public editorial and canonical-review rules, plus GitHub review issue templates for source, equation, and diagram work.
 - A generated notation ledger, diagram provenance ledger, schema reference, and expert review packet system for the next canonical-review phase.
 - A generated release readiness map, accessibility audit, edition comparison queue, and patent-to-theory bridge.
+- A generated canonical verification workbench with equation OCR snippets, original figure crop review cards, and patent authority-review cards.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
 - Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.

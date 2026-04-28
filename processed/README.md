@@ -42,6 +42,10 @@ Corpus-wide generated indexes live at the root of this directory:
 - `accessibility_audit.json`
 - `edition_comparison_index.json`
 - `patent_theory_bridge.json`
+- `canonical_verification_workbench.json`
+- `equation_verification_queue.json`
+- `figure_verification_queue.json`
+- `patent_verification_queue.json`
 - `source_processing_status.md`
 
 Files here may contain candidates and should include review status fields. Canonical explanations belong in `analysis/`, `concepts/`, `math/`, `diagrams/`, `comparisons/`, `glossary/`, and the website.

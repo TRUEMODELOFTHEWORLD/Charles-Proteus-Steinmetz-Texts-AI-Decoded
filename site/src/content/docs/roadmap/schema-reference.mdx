@@ -30,6 +30,10 @@ This page documents the data shapes that make the archive reusable. It is descri
 | `accessibility_audit` | Automated accessibility-readiness scan and manual review gates. | `processed/accessibility_audit.json` | yes | gates, generated_at, html_table_count, iframe_count, image_tag_count, image_tag_missing_alt, issue_pages, long_table_pages |
 | `edition_comparison_index` | Edition collation queue for seeded sources. | `processed/edition_comparison_index.json` | yes | edition_review_status, internet_archive_id, local_raw_file, priority, processed_status, review_actions, source_id, title |
 | `patent_theory_bridge` | Seeded bridge from patents to concepts and theory-review targets. | `processed/patent_theory_bridge.json` | yes | bridge_status, concept_links, diagram_targets, domain_tags, patent_number, patent_url, pdf_url, publication_date |
+| `canonical_verification_workbench` | Top-level queue index for canonical verification work. | `processed/canonical_verification_workbench.json` | yes | generated_at, quality_note, queues, summary |
+| `equation_verification_queue` | Equation scan-check queue with OCR line snippets. | `processed/equation_verification_queue.json` | yes | candidate_status, chapter_id, chapter_refs, chapter_title, id, line_anchors, line_ranges, links |
+| `figure_verification_queue` | Original figure crop verification queue. | `processed/figure_verification_queue.json` | yes | crop_box_pixels, id, links, manifest_path, output_path, public_url, review_actions, sha256 |
+| `patent_verification_queue` | Patent authority PDF, claim, drawing, and theory bridge queue. | `processed/patent_verification_queue.json` | yes | concept_links, diagram_targets, domain_tags, links, patent_number, patent_url, pdf_url, publication_date |
 
 ## Review-State Fields
 

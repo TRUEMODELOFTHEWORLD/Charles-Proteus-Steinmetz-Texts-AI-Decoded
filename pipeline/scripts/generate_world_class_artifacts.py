@@ -74,6 +74,10 @@ SCHEMA_FILES = [
     ("accessibility_audit", "processed/accessibility_audit.json", "Automated accessibility-readiness scan and manual review gates."),
     ("edition_comparison_index", "processed/edition_comparison_index.json", "Edition collation queue for seeded sources."),
     ("patent_theory_bridge", "processed/patent_theory_bridge.json", "Seeded bridge from patents to concepts and theory-review targets."),
+    ("canonical_verification_workbench", "processed/canonical_verification_workbench.json", "Top-level queue index for canonical verification work."),
+    ("equation_verification_queue", "processed/equation_verification_queue.json", "Equation scan-check queue with OCR line snippets."),
+    ("figure_verification_queue", "processed/figure_verification_queue.json", "Original figure crop verification queue."),
+    ("patent_verification_queue", "processed/patent_verification_queue.json", "Patent authority PDF, claim, drawing, and theory bridge queue."),
 ]
 
 

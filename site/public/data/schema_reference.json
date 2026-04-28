@@ -593,6 +593,159 @@
         "research_status"
       ],
       "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "canonical_verification_workbench",
+      "description": "Top-level queue index for canonical verification work.",
+      "path": "processed/canonical_verification_workbench.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/canonical_verification_workbench.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "queues",
+          "summary"
+        ],
+        "sample_record_fields": [
+          "generated_at",
+          "quality_note",
+          "queues",
+          "summary"
+        ],
+        "record_count": null
+      },
+      "review_state_fields": [
+        "quality_note"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "equation_verification_queue",
+      "description": "Equation scan-check queue with OCR line snippets.",
+      "path": "processed/equation_verification_queue.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/equation_verification_queue.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records",
+          "source_counts",
+          "status_counts"
+        ],
+        "sample_record_fields": [
+          "candidate_status",
+          "chapter_id",
+          "chapter_refs",
+          "chapter_title",
+          "id",
+          "line_anchors",
+          "line_ranges",
+          "links",
+          "modern_form",
+          "needs_line_anchor",
+          "ocr_snippets",
+          "original_form",
+          "quality_label",
+          "review_actions",
+          "source_id",
+          "source_location",
+          "source_title",
+          "title",
+          "verification_status"
+        ],
+        "record_count": 12
+      },
+      "review_state_fields": [
+        "candidate_status",
+        "quality_label",
+        "review_actions",
+        "verification_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "figure_verification_queue",
+      "description": "Original figure crop verification queue.",
+      "path": "processed/figure_verification_queue.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/figure_verification_queue.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records",
+          "source_counts"
+        ],
+        "sample_record_fields": [
+          "crop_box_pixels",
+          "id",
+          "links",
+          "manifest_path",
+          "output_path",
+          "public_url",
+          "review_actions",
+          "sha256",
+          "source_id",
+          "source_image",
+          "source_location",
+          "source_title",
+          "status",
+          "verification_status"
+        ],
+        "record_count": 15
+      },
+      "review_state_fields": [
+        "review_actions",
+        "status",
+        "verification_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
+    },
+    {
+      "id": "patent_verification_queue",
+      "description": "Patent authority PDF, claim, drawing, and theory bridge queue.",
+      "path": "processed/patent_verification_queue.json",
+      "exists": true,
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/patent_verification_queue.json",
+      "schema_summary": {
+        "container": "object",
+        "top_level_fields": [
+          "concept_counts",
+          "generated_at",
+          "quality_note",
+          "record_count",
+          "records",
+          "scope_warning"
+        ],
+        "sample_record_fields": [
+          "concept_links",
+          "diagram_targets",
+          "domain_tags",
+          "links",
+          "patent_number",
+          "patent_url",
+          "pdf_url",
+          "publication_date",
+          "research_status",
+          "review_actions",
+          "title",
+          "verification_status"
+        ],
+        "record_count": 11
+      },
+      "review_state_fields": [
+        "research_status",
+        "review_actions",
+        "verification_status"
+      ],
+      "usage_rule": "Use review-state fields before citing any record as fact."
     }
   ]
 }

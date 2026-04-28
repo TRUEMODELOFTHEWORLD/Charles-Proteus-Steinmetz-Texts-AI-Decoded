@@ -40,6 +40,10 @@ DATA_EXPORTS = [
     ("accessibility_audit", "processed/accessibility_audit.json", "Automated accessibility-readiness scan and manual review gates."),
     ("edition_comparison_index", "processed/edition_comparison_index.json", "Edition collation queue for seeded sources."),
     ("patent_theory_bridge", "processed/patent_theory_bridge.json", "Seeded bridge from patents to concepts and theory-review targets."),
+    ("canonical_verification_workbench", "processed/canonical_verification_workbench.json", "Top-level queue index for canonical equation, figure, and patent verification."),
+    ("equation_verification_queue", "processed/equation_verification_queue.json", "OCR snippet and scan-check queue for canonical equation candidates."),
+    ("figure_verification_queue", "processed/figure_verification_queue.json", "Scan crop review queue for original Steinmetz figures."),
+    ("patent_verification_queue", "processed/patent_verification_queue.json", "Authority PDF, claims, drawings, and theory-bridge queue for seeded patents."),
 ]
 
 

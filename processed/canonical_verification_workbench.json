@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-04-28",
+  "quality_note": "Canonical verification workbench. It gathers review queues but does not certify claims as verified.",
+  "summary": {
+    "equation_records": 12,
+    "figure_records": 15,
+    "patent_records": 11,
+    "equation_status_counts": {
+      "needs_line_anchor": 1,
+      "ready_for_scan_check": 11
+    },
+    "figure_source_counts": {
+      "radiation-light-and-illumination": 5,
+      "theory-calculation-alternating-current-phenomena": 4,
+      "theory-calculation-transient-electric-phenomena-oscillations": 6
+    },
+    "patent_scope_warning": "Wikipedia states that Steinmetz held over 200 patents, but the current Wikipedia bibliography lists only selected examples. This file seeds those listed examples and must not be treated as a complete patent bibliography."
+  },
+  "queues": [
+    {
+      "id": "equation_verification_queue",
+      "title": "Equation Verification Queue",
+      "path": "processed/equation_verification_queue.json",
+      "site_path": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/equation-verification-queue/",
+      "record_count": 12
+    },
+    {
+      "id": "figure_verification_queue",
+      "title": "Figure Verification Queue",
+      "path": "processed/figure_verification_queue.json",
+      "site_path": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/figure-verification-queue/",
+      "record_count": 15
+    },
+    {
+      "id": "patent_verification_queue",
+      "title": "Patent Verification Queue",
+      "path": "processed/patent_verification_queue.json",
+      "site_path": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/patent-verification-queue/",
+      "record_count": 11
+    }
+  ]
+}
