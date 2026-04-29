@@ -490,6 +490,172 @@ a[data-variant='primary']:hover {
   font-size: 0.9rem;
 }
 
+.steinmetz-profile-hero,
+.coverage-hero {
+  display: grid;
+  gap: 1.25rem;
+  align-items: center;
+  grid-template-columns: minmax(0, 1.08fr) minmax(16rem, 0.92fr);
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--codex-panel) 92%, #d4b15c 8%), var(--codex-panel));
+  color: var(--codex-panel-text);
+  padding: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.steinmetz-profile-hero h1,
+.steinmetz-profile-hero h2,
+.coverage-hero h1,
+.coverage-hero h2 {
+  margin: 0;
+  color: var(--codex-panel-text);
+}
+
+.steinmetz-profile-hero p,
+.coverage-hero p {
+  color: var(--codex-panel-muted);
+}
+
+.steinmetz-profile-media {
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 60%, transparent);
+  border-radius: 8px;
+  background: #fbfaf6;
+  margin: 0;
+}
+
+.steinmetz-profile-media img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+}
+
+.steinmetz-profile-media figcaption {
+  color: #3f4944;
+  font-size: 0.86rem;
+  padding: 0.75rem 0.85rem;
+}
+
+.profile-fact-strip,
+.coverage-stat-grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  margin: 1rem 0;
+}
+
+.profile-fact-strip div,
+.coverage-stat-grid div {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 60%, transparent);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--codex-panel) 84%, #ffffff 16%);
+  color: var(--codex-panel-text);
+  padding: 0.85rem;
+}
+
+.profile-fact-strip strong,
+.coverage-stat-grid strong {
+  display: block;
+  color: var(--codex-panel-text);
+  font-size: 1.35rem;
+  line-height: 1.15;
+}
+
+.profile-fact-strip p,
+.coverage-stat-grid p {
+  color: var(--codex-panel-text);
+  font-weight: 800;
+  margin: 0.25rem 0;
+}
+
+.profile-fact-strip span,
+.coverage-stat-grid span {
+  color: var(--codex-panel-muted);
+  font-size: 0.86rem;
+}
+
+.profile-timeline {
+  border-left: 3px solid var(--codex-gold);
+  display: grid;
+  gap: 0.85rem;
+  margin: 1.25rem 0;
+  padding-left: 1rem;
+}
+
+.profile-timeline div {
+  background: var(--codex-panel);
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-radius: 8px;
+  color: var(--codex-panel-text);
+  padding: 0.85rem;
+}
+
+.profile-timeline strong {
+  color: var(--codex-panel-text);
+}
+
+.profile-timeline p {
+  color: var(--codex-panel-muted);
+  margin: 0.25rem 0 0;
+}
+
+.profile-route-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  margin: 1.25rem 0;
+}
+
+.profile-route-grid a {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-radius: 8px;
+  background: var(--codex-panel);
+  color: var(--codex-panel-text);
+  padding: 1rem;
+  text-decoration: none;
+}
+
+.profile-route-grid a:hover {
+  border-color: var(--codex-gold);
+}
+
+.profile-route-grid span {
+  display: block;
+  color: var(--codex-panel-muted);
+  margin-top: 0.35rem;
+}
+
+.coverage-table {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.92rem;
+}
+
+.coverage-table th,
+.coverage-table td {
+  min-width: 7rem;
+}
+
+.coverage-table td:first-child {
+  min-width: 15rem;
+}
+
+.coverage-small-link {
+  color: var(--sl-color-text-accent);
+  font-size: 0.86rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.coverage-pills b {
+  color: var(--sl-color-text-accent);
+  margin-left: 0.2rem;
+}
+
 .home-portrait-grid {
   display: grid;
   gap: 1rem;
@@ -745,7 +911,9 @@ body.codex-lightbox-open {
 }
 
 @media (max-width: 820px) {
-  .home-codex-hero {
+  .home-codex-hero,
+  .steinmetz-profile-hero,
+  .coverage-hero {
     grid-template-columns: 1fr;
   }
 

@@ -61,6 +61,7 @@ SCHEMA_FILES = [
     ("research_index", "processed/research_index.json", "Corpus-wide processing inventory."),
     ("evidence_ledger", "processed/evidence_ledger.json", "Traceability records for source/candidate/promoted items."),
     ("chapter_atlas", "processed/chapter_atlas.json", "Theme routing records for processed sections."),
+    ("book_coverage_atlas", "processed/book_coverage_atlas.json", "Book-level coverage records for processed sources and sections."),
     ("chapter_workbench", "processed/chapter_workbench.json", "Section-level research workbench records."),
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit records."),
     ("canonical_equations", "processed/canonical_equations.json", "First equation canon and review state."),

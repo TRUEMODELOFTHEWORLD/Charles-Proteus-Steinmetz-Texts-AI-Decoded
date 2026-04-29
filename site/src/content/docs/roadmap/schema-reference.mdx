@@ -17,6 +17,7 @@ This page documents the data shapes that make the archive reusable. It is descri
 | `research_index` | Corpus-wide processing inventory. | `processed/research_index.json` | yes | quality_note, source_count, sources |
 | `evidence_ledger` | Traceability records for source/candidate/promoted items. | `processed/evidence_ledger.json` | yes | collection, confidence, evidence, id, label, person, record_id, record_type |
 | `chapter_atlas` | Theme routing records for processed sections. | `processed/chapter_atlas.json` | yes | id, kind, line_end, line_start, sequence, source_id, source_title, status |
+| `book_coverage_atlas` | Book-level coverage records for processed sources and sections. | `processed/book_coverage_atlas.json` | yes | generated_at, quality_note, source_count, sources, total_sections |
 | `chapter_workbench` | Section-level research workbench records. | `processed/chapter_workbench.json` | yes | concept_hits, equation_count, equations, figure_count, figures, glossary_hits, id, kind |
 | `concept_concordance` | Source-text concept hit records. | `processed/concept_concordance.json` | yes | collection, concepts, generated_at, person, quality_note, section_count, source_count, total_concepts |
 | `canonical_equations` | First equation canon and review state. | `processed/canonical_equations.json` | yes | id, modern_form, original_form, site_path, source_id, source_ref, source_title, status |

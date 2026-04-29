@@ -42,17 +42,19 @@ export default defineConfig({
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
             { label: 'Source Library', slug: 'source-library' },
-            { label: 'Processing Dashboard', slug: 'research-status' }
+            { label: 'Book Coverage Atlas', slug: 'book-coverage' },
+            { label: 'Project Tracker', slug: 'project-tracker' }
           ]
         },
         {
-          label: 'Research Corpus',
+          label: 'Read The Corpus',
           items: [
-            { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
-            { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
+            { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
-            { label: 'Source Text Browser', slug: 'source-texts' },
+            { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
+            { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
+            { label: 'Processing Dashboard', slug: 'research-status' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
             {
               label: 'Steinmetz Patents',
@@ -60,96 +62,50 @@ export default defineConfig({
                 { label: 'Patent Register', slug: 'sources/steinmetz-patents' },
                 { label: 'Seeded Patent Dossiers', slug: 'sources/steinmetz-patents/seeded-patent-dossiers' }
               ]
-            },
-            {
-              label: 'Radiation, Light and Illumination',
-              items: [
-                { label: 'Book Overview', slug: 'sources/radiation-light-and-illumination' },
-                { label: 'Lecture I', slug: 'sources/radiation-light-and-illumination/lecture-01' }
-              ]
-            },
-            {
-              label: 'Elementary Lectures',
-              items: [
-                { label: 'Book Overview', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
-                { label: 'The Electric Field', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses/electric-field' }
-              ]
-            },
-            {
-              label: 'Engineering Mathematics',
-              items: [
-                { label: 'Book Overview', slug: 'sources/engineering-mathematics' },
-                { label: 'General Number', slug: 'sources/engineering-mathematics/general-number' }
-              ]
-            },
-            {
-              label: 'Alternating Current Phenomena',
-              items: [
-                { label: 'Book Overview', slug: 'sources/theory-calculation-alternating-current-phenomena' },
-                { label: 'Symbolic Method', slug: 'sources/theory-calculation-alternating-current-phenomena/symbolic-method' },
-                { label: 'Impedance And Reactance', slug: 'sources/theory-calculation-alternating-current-phenomena/impedance-reactance' },
-                { label: 'Admittance', slug: 'sources/theory-calculation-alternating-current-phenomena/admittance-conductance-susceptance' }
-              ]
-            },
-            {
-              label: 'Transient Electric Phenomena',
-              items: [
-                { label: 'Book Overview', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
-                { label: 'Transient Terms', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/transient-terms' },
-                { label: 'Condenser Charge', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge' },
-                { label: 'Standing And Traveling Waves', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves' }
-              ]
-            },
-            {
-              label: 'Theoretical Elements',
-              items: [
-                { label: 'Book Overview', slug: 'sources/theoretical-elements-electrical-engineering' },
-                { label: 'Fields of Force', slug: 'sources/theoretical-elements-electrical-engineering/fields-of-force' },
-                { label: 'Hysteresis And Effective Resistance', slug: 'sources/theoretical-elements-electrical-engineering/hysteresis-effective-resistance' }
-              ]
-            },
-            {
-              label: 'General Lectures',
-              items: [
-                { label: 'Book Overview', slug: 'sources/general-lectures-electrical-engineering' },
-                { label: 'High-Frequency Surges', slug: 'sources/general-lectures-electrical-engineering/high-frequency-oscillations-surges' }
-              ]
-            },
-            {
-              label: 'Electric Apparatus',
-              items: [
-                { label: 'Book Overview', slug: 'sources/theory-calculation-electric-apparatus' },
-                { label: 'Hysteresis Motor', slug: 'sources/theory-calculation-electric-apparatus/hysteresis-motor' }
-              ]
-            },
-            {
-              label: 'America and the New Epoch',
-              items: [
-                { label: 'Book Overview', slug: 'sources/america-and-new-epoch' },
-                { label: 'Industrial Government', slug: 'sources/america-and-new-epoch/industrial-government' }
-              ]
-            },
-            {
-              label: 'Relativity and Space',
-              items: [
-                { label: 'Book Overview', slug: 'sources/four-lectures-relativity-space' },
-                { label: 'Gravitational Field', slug: 'sources/four-lectures-relativity-space/gravitational-field' }
-              ]
-            },
-            {
-              label: 'Commonwealth Edison Trouble',
-              items: [
-                { label: 'Source Overview', slug: 'sources/commonwealth-edison-generating-system-trouble' },
-                { label: 'Reactors And Synchronism', slug: 'sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism' }
-              ]
             }
+          ]
+        },
+        {
+          label: 'Source Guides',
+          items: [
+            { label: 'Radiation, Light and Illumination', slug: 'sources/radiation-light-and-illumination' },
+            { label: 'Elementary Lectures', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
+            { label: 'Engineering Mathematics', slug: 'sources/engineering-mathematics' },
+            { label: 'Alternating Current Phenomena', slug: 'sources/theory-calculation-alternating-current-phenomena' },
+            { label: 'Transient Electric Phenomena', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
+            { label: 'Theoretical Elements', slug: 'sources/theoretical-elements-electrical-engineering' },
+            { label: 'General Lectures', slug: 'sources/general-lectures-electrical-engineering' },
+            { label: 'Electric Apparatus', slug: 'sources/theory-calculation-electric-apparatus' },
+            { label: 'America and the New Epoch', slug: 'sources/america-and-new-epoch' },
+            { label: 'Relativity and Space', slug: 'sources/four-lectures-relativity-space' },
+            { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
+          ]
+        },
+        {
+          label: 'Deep Decoding Paths',
+          items: [
+            { label: 'RLI Lecture I', slug: 'sources/radiation-light-and-illumination/lecture-01' },
+            { label: 'The Electric Field', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses/electric-field' },
+            { label: 'General Number', slug: 'sources/engineering-mathematics/general-number' },
+            { label: 'Symbolic Method', slug: 'sources/theory-calculation-alternating-current-phenomena/symbolic-method' },
+            { label: 'Impedance And Reactance', slug: 'sources/theory-calculation-alternating-current-phenomena/impedance-reactance' },
+            { label: 'Admittance', slug: 'sources/theory-calculation-alternating-current-phenomena/admittance-conductance-susceptance' },
+            { label: 'Transient Terms', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/transient-terms' },
+            { label: 'Condenser Charge', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge' },
+            { label: 'Standing And Traveling Waves', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations/standing-traveling-waves' },
+            { label: 'Fields of Force', slug: 'sources/theoretical-elements-electrical-engineering/fields-of-force' },
+            { label: 'Hysteresis And Effective Resistance', slug: 'sources/theoretical-elements-electrical-engineering/hysteresis-effective-resistance' },
+            { label: 'High-Frequency Surges', slug: 'sources/general-lectures-electrical-engineering/high-frequency-oscillations-surges' },
+            { label: 'Hysteresis Motor', slug: 'sources/theory-calculation-electric-apparatus/hysteresis-motor' },
+            { label: 'Industrial Government', slug: 'sources/america-and-new-epoch/industrial-government' },
+            { label: 'Gravitational Field', slug: 'sources/four-lectures-relativity-space/gravitational-field' },
+            { label: 'Reactors And Synchronism', slug: 'sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism' }
           ]
         },
         {
           label: 'Concept Encyclopedia',
           items: [
             { label: 'Concept Index', slug: 'concepts' },
-            { label: 'Concept Concordance', slug: 'concept-concordance' },
             { label: 'Radiation', slug: 'concepts/radiation' },
             { label: 'Electric Waves', slug: 'concepts/electric-waves' },
             { label: 'Lightning And Surges', slug: 'concepts/lightning-surges' },
@@ -196,7 +152,7 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Diagrams And Glossary',
+          label: 'Visual And Language Archive',
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
@@ -225,9 +181,8 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Project Status',
+          label: 'Review And Publication',
           items: [
-            { label: 'Project Tracker', slug: 'project-tracker' },
             { label: 'Publication Roadmap', slug: 'roadmap' },
             { label: 'Completion Audit', slug: 'roadmap/completion-audit' },
             { label: 'World-Class Criteria', slug: 'roadmap/world-class-completion-criteria' },

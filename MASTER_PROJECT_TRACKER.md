@@ -31,6 +31,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, and diagram lightbox viewing. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
+| Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages. |
 | Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
@@ -151,19 +152,20 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 1. Home | Done | `site/src/content/docs/index.mdx` |
 | 2. Who Was Steinmetz? | Done | `site/src/content/docs/who-was-steinmetz.mdx` |
 | 3. Why Steinmetz Matters | Done | `site/src/content/docs/why-steinmetz-matters.mdx` |
-| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx`, source pages with source-access readers, generated source-text browser pages, generated chapter workbench pages, and generated concept concordance pages |
+| 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx`, source pages with source-access readers, generated book coverage pages, generated source-text browser pages, generated chapter workbench pages, and generated concept concordance pages |
 | 4a. Expanded Bibliography Intake | Started | `site/src/content/docs/source-library/bibliography-intake.mdx` |
 | 4b. Steinmetz Patent Register | Started | `site/src/content/docs/sources/steinmetz-patents/index.mdx` |
 | 4c. Source Text Browser | Started | `site/src/content/docs/source-texts/` generated from processed chapter records |
-| 4d. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
-| 4e. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
-| 4f. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
-| 4g. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
-| 4h. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
-| 4i. Notation, Provenance, Schema, And Review Packets | Started | `site/src/content/docs/roadmap/notation-ledger.mdx`, `diagram-provenance-ledger.mdx`, `schema-reference.mdx`, and `expert-review-packets.mdx` generated |
-| 4j. Canonical Verification Workbench | Started | `site/src/content/docs/roadmap/canonical-verification-workbench.mdx`, `equation-verification-queue.mdx`, `figure-verification-queue.mdx`, and `patent-verification-queue.mdx` generated |
-| 4k. Claim Attribution Ledger | Started | `site/src/content/docs/roadmap/claim-attribution-ledger.mdx` and `processed/claim_attribution_ledger.json` generated |
-| 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, and historical-context pages |
+| 4d. Book Coverage Atlas | Started | `site/src/content/docs/book-coverage/` generated from processed workbench records, with one index and one source-level coverage page per seeded source |
+| 4e. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
+| 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
+| 4g. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
+| 4h. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
+| 4i. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
+| 4j. Notation, Provenance, Schema, And Review Packets | Started | `site/src/content/docs/roadmap/notation-ledger.mdx`, `diagram-provenance-ledger.mdx`, `schema-reference.mdx`, and `expert-review-packets.mdx` generated |
+| 4k. Canonical Verification Workbench | Started | `site/src/content/docs/roadmap/canonical-verification-workbench.mdx`, `equation-verification-queue.mdx`, `figure-verification-queue.mdx`, and `patent-verification-queue.mdx` generated |
+| 4l. Claim Attribution Ledger | Started | `site/src/content/docs/roadmap/claim-attribution-ledger.mdx` and `processed/claim_attribution_ledger.json` generated |
+| 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, historical-context pages, and generated book coverage pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
 | 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` |
 | 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` with global lightbox viewing |
@@ -190,6 +192,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate concept tags | Started | Research index builder. |
 | Generate summaries | Started | Public source and chapter pages, mostly curated. |
 | Generate public source text readers | Started | `generate_source_text_pages.py` builds 316 public source-text pages from processed chapter records. |
+| Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 12 public book-coverage pages plus `processed/book_coverage_atlas.json`. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 316 public workbench pages plus `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
@@ -221,6 +224,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `crosslinks.json` | Started through per-source files and generated `processed/crosslinks_index.json`. |
 | `evidence_ledger.json` | Done as the archive-wide traceability layer for source claims, candidates, and promoted assets. |
 | `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
+| `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, and candidate counts. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
 | `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
@@ -242,6 +246,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `claim_attribution_ledger.json` | Started as the source-isolation ledger for facts, candidates, translations, diagrams, patents, and interpretive boundaries. |
 | `site/public/data/manifest.json` | Started as the public data export manifest. |
 | generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
+| generated `book-coverage/` pages | Started with one corpus index and 11 source-level coverage maps. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
 | generated `concept-concordance/` pages | Started with 77 concept pages plus a corpus index. |
 | generated completion audit page | Started with source-by-source readiness gates and next actions. |
@@ -260,14 +265,15 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements, America, and Commonwealth Edison now have source-specific parsers; next step is scan verification and page-map refinement. |
 | M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 316 source-text pages, including 304 processed text-section pages and 12 index pages. |
-| M7B. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 316 chapter-workbench pages, including 304 section maps and 12 index pages, backed by `processed/chapter_workbench.json`. |
-| M7C. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
-| M7D. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
-| M7E. Scholarly export and review governance | Generate citation/data exports and public review rules. | Generated `CITATION.cff`, citation index, BibTeX, CSL JSON, public data manifest, editorial policy, canonical review workflow, and GitHub review templates. |
-| M7F. Critical scholarly ledgers | Generate notation, diagram provenance, schema, and expert review packet controls. | Generated four processed ledgers and four public roadmap pages for review routing. |
-| M7G. Publication readiness controls | Generate release, accessibility, edition, and patent bridge controls. | Generated four processed readiness indexes and four public roadmap pages. |
-| M7H. Canonical verification workbench | Generate scan-check queues for equations, figures, and patents. | Generated four processed queue indexes and four public roadmap pages with source links and OCR snippets. |
-| M7I. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
+| M7B. Book coverage atlas | Generate source-level coverage maps so every seeded book has a non-shell representation. | Generated 12 book-coverage pages, including one corpus index and 11 source maps, backed by `processed/book_coverage_atlas.json`. |
+| M7C. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 316 chapter-workbench pages, including 304 section maps and 12 index pages, backed by `processed/chapter_workbench.json`. |
+| M7D. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
+| M7E. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
+| M7F. Scholarly export and review governance | Generate citation/data exports and public review rules. | Generated `CITATION.cff`, citation index, BibTeX, CSL JSON, public data manifest, editorial policy, canonical review workflow, and GitHub review templates. |
+| M7G. Critical scholarly ledgers | Generate notation, diagram provenance, schema, and expert review packet controls. | Generated four processed ledgers and four public roadmap pages for review routing. |
+| M7H. Publication readiness controls | Generate release, accessibility, edition, and patent bridge controls. | Generated four processed readiness indexes and four public roadmap pages. |
+| M7I. Canonical verification workbench | Generate scan-check queues for equations, figures, and patents. | Generated four processed queue indexes and four public roadmap pages with source links and OCR snippets. |
+| M7J. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -334,7 +340,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 7. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.
 8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
-9. Use the generated source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
+9. Use the generated book coverage atlas, source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
 10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
 11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
 12. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.

@@ -27,6 +27,7 @@ Corpus-wide generated indexes live at the root of this directory:
 - `crosslinks_index.json`
 - `evidence_ledger.json`
 - `chapter_atlas.json`
+- `book_coverage_atlas.json`
 - `chapter_workbench.json`
 - `concept_concordance.json`
 - `completion_audit.json`

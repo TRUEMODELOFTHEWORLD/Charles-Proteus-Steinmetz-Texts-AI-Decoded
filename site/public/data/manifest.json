@@ -34,6 +34,13 @@
       "format": "json"
     },
     {
+      "id": "book_coverage_atlas",
+      "description": "Book-level coverage map with source-reader and workbench links.",
+      "source_path": "processed/book_coverage_atlas.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/book_coverage_atlas.json",
+      "format": "json"
+    },
+    {
       "id": "chapter_workbench",
       "description": "Section-level workbench records.",
       "source_path": "processed/chapter_workbench.json",

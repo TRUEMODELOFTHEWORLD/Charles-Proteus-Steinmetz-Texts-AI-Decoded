@@ -123,7 +123,11 @@
   }
 
   function setupLightbox() {
-    const images = Array.from(document.querySelectorAll('.diagram-frame img, .codex-visual-card img, .home-portrait-grid img'));
+    const images = Array.from(
+      document.querySelectorAll(
+        '.diagram-frame img, .codex-visual-card img, .home-portrait-card img, .home-portrait-grid img, .steinmetz-profile-media img'
+      )
+    );
     if (!images.length) return;
 
     const overlay = document.createElement('button');

@@ -90,6 +90,7 @@ Current site features include:
 
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
+- A generated book coverage atlas that summarizes every processed source, counts candidate equations, figures, quotes, concepts, and glossary hits, and links each book section into the source reader and workbench.
 - A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
 - A generated concept concordance that traces 77 core terms and concepts across all 304 processed text sections, with source-text and workbench links for every hit.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
@@ -176,6 +177,14 @@ python pipeline/scripts/generate_source_text_pages.py
 
 It generates `site/src/content/docs/source-texts/`, including one index page, per-source indexes, and reader pages for all processed chapters, lectures, sections, and report divisions.
 
+The book coverage atlas generator is:
+
+```powershell
+python pipeline/scripts/generate_book_coverage_atlas.py
+```
+
+It generates `site/src/content/docs/book-coverage/` and `processed/book_coverage_atlas.json`, adding book-level coverage maps above the individual source-text pages. Each book page lists every processed section, top themes, top concepts, glossary density, candidate equation/figure/quote counts, and links into the source text and chapter workbench.
+
 The chapter research workbench generator is:
 
 ```powershell
@@ -229,6 +238,7 @@ The archive now includes:
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
 - A generated source-text browser with 304 public text-section pages across the processed corpus.
+- A generated book coverage atlas for all 11 seeded sources, covering 304 processed sections and 764,804 processed words with direct source-reader and workbench links.
 - A generated chapter workbench with 304 section-level research maps across the processed corpus.
 - A generated concept concordance with 77 concept pages tracing hits across all 304 processed sections.
 - A generated completion audit for all 11 seeded sources, plus public world-class finishing criteria.

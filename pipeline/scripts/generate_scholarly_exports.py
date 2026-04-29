@@ -27,6 +27,7 @@ DATA_EXPORTS = [
     ("research_index", "processed/research_index.json", "Corpus-wide processing summary."),
     ("evidence_ledger", "processed/evidence_ledger.json", "Traceability ledger for source/candidate records."),
     ("chapter_atlas", "processed/chapter_atlas.json", "Theme routing map for processed sections."),
+    ("book_coverage_atlas", "processed/book_coverage_atlas.json", "Book-level coverage map with source-reader and workbench links."),
     ("chapter_workbench", "processed/chapter_workbench.json", "Section-level workbench records."),
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit index."),
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),

@@ -85,15 +85,16 @@ The first command writes notation, diagram provenance, schema-reference, and exp
 
 ## Public Corpus Pages
 
-After chapter splits and indexes exist, generate the public source-text browser, chapter workbench, and concept concordance:
+After chapter splits and indexes exist, generate the public source-text browser, book coverage atlas, chapter workbench, and concept concordance:
 
 ```powershell
 python pipeline/scripts/generate_source_text_pages.py
+python pipeline/scripts/generate_book_coverage_atlas.py
 python pipeline/scripts/generate_chapter_workbench.py
 python pipeline/scripts/generate_concept_concordance.py
 ```
 
-The source-text browser exposes the current processed text for every chapter, lecture, section, or report division. The chapter workbench joins each section to theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, source links, and promotion checklists. The concept concordance scans the same corpus for curated Steinmetz terminology and links each hit back to source text and workbench pages. These layers are candidate research aids, not corrected editions.
+The source-text browser exposes the current processed text for every chapter, lecture, section, or report division. The book coverage atlas adds a source-by-source map above those reader pages, with every processed section, top themes, concept density, glossary density, and candidate equation/figure/quote counts. The chapter workbench joins each section to theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, source links, and promotion checklists. The concept concordance scans the same corpus for curated Steinmetz terminology and links each hit back to source text and workbench pages. These layers are candidate research aids, not corrected editions.
 
 ## PDF Image Extraction
 
