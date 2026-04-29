@@ -28,7 +28,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
 | Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
-| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, and a Start Reading route for non-specialist entry. |
+| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, a Start Reading route, and generated guided reading routes for non-specialist and specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages. |
@@ -36,6 +36,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Figure candidate atlas | Generated visual-routing pages now separate promoted original scan crops from OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
+| Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
 | World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Scholarly exports | `CITATION.cff`, `processed/citation_index.json`, CSL JSON, BibTeX, public `/data/` exports, and a data manifest now publish reusable research data with review-state labels intact. |
@@ -85,6 +86,7 @@ These are new workstreams added after the foundation was built. They define what
 | Critical-edition editorial policy | Started | OCR correction, uncertain readings, page breaks, spelling variants, and math transcription now have a public rule page. |
 | Citation/export system | Started | Researchers can export BibTeX, CSL JSON, stable source IDs, recommended citations, and public JSON data. |
 | Canonical review workflow | Started | Candidate -> source-located -> scan-verified -> mathematically reviewed -> context reviewed -> canonical is public and tied to issue templates. |
+| Guided reading routes | Started | Generated routes make the corpus browsable by purpose without replacing source-text, workbench, or verification layers. |
 | Mathematical errata and notation ledger | Started | The first generated notation ledger maps source and modern symbols across the canonical equation seed set. |
 | Diagram provenance ledger | Started | The generated provenance ledger maps 15 original crops and 9 modern redraws with source, asset, and review-state fields. |
 | Edition comparison layer | Started | A generated edition-collation queue now identifies source edition review work. |
@@ -162,6 +164,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4e. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
 | 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
 | 4f-2. Theme Evidence Atlas | Started | `site/src/content/docs/theme-evidence/` generated from processed text sections and charter-critical theme vocabulary |
+| 4f-3. Guided Reading Routes | Started | `site/src/content/docs/reading-routes/` generated from book coverage metadata to give newcomers, engineers, field-language readers, diagram readers, and patent researchers clean entry paths |
 | 8a. Figure Candidate Atlas | Started | `site/src/content/docs/diagrams/figure-candidate-atlas.mdx` generated from figure candidates and promoted scan crops |
 | 4g. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 4h. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
@@ -201,6 +204,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
 | Generate theme evidence atlas pages | Started | `generate_theme_evidence_atlas.py` builds 10 public theme-evidence pages plus `processed/theme_evidence_atlas.json`. |
 | Generate figure candidate atlas pages | Started | `generate_figure_candidate_atlas.py` builds a public figure atlas plus `processed/figure_candidate_atlas.json`, routing promoted crops and OCR/PDF-text candidates back to source pages. |
+| Generate guided reading route pages | Started | `generate_reading_routes.py` builds `processed/reading_routes.json` and the public `reading-routes/` page from source coverage, workbench links, and candidate density. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
 | Generate scholarly exports | Started | `generate_scholarly_exports.py` builds `CITATION.cff`, citation JSON, CSL JSON, BibTeX, public `/data/` exports, a data manifest, and the public citation/export page. |
 | Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
@@ -235,6 +239,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
 | `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
 | `figure_candidate_atlas.json` | Started as the archive-wide visual routing layer for promoted original crops and OCR/PDF-text figure references. |
+| `reading_routes.json` | Started as the archive-wide guided study route layer across all processed sections. |
 | `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
 | `citation_index.json` | Started as the archive-wide citation record set for project and source records. |
 | `citation_index.csl.json` | Started as the CSL JSON export for citation managers. |
@@ -257,6 +262,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | generated `book-coverage/` pages | Started with one corpus index and 11 source-level coverage maps. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
 | generated `concept-concordance/` pages | Started with 77 concept pages plus a corpus index. |
+| generated `reading-routes/` page | Started with nine purpose-built study paths across the processed corpus. |
 | generated completion audit page | Started with source-by-source readiness gates and next actions. |
 | `steinmetz_bibliography_manifest.json` | Started with Wikipedia-derived works intake and source-processing status. |
 | `patent_register.json` | Started with Wikipedia-listed patent examples and Google Patents authority links. |
@@ -283,6 +289,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7I. Canonical verification workbench | Generate scan-check queues for equations, figures, and patents. | Generated four processed queue indexes and four public roadmap pages with source links and OCR snippets. |
 | M7J. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
 | M7K. Figure candidate atlas | Generate a visual-routing map for all promoted scan crops and remaining figure candidates. | Public figure atlas separates original crop assets from OCR/PDF-text candidates and links each candidate back to source text and workbench pages. |
+| M7L. Guided reading routes | Generate purpose-built reader pathways so the corpus is explorable without becoming shallow. | Public route page now exposes nine generated pathways backed by `processed/reading_routes.json` and linked from home, sidebar, Start Reading, Source Library, and data exports. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -345,6 +352,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `59b1978` | Added the generated theme evidence atlas across charter-critical Steinmetz themes. |
 | `d00189e` | Strengthened generated source-text and snippet readability so source manuscripts, workbench excerpts, concordance snippets, and theme evidence excerpts expand instead of trapping text in scroll boxes. |
 | `1ebcddf` | Added generated figure candidate atlas so promoted scan crops and OCR/PDF-text figure references are visible, linked, and reviewable source by source. |
+| `acca450` | Added generated guided reading routes so readers can enter the processed corpus by purpose while staying linked to source text, workbench pages, verification routes, and public data exports. |
 
 ## Next Work Queue
 
@@ -356,7 +364,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 6. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 7. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.
 8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
-9. Use the generated book coverage atlas, source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
+9. Use the generated reading routes, book coverage atlas, source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
 10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
 11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
 12. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
