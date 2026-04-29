@@ -97,6 +97,13 @@
       "format": "json"
     },
     {
+      "id": "figure_candidate_atlas",
+      "description": "Visual routing atlas for original crops and OCR/PDF-text figure candidates.",
+      "source_path": "processed/figure_candidate_atlas.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/figure_candidate_atlas.json",
+      "format": "json"
+    },
+    {
       "id": "schema_reference",
       "description": "Descriptive schema reference for processed and public data.",
       "source_path": "processed/schema_reference.json",

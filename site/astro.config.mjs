@@ -158,6 +158,7 @@ export default defineConfig({
           label: 'Visual And Language Archive',
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
+            { label: 'Figure Candidate Atlas', slug: 'diagrams/figure-candidate-atlas' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
             { label: 'Original AC Figures', slug: 'diagrams/original-alternating-current-phenomena' },
             { label: 'Original Transient Figures', slug: 'diagrams/original-transient-electric-phenomena' },

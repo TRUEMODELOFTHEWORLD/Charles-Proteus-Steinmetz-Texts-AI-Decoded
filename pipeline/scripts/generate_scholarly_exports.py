@@ -36,6 +36,7 @@ DATA_EXPORTS = [
     ("citation_index", "processed/citation_index.json", "Citation records for source and site artifacts."),
     ("notation_ledger", "processed/notation_ledger.json", "Equation notation and translation review ledger."),
     ("diagram_provenance_ledger", "processed/diagram_provenance_ledger.json", "Original crop and redraw provenance ledger."),
+    ("figure_candidate_atlas", "processed/figure_candidate_atlas.json", "Visual routing atlas for original crops and OCR/PDF-text figure candidates."),
     ("schema_reference", "processed/schema_reference.json", "Descriptive schema reference for processed and public data."),
     ("expert_review_packets", "processed/expert_review_packets.json", "Expert review bundles for canonical promotion work."),
     ("release_readiness", "processed/release_readiness.json", "Named publication release levels and readiness states."),
