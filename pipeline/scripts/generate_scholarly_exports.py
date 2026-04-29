@@ -30,6 +30,7 @@ DATA_EXPORTS = [
     ("book_coverage_atlas", "processed/book_coverage_atlas.json", "Book-level coverage map with source-reader and workbench links."),
     ("chapter_workbench", "processed/chapter_workbench.json", "Section-level workbench records."),
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit index."),
+    ("theme_evidence_atlas", "processed/theme_evidence_atlas.json", "Source-text evidence atlas for charter-critical research themes."),
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),
     ("completion_audit", "processed/completion_audit.json", "Source-by-source readiness audit."),
     ("citation_index", "processed/citation_index.json", "Citation records for source and site artifacts."),

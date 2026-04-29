@@ -94,6 +94,7 @@ Current site features include:
 - A generated book coverage atlas that summarizes every processed source, counts candidate equations, figures, quotes, concepts, and glossary hits, and links each book section into the source reader and workbench.
 - A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
 - A generated concept concordance that traces 77 core terms and concepts across all 304 processed text sections, with source-text and workbench links for every hit.
+- A generated theme evidence atlas that gathers source-located OCR/PDF-text passages for ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, symbolic method, wave phenomena, radiation, energy, and apparatus.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
@@ -202,6 +203,14 @@ python pipeline/scripts/generate_concept_concordance.py
 ```
 
 It generates `site/src/content/docs/concept-concordance/` and `processed/concept_concordance.json`, scanning every processed section for curated Steinmetz electrical, mathematical, field-language, historical, and Tesla-era overlap terms. Concordance hits are source-location aids, not final definitions.
+
+The public theme evidence atlas generator is:
+
+```powershell
+python pipeline/scripts/generate_theme_evidence_atlas.py
+```
+
+It generates `site/src/content/docs/theme-evidence/` and `processed/theme_evidence_atlas.json`, collecting source-located evidence routes for charter-critical themes such as ether and field language, magnetism and hysteresis, dielectricity and capacity, impedance and reactance, symbolic AC method, transients and surges, waves and radiation, energy, and apparatus.
 
 The completion audit generator is:
 

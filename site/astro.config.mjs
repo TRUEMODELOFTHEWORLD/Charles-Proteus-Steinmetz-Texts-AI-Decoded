@@ -54,6 +54,7 @@ export default defineConfig({
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
+            { label: 'Theme Evidence Atlas', slug: 'theme-evidence' },
             { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
             { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
             { label: 'Processing Dashboard', slug: 'research-status' },

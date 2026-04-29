@@ -34,6 +34,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages. |
 | Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
+| Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
 | World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Scholarly exports | `CITATION.cff`, `processed/citation_index.json`, CSL JSON, BibTeX, public `/data/` exports, and a data manifest now publish reusable research data with review-state labels intact. |
@@ -104,7 +105,7 @@ These are new workstreams added after the foundation was built. They define what
 | 3. Every diagram, figure, circuit, waveform, and geometric representation | Started | Complete second-pass review of AC and transient crops, then continue extracting line, surge, hysteresis, and apparatus figures. |
 | 4. Every important definition of electrical terms | Started | Add exact Steinmetz wording to concept and glossary pages. |
 | 5. Every unusual, obsolete, or nonmodern scientific term | Started | Promote `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`. |
-| 6. Statements on ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, AC, complex quantities, symbolic methods, and waves | Started | Build one indexed evidence file per theme with page references. |
+| 6. Statements on ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, AC, complex quantities, symbolic methods, and waves | Done as generated evidence layer, repeating for verification | `processed/theme_evidence_atlas.json` and public theme pages gather source-located hits and snippets; next step is scan verification and promotion of the strongest passages. |
 | 7. Where Steinmetz differs from modern textbook language | Started | Continue comparison pages, especially for symbolic method, reactance, admittance, and transients. |
 | 8. Where Steinmetz anticipates, clarifies, or conflicts with modern EE | Started | Tie claims to exact quotes and modern formulas. |
 | 9. Connections to Tesla-era electrical science | Started | Gather Tesla source passages before making stronger comparative pages. |
@@ -159,6 +160,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4d. Book Coverage Atlas | Started | `site/src/content/docs/book-coverage/` generated from processed workbench records, with one index and one source-level coverage page per seeded source |
 | 4e. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
 | 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
+| 4f-2. Theme Evidence Atlas | Started | `site/src/content/docs/theme-evidence/` generated from processed text sections and charter-critical theme vocabulary |
 | 4g. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 4h. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
 | 4i. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
@@ -195,6 +197,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 12 public book-coverage pages plus `processed/book_coverage_atlas.json`. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 316 public workbench pages plus `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
+| Generate theme evidence atlas pages | Started | `generate_theme_evidence_atlas.py` builds 10 public theme-evidence pages plus `processed/theme_evidence_atlas.json`. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
 | Generate scholarly exports | Started | `generate_scholarly_exports.py` builds `CITATION.cff`, citation JSON, CSL JSON, BibTeX, public `/data/` exports, a data manifest, and the public citation/export page. |
 | Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
@@ -227,6 +230,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, and candidate counts. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
+| `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
 | `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
 | `citation_index.json` | Started as the archive-wide citation record set for project and source records. |
 | `citation_index.csl.json` | Started as the CSL JSON export for citation managers. |
