@@ -344,7 +344,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `2ddab91` | Fixed source-reader UX and browsing paths with improved reader controls, source access, and navigation. |
 | `59b1978` | Added the generated theme evidence atlas across charter-critical Steinmetz themes. |
 | `d00189e` | Strengthened generated source-text and snippet readability so source manuscripts, workbench excerpts, concordance snippets, and theme evidence excerpts expand instead of trapping text in scroll boxes. |
-| `8e122f9` | Added generated figure candidate atlas so promoted scan crops and OCR/PDF-text figure references are visible, linked, and reviewable source by source. |
+| `1ebcddf` | Added generated figure candidate atlas so promoted scan crops and OCR/PDF-text figure references are visible, linked, and reviewable source by source. |
 
 ## Next Work Queue
 
