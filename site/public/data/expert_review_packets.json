@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "quality_note": "Expert review packets route review work. They are invitations to verify, not certificates of completion.",
   "packet_count": 6,
   "packets": [
@@ -14,7 +14,7 @@
         "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/",
         "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/source_catalog.json"
       ],
-      "ready_count": 11,
+      "ready_count": 15,
       "tasks": [
         "Confirm edition/year/publisher fields for each source.",
         "Check OCR readings only against scans or trusted editions.",

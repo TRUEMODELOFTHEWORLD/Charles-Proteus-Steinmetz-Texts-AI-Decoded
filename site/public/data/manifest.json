@@ -76,6 +76,13 @@
       "format": "json"
     },
     {
+      "id": "passage_atlas",
+      "description": "Generated source-grounded candidate passage atlas and hidden-gem discovery data.",
+      "source_path": "processed/passage_atlas.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/passage_atlas.json",
+      "format": "json"
+    },
+    {
       "id": "deep_decoding_promotion_queue",
       "description": "Generated queue for promoting covered source sections into richer deep-decoding pages.",
       "source_path": "processed/deep_decoding_promotion_queue.json",

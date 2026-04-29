@@ -33,6 +33,7 @@ DATA_EXPORTS = [
     ("concept_page_dossiers", "processed/concept_page_dossiers.json", "Generated source-grounded dossier data appended to public concept pages."),
     ("theme_evidence_atlas", "processed/theme_evidence_atlas.json", "Source-text evidence atlas for charter-critical research themes."),
     ("reading_routes", "processed/reading_routes.json", "Generated guided study routes across the processed corpus."),
+    ("passage_atlas", "processed/passage_atlas.json", "Generated source-grounded candidate passage atlas and hidden-gem discovery data."),
     ("deep_decoding_promotion_queue", "processed/deep_decoding_promotion_queue.json", "Generated queue for promoting covered source sections into richer deep-decoding pages."),
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),
     ("completion_audit", "processed/completion_audit.json", "Source-by-source readiness audit."),

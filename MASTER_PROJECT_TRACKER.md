@@ -21,7 +21,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | --- | --- |
 | Public site | Astro/Starlight documentation site with GitHub Pages deployment workflow. |
 | Live URL | https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/ |
-| Seeded Steinmetz records | Eleven source records in `sources/source_catalog.json`. |
+| Seeded Steinmetz records | Fifteen source records in `sources/source_catalog.json`. |
 | Expanded bibliography intake | `sources/steinmetz_bibliography_manifest.json` maps the current Wikipedia works list into seeded, planned, and verification-needed records. |
 | Patent intake | `sources/steinmetz_patents/patent_register.json` seeds the Wikipedia-listed patent examples and marks the full 200-plus patent catalog as an authority-pass milestone. |
 | First canonical source | `Radiation, Light and Illumination` by Charles Proteus Steinmetz. |
@@ -30,15 +30,16 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
 | Reader UX layer | Sidebar Reader Mode now provides source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, mobile-first responsive hardening, a direct Start Reading entry, and card-based guided reading routes for non-specialist and specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
-| Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
-| Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
-| Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
+| Source text browser | Generated public reader pages now expose 394 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
+| Book coverage atlas | Generated book-level coverage pages now expose all 15 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
+| Chapter workbench | Generated research maps now expose 394 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
+| Passage atlas and research map | Generated discovery pages now rank 150 balanced candidate passages from 5,427 source-derived candidates across 15 sources and nine themes, with a reader-facing research map, study curriculum, and renewed hidden-gems page. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
 | Concept page dossiers | Generated source-grounded dossiers now enrich 22 curated concept pages, including Ether, with corpus counts, source distribution, aliases, priority passages, concordance links, and next editorial actions. |
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Figure candidate atlas | Generated visual-routing pages now separate promoted original scan crops from OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
 | Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
-| Deep-decoding promotion queue | `processed/deep_decoding_promotion_queue.json` and a public roadmap page now rank all 304 processed sections for the next curated long-form decoding passes, with global and source-balanced queues. |
+| Deep-decoding promotion queue | `processed/deep_decoding_promotion_queue.json` and a public roadmap page now rank all 394 processed sections for the next curated long-form decoding passes, with global and source-balanced queues. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
 | World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Scholarly exports | `CITATION.cff`, `processed/citation_index.json`, CSL JSON, BibTeX, public `/data/` exports, and a data manifest now publish reusable research data with review-state labels intact. |
@@ -46,9 +47,9 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | World-class ledgers | `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, and `processed/expert_review_packets.json` now route notation, diagram, data, patent, concept, and interpretive-boundary review. |
 | Publication readiness | `processed/release_readiness.json`, `processed/accessibility_audit.json`, `processed/edition_comparison_index.json`, and `processed/patent_theory_bridge.json` now track release levels, accessibility, edition collation, and patent-to-theory work. |
 | Canonical verification workbench | `processed/canonical_verification_workbench.json`, equation/figure/patent verification queues, and four public roadmap pages now turn priority candidates into scan-check work cards. |
-| Claim attribution ledger | `processed/claim_attribution_ledger.json` now classifies facts, OCR candidates, equations, modern translations, figures, patents, and future interpretive layers by source and claim type. |
-| Evidence ledger | `processed/evidence_ledger.json` now indexes 3,345 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
-| Chapter atlas | `processed/chapter_atlas.json` now maps 304 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
+| Claim attribution ledger | `processed/claim_attribution_ledger.json` now classifies 4,890 facts, OCR candidates, equations, modern translations, figures, patents, and future interpretive layers by source and claim type. |
+| Evidence ledger | `processed/evidence_ledger.json` now indexes 4,855 traceability records across sources, concepts, glossary terms, equations, figures, quotes, and promoted scan crops. |
+| Chapter atlas | `processed/chapter_atlas.json` now maps 394 chapter, lecture, section, and report-section records to OCR/PDF-text theme counts for research routing. |
 | New deep-decoding pages | Public pages now include General Lectures on high-frequency surges, Elementary Lectures on the electric field, Theoretical Elements on fields of force and hysteresis/effective resistance, Electric Apparatus on the hysteresis motor, Relativity and Space on the gravitational field, America and the New Epoch on industrial government as historical context, and Commonwealth Edison on reactors and synchronism. |
 | Research indexes | Generated JSON indexes for sources, concepts, equations, figures, glossary terms, and quotes under `processed/`. |
 | Verification control | `VERIFICATION_QUEUE.md` tracks the next scan-check and promotion work. |
@@ -60,7 +61,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Build a GitHub repo and public knowledge base | Done | Repo structure, Pages workflow, and public site are in place. |
 | Preserve raw sources, OCR, scans, metadata, and checksums | Started | First source and multi-source records exist. More checksum and custody work is needed source by source. |
 | Process the first Steinmetz book as canonical example | Started | `Radiation, Light and Illumination` has OCR, chapter candidates, full generated lecture text pages, diagrams, first deep lecture page, figures, concepts, and equations. |
-| Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements, America, and Commonwealth Edison now have source-specific structural parsers, and all processed sections have generated public text-reader pages. |
+| Scale to multiple Steinmetz books | Started | Fifteen source records are now seeded, including earlier AC editions, Electric Circuits, and the 1914 Electric Discharges edition; all processed sections have generated public text-reader pages. |
 | Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; generated concept concordance now traces 77 concepts across all processed sections; 22 curated concept pages now carry source-grounded dossiers for deeper reading and promotion; scan-grounded promotion continues. |
@@ -70,7 +71,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
 | Compare Steinmetz with Tesla-era science | Started | Introductory Tesla-era comparison and transient page exist. Needs Tesla source anchoring before stronger claims. |
 | Include Ken Wheeler-style ether-field readings | Started | Reading guide and concept sections exist. Must remain visibly interpretive. |
-| Build hidden gems index | Started | Section exists. Needs many scan-verified entries. |
+| Build hidden gems index | Started | Hidden Gems now draws from the generated passage atlas and exposes candidate gems across the corpus; exact quote cards still require scan verification. |
 | Build research questions section | Started | Section exists and should evolve after each source pass. |
 | Build interactive tools | Started | Frequency/wavelength, AC waveform/harmonics, impedance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC condenser-discharge, and lightning/surge traveling-wave tools exist. |
 | Build repeatable data pipeline | Started | OCR seeding, image extraction, crop tooling, and index generation exist. |
@@ -272,9 +273,9 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `patent_verification_queue.json` | Started as the authority PDF, claim, drawing, and theory-bridge queue for seeded patents. |
 | `claim_attribution_ledger.json` | Started as the source-isolation ledger for facts, candidates, translations, diagrams, patents, and interpretive boundaries. |
 | `site/public/data/manifest.json` | Started as the public data export manifest. |
-| generated `source-texts/` pages | Started with 304 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
+| generated `source-texts/` pages | Started with 394 text-section pages plus source indexes, marked candidate and pagefind-disabled. |
 | generated `book-coverage/` pages | Started with one corpus index and 11 source-level coverage maps. |
-| generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
+| generated `chapter-workbench/` pages | Started with 394 section workbench pages plus source indexes and a corpus index. |
 | generated `concept-concordance/` pages | Started with 77 concept pages plus a corpus index. |
 | generated concept dossier sections | Started with 22 enriched curated concept pages plus a concept dossier index. |
 | generated `reading-routes/` page | Started with nine purpose-built study paths across the processed corpus. |
@@ -293,21 +294,22 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M5. Diagram expansion | Extract and publish original AC and transient figures with manifests. | Started with AC Chapter V and first transient condenser/decrement figures; source-keyed redraw sheets added; next step is surge, line, hysteresis, and apparatus figures. |
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements, America, and Commonwealth Edison now have source-specific parsers; next step is scan verification and page-map refinement. |
-| M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 316 source-text pages, including 304 processed text-section pages and 12 index pages. |
-| M7B. Book coverage atlas | Generate source-level coverage maps so every seeded book has a non-shell representation. | Generated 12 book-coverage pages, including one corpus index and 11 source maps, source study-guide panels, and `processed/book_coverage_atlas.json`. |
-| M7C. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 316 chapter-workbench pages, including 304 section maps and 12 index pages, backed by `processed/chapter_workbench.json`. |
+| M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 410 source-text pages, including 394 processed text-section pages and 16 index pages. |
+| M7B. Book coverage atlas | Generate source-level coverage maps so every seeded book has a non-shell representation. | Generated 16 book-coverage pages, including one corpus index and 15 source maps, source study-guide panels, and `processed/book_coverage_atlas.json`. |
+| M7C. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 410 chapter-workbench pages, including 394 section maps and 16 index pages, backed by `processed/chapter_workbench.json`. |
 | M7D. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
 | M7E. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
 | M7F. Scholarly export and review governance | Generate citation/data exports and public review rules. | Generated `CITATION.cff`, citation index, BibTeX, CSL JSON, public data manifest, editorial policy, canonical review workflow, and GitHub review templates. |
 | M7G. Critical scholarly ledgers | Generate notation, diagram provenance, schema, and expert review packet controls. | Generated four processed ledgers and four public roadmap pages for review routing. |
 | M7H. Publication readiness controls | Generate release, accessibility, edition, and patent bridge controls. | Generated four processed readiness indexes and four public roadmap pages. |
 | M7I. Canonical verification workbench | Generate scan-check queues for equations, figures, and patents. | Generated four processed queue indexes and four public roadmap pages with source links and OCR snippets. |
-| M7J. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
+| M7J. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 4,890-record attribution ledger and public roadmap page. |
 | M7K. Figure candidate atlas | Generate a visual-routing map for all promoted scan crops and remaining figure candidates. | Public figure atlas separates original crop assets from OCR/PDF-text candidates and links each candidate back to source text and workbench pages. |
 | M7L. Guided reading routes | Generate purpose-built reader pathways so the corpus is explorable without becoming shallow. | Public route page now exposes nine generated pathways backed by `processed/reading_routes.json` and linked from home, sidebar, Start Reading, Source Library, and data exports. |
 | M7M. Mobile publication hardening | Treat phone reading as a publication gate for source text, tables, diagrams, tools, and navigation. | Global responsive CSS is in place; `processed/mobile_readiness_audit.json` and a public roadmap page now track CSS gates, page-risk patterns, and required manual viewports. |
-| M7N. Deep-decoding promotion queue | Turn broad generated coverage into prioritized curated writing work. | All 304 processed sections are ranked globally and by source-balanced priority; the public queue defines required deep-page layers and links every candidate to source text and workbench pages. |
+| M7N. Deep-decoding promotion queue | Turn broad generated coverage into prioritized curated writing work. | All 394 processed sections are ranked globally and by source-balanced priority; the public queue defines required deep-page layers and links every candidate to source text and workbench pages. |
 | M7O. Concept page depth | Prevent curated concept pages from feeling like shells by attaching source-grounded dossier sections to each promoted concept. | Twenty-two concept pages now carry corpus counts, source distribution, priority passages, aliases, concordance links, and editorial action lists, backed by `processed/concept_page_dossiers.json`. |
+| M7P. Passage discovery atlas | Surface source-dense passages for readers and editors without treating OCR snippets as verified quotes. | Generated 150 balanced public passage candidates from 5,427 source-derived candidates, plus theme pages, a research map, a study curriculum, a rebuilt hidden-gems page, and public data export. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -375,6 +377,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `3fb4a60` | Added site-wide mobile responsive hardening for grids, cards, tables, source readers, code blocks, fixed controls, and visual panels. |
 | `4afac0c` | Added the generated mobile readiness audit, public data export, and tracker controls for phone/tablet publication review. |
 | `eeb9284` | Added the generated deep-decoding promotion queue, public roadmap page, and public data export for source-balanced curated-page promotion. |
+| `pending` | Added generated passage atlas, research map, study curriculum, and hidden-gems discovery layer across the 15-source corpus. |
 
 ## Next Work Queue
 
@@ -388,9 +391,10 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
 9. Use the generated reading routes, book coverage atlas, source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
 10. Use the deep-decoding promotion queue to promote the next source-balanced batch of curated pages, beginning with high-value math, transient, field-language, and apparatus sections.
-11. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
-12. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
-13. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
-14. Use the generated figure candidate atlas to crop the highest-value unpromoted figures from AC, RLI, Elementary Lectures, General Lectures, Electric Apparatus, Engineering Mathematics, and Relativity and Space.
-15. Use the mobile readiness audit to manually inspect the highest-risk generated pages at 360px, 430px, 768px, and desktop widths before each publication push.
-16. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.
+11. Use the passage atlas to promote the first source-balanced batch of scan-verified hidden gems, beginning with field/ether boundaries, symbolic AC, transients, and dielectric-field passages.
+12. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
+13. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
+14. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
+15. Use the generated figure candidate atlas to crop the highest-value unpromoted figures from AC, RLI, Elementary Lectures, General Lectures, Electric Apparatus, Engineering Mathematics, and Relativity and Space.
+16. Use the mobile readiness audit to manually inspect the highest-risk generated pages at 360px, 430px, 768px, and desktop widths before each publication push.
+17. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.

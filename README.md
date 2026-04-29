@@ -93,8 +93,9 @@ Current site features include:
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
 - A generated book coverage atlas that summarizes every processed source, counts candidate equations, figures, quotes, concepts, and glossary hits, and links each book section into the source reader and workbench.
 - A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
-- A generated concept concordance that traces 77 core terms and concepts across all 304 processed text sections, with source-text and workbench links for every hit.
+- A generated concept concordance that traces 77 core terms and concepts across all 394 processed text sections, with source-text and workbench links for every hit.
 - A generated theme evidence atlas that gathers source-located OCR/PDF-text passages for ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, symbolic method, wave phenomena, radiation, energy, and apparatus.
+- A generated passage atlas, research map, study curriculum, and hidden-gems discovery layer that surface source-dense passages while keeping OCR verification warnings visible.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
@@ -238,9 +239,9 @@ It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citatio
 
 The archive now includes:
 
-- Eleven source records in `sources/source_catalog.json`.
+- Fifteen source records in `sources/source_catalog.json`.
 - An expanded Steinmetz bibliography intake manifest for additional books, lecture collections, pamphlets, and papers.
-- Four additional Internet Archive OCR seeds: _General Lectures on Electrical Engineering_, _America and the New Epoch_, _Theory and Calculation of Electric Apparatus_, and _Four Lectures on Relativity and Space_.
+- Eight additional Internet Archive OCR seeds beyond the initial local-PDF corpus, including _General Lectures on Electrical Engineering_, _America and the New Epoch_, _Theory and Calculation of Electric Apparatus_, _Four Lectures on Relativity and Space_, earlier _Alternating Current Phenomena_ editions, _Theory and Calculation of Electric Circuits_, and the 1914 _Electric Discharges_ edition.
 - A seeded Steinmetz patent register for the Wikipedia-listed examples, with the full 200-plus patent catalog marked as an authority-pass milestone.
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
@@ -248,11 +249,12 @@ The archive now includes:
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
-- A generated source-text browser with 304 public text-section pages across the processed corpus.
-- A generated book coverage atlas for all 11 seeded sources, covering 304 processed sections and 764,804 processed words with direct source-reader and workbench links.
-- A generated chapter workbench with 304 section-level research maps across the processed corpus.
-- A generated concept concordance with 77 concept pages tracing hits across all 304 processed sections.
-- A generated completion audit for all 11 seeded sources, plus public world-class finishing criteria.
+- A generated source-text browser with 394 public text-section pages across the processed corpus.
+- A generated book coverage atlas for all 15 seeded sources, covering 394 processed sections and 1,050,685 processed words with direct source-reader and workbench links.
+- A generated chapter workbench with 394 section-level research maps across the processed corpus.
+- A generated concept concordance with 77 concept pages tracing hits across all 394 processed sections.
+- A generated passage atlas with 150 balanced public passage candidates selected from 5,427 OCR/PDF-text candidates, plus a research map, study curriculum, theme passage pages, and rebuilt hidden-gems discovery page.
+- A generated completion audit for all 15 seeded sources, plus public world-class finishing criteria.
 - A generated citation and public data export system for source records, processed indexes, CSL JSON, BibTeX, and a site data manifest.
 - Public editorial and canonical-review rules, plus GitHub review issue templates for source, equation, and diagram work.
 - A generated notation ledger, diagram provenance ledger, schema reference, and expert review packet system for the next canonical-review phase.
@@ -273,12 +275,13 @@ https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded
 
 ## Current Live-Ready Site Surface
 
-The public site currently builds more than eight hundred pages, including:
+The public site currently builds more than one thousand pages, including:
 
 - Source overviews for the seeded Steinmetz corpus.
-- Full generated text-reader coverage for 304 processed chapters, lectures, sections, and report divisions.
-- Generated research workbench pages for 304 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
+- Full generated text-reader coverage for 394 processed chapters, lectures, sections, and report divisions.
+- Generated research workbench pages for 394 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
 - Generated concept-concordance pages for 77 terms and concepts, each linked back to source text and chapter workbench pages.
+- Generated passage-atlas and research-map pages for source-grounded discovery across the 15-source corpus.
 - A generated completion-audit page and world-class criteria page for the final expert review path.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "quality_note": "Completion audit for project management. Scores are readiness indicators, not scholarly certification.",
   "source_audits": [
     {
@@ -470,6 +470,198 @@
       }
     },
     {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1914,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "has_source_manifest": true,
+      "has_ocr_seed": true,
+      "raw_file_count": 2,
+      "record_counts": {
+        "chapters": 10,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 18,
+        "glossary": 12,
+        "quotes": 0
+      },
+      "source_text_pages": 10,
+      "workbench_pages": 10,
+      "curated_public_pages": 1,
+      "original_crop_manifests": 0,
+      "gates": {
+        "custody": "pass",
+        "structural_split": "pass",
+        "public_source_text": "pass",
+        "chapter_workbench": "pass",
+        "concept_candidates": "pass",
+        "equation_candidates": "pass",
+        "figure_candidates_or_crops": "pass",
+        "glossary_candidates": "pass",
+        "quote_candidates": "missing",
+        "curated_public_pages": "partial",
+        "original_scan_crops": "missing"
+      },
+      "readiness_percent": 77.3,
+      "readiness": "research-ready-needs-verification",
+      "next_actions": [
+        "Promote at least one scan-derived figure crop with manifest and checksum.",
+        "Add or deepen curated source pages beyond generated readers.",
+        "Triage equation candidates into canonical, false-positive, and needs-review groups.",
+        "Promote high-value historical terms into glossary pages with exact source locations."
+      ],
+      "links": {
+        "source_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/electric-discharges-waves-impulses-1914/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "has_source_manifest": true,
+      "has_ocr_seed": true,
+      "raw_file_count": 2,
+      "record_counts": {
+        "chapters": 30,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 32,
+        "glossary": 12,
+        "quotes": 0
+      },
+      "source_text_pages": 30,
+      "workbench_pages": 30,
+      "curated_public_pages": 1,
+      "original_crop_manifests": 0,
+      "gates": {
+        "custody": "pass",
+        "structural_split": "pass",
+        "public_source_text": "pass",
+        "chapter_workbench": "pass",
+        "concept_candidates": "pass",
+        "equation_candidates": "pass",
+        "figure_candidates_or_crops": "pass",
+        "glossary_candidates": "pass",
+        "quote_candidates": "missing",
+        "curated_public_pages": "partial",
+        "original_scan_crops": "missing"
+      },
+      "readiness_percent": 77.3,
+      "readiness": "research-ready-needs-verification",
+      "next_actions": [
+        "Promote at least one scan-derived figure crop with manifest and checksum.",
+        "Add or deepen curated source pages beyond generated readers.",
+        "Triage equation candidates into canonical, false-positive, and needs-review groups.",
+        "Promote high-value historical terms into glossary pages with exact source locations."
+      ],
+      "links": {
+        "source_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1897/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "has_source_manifest": true,
+      "has_ocr_seed": true,
+      "raw_file_count": 2,
+      "record_counts": {
+        "chapters": 32,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 91,
+        "glossary": 12,
+        "quotes": 0
+      },
+      "source_text_pages": 32,
+      "workbench_pages": 32,
+      "curated_public_pages": 1,
+      "original_crop_manifests": 0,
+      "gates": {
+        "custody": "pass",
+        "structural_split": "pass",
+        "public_source_text": "pass",
+        "chapter_workbench": "pass",
+        "concept_candidates": "pass",
+        "equation_candidates": "pass",
+        "figure_candidates_or_crops": "pass",
+        "glossary_candidates": "pass",
+        "quote_candidates": "missing",
+        "curated_public_pages": "partial",
+        "original_scan_crops": "missing"
+      },
+      "readiness_percent": 77.3,
+      "readiness": "research-ready-needs-verification",
+      "next_actions": [
+        "Promote at least one scan-derived figure crop with manifest and checksum.",
+        "Add or deepen curated source pages beyond generated readers.",
+        "Triage equation candidates into canonical, false-positive, and needs-review groups.",
+        "Promote high-value historical terms into glossary pages with exact source locations."
+      ],
+      "links": {
+        "source_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1900/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-electric-circuits",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "has_source_manifest": true,
+      "has_ocr_seed": true,
+      "raw_file_count": 2,
+      "record_counts": {
+        "chapters": 18,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 37,
+        "glossary": 12,
+        "quotes": 0
+      },
+      "source_text_pages": 18,
+      "workbench_pages": 18,
+      "curated_public_pages": 1,
+      "original_crop_manifests": 0,
+      "gates": {
+        "custody": "pass",
+        "structural_split": "pass",
+        "public_source_text": "pass",
+        "chapter_workbench": "pass",
+        "concept_candidates": "pass",
+        "equation_candidates": "pass",
+        "figure_candidates_or_crops": "pass",
+        "glossary_candidates": "pass",
+        "quote_candidates": "missing",
+        "curated_public_pages": "partial",
+        "original_scan_crops": "missing"
+      },
+      "readiness_percent": 77.3,
+      "readiness": "research-ready-needs-verification",
+      "next_actions": [
+        "Promote at least one scan-derived figure crop with manifest and checksum.",
+        "Add or deepen curated source pages beyond generated readers.",
+        "Triage equation candidates into canonical, false-positive, and needs-review groups.",
+        "Promote high-value historical terms into glossary pages with exact source locations."
+      ],
+      "links": {
+        "source_page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-circuits/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/"
+      }
+    },
+    {
       "source_id": "america-and-new-epoch",
       "title": "America and the New Epoch",
       "year": 1916,
@@ -517,11 +709,11 @@
     }
   ],
   "project_gates": {
-    "site_pages_mdx": 826,
-    "source_text_pages": 316,
-    "chapter_workbench_pages": 316,
+    "site_pages_mdx": 1051,
+    "source_text_pages": 410,
+    "chapter_workbench_pages": 410,
     "concept_concordance_pages": 78,
-    "sources_total": 11,
+    "sources_total": 15,
     "sources_with_original_crops": 3,
     "sources_with_curated_pages": 11,
     "all_sources_have_text_and_workbench": true,

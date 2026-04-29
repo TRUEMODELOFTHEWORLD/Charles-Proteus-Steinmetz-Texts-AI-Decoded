@@ -40,6 +40,8 @@ export default defineConfig({
           label: 'Start Here',
           items: [
             { label: 'Start Reading', slug: 'start-reading' },
+            { label: 'Research Map', slug: 'research-map' },
+            { label: 'Study Curriculum', slug: 'research-map/study-curriculum' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
             { label: 'Diagram Archive', slug: 'diagrams' },
@@ -56,6 +58,7 @@ export default defineConfig({
             { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
+            { label: 'Passage Atlas', slug: 'passage-atlas' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
             { label: 'Theme Evidence Atlas', slug: 'theme-evidence' },
             { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
