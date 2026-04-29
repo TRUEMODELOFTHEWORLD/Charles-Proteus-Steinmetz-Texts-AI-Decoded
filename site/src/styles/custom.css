@@ -154,6 +154,15 @@ a[data-variant='primary']:hover {
   padding: 1rem;
 }
 
+.layered-reading > :not(summary) {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.layered-reading > pre {
+  margin-bottom: 1rem;
+}
+
 .source-ref {
   border-left: 4px solid var(--codex-gold);
   padding: 0.65rem 0.9rem;

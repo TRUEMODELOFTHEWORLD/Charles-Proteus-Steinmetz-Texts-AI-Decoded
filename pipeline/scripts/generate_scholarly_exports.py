@@ -30,6 +30,7 @@ DATA_EXPORTS = [
     ("book_coverage_atlas", "processed/book_coverage_atlas.json", "Book-level coverage map with source-reader and workbench links."),
     ("chapter_workbench", "processed/chapter_workbench.json", "Section-level workbench records."),
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit index."),
+    ("concept_page_dossiers", "processed/concept_page_dossiers.json", "Generated source-grounded dossier data appended to public concept pages."),
     ("theme_evidence_atlas", "processed/theme_evidence_atlas.json", "Source-text evidence atlas for charter-critical research themes."),
     ("reading_routes", "processed/reading_routes.json", "Generated guided study routes across the processed corpus."),
     ("deep_decoding_promotion_queue", "processed/deep_decoding_promotion_queue.json", "Generated queue for promoting covered source sections into richer deep-decoding pages."),

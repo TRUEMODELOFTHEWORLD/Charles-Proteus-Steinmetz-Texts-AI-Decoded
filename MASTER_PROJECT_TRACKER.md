@@ -34,6 +34,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
 | Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
+| Concept page dossiers | Generated source-grounded dossiers now enrich 22 curated concept pages, including Ether, with corpus counts, source distribution, aliases, priority passages, concordance links, and next editorial actions. |
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Figure candidate atlas | Generated visual-routing pages now separate promoted original scan crops from OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
 | Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
@@ -62,7 +63,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Scale to multiple Steinmetz books | Started | AC, transient, engineering mathematics, theoretical elements, elementary lectures, General Lectures, Electric Apparatus, America and the New Epoch, Relativity and Space, and Commonwealth Edison are seeded; Theoretical Elements, America, and Commonwealth Edison now have source-specific structural parsers, and all processed sections have generated public text-reader pages. |
 | Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
-| Extract every major concept | Started | Public concept encyclopedia exists; generated concept concordance now traces 77 concepts across all processed sections; scan-grounded promotion continues. |
+| Extract every major concept | Started | Public concept encyclopedia exists; generated concept concordance now traces 77 concepts across all processed sections; 22 curated concept pages now carry source-grounded dossiers for deeper reading and promotion; scan-grounded promotion continues. |
 | Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, and a candidate Steinmetz hysteresis-law page now exist; scan verification and worked examples continue. |
 | Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; AC and transient redraw sheets now pair modern reading aids with original crops. |
 | Build glossary of forgotten electrical language | Started | Glossary index plus source-located pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance. |
@@ -89,6 +90,7 @@ These are new workstreams added after the foundation was built. They define what
 | Canonical review workflow | Started | Candidate -> source-located -> scan-verified -> mathematically reviewed -> context reviewed -> canonical is public and tied to issue templates. |
 | Guided reading routes | Started | Generated routes make the corpus browsable by purpose without replacing source-text, workbench, or verification layers. |
 | Deep-decoding promotion queue | Started | Generated promotion queue turns broad corpus coverage into prioritized editorial targets for richer curated source pages. |
+| Concept page depth dossiers | Started | Generated dossier sections prevent promoted concept pages from remaining thin placeholders while keeping OCR evidence visibly provisional. |
 | Mathematical errata and notation ledger | Started | The first generated notation ledger maps source and modern symbols across the canonical equation seed set. |
 | Diagram provenance ledger | Started | The generated provenance ledger maps 15 original crops and 9 modern redraws with source, asset, and review-state fields. |
 | Edition comparison layer | Started | A generated edition-collation queue now identifies source edition review work. |
@@ -166,6 +168,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4d. Book Coverage Atlas | Started | `site/src/content/docs/book-coverage/` generated from processed workbench records, with one index and one source-level coverage page per seeded source, now including source study guides |
 | 4e. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
 | 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
+| 4f-1. Concept Page Dossiers | Started | `site/src/content/docs/concepts/` curated pages now include generated source-grounded dossier sections, with `site/src/content/docs/concepts/dossier-index.mdx` as the coverage index |
 | 4f-2. Theme Evidence Atlas | Started | `site/src/content/docs/theme-evidence/` generated from processed text sections and charter-critical theme vocabulary |
 | 4f-3. Guided Reading Routes | Started | `site/src/content/docs/reading-routes/` generated from book coverage metadata to give newcomers, engineers, field-language readers, diagram readers, and patent researchers clean entry paths |
 | 4f-4. Deep-Decoding Promotion Queue | Started | `site/src/content/docs/roadmap/deep-decoding-promotion-queue.mdx` and `processed/deep_decoding_promotion_queue.json` rank the next sections to convert from generated coverage into curated long-form pages |
@@ -207,6 +210,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 12 public book-coverage pages plus `processed/book_coverage_atlas.json`, including generated source study-guide panels and route links. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 316 public workbench pages plus `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
+| Generate concept page dossiers | Started | `generate_concept_page_dossiers.py` appends source-grounded dossier sections to 22 curated concept pages and writes `processed/concept_page_dossiers.json`. |
 | Generate theme evidence atlas pages | Started | `generate_theme_evidence_atlas.py` builds 10 public theme-evidence pages plus `processed/theme_evidence_atlas.json`. |
 | Generate figure candidate atlas pages | Started | `generate_figure_candidate_atlas.py` builds a public figure atlas plus `processed/figure_candidate_atlas.json`, routing promoted crops and OCR/PDF-text candidates back to source pages. |
 | Generate guided reading route pages | Started | `generate_reading_routes.py` builds `processed/reading_routes.json` and the public `reading-routes/` page from source coverage, workbench links, and candidate density. |
@@ -244,6 +248,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, candidate counts, and source study-guide routes. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
+| `concept_page_dossiers.json` | Started as the curated concept-page enrichment layer built from concordance evidence. |
 | `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
 | `figure_candidate_atlas.json` | Started as the archive-wide visual routing layer for promoted original crops and OCR/PDF-text figure references. |
 | `reading_routes.json` | Started as the archive-wide guided study route layer across all processed sections. |
@@ -271,6 +276,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | generated `book-coverage/` pages | Started with one corpus index and 11 source-level coverage maps. |
 | generated `chapter-workbench/` pages | Started with 304 section workbench pages plus source indexes and a corpus index. |
 | generated `concept-concordance/` pages | Started with 77 concept pages plus a corpus index. |
+| generated concept dossier sections | Started with 22 enriched curated concept pages plus a concept dossier index. |
 | generated `reading-routes/` page | Started with nine purpose-built study paths across the processed corpus. |
 | generated completion audit page | Started with source-by-source readiness gates and next actions. |
 | `steinmetz_bibliography_manifest.json` | Started with Wikipedia-derived works intake and source-processing status. |
@@ -301,6 +307,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7L. Guided reading routes | Generate purpose-built reader pathways so the corpus is explorable without becoming shallow. | Public route page now exposes nine generated pathways backed by `processed/reading_routes.json` and linked from home, sidebar, Start Reading, Source Library, and data exports. |
 | M7M. Mobile publication hardening | Treat phone reading as a publication gate for source text, tables, diagrams, tools, and navigation. | Global responsive CSS is in place; `processed/mobile_readiness_audit.json` and a public roadmap page now track CSS gates, page-risk patterns, and required manual viewports. |
 | M7N. Deep-decoding promotion queue | Turn broad generated coverage into prioritized curated writing work. | All 304 processed sections are ranked globally and by source-balanced priority; the public queue defines required deep-page layers and links every candidate to source text and workbench pages. |
+| M7O. Concept page depth | Prevent curated concept pages from feeling like shells by attaching source-grounded dossier sections to each promoted concept. | Twenty-two concept pages now carry corpus counts, source distribution, priority passages, aliases, concordance links, and editorial action lists, backed by `processed/concept_page_dossiers.json`. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 

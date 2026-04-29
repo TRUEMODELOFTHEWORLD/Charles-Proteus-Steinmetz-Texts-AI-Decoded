@@ -55,6 +55,13 @@
       "format": "json"
     },
     {
+      "id": "concept_page_dossiers",
+      "description": "Generated source-grounded dossier data appended to public concept pages.",
+      "source_path": "processed/concept_page_dossiers.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/concept_page_dossiers.json",
+      "format": "json"
+    },
+    {
       "id": "theme_evidence_atlas",
       "description": "Source-text evidence atlas for charter-critical research themes.",
       "source_path": "processed/theme_evidence_atlas.json",

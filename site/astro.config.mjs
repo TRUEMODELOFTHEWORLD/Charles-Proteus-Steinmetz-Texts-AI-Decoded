@@ -111,6 +111,7 @@ export default defineConfig({
           label: 'Concept Encyclopedia',
           items: [
             { label: 'Concept Index', slug: 'concepts' },
+            { label: 'Dossier Index', slug: 'concepts/dossier-index' },
             { label: 'Radiation', slug: 'concepts/radiation' },
             { label: 'Electric Waves', slug: 'concepts/electric-waves' },
             { label: 'Lightning And Surges', slug: 'concepts/lightning-surges' },
