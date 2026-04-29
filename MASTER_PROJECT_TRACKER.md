@@ -31,7 +31,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, a Start Reading route, and generated guided reading routes for non-specialist and specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
-| Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages. |
+| Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
 | Chapter workbench | Generated research maps now expose 304 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
@@ -160,7 +160,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4a. Expanded Bibliography Intake | Started | `site/src/content/docs/source-library/bibliography-intake.mdx` |
 | 4b. Steinmetz Patent Register | Started | `site/src/content/docs/sources/steinmetz-patents/index.mdx` |
 | 4c. Source Text Browser | Started | `site/src/content/docs/source-texts/` generated from processed chapter records |
-| 4d. Book Coverage Atlas | Started | `site/src/content/docs/book-coverage/` generated from processed workbench records, with one index and one source-level coverage page per seeded source |
+| 4d. Book Coverage Atlas | Started | `site/src/content/docs/book-coverage/` generated from processed workbench records, with one index and one source-level coverage page per seeded source, now including source study guides |
 | 4e. Chapter Research Workbench | Started | `site/src/content/docs/chapter-workbench/` generated from processed chapter, concept, glossary, equation, figure, and quote records |
 | 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
 | 4f-2. Theme Evidence Atlas | Started | `site/src/content/docs/theme-evidence/` generated from processed text sections and charter-critical theme vocabulary |
@@ -199,7 +199,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate concept tags | Started | Research index builder. |
 | Generate summaries | Started | Public source and chapter pages, mostly curated. |
 | Generate public source text readers | Started | `generate_source_text_pages.py` builds 316 public source-text pages from processed chapter records. |
-| Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 12 public book-coverage pages plus `processed/book_coverage_atlas.json`. |
+| Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 12 public book-coverage pages plus `processed/book_coverage_atlas.json`, including generated source study-guide panels and route links. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 316 public workbench pages plus `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
 | Generate theme evidence atlas pages | Started | `generate_theme_evidence_atlas.py` builds 10 public theme-evidence pages plus `processed/theme_evidence_atlas.json`. |
@@ -234,7 +234,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `crosslinks.json` | Started through per-source files and generated `processed/crosslinks_index.json`. |
 | `evidence_ledger.json` | Done as the archive-wide traceability layer for source claims, candidates, and promoted assets. |
 | `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
-| `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, and candidate counts. |
+| `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, candidate counts, and source study-guide routes. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
 | `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
@@ -279,7 +279,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M6. Glossary expansion | Promote key older terms with source usage and modern equivalents. | Started with source-located pages for electrostatic capacity, counter e.m.f., and effective resistance; concept pages now cover conductance, susceptance, and dielectric loss. |
 | M7. Pipeline refinement | Improve parsers, page maps, OCR cleanup, annotation, crosslink, evidence, and chapter-atlas JSON. | Aggregate annotation, crosslink, evidence ledger, and chapter atlas now generate; Theoretical Elements, America, and Commonwealth Edison now have source-specific parsers; next step is scan verification and page-map refinement. |
 | M7A. Public text coverage | Generate public reader pages for every processed chapter and section. | Generated 316 source-text pages, including 304 processed text-section pages and 12 index pages. |
-| M7B. Book coverage atlas | Generate source-level coverage maps so every seeded book has a non-shell representation. | Generated 12 book-coverage pages, including one corpus index and 11 source maps, backed by `processed/book_coverage_atlas.json`. |
+| M7B. Book coverage atlas | Generate source-level coverage maps so every seeded book has a non-shell representation. | Generated 12 book-coverage pages, including one corpus index and 11 source maps, source study-guide panels, and `processed/book_coverage_atlas.json`. |
 | M7C. Chapter research coverage | Generate a source-linked research map for every processed chapter and section. | Generated 316 chapter-workbench pages, including 304 section maps and 12 index pages, backed by `processed/chapter_workbench.json`. |
 | M7D. Concept trace coverage | Generate cross-source concept concordance pages from the full processed text corpus. | Generated 78 concept-concordance pages, including 77 concept pages and a corpus index, backed by `processed/concept_concordance.json`. |
 | M7E. Completion audit coverage | Generate source-by-source readiness gates and final scholarly criteria. | Generated `processed/completion_audit.json`, public completion audit, and world-class criteria page. |
@@ -353,6 +353,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `d00189e` | Strengthened generated source-text and snippet readability so source manuscripts, workbench excerpts, concordance snippets, and theme evidence excerpts expand instead of trapping text in scroll boxes. |
 | `1ebcddf` | Added generated figure candidate atlas so promoted scan crops and OCR/PDF-text figure references are visible, linked, and reviewable source by source. |
 | `acca450` | Added generated guided reading routes so readers can enter the processed corpus by purpose while staying linked to source text, workbench pages, verification routes, and public data exports. |
+| `c88cbc3` | Added generated source study guides to every book coverage page, giving each source first-read, math, visual, and field-language routes from existing metadata. |
 
 ## Next Work Queue
 
