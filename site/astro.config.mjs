@@ -62,6 +62,7 @@ export default defineConfig({
             { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
             { label: 'Processing Dashboard', slug: 'research-status' },
             { label: 'Bibliography Intake', slug: 'source-library/bibliography-intake' },
+            { label: 'Official Source Expansion', slug: 'source-library/official-source-expansion' },
             {
               label: 'Steinmetz Patents',
               items: [
@@ -76,12 +77,16 @@ export default defineConfig({
           items: [
             { label: 'Radiation, Light and Illumination', slug: 'book-coverage/radiation-light-and-illumination' },
             { label: 'Elementary Lectures', slug: 'book-coverage/elementary-lectures-electric-discharges-waves-impulses' },
+            { label: 'Electric Discharges 1914', slug: 'book-coverage/electric-discharges-waves-impulses-1914' },
             { label: 'Engineering Mathematics', slug: 'book-coverage/engineering-mathematics' },
             { label: 'Alternating Current Phenomena', slug: 'book-coverage/theory-calculation-alternating-current-phenomena' },
+            { label: 'AC Phenomena 1897', slug: 'book-coverage/theory-calculation-alternating-current-phenomena-1897' },
+            { label: 'AC Phenomena 1900', slug: 'book-coverage/theory-calculation-alternating-current-phenomena-1900' },
             { label: 'Transient Electric Phenomena', slug: 'book-coverage/theory-calculation-transient-electric-phenomena-oscillations' },
             { label: 'Theoretical Elements', slug: 'book-coverage/theoretical-elements-electrical-engineering' },
             { label: 'General Lectures', slug: 'book-coverage/general-lectures-electrical-engineering' },
             { label: 'Electric Apparatus', slug: 'book-coverage/theory-calculation-electric-apparatus' },
+            { label: 'Electric Circuits', slug: 'book-coverage/theory-calculation-electric-circuits' },
             { label: 'America and the New Epoch', slug: 'book-coverage/america-and-new-epoch' },
             { label: 'Relativity and Space', slug: 'book-coverage/four-lectures-relativity-space' },
             { label: 'Commonwealth Edison Trouble', slug: 'book-coverage/commonwealth-edison-generating-system-trouble' }

@@ -1,9 +1,10 @@
 {
   "quality_note": "Chapter atlas theme counts are OCR reading aids. They help route research work, but they do not replace corrected text or scan verification.",
-  "total_records": 304,
+  "total_records": 394,
   "source_counts": {
     "america-and-new-epoch": 18,
     "commonwealth-edison-generating-system-trouble": 5,
+    "electric-discharges-waves-impulses-1914": 10,
     "elementary-lectures-electric-discharges-waves-impulses": 10,
     "engineering-mathematics": 6,
     "four-lectures-relativity-space": 4,
@@ -11,22 +12,25 @@
     "radiation-light-and-illumination": 13,
     "theoretical-elements-electrical-engineering": 114,
     "theory-calculation-alternating-current-phenomena": 37,
+    "theory-calculation-alternating-current-phenomena-1897": 30,
+    "theory-calculation-alternating-current-phenomena-1900": 32,
     "theory-calculation-electric-apparatus": 22,
+    "theory-calculation-electric-circuits": 18,
     "theory-calculation-transient-electric-phenomena-oscillations": 58
   },
   "theme_totals": {
-    "radiation-light": 6324,
-    "magnetism": 4208,
-    "waves-lines": 3864,
-    "fields": 3358,
-    "impedance-reactance": 2619,
-    "dielectricity": 1972,
-    "transients": 1633,
-    "alternating-current": 897,
-    "complex-quantities": 897,
-    "lightning-surges": 524,
-    "ether": 465,
-    "hysteresis": 256
+    "radiation-light": 7026,
+    "magnetism": 6893,
+    "waves-lines": 5963,
+    "impedance-reactance": 4661,
+    "fields": 4335,
+    "dielectricity": 3087,
+    "transients": 2421,
+    "alternating-current": 1419,
+    "complex-quantities": 1387,
+    "lightning-surges": 679,
+    "ether": 579,
+    "hysteresis": 560
   },
   "records": [
     {
@@ -7941,6 +7945,2645 @@
         "radiation-light",
         "transients",
         "ether",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-01",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 1,
+      "kind": "chapter",
+      "title": "Introduction",
+      "line_start": 1224,
+      "line_end": 1727,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-01.md",
+      "status": "candidate",
+      "word_count": 2507,
+      "theme_counts": {
+        "waves-lines": 40,
+        "magnetism": 29,
+        "impedance-reactance": 21,
+        "alternating-current": 12,
+        "dielectricity": 11,
+        "radiation-light": 8,
+        "complex-quantities": 3,
+        "fields": 3,
+        "hysteresis": 3
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "impedance-reactance",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-02",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 2,
+      "kind": "chapter",
+      "title": "Chapter II",
+      "line_start": 1728,
+      "line_end": 1972,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-02.md",
+      "status": "candidate",
+      "word_count": 1016,
+      "theme_counts": {
+        "waves-lines": 33,
+        "magnetism": 2,
+        "alternating-current": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-03",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 3,
+      "kind": "chapter",
+      "title": "Iiaw Of Eucctbo-Maonimc Induction",
+      "line_start": 1973,
+      "line_end": 2121,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-03.md",
+      "status": "candidate",
+      "word_count": 755,
+      "theme_counts": {
+        "magnetism": 30,
+        "fields": 8,
+        "radiation-light": 3,
+        "impedance-reactance": 2,
+        "waves-lines": 2,
+        "alternating-current": 1,
+        "ether": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "fields",
+        "radiation-light",
+        "impedance-reactance",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-04",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 4,
+      "kind": "chapter",
+      "title": "Graphic Befrisxintation",
+      "line_start": 2122,
+      "line_end": 2743,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-04.md",
+      "status": "candidate",
+      "word_count": 3092,
+      "theme_counts": {
+        "waves-lines": 48,
+        "impedance-reactance": 17,
+        "magnetism": 15,
+        "alternating-current": 5,
+        "dielectricity": 4,
+        "hysteresis": 4,
+        "radiation-light": 4,
+        "complex-quantities": 3,
+        "ether": 2
+      },
+      "top_themes": [
+        "waves-lines",
+        "impedance-reactance",
+        "magnetism",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-05",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 5,
+      "kind": "chapter",
+      "title": "Symbouc Mbthod",
+      "line_start": 2744,
+      "line_end": 3229,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-05.md",
+      "status": "candidate",
+      "word_count": 2269,
+      "theme_counts": {
+        "waves-lines": 53,
+        "complex-quantities": 23,
+        "impedance-reactance": 18,
+        "dielectricity": 8,
+        "alternating-current": 3,
+        "magnetism": 2,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "complex-quantities",
+        "impedance-reactance",
+        "dielectricity",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-06",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 6,
+      "kind": "chapter",
+      "title": "Topographic Method",
+      "line_start": 3230,
+      "line_end": 3545,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-06.md",
+      "status": "candidate",
+      "word_count": 1679,
+      "theme_counts": {
+        "waves-lines": 7,
+        "impedance-reactance": 6,
+        "alternating-current": 3,
+        "ether": 2,
+        "dielectricity": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "impedance-reactance",
+        "alternating-current",
+        "ether",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-07",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 7,
+      "kind": "chapter",
+      "title": "Admittance, Conductance, Susceftance",
+      "line_start": 3546,
+      "line_end": 3871,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-07.md",
+      "status": "candidate",
+      "word_count": 1435,
+      "theme_counts": {
+        "impedance-reactance": 80,
+        "complex-quantities": 6,
+        "alternating-current": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "complex-quantities",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-08",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 8,
+      "kind": "chapter",
+      "title": "Capacity",
+      "line_start": 3872,
+      "line_end": 6370,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-08.md",
+      "status": "candidate",
+      "word_count": 5142,
+      "theme_counts": {
+        "impedance-reactance": 42,
+        "dielectricity": 35,
+        "complex-quantities": 12,
+        "alternating-current": 7,
+        "ether": 2,
+        "waves-lines": 2,
+        "hysteresis": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "dielectricity",
+        "complex-quantities",
+        "alternating-current",
+        "ether"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-09",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 9,
+      "kind": "chapter",
+      "title": "Kbsistanci: And Kbactance Of Transmission Iine8",
+      "line_start": 6371,
+      "line_end": 8268,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-09.md",
+      "status": "candidate",
+      "word_count": 4177,
+      "theme_counts": {
+        "impedance-reactance": 66,
+        "complex-quantities": 7,
+        "waves-lines": 7,
+        "alternating-current": 3,
+        "dielectricity": 2,
+        "ether": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "complex-quantities",
+        "waves-lines",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-10",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 10,
+      "kind": "chapter",
+      "title": "F",
+      "line_start": 8269,
+      "line_end": 10499,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-10.md",
+      "status": "candidate",
+      "word_count": 5669,
+      "theme_counts": {
+        "magnetism": 117,
+        "waves-lines": 65,
+        "impedance-reactance": 56,
+        "hysteresis": 25,
+        "alternating-current": 18,
+        "radiation-light": 16,
+        "fields": 4,
+        "complex-quantities": 2,
+        "dielectricity": 2,
+        "ether": 2
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "hysteresis",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-11",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 11,
+      "kind": "chapter",
+      "title": "Fouoault Or Eddy 0Ubbent8",
+      "line_start": 10500,
+      "line_end": 11563,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-11.md",
+      "status": "candidate",
+      "word_count": 5266,
+      "theme_counts": {
+        "magnetism": 73,
+        "dielectricity": 48,
+        "fields": 42,
+        "impedance-reactance": 32,
+        "radiation-light": 27,
+        "hysteresis": 23,
+        "alternating-current": 9,
+        "ether": 4,
+        "lightning-surges": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "dielectricity",
+        "fields",
+        "impedance-reactance",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-12",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 12,
+      "kind": "chapter",
+      "title": "Dibtbisnted Capacity, Inductance, Besistance, And",
+      "line_start": 11564,
+      "line_end": 12672,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-12.md",
+      "status": "candidate",
+      "word_count": 3674,
+      "theme_counts": {
+        "dielectricity": 59,
+        "impedance-reactance": 16,
+        "complex-quantities": 9,
+        "hysteresis": 6,
+        "waves-lines": 6,
+        "fields": 4,
+        "alternating-current": 3,
+        "magnetism": 3,
+        "radiation-light": 3,
+        "ether": 2
+      },
+      "top_themes": [
+        "dielectricity",
+        "impedance-reactance",
+        "complex-quantities",
+        "hysteresis",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-13",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 13,
+      "kind": "chapter",
+      "title": "Ths Alternating^Cnrrent Traxsfobmer",
+      "line_start": 12673,
+      "line_end": 14088,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-13.md",
+      "status": "candidate",
+      "word_count": 4289,
+      "theme_counts": {
+        "impedance-reactance": 55,
+        "magnetism": 52,
+        "alternating-current": 13,
+        "complex-quantities": 11,
+        "waves-lines": 6,
+        "radiation-light": 5,
+        "hysteresis": 4,
+        "dielectricity": 2,
+        "ether": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "magnetism",
+        "alternating-current",
+        "complex-quantities",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-14",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 14,
+      "kind": "chapter",
+      "title": "The Osni!Raij Aiitebnatina-Cubbent Tbakbfobmsb",
+      "line_start": 14089,
+      "line_end": 14918,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-14.md",
+      "status": "candidate",
+      "word_count": 2746,
+      "theme_counts": {
+        "magnetism": 27,
+        "impedance-reactance": 22,
+        "radiation-light": 20,
+        "alternating-current": 15,
+        "complex-quantities": 9,
+        "fields": 8,
+        "dielectricity": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "impedance-reactance",
+        "radiation-light",
+        "alternating-current",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-15",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 15,
+      "kind": "chapter",
+      "title": "Induction Motob",
+      "line_start": 14919,
+      "line_end": 17024,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-15.md",
+      "status": "candidate",
+      "word_count": 5551,
+      "theme_counts": {
+        "impedance-reactance": 25,
+        "magnetism": 19,
+        "complex-quantities": 16,
+        "radiation-light": 16,
+        "alternating-current": 8,
+        "fields": 5,
+        "dielectricity": 3,
+        "hysteresis": 3,
+        "ether": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "magnetism",
+        "complex-quantities",
+        "radiation-light",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-16",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 16,
+      "kind": "chapter",
+      "title": "Aiitebnatingh-Current Osnebator",
+      "line_start": 17025,
+      "line_end": 18828,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-16.md",
+      "status": "candidate",
+      "word_count": 2841,
+      "theme_counts": {
+        "fields": 37,
+        "magnetism": 29,
+        "impedance-reactance": 26,
+        "alternating-current": 5,
+        "waves-lines": 5,
+        "dielectricity": 4,
+        "complex-quantities": 3,
+        "radiation-light": 2
+      },
+      "top_themes": [
+        "fields",
+        "magnetism",
+        "impedance-reactance",
+        "alternating-current",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-17",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 17,
+      "kind": "chapter",
+      "title": "Synchbonizino Aiitebkatobs",
+      "line_start": 18829,
+      "line_end": 19345,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-17.md",
+      "status": "candidate",
+      "word_count": 2140,
+      "theme_counts": {
+        "radiation-light": 9,
+        "impedance-reactance": 6,
+        "dielectricity": 3,
+        "alternating-current": 2,
+        "complex-quantities": 2,
+        "fields": 2,
+        "ether": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "impedance-reactance",
+        "dielectricity",
+        "alternating-current",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-18",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 18,
+      "kind": "chapter",
+      "title": "Il",
+      "line_start": 19346,
+      "line_end": 21338,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-18.md",
+      "status": "candidate",
+      "word_count": 6734,
+      "theme_counts": {
+        "impedance-reactance": 32,
+        "dielectricity": 24,
+        "fields": 8,
+        "alternating-current": 7,
+        "complex-quantities": 7,
+        "magnetism": 6,
+        "ether": 5,
+        "radiation-light": 5
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "dielectricity",
+        "fields",
+        "alternating-current",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-19",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 19,
+      "kind": "chapter",
+      "title": "Commutatob Motobs",
+      "line_start": 21339,
+      "line_end": 22387,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-19.md",
+      "status": "candidate",
+      "word_count": 2743,
+      "theme_counts": {
+        "fields": 42,
+        "magnetism": 39,
+        "impedance-reactance": 9,
+        "dielectricity": 6,
+        "radiation-light": 6,
+        "alternating-current": 5,
+        "complex-quantities": 5
+      },
+      "top_themes": [
+        "fields",
+        "magnetism",
+        "impedance-reactance",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-20",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 20,
+      "kind": "chapter",
+      "title": "Beactiox Machines",
+      "line_start": 22388,
+      "line_end": 23273,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-20.md",
+      "status": "candidate",
+      "word_count": 2627,
+      "theme_counts": {
+        "magnetism": 38,
+        "waves-lines": 32,
+        "impedance-reactance": 24,
+        "fields": 16,
+        "alternating-current": 5,
+        "radiation-light": 5,
+        "hysteresis": 4,
+        "complex-quantities": 3,
+        "dielectricity": 2
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "fields",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-21",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 21,
+      "kind": "chapter",
+      "title": "Dibtobtiox Of Wavs-Shafe And Its Causes",
+      "line_start": 23274,
+      "line_end": 24559,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-21.md",
+      "status": "candidate",
+      "word_count": 3180,
+      "theme_counts": {
+        "waves-lines": 75,
+        "magnetism": 42,
+        "fields": 15,
+        "impedance-reactance": 15,
+        "hysteresis": 9,
+        "dielectricity": 6,
+        "radiation-light": 6,
+        "alternating-current": 4,
+        "complex-quantities": 4,
+        "ether": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "fields",
+        "impedance-reactance",
+        "hysteresis"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-22",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 22,
+      "kind": "chapter",
+      "title": "Ri",
+      "line_start": 24560,
+      "line_end": 25119,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-22.md",
+      "status": "candidate",
+      "word_count": 2438,
+      "theme_counts": {
+        "waves-lines": 80,
+        "magnetism": 22,
+        "radiation-light": 18,
+        "dielectricity": 16,
+        "fields": 3,
+        "impedance-reactance": 3,
+        "alternating-current": 1,
+        "ether": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "radiation-light",
+        "dielectricity",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-23",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 23,
+      "kind": "chapter",
+      "title": "Generaii Foiitfhase Ststems",
+      "line_start": 25120,
+      "line_end": 25270,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-23.md",
+      "status": "candidate",
+      "word_count": 595,
+      "theme_counts": {
+        "radiation-light": 3,
+        "alternating-current": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "alternating-current",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-24",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 24,
+      "kind": "chapter",
+      "title": "Symmetbicaii Polyphase Ststems",
+      "line_start": 25271,
+      "line_end": 25604,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-24.md",
+      "status": "candidate",
+      "word_count": 1184,
+      "theme_counts": {
+        "complex-quantities": 10,
+        "magnetism": 3,
+        "alternating-current": 2,
+        "dielectricity": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "complex-quantities",
+        "magnetism",
+        "alternating-current",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-25",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 25,
+      "kind": "chapter",
+      "title": "Baiianced And Unbaxiancbd Polyphase Systema",
+      "line_start": 25605,
+      "line_end": 26027,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-25.md",
+      "status": "candidate",
+      "word_count": 1933,
+      "theme_counts": {
+        "alternating-current": 8,
+        "complex-quantities": 5,
+        "waves-lines": 5,
+        "dielectricity": 4,
+        "radiation-light": 3
+      },
+      "top_themes": [
+        "alternating-current",
+        "complex-quantities",
+        "waves-lines",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-26",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 26,
+      "kind": "chapter",
+      "title": "Intebunkeid Foiiyfhase Systems",
+      "line_start": 26028,
+      "line_end": 26427,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-26.md",
+      "status": "candidate",
+      "word_count": 1735,
+      "theme_counts": {
+        "impedance-reactance": 8,
+        "ether": 2,
+        "alternating-current": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "ether",
+        "alternating-current",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-27",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 27,
+      "kind": "chapter",
+      "title": "Tbansfobmation Of Polyphase Systems",
+      "line_start": 26428,
+      "line_end": 26583,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-27.md",
+      "status": "candidate",
+      "word_count": 896,
+      "theme_counts": {
+        "magnetism": 6,
+        "complex-quantities": 2,
+        "alternating-current": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "complex-quantities",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-28",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 28,
+      "kind": "chapter",
+      "title": "Copper Efficiency Of Systems",
+      "line_start": 26584,
+      "line_end": 27052,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-28.md",
+      "status": "candidate",
+      "word_count": 2938,
+      "theme_counts": {
+        "alternating-current": 4,
+        "complex-quantities": 4,
+        "dielectricity": 4,
+        "radiation-light": 4
+      },
+      "top_themes": [
+        "alternating-current",
+        "complex-quantities",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-29",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 29,
+      "kind": "chapter",
+      "title": "Thbkb-Fhase System",
+      "line_start": 27053,
+      "line_end": 27500,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-29.md",
+      "status": "candidate",
+      "word_count": 951,
+      "theme_counts": {
+        "impedance-reactance": 3,
+        "complex-quantities": 2,
+        "dielectricity": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "complex-quantities",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-chapter-30",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 30,
+      "kind": "chapter",
+      "title": "Quartbr-Fhase System",
+      "line_start": 27501,
+      "line_end": 29124,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1897/cleaned_text/chapter-30.md",
+      "status": "candidate",
+      "word_count": 5534,
+      "theme_counts": {
+        "complex-quantities": 50,
+        "impedance-reactance": 40,
+        "waves-lines": 25,
+        "dielectricity": 21,
+        "transients": 15,
+        "alternating-current": 6,
+        "radiation-light": 6,
+        "lightning-surges": 3,
+        "magnetism": 3,
+        "fields": 1
+      },
+      "top_themes": [
+        "complex-quantities",
+        "impedance-reactance",
+        "waves-lines",
+        "dielectricity",
+        "transients"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-01",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 1,
+      "kind": "chapter",
+      "title": "Introduction",
+      "line_start": 963,
+      "line_end": 1366,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-01.md",
+      "status": "candidate",
+      "word_count": 2536,
+      "theme_counts": {
+        "waves-lines": 45,
+        "magnetism": 29,
+        "impedance-reactance": 23,
+        "alternating-current": 13,
+        "dielectricity": 11,
+        "radiation-light": 9,
+        "fields": 3,
+        "hysteresis": 3,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "impedance-reactance",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-02",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 2,
+      "kind": "chapter",
+      "title": "Instantaneous Values And Integral Values",
+      "line_start": 1367,
+      "line_end": 1605,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-02.md",
+      "status": "candidate",
+      "word_count": 1003,
+      "theme_counts": {
+        "waves-lines": 35,
+        "magnetism": 3,
+        "alternating-current": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-03",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 3,
+      "kind": "chapter",
+      "title": "Law Of Electro-Magnetic Induction",
+      "line_start": 1606,
+      "line_end": 1742,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-03.md",
+      "status": "candidate",
+      "word_count": 754,
+      "theme_counts": {
+        "magnetism": 31,
+        "fields": 8,
+        "radiation-light": 3,
+        "impedance-reactance": 2,
+        "waves-lines": 2,
+        "alternating-current": 1,
+        "ether": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "fields",
+        "radiation-light",
+        "impedance-reactance",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-04",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 4,
+      "kind": "chapter",
+      "title": "Graphic Representation",
+      "line_start": 1743,
+      "line_end": 2321,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-04.md",
+      "status": "candidate",
+      "word_count": 3195,
+      "theme_counts": {
+        "waves-lines": 52,
+        "impedance-reactance": 17,
+        "magnetism": 15,
+        "alternating-current": 6,
+        "dielectricity": 4,
+        "hysteresis": 4,
+        "radiation-light": 4,
+        "complex-quantities": 1,
+        "ether": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "impedance-reactance",
+        "magnetism",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-05",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 5,
+      "kind": "chapter",
+      "title": "Symbolic Method",
+      "line_start": 2322,
+      "line_end": 2773,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-05.md",
+      "status": "candidate",
+      "word_count": 2218,
+      "theme_counts": {
+        "waves-lines": 55,
+        "complex-quantities": 25,
+        "impedance-reactance": 19,
+        "dielectricity": 8,
+        "alternating-current": 4,
+        "magnetism": 2,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "complex-quantities",
+        "impedance-reactance",
+        "dielectricity",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-06",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 6,
+      "kind": "chapter",
+      "title": "Topographic Method",
+      "line_start": 2774,
+      "line_end": 3131,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-06.md",
+      "status": "candidate",
+      "word_count": 1872,
+      "theme_counts": {
+        "dielectricity": 10,
+        "waves-lines": 9,
+        "alternating-current": 5,
+        "impedance-reactance": 4,
+        "ether": 2,
+        "hysteresis": 1
+      },
+      "top_themes": [
+        "dielectricity",
+        "waves-lines",
+        "alternating-current",
+        "impedance-reactance",
+        "ether"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-07",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 7,
+      "kind": "chapter",
+      "title": "Admittance, Conductance, Susceptance",
+      "line_start": 3132,
+      "line_end": 3576,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-07.md",
+      "status": "candidate",
+      "word_count": 1454,
+      "theme_counts": {
+        "impedance-reactance": 82,
+        "complex-quantities": 6,
+        "alternating-current": 3
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "complex-quantities",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-08",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 8,
+      "kind": "chapter",
+      "title": "Circuits Containing Resistance, Inductance, And Capacity",
+      "line_start": 3577,
+      "line_end": 5333,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-08.md",
+      "status": "candidate",
+      "word_count": 5084,
+      "theme_counts": {
+        "impedance-reactance": 52,
+        "dielectricity": 39,
+        "alternating-current": 10,
+        "complex-quantities": 7,
+        "ether": 2,
+        "waves-lines": 2,
+        "hysteresis": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "dielectricity",
+        "alternating-current",
+        "complex-quantities",
+        "ether"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-09",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 9,
+      "kind": "chapter",
+      "title": "Resistance And Reactance Of Transmission Lines",
+      "line_start": 5334,
+      "line_end": 6956,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-09.md",
+      "status": "candidate",
+      "word_count": 4132,
+      "theme_counts": {
+        "impedance-reactance": 72,
+        "waves-lines": 14,
+        "alternating-current": 7,
+        "complex-quantities": 7,
+        "dielectricity": 2,
+        "ether": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "waves-lines",
+        "alternating-current",
+        "complex-quantities",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-10",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 10,
+      "kind": "chapter",
+      "title": "Effective Resistance And Reactance",
+      "line_start": 6957,
+      "line_end": 8383,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-10.md",
+      "status": "candidate",
+      "word_count": 5582,
+      "theme_counts": {
+        "magnetism": 126,
+        "waves-lines": 70,
+        "impedance-reactance": 61,
+        "hysteresis": 35,
+        "alternating-current": 21,
+        "radiation-light": 16,
+        "complex-quantities": 5,
+        "fields": 4,
+        "dielectricity": 3,
+        "ether": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "hysteresis",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-11",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 11,
+      "kind": "chapter",
+      "title": "Foucault Or Eddy Currents",
+      "line_start": 8384,
+      "line_end": 9380,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-11.md",
+      "status": "candidate",
+      "word_count": 5437,
+      "theme_counts": {
+        "magnetism": 76,
+        "dielectricity": 51,
+        "fields": 46,
+        "impedance-reactance": 31,
+        "radiation-light": 28,
+        "hysteresis": 25,
+        "alternating-current": 13,
+        "ether": 4,
+        "complex-quantities": 1,
+        "lightning-surges": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "dielectricity",
+        "fields",
+        "impedance-reactance",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-12",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 12,
+      "kind": "chapter",
+      "title": "Power, And Double Frequency Quantities In General",
+      "line_start": 9381,
+      "line_end": 9740,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-12.md",
+      "status": "candidate",
+      "word_count": 1640,
+      "theme_counts": {
+        "radiation-light": 16,
+        "complex-quantities": 14,
+        "magnetism": 7,
+        "alternating-current": 5,
+        "impedance-reactance": 5,
+        "waves-lines": 4
+      },
+      "top_themes": [
+        "radiation-light",
+        "complex-quantities",
+        "magnetism",
+        "alternating-current",
+        "impedance-reactance"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-13",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 13,
+      "kind": "chapter",
+      "title": "Distributed Capacity, Inductance, Resistance, And Leakage",
+      "line_start": 9741,
+      "line_end": 11604,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-13.md",
+      "status": "candidate",
+      "word_count": 7056,
+      "theme_counts": {
+        "dielectricity": 86,
+        "waves-lines": 39,
+        "complex-quantities": 24,
+        "impedance-reactance": 24,
+        "radiation-light": 22,
+        "alternating-current": 18,
+        "transients": 9,
+        "fields": 6,
+        "hysteresis": 6,
+        "lightning-surges": 4,
+        "ether": 3,
+        "magnetism": 3
+      },
+      "top_themes": [
+        "dielectricity",
+        "waves-lines",
+        "complex-quantities",
+        "impedance-reactance",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-14",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 14,
+      "kind": "chapter",
+      "title": "The Alternating-Current Transformer",
+      "line_start": 11605,
+      "line_end": 12682,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-14.md",
+      "status": "candidate",
+      "word_count": 3961,
+      "theme_counts": {
+        "impedance-reactance": 64,
+        "magnetism": 53,
+        "alternating-current": 18,
+        "complex-quantities": 12,
+        "waves-lines": 6,
+        "radiation-light": 5,
+        "hysteresis": 4,
+        "dielectricity": 2,
+        "ether": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "magnetism",
+        "alternating-current",
+        "complex-quantities",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-15",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 15,
+      "kind": "chapter",
+      "title": "The General Alternating-Current Transformer Or Frequency Converter",
+      "line_start": 12683,
+      "line_end": 13648,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-15.md",
+      "status": "candidate",
+      "word_count": 3104,
+      "theme_counts": {
+        "radiation-light": 36,
+        "impedance-reactance": 28,
+        "magnetism": 28,
+        "alternating-current": 24,
+        "fields": 8,
+        "complex-quantities": 4,
+        "dielectricity": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "impedance-reactance",
+        "magnetism",
+        "alternating-current",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-16",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 16,
+      "kind": "chapter",
+      "title": "Induction Motor",
+      "line_start": 13649,
+      "line_end": 16361,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-16.md",
+      "status": "candidate",
+      "word_count": 11483,
+      "theme_counts": {
+        "magnetism": 99,
+        "impedance-reactance": 81,
+        "radiation-light": 51,
+        "alternating-current": 30,
+        "fields": 25,
+        "dielectricity": 21,
+        "hysteresis": 17,
+        "complex-quantities": 10,
+        "waves-lines": 6,
+        "ether": 3
+      },
+      "top_themes": [
+        "magnetism",
+        "impedance-reactance",
+        "radiation-light",
+        "alternating-current",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-17",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 17,
+      "kind": "chapter",
+      "title": "Alternating-Current Generator",
+      "line_start": 16362,
+      "line_end": 17596,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-17.md",
+      "status": "candidate",
+      "word_count": 2871,
+      "theme_counts": {
+        "fields": 45,
+        "magnetism": 33,
+        "impedance-reactance": 26,
+        "alternating-current": 7,
+        "dielectricity": 6,
+        "waves-lines": 5,
+        "ether": 2,
+        "radiation-light": 2,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "fields",
+        "magnetism",
+        "impedance-reactance",
+        "alternating-current",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-18",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 18,
+      "kind": "chapter",
+      "title": "Synchronizing Alternators",
+      "line_start": 17597,
+      "line_end": 18052,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-18.md",
+      "status": "candidate",
+      "word_count": 1905,
+      "theme_counts": {
+        "radiation-light": 9,
+        "impedance-reactance": 6,
+        "alternating-current": 4,
+        "complex-quantities": 4,
+        "dielectricity": 3,
+        "fields": 2,
+        "ether": 1,
+        "lightning-surges": 1,
+        "transients": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "impedance-reactance",
+        "alternating-current",
+        "complex-quantities",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-19",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 19,
+      "kind": "chapter",
+      "title": "Synchronous Motor",
+      "line_start": 18053,
+      "line_end": 19457,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-19.md",
+      "status": "candidate",
+      "word_count": 6394,
+      "theme_counts": {
+        "impedance-reactance": 34,
+        "dielectricity": 25,
+        "alternating-current": 13,
+        "fields": 8,
+        "complex-quantities": 6,
+        "magnetism": 6,
+        "ether": 5,
+        "radiation-light": 5
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "dielectricity",
+        "alternating-current",
+        "fields",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-20",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 20,
+      "kind": "chapter",
+      "title": "Commutator Motors",
+      "line_start": 19458,
+      "line_end": 20501,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-20.md",
+      "status": "candidate",
+      "word_count": 3073,
+      "theme_counts": {
+        "fields": 42,
+        "magnetism": 41,
+        "impedance-reactance": 10,
+        "alternating-current": 8,
+        "radiation-light": 7,
+        "dielectricity": 6,
+        "complex-quantities": 4
+      },
+      "top_themes": [
+        "fields",
+        "magnetism",
+        "impedance-reactance",
+        "alternating-current",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-21",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 21,
+      "kind": "chapter",
+      "title": "Reaction Machines",
+      "line_start": 20502,
+      "line_end": 21189,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-21.md",
+      "status": "candidate",
+      "word_count": 2391,
+      "theme_counts": {
+        "magnetism": 39,
+        "waves-lines": 33,
+        "impedance-reactance": 26,
+        "fields": 16,
+        "radiation-light": 5,
+        "alternating-current": 4,
+        "hysteresis": 3,
+        "dielectricity": 2,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "fields",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-22",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 22,
+      "kind": "chapter",
+      "title": "Distortion Of Wave-Shape And Its Causes",
+      "line_start": 21190,
+      "line_end": 21982,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-22.md",
+      "status": "candidate",
+      "word_count": 3248,
+      "theme_counts": {
+        "waves-lines": 83,
+        "magnetism": 56,
+        "fields": 21,
+        "impedance-reactance": 15,
+        "alternating-current": 9,
+        "hysteresis": 9,
+        "dielectricity": 6,
+        "radiation-light": 6,
+        "complex-quantities": 2,
+        "ether": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "fields",
+        "impedance-reactance",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-23",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 23,
+      "kind": "chapter",
+      "title": "Effects Of Higher Harmonics",
+      "line_start": 21983,
+      "line_end": 22448,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-23.md",
+      "status": "candidate",
+      "word_count": 2580,
+      "theme_counts": {
+        "waves-lines": 83,
+        "magnetism": 22,
+        "dielectricity": 18,
+        "radiation-light": 18,
+        "alternating-current": 4,
+        "fields": 3,
+        "impedance-reactance": 3,
+        "ether": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "dielectricity",
+        "radiation-light",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-24",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 24,
+      "kind": "chapter",
+      "title": "Symbolic Representation Of General Alternating Waves",
+      "line_start": 22449,
+      "line_end": 23642,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-24.md",
+      "status": "candidate",
+      "word_count": 3943,
+      "theme_counts": {
+        "waves-lines": 78,
+        "dielectricity": 57,
+        "impedance-reactance": 38,
+        "radiation-light": 16,
+        "complex-quantities": 14,
+        "alternating-current": 12,
+        "ether": 2,
+        "magnetism": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "dielectricity",
+        "impedance-reactance",
+        "radiation-light",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-25",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 25,
+      "kind": "chapter",
+      "title": "General Polyphase Systems",
+      "line_start": 23643,
+      "line_end": 23780,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-25.md",
+      "status": "candidate",
+      "word_count": 671,
+      "theme_counts": {
+        "alternating-current": 3,
+        "radiation-light": 3,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "alternating-current",
+        "radiation-light",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-26",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 26,
+      "kind": "chapter",
+      "title": "Symmetrical Polyphase Systems",
+      "line_start": 23781,
+      "line_end": 24053,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-26.md",
+      "status": "candidate",
+      "word_count": 1115,
+      "theme_counts": {
+        "complex-quantities": 6,
+        "alternating-current": 4,
+        "magnetism": 3,
+        "dielectricity": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "complex-quantities",
+        "alternating-current",
+        "magnetism",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-27",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 27,
+      "kind": "chapter",
+      "title": "Balanced And Unbalanced Polyphase Systems",
+      "line_start": 24054,
+      "line_end": 24488,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-27.md",
+      "status": "candidate",
+      "word_count": 2023,
+      "theme_counts": {
+        "alternating-current": 11,
+        "waves-lines": 5,
+        "dielectricity": 4,
+        "radiation-light": 3,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "alternating-current",
+        "waves-lines",
+        "dielectricity",
+        "radiation-light",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-28",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 28,
+      "kind": "chapter",
+      "title": "Interlinked Polyphase Systems",
+      "line_start": 24489,
+      "line_end": 24804,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-28.md",
+      "status": "candidate",
+      "word_count": 1622,
+      "theme_counts": {
+        "impedance-reactance": 8,
+        "alternating-current": 4,
+        "ether": 2,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "alternating-current",
+        "ether",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-29",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 29,
+      "kind": "chapter",
+      "title": "Transformation Of Polyphase Systems",
+      "line_start": 24805,
+      "line_end": 25135,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-29.md",
+      "status": "candidate",
+      "word_count": 1474,
+      "theme_counts": {
+        "magnetism": 6,
+        "alternating-current": 2,
+        "complex-quantities": 1,
+        "ether": 1,
+        "impedance-reactance": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "alternating-current",
+        "complex-quantities",
+        "ether",
+        "impedance-reactance"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-30",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 30,
+      "kind": "chapter",
+      "title": "Efficiency Of Systems",
+      "line_start": 25136,
+      "line_end": 25597,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-30.md",
+      "status": "candidate",
+      "word_count": 2957,
+      "theme_counts": {
+        "alternating-current": 6,
+        "dielectricity": 4,
+        "radiation-light": 4,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "alternating-current",
+        "dielectricity",
+        "radiation-light",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-31",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 31,
+      "kind": "chapter",
+      "title": "Three-Phase System",
+      "line_start": 25598,
+      "line_end": 25903,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-31.md",
+      "status": "candidate",
+      "word_count": 736,
+      "theme_counts": {
+        "impedance-reactance": 3,
+        "dielectricity": 2,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "dielectricity",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-chapter-32",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "sequence": 32,
+      "kind": "chapter",
+      "title": "Quarter-Phase System",
+      "line_start": 25904,
+      "line_end": 27405,
+      "text_path": "processed/theory-calculation-alternating-current-phenomena-1900/cleaned_text/chapter-32.md",
+      "status": "candidate",
+      "word_count": 5229,
+      "theme_counts": {
+        "complex-quantities": 48,
+        "impedance-reactance": 41,
+        "waves-lines": 25,
+        "dielectricity": 20,
+        "transients": 15,
+        "alternating-current": 6,
+        "radiation-light": 6,
+        "lightning-surges": 3,
+        "magnetism": 3,
+        "fields": 1
+      },
+      "top_themes": [
+        "complex-quantities",
+        "impedance-reactance",
+        "waves-lines",
+        "dielectricity",
+        "transients"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-01",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 1,
+      "kind": "chapter",
+      "title": "Electric Conduction. Soled And Liquid",
+      "line_start": 959,
+      "line_end": 3894,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-01.md",
+      "status": "candidate",
+      "word_count": 7481,
+      "theme_counts": {
+        "dielectricity": 23,
+        "radiation-light": 14,
+        "lightning-surges": 7,
+        "ether": 5,
+        "fields": 4,
+        "transients": 4,
+        "magnetism": 3,
+        "alternating-current": 2,
+        "complex-quantities": 2,
+        "hysteresis": 1,
+        "impedance-reactance": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "dielectricity",
+        "radiation-light",
+        "lightning-surges",
+        "ether",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-02",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 2,
+      "kind": "chapter",
+      "title": "Electric Conduction. Gas And Vapor",
+      "line_start": 3895,
+      "line_end": 5444,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-02.md",
+      "status": "candidate",
+      "word_count": 4384,
+      "theme_counts": {
+        "radiation-light": 10,
+        "waves-lines": 6,
+        "dielectricity": 4,
+        "impedance-reactance": 4,
+        "alternating-current": 2,
+        "transients": 1
+      },
+      "top_themes": [
+        "radiation-light",
+        "waves-lines",
+        "dielectricity",
+        "impedance-reactance",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-03",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 3,
+      "kind": "chapter",
+      "title": "Magnetism",
+      "line_start": 5445,
+      "line_end": 6941,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-03.md",
+      "status": "candidate",
+      "word_count": 3981,
+      "theme_counts": {
+        "magnetism": 114,
+        "fields": 31,
+        "hysteresis": 8,
+        "alternating-current": 3,
+        "complex-quantities": 1,
+        "radiation-light": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "fields",
+        "hysteresis",
+        "alternating-current",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-04",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 4,
+      "kind": "chapter",
+      "title": "Magnetism",
+      "line_start": 6942,
+      "line_end": 9061,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-04.md",
+      "status": "candidate",
+      "word_count": 4860,
+      "theme_counts": {
+        "magnetism": 104,
+        "hysteresis": 53,
+        "fields": 12,
+        "waves-lines": 12,
+        "alternating-current": 3,
+        "radiation-light": 2,
+        "transients": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "hysteresis",
+        "fields",
+        "waves-lines",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-05",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 5,
+      "kind": "chapter",
+      "title": "Magnetism",
+      "line_start": 9062,
+      "line_end": 11050,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-05.md",
+      "status": "candidate",
+      "word_count": 4075,
+      "theme_counts": {
+        "magnetism": 112,
+        "fields": 14,
+        "hysteresis": 8,
+        "ether": 5,
+        "complex-quantities": 1,
+        "dielectricity": 1,
+        "radiation-light": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "fields",
+        "hysteresis",
+        "ether",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-06",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 6,
+      "kind": "chapter",
+      "title": "Magnetism",
+      "line_start": 11051,
+      "line_end": 12221,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-06.md",
+      "status": "candidate",
+      "word_count": 5042,
+      "theme_counts": {
+        "magnetism": 80,
+        "impedance-reactance": 17,
+        "fields": 12,
+        "alternating-current": 10,
+        "radiation-light": 3,
+        "complex-quantities": 1,
+        "ether": 1,
+        "hysteresis": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "impedance-reactance",
+        "fields",
+        "alternating-current",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-07",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 7,
+      "kind": "chapter",
+      "title": "Shaping Of Waves : General",
+      "line_start": 12222,
+      "line_end": 12961,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-07.md",
+      "status": "candidate",
+      "word_count": 3845,
+      "theme_counts": {
+        "waves-lines": 91,
+        "magnetism": 36,
+        "fields": 23,
+        "dielectricity": 17,
+        "radiation-light": 8,
+        "hysteresis": 6,
+        "impedance-reactance": 6,
+        "alternating-current": 5
+      },
+      "top_themes": [
+        "waves-lines",
+        "magnetism",
+        "fields",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-08",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 8,
+      "kind": "chapter",
+      "title": "Shaping Of Waves By Magnetic Saturation",
+      "line_start": 12962,
+      "line_end": 16963,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-08.md",
+      "status": "candidate",
+      "word_count": 7404,
+      "theme_counts": {
+        "magnetism": 173,
+        "waves-lines": 171,
+        "impedance-reactance": 29,
+        "hysteresis": 5,
+        "fields": 3,
+        "radiation-light": 3,
+        "complex-quantities": 2,
+        "dielectricity": 2,
+        "alternating-current": 1,
+        "ether": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "hysteresis",
+        "fields"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-09",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 9,
+      "kind": "chapter",
+      "title": "Wave Screens. Even Harmonics",
+      "line_start": 16964,
+      "line_end": 17631,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-09.md",
+      "status": "candidate",
+      "word_count": 2062,
+      "theme_counts": {
+        "waves-lines": 40,
+        "impedance-reactance": 13,
+        "magnetism": 13,
+        "dielectricity": 12,
+        "radiation-light": 10,
+        "alternating-current": 3,
+        "hysteresis": 2
+      },
+      "top_themes": [
+        "waves-lines",
+        "impedance-reactance",
+        "magnetism",
+        "dielectricity",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-10",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 10,
+      "kind": "chapter",
+      "title": "Instability Of Circuits : The Arc",
+      "line_start": 17632,
+      "line_end": 21381,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-10.md",
+      "status": "candidate",
+      "word_count": 10668,
+      "theme_counts": {
+        "transients": 86,
+        "dielectricity": 78,
+        "waves-lines": 12,
+        "radiation-light": 11,
+        "alternating-current": 9,
+        "lightning-surges": 7,
+        "ether": 4,
+        "magnetism": 2,
+        "impedance-reactance": 1
+      },
+      "top_themes": [
+        "transients",
+        "dielectricity",
+        "waves-lines",
+        "radiation-light",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-11",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 11,
+      "kind": "chapter",
+      "title": "Instability Of Circuits: Induction And Syn Chronous Motors",
+      "line_start": 21382,
+      "line_end": 22633,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-11.md",
+      "status": "candidate",
+      "word_count": 4744,
+      "theme_counts": {
+        "transients": 46,
+        "magnetism": 6,
+        "radiation-light": 6,
+        "dielectricity": 2,
+        "alternating-current": 1,
+        "ether": 1,
+        "fields": 1,
+        "hysteresis": 1,
+        "impedance-reactance": 1
+      },
+      "top_themes": [
+        "transients",
+        "magnetism",
+        "radiation-light",
+        "dielectricity",
+        "alternating-current"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-12",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 12,
+      "kind": "chapter",
+      "title": "Reactance Of Induction Apparatus",
+      "line_start": 22634,
+      "line_end": 23465,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-12.md",
+      "status": "candidate",
+      "word_count": 4431,
+      "theme_counts": {
+        "magnetism": 184,
+        "impedance-reactance": 76,
+        "fields": 18,
+        "alternating-current": 7,
+        "hysteresis": 6,
+        "radiation-light": 4,
+        "ether": 3,
+        "complex-quantities": 2
+      },
+      "top_themes": [
+        "magnetism",
+        "impedance-reactance",
+        "fields",
+        "alternating-current",
+        "hysteresis"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-13",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 13,
+      "kind": "chapter",
+      "title": "Reactance Of Synchronous Machines",
+      "line_start": 23466,
+      "line_end": 24022,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-13.md",
+      "status": "candidate",
+      "word_count": 3998,
+      "theme_counts": {
+        "magnetism": 121,
+        "fields": 79,
+        "impedance-reactance": 43,
+        "transients": 10,
+        "radiation-light": 9,
+        "alternating-current": 2,
+        "complex-quantities": 1,
+        "dielectricity": 1,
+        "ether": 1,
+        "lightning-surges": 1,
+        "waves-lines": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "fields",
+        "impedance-reactance",
+        "transients",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-14",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 14,
+      "kind": "chapter",
+      "title": "Constant-Potential Constant-Current Trans Formation",
+      "line_start": 24023,
+      "line_end": 27995,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-14.md",
+      "status": "candidate",
+      "word_count": 13339,
+      "theme_counts": {
+        "impedance-reactance": 263,
+        "waves-lines": 36,
+        "radiation-light": 26,
+        "dielectricity": 23,
+        "complex-quantities": 12,
+        "alternating-current": 11,
+        "magnetism": 11,
+        "fields": 7,
+        "ether": 3
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "waves-lines",
+        "radiation-light",
+        "dielectricity",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-15",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 15,
+      "kind": "chapter",
+      "title": "Constant-Voltage Series Operation",
+      "line_start": 27996,
+      "line_end": 29301,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-15.md",
+      "status": "candidate",
+      "word_count": 4008,
+      "theme_counts": {
+        "impedance-reactance": 76,
+        "waves-lines": 15,
+        "complex-quantities": 6,
+        "radiation-light": 5,
+        "ether": 3,
+        "magnetism": 3,
+        "alternating-current": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "waves-lines",
+        "complex-quantities",
+        "radiation-light",
+        "ether"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-16",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 16,
+      "kind": "chapter",
+      "title": "Load Balance Of Polyphase Systems",
+      "line_start": 29302,
+      "line_end": 30428,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-16.md",
+      "status": "candidate",
+      "word_count": 3482,
+      "theme_counts": {
+        "dielectricity": 12,
+        "impedance-reactance": 8,
+        "radiation-light": 6,
+        "fields": 3,
+        "magnetism": 2,
+        "ether": 1,
+        "lightning-surges": 1
+      },
+      "top_themes": [
+        "dielectricity",
+        "impedance-reactance",
+        "radiation-light",
+        "fields",
+        "magnetism"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-17",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 17,
+      "kind": "chapter",
+      "title": "Circuits With Distributed Leakage",
+      "line_start": 30429,
+      "line_end": 31656,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-17.md",
+      "status": "candidate",
+      "word_count": 3132,
+      "theme_counts": {
+        "impedance-reactance": 13,
+        "alternating-current": 7,
+        "dielectricity": 5,
+        "waves-lines": 5,
+        "complex-quantities": 4,
+        "transients": 3,
+        "ether": 2,
+        "lightning-surges": 2
+      },
+      "top_themes": [
+        "impedance-reactance",
+        "alternating-current",
+        "dielectricity",
+        "waves-lines",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "theory-calculation-electric-circuits-chapter-18",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "sequence": 18,
+      "kind": "chapter",
+      "title": "Oscillating Currents",
+      "line_start": 31657,
+      "line_end": 33200,
+      "text_path": "processed/theory-calculation-electric-circuits/cleaned_text/chapter-18.md",
+      "status": "candidate",
+      "word_count": 4447,
+      "theme_counts": {
+        "magnetism": 71,
+        "waves-lines": 62,
+        "impedance-reactance": 43,
+        "complex-quantities": 25,
+        "dielectricity": 25,
+        "transients": 24,
+        "hysteresis": 9,
+        "radiation-light": 9,
+        "alternating-current": 5,
+        "lightning-surges": 5,
+        "fields": 3
+      },
+      "top_themes": [
+        "magnetism",
+        "waves-lines",
+        "impedance-reactance",
+        "complex-quantities",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-01",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 1,
+      "kind": "lecture",
+      "title": "Nature And Origin Of Transients",
+      "line_start": 557,
+      "line_end": 1002,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-01.md",
+      "status": "candidate",
+      "word_count": 2788,
+      "theme_counts": {
+        "transients": 54,
+        "dielectricity": 19,
+        "fields": 14,
+        "magnetism": 12,
+        "waves-lines": 10,
+        "lightning-surges": 5,
+        "alternating-current": 4,
+        "complex-quantities": 3,
+        "radiation-light": 2
+      },
+      "top_themes": [
+        "transients",
+        "dielectricity",
+        "fields",
+        "magnetism",
+        "waves-lines"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-02",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 2,
+      "kind": "lecture",
+      "title": "The Electric Field",
+      "line_start": 1003,
+      "line_end": 1658,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-02.md",
+      "status": "candidate",
+      "word_count": 2395,
+      "theme_counts": {
+        "fields": 101,
+        "magnetism": 96,
+        "dielectricity": 71,
+        "waves-lines": 8,
+        "complex-quantities": 4,
+        "lightning-surges": 4,
+        "ether": 3,
+        "radiation-light": 2,
+        "alternating-current": 1,
+        "impedance-reactance": 1
+      },
+      "top_themes": [
+        "fields",
+        "magnetism",
+        "dielectricity",
+        "waves-lines",
+        "complex-quantities"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-03",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 3,
+      "kind": "lecture",
+      "title": "Single-Energy Transients In Continuous Current Circuits",
+      "line_start": 1659,
+      "line_end": 2484,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-03.md",
+      "status": "candidate",
+      "word_count": 2935,
+      "theme_counts": {
+        "magnetism": 69,
+        "transients": 55,
+        "fields": 15,
+        "waves-lines": 10,
+        "lightning-surges": 8,
+        "dielectricity": 6,
+        "complex-quantities": 2
+      },
+      "top_themes": [
+        "magnetism",
+        "transients",
+        "fields",
+        "waves-lines",
+        "lightning-surges"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-04",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 4,
+      "kind": "lecture",
+      "title": "Single-Energy Transients In Alternating Current Circuits",
+      "line_start": 2485,
+      "line_end": 3386,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-04.md",
+      "status": "candidate",
+      "word_count": 5942,
+      "theme_counts": {
+        "fields": 147,
+        "transients": 137,
+        "magnetism": 60,
+        "waves-lines": 39,
+        "radiation-light": 32,
+        "impedance-reactance": 19,
+        "lightning-surges": 11,
+        "alternating-current": 4,
+        "ether": 2
+      },
+      "top_themes": [
+        "fields",
+        "transients",
+        "magnetism",
+        "waves-lines",
+        "radiation-light"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-05",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 5,
+      "kind": "lecture",
+      "title": "Single-Energy Tra.Nsient Of Ironclad Circuit",
+      "line_start": 3387,
+      "line_end": 3720,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-05.md",
+      "status": "candidate",
+      "word_count": 1494,
+      "theme_counts": {
+        "magnetism": 48,
+        "transients": 18,
+        "waves-lines": 12,
+        "fields": 11,
+        "dielectricity": 5,
+        "alternating-current": 3,
+        "hysteresis": 3,
+        "lightning-surges": 3,
+        "complex-quantities": 1
+      },
+      "top_themes": [
+        "magnetism",
+        "transients",
+        "waves-lines",
+        "fields",
+        "dielectricity"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-06",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 6,
+      "kind": "lecture",
+      "title": "Double-Energy Transients",
+      "line_start": 3721,
+      "line_end": 4369,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-06.md",
+      "status": "candidate",
+      "word_count": 3123,
+      "theme_counts": {
+        "transients": 70,
+        "dielectricity": 43,
+        "magnetism": 33,
+        "waves-lines": 26,
+        "lightning-surges": 20,
+        "radiation-light": 12,
+        "impedance-reactance": 10,
+        "fields": 8,
+        "complex-quantities": 3,
+        "hysteresis": 2
+      },
+      "top_themes": [
+        "transients",
+        "dielectricity",
+        "magnetism",
+        "waves-lines",
+        "lightning-surges"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-07",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 7,
+      "kind": "lecture",
+      "title": "Line Oscillations",
+      "line_start": 4370,
+      "line_end": 5278,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-07.md",
+      "status": "candidate",
+      "word_count": 4114,
+      "theme_counts": {
+        "transients": 62,
+        "waves-lines": 57,
+        "radiation-light": 28,
+        "dielectricity": 26,
+        "lightning-surges": 13,
+        "impedance-reactance": 10,
+        "complex-quantities": 8,
+        "fields": 4,
+        "magnetism": 4,
+        "ether": 3
+      },
+      "top_themes": [
+        "transients",
+        "waves-lines",
+        "radiation-light",
+        "dielectricity",
+        "lightning-surges"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-08",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 8,
+      "kind": "lecture",
+      "title": "Traveling Waves",
+      "line_start": 5279,
+      "line_end": 6124,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-08.md",
+      "status": "candidate",
+      "word_count": 4736,
+      "theme_counts": {
+        "waves-lines": 210,
+        "transients": 61,
+        "lightning-surges": 33,
+        "radiation-light": 16,
+        "magnetism": 6,
+        "alternating-current": 5,
+        "dielectricity": 5,
+        "ether": 5,
+        "complex-quantities": 2,
+        "fields": 2,
+        "impedance-reactance": 2
+      },
+      "top_themes": [
+        "waves-lines",
+        "transients",
+        "lightning-surges",
+        "radiation-light",
+        "magnetism"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-09",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 9,
+      "kind": "lecture",
+      "title": "Oscillations Of The Compound Circuit",
+      "line_start": 6125,
+      "line_end": 6803,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-09.md",
+      "status": "candidate",
+      "word_count": 3219,
+      "theme_counts": {
+        "waves-lines": 77,
+        "transients": 28,
+        "dielectricity": 7,
+        "impedance-reactance": 6,
+        "lightning-surges": 6,
+        "radiation-light": 5,
+        "alternating-current": 1
+      },
+      "top_themes": [
+        "waves-lines",
+        "transients",
+        "dielectricity",
+        "impedance-reactance",
+        "lightning-surges"
+      ]
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-lecture-10",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "sequence": 10,
+      "kind": "lecture",
+      "title": "Continual And Cumulative Oscillations",
+      "line_start": 6804,
+      "line_end": 8485,
+      "text_path": "processed/electric-discharges-waves-impulses-1914/cleaned_text/lecture-10.md",
+      "status": "candidate",
+      "word_count": 7399,
+      "theme_counts": {
+        "transients": 88,
+        "magnetism": 83,
+        "dielectricity": 68,
+        "waves-lines": 48,
+        "fields": 29,
+        "radiation-light": 27,
+        "lightning-surges": 16,
+        "hysteresis": 9,
+        "ether": 6,
+        "complex-quantities": 5
+      },
+      "top_themes": [
+        "transients",
+        "magnetism",
+        "dielectricity",
+        "waves-lines",
         "fields"
       ]
     }

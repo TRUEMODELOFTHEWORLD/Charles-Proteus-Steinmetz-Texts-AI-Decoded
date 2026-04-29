@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0001",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1.) Ohm's law : i = e j r, where r, the resistance, is a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 976,
+      "line_end": 976,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0002",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2.) Joule's law: P= izr, where P is the rate at which",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 979,
+      "line_end": 979,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0003",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "3.) The power equation : P0 = ei, where P0 is the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 982,
+      "line_end": 982,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0004",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "a.} The sum of all the E.M.Fs. in a closed circuit = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 987,
+      "line_end": 987,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0005",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tributing point = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 993,
+      "line_end": 993,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0006",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "0= Vr2 + Ar2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1029,
+      "line_end": 1029,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0007",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "3. The principal sources of reactance are electro-mag-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1056,
+      "line_end": 1056,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0008",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tance lags 90°, or a quarter period, behind the current ; that",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1069,
+      "line_end": 1069,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0009",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "If now 4> = the magnetic flux produced by, and inter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1072,
+      "line_end": 1072,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0010",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "<1> =: ;/2//(R interlinkages between the magnetic and electric",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1093,
+      "line_end": 1093,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0011",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "circuits. Hence the inductance is L = $/ i = ;/2/(R.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1094,
+      "line_end": 1094,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0012",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2 TT NLi is the effective value of E.M.F. of self-inductance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1120,
+      "line_end": 1120,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0013",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and the ratio, e I i — 2 TT NL, is the magnetic reactance :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1121,
+      "line_end": 1121,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0014",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "xm = 2 TT NL.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1123,
+      "line_end": 1123,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0015",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the E.M.F. consumed by reactance is : <?2 = /v/;, :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1127,
+      "line_end": 1127,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0016",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "posed, hence, i — 2 TT ./VCV the current passing into the con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1150,
+      "line_end": 1150,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0017",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "5. In Joule's law, P = i2r, r is not the true ohmic",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1187,
+      "line_end": 1187,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0018",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "P0 = ei cos <£.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1204,
+      "line_end": 1204,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0019",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "very small, if cos <f> is small, that is, <f> near 90°.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1207,
+      "line_end": 1207,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0020",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 1, or, at least, a wave very near sine shape, which",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1220,
+      "line_end": 1220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0021",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ = / sin ^ (/ - 4) = /sin 2 TT yV (/ - 4) ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1223,
+      "line_end": 1223,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0022",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the period of the wave, or N = 1 / T is the frequency or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1231,
+      "line_end": 1231,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0023",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 1. Sine Wave,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1248,
+      "line_end": 1248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0024",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "« = / sin 2 TT Nt ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1253,
+      "line_end": 1253,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0025",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "or, / = /cos 2 TT Nt.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1254,
+      "line_end": 1254,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0026",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ = 7i sin 2 irN(t — A) + 72 sin 4 TrJV(t - /2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1262,
+      "line_end": 1262,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0027",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "+ 73 sin",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1263,
+      "line_end": 1263,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0028",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "The first term, 7X sin lir N (t — tj, is called the fun-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1282,
+      "line_end": 1282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0029",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the overtones of sound waves. In sin 2 mr N (t — /„) is the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1285,
+      "line_end": 1285,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0030",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Al sin 2 TrNt + A* sin 4 vNt + Az sin G TT Nt + . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1292,
+      "line_end": 1292,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0031",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1cos27rA?-f^2cos47rA?-f ^8cos67ry\\7+ . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1293,
+      "line_end": 1293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0032",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "ty : i = 7i sin 2 TT N(t — A) + 7, sin 6 TT N (t — /3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1307,
+      "line_end": 1307,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0033",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "+ 75 sin 10 TT A^(/ — /5) + ...",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1309,
+      "line_end": 1309,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0034",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ = ^ sin 2 TT A7 + Az sin 6 TT A7 + A& sin 10 w A? + . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1312,
+      "line_end": 1312,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0035",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "cos 2 TT Nt + ^8 cos 6 TrNt + ^5 cos 10 vNt + . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1313,
+      "line_end": 1313,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0036",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "7. Self-inductance, or electro-magnetic momentum, which",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1330,
+      "line_end": 1330,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0037",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Figs. 4 and 5, the arithmetical average of all the instan-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1390,
+      "line_end": 1390,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0038",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "This arithmetic mean is either = 0, as in Fig. 4, or it",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1393,
+      "line_end": 1393,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0039",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "mean value = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1432,
+      "line_end": 1432,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0040",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "9. In a sine wave, the relation of the mean to the maxi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1448,
+      "line_end": 1448,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0041",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "B, the sine varies from 0 to OB = 1. Hence the average",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1458,
+      "line_end": 1458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0042",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "of the arc to that of the sine ; that is, 1 -f- 2 / 77-, and since",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1466,
+      "line_end": 1466,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0043",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Mean value of sine wave -r- maximum value = • — • -f- 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1472,
+      "line_end": 1472,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0044",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "= .63663.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1476,
+      "line_end": 1476,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0045",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "sin2 $ + sin2 (90 — <£) = 1,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1512,
+      "line_end": 1512,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0046",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "so that the sum of the squares of any pair = 1 ; or, in other",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1515,
+      "line_end": 1515,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0047",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "words, the mean square of the sine =1/2, and the square",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1516,
+      "line_end": 1516,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0048",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "= 1/V2. That is:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1518,
+      "line_end": 1518,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0049",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1 = .70711.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1537,
+      "line_end": 1537,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0050",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ = Ai sin 27r Nt + Az sin 4-n- Nt + A3 sin GTT Nt + . . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1590,
+      "line_end": 1590,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0051",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "+ BI cos 2-n-Nt + B* cos ±TrNt + £s cos GTT Nt + . .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1591,
+      "line_end": 1591,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0052",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E.M.F. induced in a conductor, which cuts 108 = 100,000,000",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1619,
+      "line_end": 1619,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0053",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "of the flux inclosed by the turns, times 10~8.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1632,
+      "line_end": 1632,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0054",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "£&vg, = 4 « 3> N 10 ~ 8 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1652,
+      "line_end": 1652,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0055",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "machine is E = 4«4>7V10~8 volts, independent of the num-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1667,
+      "line_end": 1667,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0056",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "£avg = 4 « 4> JVW ~ 8 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1675,
+      "line_end": 1675,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0057",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "^\"max. = 27r»<S>7V710-8VOltS.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1682,
+      "line_end": 1682,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0058",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "= 4.44 n 4>^10- 8 volts,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1691,
+      "line_end": 1691,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0059",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "flux X number of turns X 10~8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1703,
+      "line_end": 1703,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0060",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "n® =Z/V2 108;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1714,
+      "line_end": 1714,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0061",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "=' 2 TT NLI volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1720,
+      "line_end": 1720,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0062",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "The product, x = 2 vNL, is of the dimension of resistance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1722,
+      "line_end": 1722,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0063",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and lags 90° behind the current, since the current is in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1728,
+      "line_end": 1728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0064",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "15. The sine wave, Fig. 1, is represented in polar",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1789,
+      "line_end": 1789,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0065",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1= OC, represents the intensity of the wave ; and the am-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1792,
+      "line_end": 1792,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0066",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "where </> = 2 IT / / T is the instantaneous value of the ampli-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1800,
+      "line_end": 1800,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0067",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tude corresponding to the instantaneous value, 2, of the wave.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1801,
+      "line_end": 1801,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0068",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Thus, for instance, at the amplitude AOBl = ^ = 2 ^ / T",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1805,
+      "line_end": 1805,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0069",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "(Fig. 10), the instantaneous value is OB' ; at the amplitude",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1806,
+      "line_end": 1806,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0070",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "AO£2 = <f>2 = 27T/2/ T, the instantaneous value is ~OJ3\", and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1807,
+      "line_end": 1807,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0071",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "is then V2 times the vector OC, so that the instantaneous",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1832,
+      "line_end": 1832,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0072",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "is in Fig. 10# represented by vector OC=—j=, of phase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1851,
+      "line_end": 1851,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0073",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "16. To combine different sine waves, their graphical rep-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1860,
+      "line_end": 1860,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0074",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "If, for instance, two sine waves, OB and OC (Fig. 11),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1864,
+      "line_end": 1864,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0075",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "17. Suppose, as an instance, that over a line having the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1930,
+      "line_end": 1930,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0076",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ and reactance x, and lags a quarter of a period, or 90°,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1950,
+      "line_end": 1950,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0077",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and reactance an E.M.F. 90° ahead of the current. The",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1963,
+      "line_end": 1963,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0078",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "or, E = VX2 — (/*)2 - Jr.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1974,
+      "line_end": 1974,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0079",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the E.M.F. consumed by the reactance (90° ahead of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1978,
+      "line_end": 1978,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0080",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "self-induction = Ix, and lagging 90° behind the current ; and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1994,
+      "line_end": 1994,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0081",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "impedance ; and since Eg and E0 must combine to form",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2008,
+      "line_end": 2008,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0082",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E, E0 is found as the side of a parallelogram, OE0EEg)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2009,
+      "line_end": 2009,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0083",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "consumed by the reactance is Ix, and 90° ahead of the cur-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2034,
+      "line_end": 2034,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0084",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "rent, while the counter E.M.F. of reactance is 90° behind",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2035,
+      "line_end": 2035,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0085",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "A E = E — E = V£ />'2 /*2 — E.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2072,
+      "line_end": 2072,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0086",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "by the reactance, Ix, is 90° ahead of the current, and re-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2099,
+      "line_end": 2099,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0087",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = V(^ cos w + Ir)2 -f- (E sin w + Ix)z.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2109,
+      "line_end": 2109,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0088",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0> a resistance E.M.F., Er = fr, a reactance E.M.F.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2141,
+      "line_end": 2141,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0089",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "since the induced E.M.F. lags 90° behind the inducing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2177,
+      "line_end": 2177,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0090",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Elt by an angle a>1} which is determined by the resistance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2181,
+      "line_end": 2181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0091",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": ";/1 = number of secondary turns,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2211,
+      "line_end": 2211,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0092",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "3> = maximum value of magnetic flux, in webers.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2212,
+      "line_end": 2212,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0093",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "This M.M.F., O7, is the resultant of the secondary M.M.F.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2231,
+      "line_end": 2231,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0094",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "diagonal of a parallelogram with OFl and OF0 as sides. OF1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2233,
+      "line_end": 2233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0095",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the primary current, I0 = &0/ n0, which corresponds to the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2236,
+      "line_end": 2236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0096",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "To overcome the resistance, r0, of the primary coil, an",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2239,
+      "line_end": 2239,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0097",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E.M.F., Er = f0r0, is required, in phase with the current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2240,
+      "line_end": 2240,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0098",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "To overcome the reactance, x0 = 2 •*• n0 L0 , of the pri-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2243,
+      "line_end": 2243,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0099",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "mary coil, an E.M.F. Ex = I0x0 is required, 90° ahead of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2244,
+      "line_end": 2244,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0100",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "The resultant magnetic flux, 4>, which in the secondary",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2247,
+      "line_end": 2247,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0101",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "fore, their resultant OE0, while the difference of phase in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2263,
+      "line_end": 2263,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0102",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the primary circuit is found to be <30 = E0OF0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2264,
+      "line_end": 2264,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0103",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "100 volts, and 1-^ = 75 amperes, for a non-inductive secon-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2337,
+      "line_end": 2337,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0104",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "or, x-^ = .08 ohms, giving a lag of ^ = 3.6°. We have",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2340,
+      "line_end": 2340,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0105",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "n^ = 30 turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2343,
+      "line_end": 2343,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0106",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "n0 = 300 turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2345,
+      "line_end": 2345,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0107",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "CFi = 2250 ampere-turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2347,
+      "line_end": 2347,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0108",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "y = 100 ampere-turns.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2349,
+      "line_end": 2349,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0109",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Er = 10 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2351,
+      "line_end": 2351,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0110",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "JSX = 60 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2353,
+      "line_end": 2353,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0111",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E{ = 1000 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2355,
+      "line_end": 2355,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0112",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "allelogram as flat as OF1FF0^ and from the combination of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2359,
+      "line_end": 2359,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0113",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "ffo = Vfr2 + S^2 + 20^ sin Wi,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2385,
+      "line_end": 2385,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0114",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "25. We have seen that the alternating sine wave is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2397,
+      "line_end": 2397,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0115",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ and <3, we can represent it by its rectangular coordinates,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2413,
+      "line_end": 2413,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0116",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "sine wave, /' (Fig. 23), their resultant sine wave, I0, has the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2440,
+      "line_end": 2440,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0117",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "rectangular components a0 — (a -f- a!}, and b0 = (b -f- b'}.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2441,
+      "line_end": 2441,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0118",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ = V^ + //2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2472,
+      "line_end": 2472,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0119",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and of phase, tan <3 = b / a.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2474,
+      "line_end": 2474,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0120",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "by — 1 weans reversing' the wave, or rotating it through 180°,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2494,
+      "line_end": 2494,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0121",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "y2 = - i,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2511,
+      "line_end": 2511,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0122",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/(*+/*) =ja — 1>;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2515,
+      "line_end": 2515,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0123",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "since y'2 = — 1, j = V— 1 ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2531,
+      "line_end": 2531,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0124",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the system of ordinary numbers, this definition of/ = V— 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2539,
+      "line_end": 2539,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0125",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "28. In the polar diagram of time, the sine wave is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2545,
+      "line_end": 2545,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0126",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/ (cos <i> -\\-j sin <3),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2566,
+      "line_end": 2566,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0127",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "29. If /= i +/z' is a sine wave of alternating current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2594,
+      "line_end": 2594,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0128",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "If L is the inductance, and x = 2 TT NL the reactance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2600,
+      "line_end": 2600,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0129",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and reactance, and lags 90° behind the current ; it is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2607,
+      "line_end": 2607,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0130",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "hence, sincey\"2 = — 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2631,
+      "line_end": 2631,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0131",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "or, if E = e -\\-je' is the impressed E.M.F., and 7 = i ' -\\- ji'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2645,
+      "line_end": 2645,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0132",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the terminals of the condenser is E = - - , 90° behind",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2658,
+      "line_end": 2658,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0133",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "then x = 2 IT NL = magnetic reactance.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2673,
+      "line_end": 2673,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0134",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "31. Since the combination of sine waves takes place by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2688,
+      "line_end": 2688,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0135",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "a +jb = 0, a = 0, b = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2706,
+      "line_end": 2706,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0136",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "32. Referring to the instance given in the fourth",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2729,
+      "line_end": 2729,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0137",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = E + ZI.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2738,
+      "line_end": 2738,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0138",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = E -f ir —jix ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2743,
+      "line_end": 2743,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0139",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0=(e + ir) -jix,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2746,
+      "line_end": 2746,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0140",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "+ /r)2 + (/X)2, tan S>0 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2749,
+      "line_end": 2749,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0141",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "*-*)2> tan <S0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2758,
+      "line_end": 2758,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0142",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "— /V) , tan w0 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2767,
+      "line_end": 2767,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0143",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "33. In the representation of alternating sine waves by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2778,
+      "line_end": 2778,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0144",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "(Fig. 26), or by /= i -\\-ji', the same current can be con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2791,
+      "line_end": 2791,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0145",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "by a vector OI-± (Fig. 26), or by 7l = — i —ji'>",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2794,
+      "line_end": 2794,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0146",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "34. Let, for instance, in Fig. 27, an interlinked three-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2818,
+      "line_end": 2818,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0147",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "nals — for instance E^ and E2 — is then the distance EZEV",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2887,
+      "line_end": 2887,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0148",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "vectors 07^ = 072 = Ofs = I, lagging behind the E.M.Fs.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2909,
+      "line_end": 2909,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0149",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "pedance Z0 = x0 -jx0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2914,
+      "line_end": 2914,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0150",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "actance #! is represented by E^Ej' = Ixv 90° ahead of cur-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2919,
+      "line_end": 2919,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0151",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E'\"E° = Ixoy and 90° ahead of ~OTV and thus as triangle of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2935,
+      "line_end": 2935,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0152",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "36. As further instance may be considered the case of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2979,
+      "line_end": 2979,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0153",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "points E and El equidistant from 0 and opposite each other,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2989,
+      "line_end": 2989,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0154",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "resented by the points / and I1, equidistant from 0 and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2991,
+      "line_end": 2991,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0155",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Again, adding 'E~Er' = I0r0 and parallel OI0 and E\"E° =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3015,
+      "line_end": 3015,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0156",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E.M.F. of the generator OE°, where Z0 = r0 — jx0 = inter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3017,
+      "line_end": 3017,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0157",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "37. As further instance may be considered a three-phase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3035,
+      "line_end": 3035,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0158",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Let, in Fig. 38, O£v ~OEy ~OEZ = three-phase E.M.Fs.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3039,
+      "line_end": 3039,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0159",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Let OIV Oly Of3 = three-phase currents in the receiver",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3042,
+      "line_end": 3042,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0160",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "sumed by the reactance of the line element, 90° ahead of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3052,
+      "line_end": 3052,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0161",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "figures 0 to 16, representing equidistant points of the line.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3115,
+      "line_end": 3115,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0162",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "are plotted in Fig. 35 in rectangular co-ordinates with the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3117,
+      "line_end": 3117,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0163",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "resistances, ?\\, r%, r3, . . . are connected in series, their",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3137,
+      "line_end": 3137,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0164",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the term conductance, g = 1 / r. If, then, a number of con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3151,
+      "line_end": 3151,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0165",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "ADMITTANCE, CONDUCTANCE, SUSCEPTANCE. 53",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3168,
+      "line_end": 3168,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0166",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "y = Vr1 + P ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3232,
+      "line_end": 3232,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0167",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "40. As shown, the term admittance implies resolving",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3240,
+      "line_end": 3240,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0168",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "reactance x = 0, or in continuous-current circuits, is the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3251,
+      "line_end": 3251,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0169",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Again, only in circuits with zero resistance (r = 0) is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3254,
+      "line_end": 3254,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0170",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1.) If r = QO , or x = oo , since in this case no current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3260,
+      "line_end": 3260,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0171",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "passes, and either component of the current = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3261,
+      "line_end": 3261,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0172",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "ADMITTANCE, CONDUCTANCE, SUSCEPTANCE. 55",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3264,
+      "line_end": 3264,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0173",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2.) If r = 0, since in this case the current which passes",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3266,
+      "line_end": 3266,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0174",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1.) If x = oo , or r = oo .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3273,
+      "line_end": 3273,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0175",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2.) If * = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3275,
+      "line_end": 3275,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0176",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "(r-jx) (r +» = r2 + x* = z\\",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3292,
+      "line_end": 3292,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0177",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "41. If, in a circuit, the reactance, *-, is constant, and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3325,
+      "line_end": 3325,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0178",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "resistance, r, is varied from r = 0 to r = oo , the susceptance,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3326,
+      "line_end": 3326,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0179",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "b, decreases from b = 1 / x at r = 0, to # = 0 at r = cc ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3327,
+      "line_end": 3327,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0180",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "while the conductance, g — 0 at r = 0, increases, reaches",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3328,
+      "line_end": 3328,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0181",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "a maximum for r = x, where g — 1 / 2 r is equal to the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3329,
+      "line_end": 3329,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0182",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "g = 0 at r = oo .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3331,
+      "line_end": 3331,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0183",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "In Fig. 36, for constant reactance ^- = .5 ohm, the vari-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3532,
+      "line_end": 3532,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0184",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "ADMITTANCE, CONDUCTANCE, SUSCEPTANCE. 57",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3540,
+      "line_end": 3540,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0185",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "from g = 1 / r to 0, and the susceptance passing from 0 at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3545,
+      "line_end": 3545,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0186",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x = 0 to the maximum, b = 1 / 2 r = g =1 / '2 x at x = r,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3546,
+      "line_end": 3546,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0187",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and to b = 0 at x = GO .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3547,
+      "line_end": 3547,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0188",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and *%E = 0 in a closed circuit,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3589,
+      "line_end": 3589,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0189",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "S/ = 0 at a distributing point,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3591,
+      "line_end": 3591,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0190",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "1.) Resistance in series with a circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3612,
+      "line_end": 3612,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0191",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "43. In a constant-potential system with impressed",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3614,
+      "line_end": 3614,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0192",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "RESISTANCE, INDUCTANCE, CAPACITY. 59",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3621,
+      "line_end": 3621,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0193",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z = r —jx, z = Vr2 + x'2,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3625,
+      "line_end": 3625,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0194",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "be connected in series with a resistance, r0 .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3627,
+      "line_end": 3627,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0195",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z + r0 = r + r0—jx\\",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3630,
+      "line_end": 3630,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0196",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E = EnJ >* + *2 . Eo",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3653,
+      "line_end": 3653,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0197",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "difference of phase in supply circuit, tan o>0 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3659,
+      "line_end": 3659,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0198",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "steadily with increasing r0 .",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3676,
+      "line_end": 3676,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0199",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "7= E° , £ = £. X -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3684,
+      "line_end": 3684,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0200",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "/=— °, ^ = ^0;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3689,
+      "line_end": 3689,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0201",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "approximately constant for small values of r0, and then de-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3692,
+      "line_end": 3692,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0202",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "As an instance, in Fig. 37 is shown the E.M.F., E, at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3706,
+      "line_end": 3706,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0203",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "the receiver circuit, for E0 = const. = 100 volts, s = 1 ohm ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3707,
+      "line_end": 3707,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0204",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "a.) r0 = .2 ohm (Curve I.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3710,
+      "line_end": 3710,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0205",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "b.) r0 = .8 ohm (Curve II.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3711,
+      "line_end": 3711,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0206",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "with values of reactance, x = V^2 — r2, for abscissae, from",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3713,
+      "line_end": 3713,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0207",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x = + 1.0 to x = — 1.0 ohm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3714,
+      "line_end": 3714,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0208",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "As shown, / and E are smallest for x = 0, r = 1.0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3716,
+      "line_end": 3716,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0209",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x = ± 1.0, r = 0, or for the wattless circuit, in which latter",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3718,
+      "line_end": 3718,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0210",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "For r0 = .8, and x = 0, x = + .8, x = — .8, the polar",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3724,
+      "line_end": 3724,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0211",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2.) Reactance in series witJi a circuit.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3734,
+      "line_end": 3734,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0212",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "45. In a constant potential system of impressed E.M.F.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3735,
+      "line_end": 3735,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0213",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "let a reactance, x0 , be connected in series in a receiver cir-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3738,
+      "line_end": 3738,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0214",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z = r — jx, z = -\\/r2 -|- x'2.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3741,
+      "line_end": 3741,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0215",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "IMPRESSED E.M.F. CONSTANT, E0=IOO",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3744,
+      "line_end": 3744,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0216",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "IMPEDANCE OF RECEIVER CIRCUIT CONSTANT, Z - 1.0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3745,
+      "line_end": 3745,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0217",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "LINE RESISTANCE CONSTANT n =.2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3748,
+      "line_end": 3748,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0218",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 37. Variation of Voltage at Constant Series Resistance with Phase Relation of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3754,
+      "line_end": 3754,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0219",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z -jx0 = r—j(x +#e).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3758,
+      "line_end": 3758,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0220",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E > E0 ; that is, the reactance, x0 , raises the potential.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3820,
+      "line_end": 3820,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0221",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "c.) E = E0 , or the insertion of a series inductance, x0 ,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3822,
+      "line_end": 3822,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0222",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "^z*-\\-2xx0 + x02 = 2;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3827,
+      "line_end": 3827,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0223",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "or, x0 = — 2 x.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3828,
+      "line_end": 3828,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0224",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "but E = E0,I= E0/z. If x0 < — 2 x, it raises, if x0 > — Zv,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3833,
+      "line_end": 3833,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0225",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "d.} If x = 0, that is, if the receiver circuit is non-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3852,
+      "line_end": 3852,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0226",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "46. As an instance, in Fig. 41 the changes of current,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3883,
+      "line_end": 3883,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0227",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 41 gives for various values of reactance, x0 (if posi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3888,
+      "line_end": 3888,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0228",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "II. r=.6 X=H-,8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3902,
+      "line_end": 3902,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0229",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "111. r=.e i=-.8",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3904,
+      "line_end": 3904,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0230",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = 100 volts, and the following conditions of receiver",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4150,
+      "line_end": 4150,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0231",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "circuit •— z= 1 Qj r = 1>0> x= 0 (Curve j)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4151,
+      "line_end": 4151,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0232",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2=1.0, r= .6,^= .8(CurveII.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4153,
+      "line_end": 4153,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0233",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "2= 1.0, r= .6, AT= — .8 (Curve III.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4154,
+      "line_end": 4154,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0234",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "As seen, curve I is symmetrical, and with increasing x0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4156,
+      "line_end": 4156,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0235",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "This rise is a maximum for x0 = i .8, or, x0 = — x (the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4173,
+      "line_end": 4173,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0236",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E = 167 volts, or, E = E0z] r. This rise of potential by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4175,
+      "line_end": 4175,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0237",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "series reactance continues up to x0 = il.6, or, x0 = — %x,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4176,
+      "line_end": 4176,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0238",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "where E = 100 volts again ; and for x0 > 1.6 the voltage",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4181,
+      "line_end": 4181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0239",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "At x0 = ± -8, x = =f .8, the total impedance of the circuit",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4184,
+      "line_end": 4184,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0240",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "is r — j (x -f x0} = r = .6, x + x0 = 0, and tan S>0 = 0 ;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4185,
+      "line_end": 4185,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0241",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = 100, x0 = .6, x = 0 . (Fig. 42) E = 85.7",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4204,
+      "line_end": 4204,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0242",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x = + .8 (Fig. 43) E = 65.7",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4206,
+      "line_end": 4206,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0243",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "(Fig. 44) E = 158.1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4208,
+      "line_end": 4208,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0244",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "for the constant impressed E.M.F., E0 = 100 ; for the con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4219,
+      "line_end": 4219,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0245",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "stant receiver impedance, z = 1.0 (but of various phase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4220,
+      "line_end": 4220,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0246",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x0 = .2 (Curve I.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4223,
+      "line_end": 4223,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0247",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x0 = .6 (Curve II.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4225,
+      "line_end": 4225,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0248",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x0 = .8 (Curve III.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4227,
+      "line_end": 4227,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0249",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "xo = 1.0 (Curve IV.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4229,
+      "line_end": 4229,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0250",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Xo = 1.6 (Curve V.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4231,
+      "line_end": 4231,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0251",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x0 = 3.2 (Curve VI.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4233,
+      "line_end": 4233,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0252",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Since z = 1.0, the current, /, in all these diagrams has",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4238,
+      "line_end": 4238,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0253",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 45, but in Fig. 46 with the reactance, .*•, of the receiver",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4242,
+      "line_end": 4242,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0254",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "circuit as abscissas ; and in Fig. 47 with the resistance, r, of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4243,
+      "line_end": 4243,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0255",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "maximum for x0= +1.0, x = — 1.0, and r = 0, where",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4251,
+      "line_end": 4251,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0256",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "fig. 45. Variation of Voltage at Constant Series Reactance with Phase Angle of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4262,
+      "line_end": 4262,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0257",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 46. Variation of Voltage at Constant Series Reactance with Reactance of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4266,
+      "line_end": 4266,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0258",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "condensance — or conversely — takes place between r = 1.0",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4282,
+      "line_end": 4282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0259",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and r = .9 ; or, in other words, a circuit having a power",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4283,
+      "line_end": 4283,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0260",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Fig. 47. Variation of Voltage at Constant Series Reactance with Resistance of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4303,
+      "line_end": 4303,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0261",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "factor cos & = .9, gives a drop several times larger than a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4306,
+      "line_end": 4306,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0262",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "48. By the use of reactance for controlling electric",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4311,
+      "line_end": 4311,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0263",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "RESISTANCE, INDUCTANCE, CAPACITY. 69",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4318,
+      "line_end": 4318,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0264",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "&Q = ro JXoi ZQ = V f0 -j- Xo ,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4323,
+      "line_end": 4323,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0265",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = e0 +je0'> E0 = Ve02 + e0'2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4329,
+      "line_end": 4329,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0266",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "take place for either x = 0, as for resistance in series, or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4363,
+      "line_end": 4363,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0267",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "for r = 0, as for reactance in series, but at an intermediate",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4364,
+      "line_end": 4364,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0268",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "zy z0, r0, x0 are constant, if rr0 + xx0 is a maximum, that is,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4367,
+      "line_end": 4367,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0269",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "since x = ~Vz2 — r2, if rr0 -f- x0 ~\\/z2 — r2 is a maximum.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4368,
+      "line_end": 4368,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0270",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "A function, f = rr0 -+- x0 V^2 — r2 is a maximum when",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4377,
+      "line_end": 4377,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0271",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "f = rr0 + *0 Vs2 — r2 = maximum or minimum, if",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4492,
+      "line_end": 4492,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0272",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tance factor, *0/r0, of the series impedance.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4506,
+      "line_end": 4506,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0273",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = 100, a constant impedance of the receiver circuit,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4518,
+      "line_end": 4518,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0274",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "s = 1.0, and constant series impedances,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4519,
+      "line_end": 4519,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0275",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z0= .S-/.4 (Curve I.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4521,
+      "line_end": 4521,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0276",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Z0 = 1.2 — / 1.6 (Curve II.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4523,
+      "line_end": 4523,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0277",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Figs. 49 to 51 give the polar diagram for E0 = 100,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4529,
+      "line_end": 4529,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0278",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "x = .95, x = 0, x = - .95, and Z0 = .3 -/ .4.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4530,
+      "line_end": 4530,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0279",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "RESISTANCE, INDUCTANCE, CAPACITY. 73",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4572,
+      "line_end": 4572,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0280",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "in series with the inductance, x0 , and the whole shunted by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4576,
+      "line_end": 4576,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0281",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "Then, if E0 = impressed E.M.F.,—",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4580,
+      "line_end": 4580,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0282",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tance and the inductance of the circuit. x0 being constant,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4614,
+      "line_end": 4614,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0283",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "For r = 0 we have c = x0, or the condition of balance.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4640,
+      "line_end": 4640,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0284",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "In Fig. 53 are shown, for a constant impressed E.M.F.,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4647,
+      "line_end": 4647,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0285",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "E0 = 1000 volts, and a constant series reactance, x0 = 100",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4648,
+      "line_end": 4648,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0286",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "IMPRESSED E.M.F. CONSTANT, E0 = IOOO VOLTS.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4666,
+      "line_end": 4666,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0287",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "SERIES REACTANCE CONSTANT, X0= IOO OHMS.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4667,
+      "line_end": 4667,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0288",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "c = x0 at the no-load value, the circuit is balanced for r = 0,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4695,
+      "line_end": 4695,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0289",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "tan u>0 = ,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4708,
+      "line_end": 4708,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0290",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "which is = 0.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4713,
+      "line_end": 4713,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0291",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "when r = 0 or at no load, and increases with increasing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4722,
+      "line_end": 4722,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0292",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "I., II., III., IV., similarly as in Fig. 50, for E0 = 1000 volts,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4824,
+      "line_end": 4824,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0293",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "c = x = 100 ohms, and r as abscissas.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4825,
+      "line_end": 4825,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0294",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "5.) Constant Potential — Constant Current Transformation.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4828,
+      "line_end": 4828,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0295",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "54. In a constant potential circuit containing a large",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4830,
+      "line_end": 4830,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0296",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "and constant reactance, x0, and a varying resistance, r, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4831,
+      "line_end": 4831,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0297",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "constant, c = x0, so as to balance the lagging current at no",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4837,
+      "line_end": 4837,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0298",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "load, that is, at r = 0, it will overbalance with increasing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4846,
+      "line_end": 4846,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0299",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "if the impressed E.M.F., E0, is kept constant. Hence, to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4849,
+      "line_end": 4849,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-eq-candidate-0300",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "original_form": "impressed E.M.F., E0, has to be increased with increasing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4851,
+      "line_end": 4851,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

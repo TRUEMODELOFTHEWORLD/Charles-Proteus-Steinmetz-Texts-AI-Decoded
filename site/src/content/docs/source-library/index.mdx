@@ -21,11 +21,15 @@ description: Processed and planned Steinmetz sources.
 
 [Open the expanded bibliography intake](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/bibliography-intake/)
 
+[Open the official source expansion workbench](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/official-source-expansion/)
+
 [Open the Steinmetz patent register](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/steinmetz-patents/)
 
 ## Expanded Intake
 
 The archive now has a structured intake manifest for the current Wikipedia works list: `sources/steinmetz_bibliography_manifest.json`.
+
+The archive also has a priority official-source expansion manifest: `sources/official_source_intake_manifest.json`. This registers the newly requested source wave across books, edition variants, AIEE papers, HathiTrust targets, institutional archives, and the patent corpus.
 
 This is a control layer, not a claim of completion. Wikipedia states that Steinmetz wrote 13 books and 60 articles and held over 200 patents; the public bibliography and patent examples are therefore starting points. Every newly added source must still pass through raw-file custody, OCR, page mapping, equation extraction, diagram extraction, concept tagging, glossary candidates, and scan verification before public claims are marked reviewed.
 
@@ -41,7 +45,14 @@ The generated concept concordance adds a cross-source reading layer: 77 curated 
 
 The generated theme evidence atlas adds a charter-critical evidence layer: nine research themes gather source-located hits for ether and field language, magnetism and hysteresis, dielectricity and capacity, impedance and reactance, symbolic AC method, transients and surges, waves and radiation, energy, and apparatus.
 
-High-priority newly queued works include:
+Four newly requested public Internet Archive sources are now OCR-seeded and participate in generated source text, book coverage, chapter workbench, concept concordance, and theme evidence pages:
+
+- `Theory and Calculation of Alternating Current Phenomena` (1897 edition).
+- `Theory and Calculation of Alternating Current Phenomena` (1900 edition).
+- `Theory and Calculation of Electric Circuits` (1917).
+- `Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients` (1914 revised and enlarged edition).
+
+High-priority queued works that still need primary scan/PDF custody include:
 
 - `On the Law of Hysteresis` for the hysteresis-law foundation.
 - `Complex Quantities and Their Use in Electrical Engineering` for symbolic AC analysis.
@@ -51,6 +62,8 @@ High-priority newly queued works include:
 - `Mechanical Forces in Magnetic Fields` for field force, stress, and pressure/tension language.
 - `Theory and Calculation of Electric Apparatus` for machine, transformer, and apparatus theory, now OCR-seeded for candidate processing.
 - `Frequency Conversion by Third Class Conductor and Mechanism of the Arcing Ground and Other Cumulative Surges` for arcing-ground and nonlinear surge behavior.
+- `Charles Proteus Steinmetz Papers` at Union College and the `Charles Proteus Steinmetz Collection` at Carnegie Mellon as archival sources, not yet public transcriptions.
+- The patent corpus, which should become a full patent-to-theory bridge rather than a loose patent list.
 
 ## Newly OCR-Seeded Sources
 
@@ -89,6 +102,30 @@ These sources now have Internet Archive OCR text and generated candidate catalog
       <td><code>fourlecturesonre00stei</code></td>
       <td>4 lecture candidates</td>
       <td>Verify chronology and use only as a carefully labeled source for Steinmetz on relativity and space.</td>
+    </tr>
+    <tr>
+      <td>AC Phenomena, 1897 edition</td>
+      <td><code>theoryandcalcul03steigoog</code></td>
+      <td>OCR-seeded edition candidate</td>
+      <td>Review against title page and use for edition comparison with 1900 and 1916.</td>
+    </tr>
+    <tr>
+      <td>AC Phenomena, 1900 edition</td>
+      <td><code>theorycalculatio00steiiala</code></td>
+      <td>OCR-seeded edition candidate</td>
+      <td>Map expanded AC terminology and equation differences between first and later editions.</td>
+    </tr>
+    <tr>
+      <td>Theory and Calculation of Electric Circuits</td>
+      <td><code>theoryandcalcul06steigoog</code></td>
+      <td>18 chapter candidates</td>
+      <td>Promote circuit-equation families after scan and OCR review.</td>
+    </tr>
+    <tr>
+      <td>Electric Discharges, Waves and Impulses, 1914 edition</td>
+      <td><code>elementarylectur00stei</code></td>
+      <td>10 lecture candidates</td>
+      <td>Compare with the 1911 edition and promote expanded transient, wave, impulse, and lightning passages.</td>
     </tr>
   </tbody>
 </table>

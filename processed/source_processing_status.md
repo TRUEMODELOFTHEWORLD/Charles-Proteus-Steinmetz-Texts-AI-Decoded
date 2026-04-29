@@ -17,6 +17,10 @@ This dashboard is generated from the processed JSON catalogs. Counts describe cu
 | Theory and Calculation of Electric Apparatus | Internet Archive OCR downloaded; chapter splits and candidate catalogs generated | 22 | 300 | 13 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
 | Four Lectures on Relativity and Space | Internet Archive OCR downloaded; lecture splits and candidate catalogs generated | 4 | 170 | 19 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
 | Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co. | embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated | 5 | 220 | 1 | 0 | 12 | 5 | Promote scan-verified figure crops and anchor high-value figures to pages. |
+| Theory and Calculation of Alternating Current Phenomena | Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review | 30 | 300 | 32 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
+| Theory and Calculation of Alternating Current Phenomena | Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review | 32 | 300 | 91 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
+| Theory and Calculation of Electric Circuits | Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review | 18 | 300 | 37 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
+| Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients | Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review | 10 | 300 | 18 | 0 | 12 | 0 | Promote scan-verified figure crops and anchor high-value figures to pages. |
 
 ## Quality Rules
 

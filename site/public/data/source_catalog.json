@@ -108,5 +108,49 @@
     "internet_archive_id": null,
     "local_raw_file": "sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf",
     "site_path": "/sources/commonwealth-edison-generating-system-trouble/"
+  },
+  {
+    "source_id": "theory-calculation-alternating-current-phenomena-1897",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "year": 1897,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+    "source_type": "book_edition",
+    "internet_archive_id": "theoryandcalcul03steigoog",
+    "local_raw_file": null,
+    "site_path": "/sources/theory-calculation-alternating-current-phenomena-1897/"
+  },
+  {
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "year": 1900,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+    "source_type": "book_edition",
+    "internet_archive_id": "theorycalculatio00steiiala",
+    "local_raw_file": null,
+    "site_path": "/sources/theory-calculation-alternating-current-phenomena-1900/"
+  },
+  {
+    "source_id": "theory-calculation-electric-circuits",
+    "title": "Theory and Calculation of Electric Circuits",
+    "year": 1917,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+    "source_type": "book",
+    "internet_archive_id": "theoryandcalcul06steigoog",
+    "local_raw_file": null,
+    "site_path": "/sources/theory-calculation-electric-circuits/"
+  },
+  {
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+    "year": 1914,
+    "source_status": "ocr_seeded",
+    "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+    "source_type": "lecture_collection_edition",
+    "internet_archive_id": "elementarylectur00stei",
+    "local_raw_file": null,
+    "site_path": "/sources/electric-discharges-waves-impulses-1914/"
   }
 ]

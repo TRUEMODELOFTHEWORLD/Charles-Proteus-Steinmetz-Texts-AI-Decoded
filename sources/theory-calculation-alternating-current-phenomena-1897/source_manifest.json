@@ -1,0 +1,26 @@
+{
+  "source_id": "theory-calculation-alternating-current-phenomena-1897",
+  "collection_id": "steinmetz",
+  "person_id": "charles-proteus-steinmetz",
+  "title": "Theory and Calculation of Alternating Current Phenomena",
+  "year": 1897,
+  "source_type": "book_edition",
+  "source_status": "ocr_seeded",
+  "internet_archive_id": "theoryandcalcul03steigoog",
+  "source_url": "https://archive.org/details/theoryandcalcul03steigoog",
+  "edition_note": "First edition; Open Library lists this Internet Archive item for the 1897 W. J. Johnston edition.",
+  "custody": {
+    "raw_scan_status": "remote_internet_archive_scan_not_copied",
+    "ocr_status": "internet_archive_ocr_preserved",
+    "processed_status": "candidate_catalogs_generated",
+    "scan_verification": "pending"
+  },
+  "quality_rules": [
+    "OCR text is a navigation and candidate-extraction layer, not a corrected edition.",
+    "Exact quotations must be verified against the page image or PDF scan.",
+    "Equation, figure, and glossary candidates remain unpromoted until reviewed.",
+    "Edition differences must stay visible when comparing this source to related editions."
+  ],
+  "why_it_matters": "Earliest book-form AC symbolic-method source; essential for edition comparison against the later 1916 source already processed.",
+  "ingested": "2026-04-29"
+}

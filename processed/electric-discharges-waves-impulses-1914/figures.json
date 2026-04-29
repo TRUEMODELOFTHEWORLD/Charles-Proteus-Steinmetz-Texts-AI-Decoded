@@ -1,0 +1,254 @@
+[
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-001",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 1,
+    "caption": "oo,o o Fig. 1. exist, which are constant, or permanent, as long as the conditions",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 575,
+      "line_end": 575,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-002",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 2,
+    "caption": "]C Fig. 2. Commonly, transient and permanent phenomena are super- imposed upon each other. For instance, if in the circuit Fig. 1",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 612,
+      "line_end": 612,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-003",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 3,
+    "caption": "G O Fig. 3. the stored energy has to be supplied from the source of power; that is, for a short time power, in supplying the stored energy, flows not",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 661,
+      "line_end": 661,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-025",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 25,
+    "caption": "frequency, and as the result an increase of voltage and a distor- tion of the quadrature phase occurs, as shown in the oscillogram Fig. 25. Various momentary short-circuit phenomena are illustrated by the oscillograms Figs. 26 to 28.",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 3288,
+      "line_end": 3288,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-029",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 29,
+    "caption": "4 5 Fig. 29. seconds",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 3647,
+      "line_end": 3647,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-033",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 33,
+    "caption": "= 0.000333 sec. = 0.33 millisecond; Fig. 33. hence, substituted in equation (28),",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 4340,
+      "line_end": 4340,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-034",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 34,
+    "caption": "B Fig. 34. However, if (8) are the equations of current and voltage at a point A of a line, shown diagrammatically in Fig. 34, at any other",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 4499,
+      "line_end": 4499,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-037",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 37,
+    "caption": "section h consists of 4 quarter- wave units, etc. Fig. 37. Fig. 38.",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 4810,
+      "line_end": 4810,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-038",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 38,
+    "caption": "Fig. 37. Fig. 38. The same applies to case 1, and it thus follows that the wave",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 4813,
+      "line_end": 4813,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-040",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 40,
+    "caption": "Line Fig. 40. former, the high-tension switches are opened at the generator end of the transmission line. The energy stored magnetically and",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 5407,
+      "line_end": 5407,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-042",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 42,
+    "caption": "constant in the direction of propagation, as indicated by A in Fig. 42. Fig. 42. — Energy Transfer by Traveling Wave.",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 5483,
+      "line_end": 5483,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-054",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 54,
+    "caption": "which it can draw in supplying power. In permanent condition the line could not add to the power, but must consume, that is, the permanent power-transmission diagram must always be like Fig. 54. Not so, as seen, with the transient of the stationary oscillation. Assume, for instance, that we reduce the power dissipation in",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 6338,
+      "line_end": 6338,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-055",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 55,
+    "caption": "u Fig. 55. U„= 533",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 6432,
+      "line_end": 6432,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-056",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 56,
+    "caption": "Line Fig. 56. The diagram of the power of the two waves of opposite direc-",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 6518,
+      "line_end": 6518,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-066",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 66,
+    "caption": "0 Fig. 66. 126 ELECTRICAL DISCHARGES, WAVES AND IMPULSES",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 7087,
+      "line_end": 7087,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-008",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 8,
+    "caption": "tance, the lines of magnetic force are concentric circles, shown by drawn lines in Fig. 8, page 10, and the lines of dielectric force are straight lines radiating from the conductor, shown dotted in Fig. 8. Due to the return conductor, in a two-wire circuit, the lines of magnetic and dielectric force are crowded together between the",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 7189,
+      "line_end": 7189,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-074",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 74,
+    "caption": "Bh = D — -^Goscf) — -cos t/^, Fig. 74. (42)",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 7923,
+      "line_end": 7923,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "electric-discharges-waves-impulses-1914-fig-076",
+    "source_id": "electric-discharges-waves-impulses-1914",
+    "figure_number": 76,
+    "caption": "o O Fig. 76. ^1 t2 H .",
+    "source_ref": {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "line_start": 8449,
+      "line_end": 8449,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  }
+]

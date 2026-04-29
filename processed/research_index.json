@@ -1,6 +1,6 @@
 {
   "quality_note": "Repository-wide index of processed source custody and candidate review state.",
-  "source_count": 11,
+  "source_count": 15,
   "sources": [
     {
       "source_id": "radiation-light-and-illumination",
@@ -739,6 +739,270 @@
         "crosslinks": {
           "unspecified": 12
         }
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "internet_archive_id": "theoryandcalcul03steigoog",
+      "local_raw_file": null,
+      "site_path": "/sources/theory-calculation-alternating-current-phenomena-1897/",
+      "raw_file_count": 2,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 30,
+      "record_counts": {
+        "chapters": 30,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 32,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 30
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 32
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 30
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 32
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "internet_archive_id": "theorycalculatio00steiiala",
+      "local_raw_file": null,
+      "site_path": "/sources/theory-calculation-alternating-current-phenomena-1900/",
+      "raw_file_count": 2,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 32,
+      "record_counts": {
+        "chapters": 32,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 91,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 32
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 91
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 32
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 91
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "theory-calculation-electric-circuits",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "internet_archive_id": "theoryandcalcul06steigoog",
+      "local_raw_file": null,
+      "site_path": "/sources/theory-calculation-electric-circuits/",
+      "raw_file_count": 2,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 18,
+      "record_counts": {
+        "chapters": 18,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 37,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 18
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 37
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 18
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 37
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "promoted_original_figure_count": 0,
+      "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."
+    },
+    {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1914,
+      "source_status": "ocr_seeded",
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "internet_archive_id": "elementarylectur00stei",
+      "local_raw_file": null,
+      "site_path": "/sources/electric-discharges-waves-impulses-1914/",
+      "raw_file_count": 2,
+      "has_processing_report": true,
+      "has_ocr_seed": true,
+      "cleaned_text_file_count": 10,
+      "record_counts": {
+        "chapters": 10,
+        "concepts": 20,
+        "equations": 300,
+        "figures": 18,
+        "glossary": 12,
+        "quotes": 0,
+        "annotations": 0,
+        "crosslinks": 0
+      },
+      "status_by_catalog": {
+        "chapters": {
+          "candidate": 10
+        },
+        "concepts": {
+          "seeded": 20
+        },
+        "equations": {
+          "candidate": 300
+        },
+        "figures": {
+          "candidate": 18
+        },
+        "glossary": {
+          "seeded": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
+      },
+      "verification_by_catalog": {
+        "chapters": {
+          "unspecified": 10
+        },
+        "concepts": {
+          "unspecified": 20
+        },
+        "equations": {
+          "needs-verification": 300
+        },
+        "figures": {
+          "needs-verification": 18
+        },
+        "glossary": {
+          "unspecified": 12
+        },
+        "quotes": {},
+        "annotations": {},
+        "crosslinks": {}
       },
       "promoted_original_figure_count": 0,
       "next_action": "Promote scan-verified figure crops and anchor high-value figures to pages."

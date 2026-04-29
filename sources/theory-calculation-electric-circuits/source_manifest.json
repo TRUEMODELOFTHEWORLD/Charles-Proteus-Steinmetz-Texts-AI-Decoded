@@ -1,0 +1,26 @@
+{
+  "source_id": "theory-calculation-electric-circuits",
+  "collection_id": "steinmetz",
+  "person_id": "charles-proteus-steinmetz",
+  "title": "Theory and Calculation of Electric Circuits",
+  "year": 1917,
+  "source_type": "book",
+  "source_status": "ocr_seeded",
+  "internet_archive_id": "theoryandcalcul06steigoog",
+  "source_url": "https://archive.org/details/theoryandcalcul06steigoog",
+  "edition_note": "Open Library lists this as a 1917 McGraw-Hill source with Internet Archive identifier theoryandcalcul06steigoog.",
+  "custody": {
+    "raw_scan_status": "remote_internet_archive_scan_not_copied",
+    "ocr_status": "internet_archive_ocr_preserved",
+    "processed_status": "candidate_catalogs_generated",
+    "scan_verification": "pending"
+  },
+  "quality_rules": [
+    "OCR text is a navigation and candidate-extraction layer, not a corrected edition.",
+    "Exact quotations must be verified against the page image or PDF scan.",
+    "Equation, figure, and glossary candidates remain unpromoted until reviewed.",
+    "Edition differences must stay visible when comparing this source to related editions."
+  ],
+  "why_it_matters": "Core circuit-theory sequel to Alternating Current Phenomena and companion to Electric Apparatus.",
+  "ingested": "2026-04-29"
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "quality_note": "Edition comparison index. It marks edition work to do; it does not claim editions have been collated.",
-  "record_count": 11,
+  "record_count": 15,
   "records": [
     {
       "source_id": "radiation-light-and-illumination",
@@ -162,6 +162,66 @@
       "processed_status": "embedded PDF text extracted; page map, report sections, candidate equations, figures, concepts, glossary, quotes, annotations, and crosslinks generated",
       "edition_review_status": "needs edition comparison",
       "priority": "normal",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "internet_archive_id": "theoryandcalcul03steigoog",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "high",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "internet_archive_id": "theorycalculatio00steiiala",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "high",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "theory-calculation-electric-circuits",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "internet_archive_id": "theoryandcalcul06steigoog",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "high",
+      "review_actions": [
+        "Record exact edition, publisher, and title-page wording.",
+        "Compare chapter numbering and figure numbering against other editions.",
+        "Record equation or terminology differences before merging commentary."
+      ]
+    },
+    {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1914,
+      "internet_archive_id": "elementarylectur00stei",
+      "local_raw_file": null,
+      "processed_status": "Internet Archive OCR downloaded; chapter/lecture candidates and candidate catalogs generated; scan and edition alignment require review",
+      "edition_review_status": "needs edition comparison",
+      "priority": "high",
       "review_actions": [
         "Record exact edition, publisher, and title-page wording.",
         "Compare chapter numbering and figure numbering against other editions.",

@@ -1,6 +1,6 @@
 {
   "manifest_id": "charles-proteus-steinmetz-bibliography-intake",
-  "updated": "2026-04-27",
+  "updated": "2026-04-29",
   "person_id": "charles-proteus-steinmetz",
   "collection_id": "steinmetz",
   "purpose": "Structured intake list for Steinmetz works identified from the Charles Proteus Steinmetz Wikipedia bibliography, mapped to current repo processing status.",
@@ -26,29 +26,38 @@
       "title": "On the Law of Hysteresis",
       "year": 1892,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "publication_note": "Transactions of the American Institute of Electrical Engineers, IX (2): 3-64.",
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/T-AIEE.1892.5570437",
           "url": "https://doi.org/10.1109/T-AIEE.1892.5570437"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Foundational source for Steinmetz's hysteresis law, magnetic loss, empirical exponent language, and modern Steinmetz equation history."
+      "processing_intent": "Foundational source for Steinmetz's hysteresis law, magnetic loss, and the later Steinmetz equation."
     },
     {
       "work_id": "complex-quantities-use-electrical-engineering-1894",
       "title": "Complex Quantities and Their Use in Electrical Engineering",
       "year": 1894,
       "source_type": "conference_paper",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_proceedings_target",
       "wikipedia_entry": true,
       "publication_note": "Proceedings of the International Electrical Congress Held in Chicago, August 21-25, 1893, pp. 33-74.",
       "priority": "critical",
-      "processing_intent": "Primary source for symbolic method, complex quantities, phasors, and Steinmetz's algebraic simplification of AC analysis."
+      "processing_intent": "Flagship source for complex quantities, the symbolic method, and early phasor engineering.",
+      "external_refs": [
+        {
+          "type": "publication_note",
+          "value": "Proceedings of the International Electrical Congress Held in Chicago, August 21-25, 1893, pp. 33-74."
+        },
+        {
+          "type": "google_books",
+          "url": "https://books.google.com/books/about/Proceedings_of_the_International_Electri.html?id=X09AAQAAMAAJ"
+        }
+      ]
     },
     {
       "work_id": "theory-general-alternating-current-transformer-1895",
@@ -73,12 +82,23 @@
       "title": "Theory and Calculation of Alternating Current Phenomena",
       "year": 1897,
       "source_type": "book",
-      "status": "edition_variant_seeded",
+      "status": "ocr_seeded",
       "wikipedia_entry": true,
-      "related_local_source_id": "theory-calculation-alternating-current-phenomena",
+      "related_local_source_id": "theory-calculation-alternating-current-phenomena-1897",
       "publication_note": "First edition with Ernst J. Berg; the repo currently uses a later local edition and must keep edition differences visible.",
       "priority": "critical",
-      "processing_intent": "Core source for AC symbolic method, impedance, reactance, admittance, polyphase systems, transformers, and harmonics."
+      "processing_intent": "Earliest book edition now separated for edition comparison.",
+      "local_site_path": "/sources/theory-calculation-alternating-current-phenomena-1897/",
+      "external_refs": [
+        {
+          "type": "internet_archive",
+          "url": "https://archive.org/details/theoryandcalcul03steigoog"
+        },
+        {
+          "type": "open_library",
+          "url": "https://openlibrary.org/books/OL6904963M/Theory_and_calculation_of_alternating_current_phenomena"
+        }
+      ]
     },
     {
       "work_id": "alternating-current-induction-motor-1897",
@@ -160,17 +180,16 @@
       "title": "Lightning Phenomena in Electric Circuits",
       "year": 1907,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/PAIEE.1907.6742407",
           "url": "https://doi.org/10.1109/PAIEE.1907.6742407"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Lightning, oscillatory surges, destructive voltages, and early high-voltage transient theory."
+      "processing_intent": "Primary lightning, surge, impulse, and high-voltage transient source."
     },
     {
       "work_id": "electrical-engineering-education-1908",
@@ -211,17 +230,16 @@
       "title": "The General Equations of the Electric Circuit",
       "year": 1908,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/PAIEE.1908.6742132",
           "url": "https://doi.org/10.1109/PAIEE.1908.6742132"
         }
       ],
       "priority": "critical",
-      "processing_intent": "General circuit equations, transient/permanent components, distributed constants, and symbolic systematization."
+      "processing_intent": "Bridge between symbolic method, differential equations, transients, and general circuit theory."
     },
     {
       "work_id": "general-lectures-electrical-engineering-1908",
@@ -287,11 +305,17 @@
       "title": "The Future of Electricity",
       "year": 1910,
       "source_type": "pamphlet_or_booklet",
-      "status": "planned_source_acquisition",
+      "status": "registered_hathitrust_target",
       "wikipedia_entry": true,
       "publication_note": "New York Electrical Trade School; OCLC 8899343.",
       "priority": "high",
-      "processing_intent": "Civilizational and technological forecast; useful for separating technical Steinmetz from social/philosophical Steinmetz."
+      "processing_intent": "Philosophical and forecasting source, useful for Steinmetz's civilizational reading of electricity.",
+      "external_refs": [
+        {
+          "type": "online_books_page",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/browse?c=x&key=Electrical+engineering+--+Study+and+teaching&type=lcsubc"
+        }
+      ]
     },
     {
       "work_id": "disruptive-strength-transient-voltages-1910",
@@ -319,17 +343,16 @@
       "title": "Mechanical Forces in Magnetic Fields",
       "year": 1910,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/PAIEE.1910.6660496",
           "url": "https://doi.org/10.1109/PAIEE.1910.6660496"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Field force, magnetic stress, pressure/tension analogies, and the archive's field-language comparison layer."
+      "processing_intent": "High-value source for force, stress, pressure, and tension language in magnetic fields."
     },
     {
       "work_id": "engineering-mathematics-1911",
@@ -441,17 +464,16 @@
       "title": "Outline of Theory of Impulse Currents",
       "year": 1916,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/PAIEE.1916.6590573",
           "url": "https://doi.org/10.1109/PAIEE.1916.6590573"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Impulse current theory, high-frequency transients, and surge mathematics."
+      "processing_intent": "Direct source for impulse-current and surge mathematics."
     },
     {
       "work_id": "america-and-new-epoch-1916",
@@ -518,17 +540,16 @@
       "title": "The General Equations of the Electric Circuit-III",
       "year": 1919,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/T-AIEE.1919.4765606",
           "url": "https://doi.org/10.1109/T-AIEE.1919.4765606"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Continuation of general circuit equations; must be linked with 1908 and later circuit-equation material."
+      "processing_intent": "Continuation of Steinmetz's general circuit equation program."
     },
     {
       "work_id": "power-control-stability-generating-stations-1920",
@@ -590,17 +611,16 @@
       "title": "Frequency Conversion by Third Class Conductor and Mechanism of the Arcing Ground and Other Cumulative Surges",
       "year": 1923,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/T-AIEE.1923.5060887",
           "url": "https://doi.org/10.1109/T-AIEE.1923.5060887"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Arcing ground, cumulative surges, frequency conversion, nonlinear discharge, and protection theory."
+      "processing_intent": "Nonlinear discharge, arcing-ground, cumulative-surge, and frequency-conversion source."
     },
     {
       "work_id": "four-lectures-relativity-space-1923",
@@ -620,17 +640,16 @@
       "title": "Cable Charge and Discharge",
       "year": 1923,
       "source_type": "journal_article",
-      "status": "planned_article_acquisition",
+      "status": "registered_primary_article_target",
       "wikipedia_entry": true,
       "external_refs": [
         {
           "type": "doi",
-          "value": "10.1109/T-AIEE.1923.5060899",
           "url": "https://doi.org/10.1109/T-AIEE.1923.5060899"
         }
       ],
       "priority": "critical",
-      "processing_intent": "Distributed capacity, cable transients, charge/discharge curves, and surge propagation."
+      "processing_intent": "Distributed capacity, cable charge/discharge curves, and line-transient behavior."
     },
     {
       "work_id": "overdamped-condenser-oscillations-1924",
@@ -660,13 +679,170 @@
       "local_site_path": "/sources/commonwealth-edison-generating-system-trouble/",
       "priority": "high",
       "processing_intent": "Practical diagnostic source already held locally; bibliographic authority pass and OCR remain pending."
+    },
+    {
+      "work_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "source_type": "book_edition",
+      "status": "ocr_seeded",
+      "wikipedia_entry": false,
+      "priority": "critical",
+      "processing_intent": "Early revised edition between the first edition and the later 1916 text.",
+      "external_refs": [
+        {
+          "type": "internet_archive",
+          "url": "https://archive.org/details/theorycalculatio00steiiala"
+        },
+        {
+          "type": "open_library",
+          "url": "https://openlibrary.org/books/OL7218906M/Theory_and_calculation_of_alternating_current_phenomena"
+        }
+      ],
+      "related_local_source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "local_site_path": "/sources/theory-calculation-alternating-current-phenomena-1900/"
+    },
+    {
+      "work_id": "theory-calculation-electric-circuits-1917",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "source_type": "book",
+      "status": "ocr_seeded",
+      "wikipedia_entry": false,
+      "priority": "critical",
+      "processing_intent": "Distinct core source for circuit equations and calculation, not the same as Electric Apparatus.",
+      "external_refs": [
+        {
+          "type": "internet_archive",
+          "url": "https://archive.org/details/theoryandcalcul06steigoog"
+        },
+        {
+          "type": "open_library",
+          "url": "https://openlibrary.org/books/OL6709519M/Theory_and_calculation_of_electric_circuits"
+        }
+      ],
+      "related_local_source_id": "theory-calculation-electric-circuits",
+      "local_site_path": "/sources/theory-calculation-electric-circuits/"
+    },
+    {
+      "work_id": "electric-discharges-waves-impulses-1914",
+      "title": "Electric Discharges, Waves and Impulses",
+      "year": 1914,
+      "source_type": "lecture_collection_edition",
+      "status": "ocr_seeded",
+      "wikipedia_entry": false,
+      "priority": "critical",
+      "processing_intent": "Expanded transient lecture edition; strengthens waves, impulses, and lightning pages.",
+      "external_refs": [
+        {
+          "type": "internet_archive",
+          "url": "https://archive.org/details/elementarylectur00stei"
+        },
+        {
+          "type": "open_library",
+          "url": "https://openlibrary.org/works/OL16029165W/Elementary_lectures_on_electric_discharges_waves_and_impulses_and_other_transients"
+        }
+      ],
+      "related_local_source_id": "electric-discharges-waves-impulses-1914",
+      "local_site_path": "/sources/electric-discharges-waves-impulses-1914/"
+    },
+    {
+      "work_id": "systems-electric-transmission-distribution-1900",
+      "title": "Systems of Electric Transmission and Distribution",
+      "year": 1900,
+      "source_type": "pamphlet_or_booklet",
+      "status": "registered_hathitrust_google_books_target",
+      "wikipedia_entry": false,
+      "priority": "high",
+      "processing_intent": "Compact source for power transmission, distribution, phase systems, and early AC system selection.",
+      "external_refs": [
+        {
+          "type": "online_books_page",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha010111183"
+        },
+        {
+          "type": "google_books",
+          "url": "https://books.google.com/books/about/Systems_of_Electric_Transmission_and_Dis.html?id=ZsMBHL4p_SAC"
+        }
+      ]
+    },
+    {
+      "work_id": "steinmetz-electrical-engineering-library-1914",
+      "title": "Steinmetz Electrical Engineering Library",
+      "year": 1914,
+      "source_type": "compiled_volume_or_series",
+      "status": "bibliographic_verification_required",
+      "wikipedia_entry": false,
+      "priority": "high",
+      "processing_intent": "May bundle important instructional material or compiled lecture content.",
+      "external_refs": [
+        {
+          "type": "google_books",
+          "url": "https://books.google.com/books/about/Steinmetz_Electrical_Engineering_Library.html?id=_k9AAQAAMAAJ"
+        },
+        {
+          "type": "catalog_trail",
+          "value": "Treat this as a multi-volume library/series until each volume is verified individually."
+        }
+      ]
+    },
+    {
+      "work_id": "charles-proteus-steinmetz-papers-union-college",
+      "title": "Charles Proteus Steinmetz Papers - Union College",
+      "year": null,
+      "source_type": "archival_collection",
+      "status": "archival_collection_registered",
+      "wikipedia_entry": false,
+      "priority": "high",
+      "processing_intent": "Potentially deepest source for writings, GE/publication drafts, notes, ledgers, and correspondence.",
+      "external_refs": [
+        {
+          "type": "finding_aid",
+          "url": "https://arches.union.edu/do/4d738881-e323-4a1b-8096-f3e51bc11e3e"
+        }
+      ]
+    },
+    {
+      "work_id": "charles-proteus-steinmetz-collection-carnegie-mellon",
+      "title": "Charles Proteus Steinmetz Collection - Carnegie Mellon University Archives",
+      "year": null,
+      "source_type": "archival_collection",
+      "status": "archival_collection_registered",
+      "wikipedia_entry": false,
+      "priority": "high",
+      "processing_intent": "Letters, photographs, and demonstration objects tied to Steinmetz and Four Lectures on Relativity and Space.",
+      "external_refs": [
+        {
+          "type": "finding_aid",
+          "url": "https://findingaids.library.cmu.edu/repositories/2/resources/38"
+        }
+      ]
+    },
+    {
+      "work_id": "steinmetz-patents-corpus",
+      "title": "Steinmetz Patents Corpus",
+      "year": null,
+      "source_type": "patent_corpus",
+      "status": "seeded_patent_register_exists_expand_to_full_corpus",
+      "wikipedia_entry": false,
+      "priority": "high",
+      "processing_intent": "The patent corpus is the practical apparatus counterpart to the books and articles.",
+      "external_refs": [
+        {
+          "type": "google_patents_query",
+          "url": "https://patents.google.com/?inventor=Charles+Proteus+Steinmetz"
+        },
+        {
+          "type": "mit_lemelson",
+          "url": "https://lemelson.mit.edu/resources/charles-steinmetz"
+        }
+      ]
     }
   ],
   "next_actions": [
-    "Acquire authoritative scans or PDFs for every planned book, pamphlet, and article.",
-    "Store raw files under source-specific folders with custody notes and checksums.",
-    "Run OCR and page-map generation source by source.",
-    "Generate equation, figure, glossary, quote, and concept candidates for each work.",
-    "Promote only scan-verified claims into public concept/equation/diagram pages."
+    "Finish scan/PDF custody for all newly registered DOI, HathiTrust, archival, and patent targets.",
+    "Review the newly OCR-seeded Internet Archive editions for chapter-map accuracy.",
+    "Run edition-comparison passes between the 1897, 1900, and 1916 Alternating Current Phenomena editions.",
+    "Promote only scan-verified equations, diagrams, quotes, and interpretation layers."
   ]
 }

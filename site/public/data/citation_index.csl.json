@@ -237,5 +237,85 @@
         ]
       ]
     }
+  },
+  {
+    "id": "steinmetz-theory-calculation-alternating-current-phenomena-1897",
+    "type": "book",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/theoryandcalcul03steigoog",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1897
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theory-calculation-alternating-current-phenomena-1900",
+    "type": "book",
+    "title": "Theory and Calculation of Alternating Current Phenomena",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/theorycalculatio00steiiala",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-theory-calculation-electric-circuits",
+    "type": "book",
+    "title": "Theory and Calculation of Electric Circuits",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/theoryandcalcul06steigoog",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1917
+        ]
+      ]
+    }
+  },
+  {
+    "id": "steinmetz-electric-discharges-waves-impulses-1914",
+    "type": "book",
+    "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+    "author": [
+      {
+        "family": "Steinmetz",
+        "given": "Charles Proteus"
+      }
+    ],
+    "URL": "https://archive.org/details/elementarylectur00stei",
+    "note": "Use this citation record as a source pointer. Exact quotations and page claims still require scan or edition verification.",
+    "issued": {
+      "date-parts": [
+        [
+          1914
+        ]
+      ]
+    }
   }
 ]

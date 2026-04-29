@@ -1,0 +1,243 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn710905.ca.archive.org",
+        "dir": "/0/items/theoryandcalcul06steigoog"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn710905.ca.archive.org",
+        "dir": "/0/items/theoryandcalcul06steigoog"
+      }
+    ]
+  },
+  "created": 1777488565,
+  "d1": "ia600108.us.archive.org",
+  "d2": "ia800108.us.archive.org",
+  "dir": "/14/items/theoryandcalcul06steigoog",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1539220011",
+      "size": "7649",
+      "md5": "c7f9de512bbb573d30a95931bba47612",
+      "crc32": "a2d6748a",
+      "sha1": "7611ae9d1768404e1453e98c8178687c6499334a",
+      "format": "Item Tile",
+      "rotation": "0"
+    },
+    {
+      "name": "theoryandcalcul06steigoog.djvu",
+      "source": "derivative",
+      "format": "DjVu",
+      "original": "theoryandcalcul06steigoog_djvu.xml",
+      "md5": "48f5bc56388b058c22cfff768c52a050",
+      "mtime": "1208649699",
+      "size": "6415892",
+      "crc32": "81f20ae0",
+      "sha1": "707a9479e563fe4a06ae878fd8e2ddf0b3f909d9"
+    },
+    {
+      "name": "theoryandcalcul06steigoog.gif",
+      "source": "derivative",
+      "format": "Animated GIF",
+      "original": "theoryandcalcul06steigoog_tif.zip",
+      "md5": "753728b51cfe981ff3439fccc7df209f",
+      "mtime": "1208592656",
+      "size": "161003",
+      "crc32": "5c4045f6",
+      "sha1": "0bead4b71b9e48f6c795fe3e021194869deb51a4"
+    },
+    {
+      "name": "theoryandcalcul06steigoog.pdf",
+      "source": "original",
+      "format": "Image Container PDF",
+      "original-name": "Theory_and_Calculation_of_Electric_Circu.pdf?id=vU5Ngxn7_NsC&output=pdf&sig=O_GXPIULtDrEzY7cE1vqUFkTwR4",
+      "size": "6828961",
+      "atime": "1183513074",
+      "mtime": "1183513069",
+      "ctime": "1183513074",
+      "sha1": "bfb6953251835473f1c9befb7aa40e02e133fafc",
+      "md5": "8161b53037c2e570a32468af23c1d9f2",
+      "crc32": "da6e71eb"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_abbyy.gz",
+      "source": "derivative",
+      "format": "Abbyy GZ",
+      "original": "theoryandcalcul06steigoog_tif.zip",
+      "md5": "555f88c9530b3b9e674206ec771383d8",
+      "mtime": "1208649162",
+      "size": "8905418",
+      "crc32": "4850d2e5",
+      "sha1": "dd82b8c3d728b8bd23e5d85faa95177923cab90d"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_archive.torrent",
+      "source": "metadata",
+      "btih": "5a396a0eaaadef17febe059fb8734e0a0361906d",
+      "mtime": "1577347711",
+      "size": "7238",
+      "md5": "8e1b4663d3207d2a1d62b9b55fa6b70f",
+      "crc32": "832fc75b",
+      "sha1": "ad8049ac263ff46292853401fa305a56f28f9080",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_dc.xml",
+      "source": "original",
+      "format": "Dublin Core",
+      "md5": "77f6042de49448259026e3c312f44435",
+      "mtime": "1244032254",
+      "size": "826",
+      "crc32": "1d075cda",
+      "sha1": "daa859a6e28fa60ff0068e8f42d25de7eca9633f"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_desc.html",
+      "source": "original",
+      "format": "Metadata",
+      "original-name": "books?id=vU5Ngxn7_NsC&oe=UTF-8",
+      "size": "56619",
+      "atime": "1183014991",
+      "mtime": "1183012206",
+      "ctime": "1183014991",
+      "sha1": "d0cda71ca2d9da29836ba2f8c390d59e5b7ad882",
+      "md5": "c272be5fc9d0102b5ca8048fa3d8c2d1",
+      "crc32": "590cffff"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "theoryandcalcul06steigoog.djvu",
+      "md5": "36f3a0a26d4d9d389ab104b3a09e02b2",
+      "mtime": "1208649717",
+      "size": "625971",
+      "crc32": "8d55b374",
+      "sha1": "da0a6e9e1ffda95443475519088bd9bda1ccf91e"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "theoryandcalcul06steigoog_abbyy.gz",
+      "md5": "aca3e778efbca03e1a9ab38dba373cc3",
+      "mtime": "1208649388",
+      "size": "9329930",
+      "crc32": "7aa92f4f",
+      "sha1": "772e446e25651f953b0825f9e7724bc28b653ee9"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_files.xml",
+      "source": "metadata",
+      "format": "Metadata",
+      "md5": "350dbef0ff10c4d411c4511a3bac25d2",
+      "summation": "md5"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_marc.xml",
+      "source": "original",
+      "format": "MARC",
+      "md5": "07c8f9b0322809cc457f530f74310d60",
+      "mtime": "1244032253",
+      "size": "2277",
+      "crc32": "3c6fa3a4",
+      "sha1": "81181af1e73d62347864c00403a39023825a4113"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_meta.mrc",
+      "source": "original",
+      "format": "MARC Binary",
+      "md5": "f44de5c03c765caeb6d73db0fb578516",
+      "mtime": "1244032253",
+      "size": "900",
+      "crc32": "bb389706",
+      "sha1": "151cf602084e5575d8d5d62b705971a09333c056"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_meta.xml",
+      "source": "metadata",
+      "format": "Metadata",
+      "mtime": "1577347708",
+      "size": "2089",
+      "md5": "e77fbedd77b5f719af0edaa33bde9afc",
+      "crc32": "090f5345",
+      "sha1": "6df15ad96c5cceacedf11a73a49f1577811c49d6"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "theoryandcalcul06steigoog_djvu.xml",
+      "md5": "74c6d1643ff665eca645eb6d56ab99a8",
+      "mtime": "1244032259",
+      "size": "117519",
+      "crc32": "468576a0",
+      "sha1": "b37cafa329bb2cac6d13344d0a42d69929f4c8c3"
+    },
+    {
+      "name": "theoryandcalcul06steigoog_tif.zip",
+      "source": "derivative",
+      "format": "Single Page Processed TIFF ZIP",
+      "original": "theoryandcalcul06steigoog.pdf",
+      "md5": "15e1658751af62c7fe45f4b7a6ecfb46",
+      "mtime": "1208592604",
+      "size": "57888943",
+      "crc32": "95b4c0b1",
+      "sha1": "31bd16668e01a23d0bb94bc8172c3175eac9291b",
+      "filecount": "392"
+    }
+  ],
+  "files_count": 16,
+  "item_last_updated": 1577347711,
+  "item_size": 90351235,
+  "metadata": {
+    "publisher": "New York, London, Mc-Graw-Hill book company, inc.",
+    "identifier": "theoryandcalcul06steigoog",
+    "scanner": "google",
+    "title": "Theory and calculation of electric circuits",
+    "notes": "\"In some respects, the following work, and its companion volume, 'Theory and calculation of electrical apparatus', may be considered as continuations, or rather as parts of 'Theory and calculation of alternating current phenomena.'\"--Pref.\n\n",
+    "creator": "Steinmetz, Charles Proteus, 1865-1923",
+    "mediatype": "texts",
+    "collection": "americana",
+    "possible-copyright-status": "NOT_IN_COPYRIGHT",
+    "identifier-access": "http://www.archive.org/details/theoryandcalcul06steigoog",
+    "year": "1917",
+    "date": "1917",
+    "oclc-id": "1088429",
+    "scandate": "20060213000000",
+    "copyright-region": "US",
+    "description": [
+      "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+      "\"In some respects, the following work, and its companion volume, 'Theory and calculation of electrical apparatus', may be considered as continuations, or rather as parts of 'Theory and calculation of alternating current phenomena'.\"--Pref"
+    ],
+    "identifier-ark": "ark:/13960/t6348q535",
+    "imagecount": "392",
+    "publicdate": "2008-04-20 00:02:26",
+    "source": "http://books.google.com/books?id=vU5Ngxn7_NsC&oe=UTF-8",
+    "contributor": "University of Michigan",
+    "sponsor": "Google",
+    "uploader": "tpb",
+    "language": "eng",
+    "lccn": "27027576",
+    "subject": [
+      "Electric currents",
+      "Electrical engineering"
+    ],
+    "repub_state": "4",
+    "backup_location": "ia903601_31",
+    "openlibrary_edition": "OL6709519M",
+    "openlibrary_work": "OL1544440W",
+    "addeddate": "2008-04-20 00:02:26"
+  },
+  "server": "ia800108.us.archive.org",
+  "uniq": 1792892822,
+  "workable_servers": [
+    "ia800108.us.archive.org",
+    "ia600108.us.archive.org"
+  ]
+}

@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-008",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 8,
+    "caption": "mum value is found in the following way : — Fig. 8. Let, in Fig. 6, AOB represent a quadrant of a circle with radius 1.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1452,
+      "line_end": 1452,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-007",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 7,
+    "caption": "found in the following way : Fig. 7. Let, in Fig. 7, AOB represent a quadrant of a circle",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1503,
+      "line_end": 1503,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-011",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 11,
+    "caption": "nates by a vector, which by its length, OC, denotes the in- Fig. 11. tensity, and by its amplitude, AOC, the phase, of the sine",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1892,
+      "line_end": 1892,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-012",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 12,
+    "caption": "be sent into a non-inductive circuit at an E.M.F. of E Fig. 12. volts. What will be the E.M.F. required at the generator end of the line ?",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1936,
+      "line_end": 1936,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-013",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 13,
+    "caption": "E? 0 Fig. 13. 18. We may, however, introduce the effect of the induc-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 1989,
+      "line_end": 1989,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-014",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 14,
+    "caption": "E.V o Fig. 14. of the impressed E.M.F., in the latter case being of opposite phase. According to the nature of the problem, either the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2025,
+      "line_end": 2025,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-015",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 15,
+    "caption": "—X« Fig. 15. 19. Coming back to the equation found for the E.M.F.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2062,
+      "line_end": 2062,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-018",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 18,
+    "caption": "E0 = V(^ cos w + Ir)2 -f- (E sin w + Ix)z. Fig. 18. If, however, the current in the receiving circuit is leading, as -is the case when feeding condensers or syn-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2112,
+      "line_end": 2112,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-017",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 17,
+    "caption": "'E. Fig. 17. a circuit with leading current, as, for instance, a synchro- nous motor circuit under the circumstances stated above.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2152,
+      "line_end": 2152,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-020",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 20,
+    "caption": "same E.M.F. and current ; or conversely, at a given primary Fig. 20. impressed E.M.F., E0, the secondary E.M.F., E^ will be smaller with an inductive, and larger with a condenser",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2295,
+      "line_end": 2295,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-021",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 21,
+    "caption": "ever, this becomes too complicated, as will be seen by trying Fig. 21. to calculate, from the above transformer diagram, the ratio of transformation. The primary M.M.F. is given by the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2379,
+      "line_end": 2379,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-022",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 22,
+    "caption": "the graphical representation. Fig. 22. 25. We have seen that the alternating sine wave is represented in intensity, as well as phase, by a vector, Of,",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2395,
+      "line_end": 2395,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-024",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 24,
+    "caption": "riod ; tJiat is, retarding the wave through one-quarter period. Fig. 24. Similarly, —",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2524,
+      "line_end": 2524,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-028",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 28,
+    "caption": "-*' Fig. 28. 34. Let, for instance, in Fig. 27, an interlinked three- phase system be represented diagrammatically, as consist-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2816,
+      "line_end": 2816,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-027",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 27,
+    "caption": "by one-third of a period. Let the E.M.Fs. in the direction Fig. 27 from the common connection O of the three branch circuits",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2824,
+      "line_end": 2824,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-029",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 29,
+    "caption": "E° Fig. 29. E.M.Fs., these currents are represented in Fig. 29 by the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2905,
+      "line_end": 2905,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-031",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 31,
+    "caption": "•I, Fig. 31. Fig. 32.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2964,
+      "line_end": 2964,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-032",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 32,
+    "caption": "Fig. 31. Fig. 32. As seen, the induced generator E.M.F. and thus the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 2967,
+      "line_end": 2967,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-034",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 34,
+    "caption": "90° LAO Fig. 34. Only the circuit characteristics of the first phase are shown as ^ and z'r As seen, passing from the receiving",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3089,
+      "line_end": 3089,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-035",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 35,
+    "caption": "RESISTANCE AND LEAKAGE Fig. 35. current alternately rise and fall, while their phase angle",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3102,
+      "line_end": 3102,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-038",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 38,
+    "caption": "Er Er0 Fig. 38. and the current is, /=",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3764,
+      "line_end": 3764,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-039",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 39,
+    "caption": "E Fig. 39. Z-jx0 r—j(x + x0}'",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3771,
+      "line_end": 3771,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-040",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 40,
+    "caption": "of reactance in series in a non-inductive circuit is, for small Fig. 40. values of reactance, independent of the sign, but propor-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 3869,
+      "line_end": 3869,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-041",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 41,
+    "caption": "-t-CONDENSANCE Fig. 41. E0 = 100 volts, and the following conditions of receiver circuit •— z= 1 Qj r = 1>0> x= 0 (Curve j)",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4148,
+      "line_end": 4148,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-042",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 42,
+    "caption": "series reactance continues up to x0 = il.6, or, x0 = — %x, Fig. 42. where E = 100 volts again ; and for x0 > 1.6 the voltage drops again.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4179,
+      "line_end": 4179,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-043",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 43,
+    "caption": "\\ Fig. 43. Since a synchronous motor in the condition of efficient working acts as a condensance, we get the remarkable result",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4194,
+      "line_end": 4194,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-044",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 44,
+    "caption": "x0 = 3.2 (Curve VI.) Fig. 44. Since z = 1.0, the current, /, in all these diagrams has the same value as E.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4236,
+      "line_end": 4236,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-049",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 49,
+    "caption": "tance factor, *0/r0, of the series impedance. Fig. 49. ''o",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4509,
+      "line_end": 4509,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-050",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 50,
+    "caption": "''o Fig. 50. 50. As an example, Fig. 48 shows the E.M.F., E,",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4513,
+      "line_end": 4513,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-051",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 51,
+    "caption": "as functions of the reactance, x, of the receiver circuit. Fig. 51. Figs. 49 to 51 give the polar diagram for E0 = 100, x = .95, x = 0, x = - .95, and Z0 = .3 -/ .4.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4527,
+      "line_end": 4527,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-052",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 52,
+    "caption": "tance,— that is, of the power consumed in the receiver Fig. 52. circuit, which in this case approaches the conditions of a",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4550,
+      "line_end": 4550,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-054",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 54,
+    "caption": "JO 190 200 OHMS Fig. 54. In Fig. 54 are shown the values of /, 71} 70, 7f, in Curves I., II., III., IV., similarly as in Fig. 50, for E0 = 1000 volts,",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4821,
+      "line_end": 4821,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-055",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 55,
+    "caption": "E0, with increasing load. Fig. 55. Let —",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 4861,
+      "line_end": 4861,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-081",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 81,
+    "caption": "as shown in Fig. 81. Fig. 81. 92. Demagnetizing, or screening effect of eddy currents.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 8748,
+      "line_end": 8748,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-082",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 82,
+    "caption": "where / = total current in conductor. Fig. 82. The magnetic reluctance of a tubular zone of unit length",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 8940,
+      "line_end": 8940,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-086",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 86,
+    "caption": "i Fig. 86. DISTRIBUTED CAPACITY. 173",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 10694,
+      "line_end": 10694,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-088",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 88,
+    "caption": "V Fig. 88. 176",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 10808,
+      "line_end": 10808,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-089",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 89,
+    "caption": "\\ Fig. 89. DISTRIBUTED CAPACITY.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 10830,
+      "line_end": 10830,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-090",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 90,
+    "caption": "V Fig. 90. put into the line has been consumed therein, and at this point the two curves for lead and for lag join each other as",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 10864,
+      "line_end": 10864,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-094",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 94,
+    "caption": "transformer is constructed thus : Fig. 94. Let, in Fig. 94, O® = the magnetic flux in intensity and",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 11766,
+      "line_end": 11766,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-102",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 102,
+    "caption": "Fig. 101. Transformer Diagram with 80° Lead in Secondary Circuit. Fig. 102. 202",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 11946,
+      "line_end": 11946,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-103",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 103,
+    "caption": "the locus gives curves of higher order. Fig. 103. Fig. 105 gives the locus of the various quantities when",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 11969,
+      "line_end": 11969,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-104",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 104,
+    "caption": "from the above by proportionality. Fig. 104. 133. It must be understood, however, that for the pur-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 12000,
+      "line_end": 12000,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-105",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 105,
+    "caption": "°f tne transformer. Fig. 105. The resistance and reactance of the primary and the secondary circuit are represented in the impedance by",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 12046,
+      "line_end": 12046,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-106",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 106,
+    "caption": "z Fig. 106. 137. Separating now the internal secondary impedance",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 12301,
+      "line_end": 12301,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-107",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 107,
+    "caption": "Generator I, Transformer I Fig. 107. This is represented diagrammatically in Fig. 107.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 12340,
+      "line_end": 12340,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-108",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 108,
+    "caption": "211 Fig. 108. admittance Y0) the exciting current, the other branches of the impedances ZJ + Z7, ZJ1 + Zn, . . . 2f + Zx, the latter",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 12364,
+      "line_end": 12364,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-113",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 113,
+    "caption": ") Fig. 113. Substituting these values in tne above equation gives",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 13635,
+      "line_end": 13635,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-115",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 115,
+    "caption": "EOG Fig. 115. 156. Thus far the diagram is essentially the same as",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 14010,
+      "line_end": 14010,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-119",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 119,
+    "caption": "\"£> Fig. 119. Again, a maximum torque point and a maximum output",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 14959,
+      "line_end": 14959,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-120",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 120,
+    "caption": "267 Fig. 120. 268 ALTERNATING-CURRENT PHENOMENA.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 14974,
+      "line_end": 14974,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-122",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 122,
+    "caption": "1000 2000 3COO 4000 fiOOO fiOOO 7000 8000 Fig. 122. Voltampere output,",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 15137,
+      "line_end": 15137,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-126",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 126,
+    "caption": "also. Thus, we havet in this case, even on open circuit, no Fig. 126. rotation through a constant magnetic field, but rotation through a pulsating field, which makes the E.M.F. wave",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 16409,
+      "line_end": 16409,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-127",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 127,
+    "caption": "in diagram in Fig. 127. Since the armature current flows Fig. 127. in opposite direction to the current in the following-field",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 16452,
+      "line_end": 16452,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-128",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 128,
+    "caption": "its maximum while the armature coil still partly faces the Fig. 128. preceding-field pole, as shown in diagram Fig. 128, — it tends",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 16463,
+      "line_end": 16463,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-129",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 129,
+    "caption": "range where the alternator regulates approximately as a constant power machine, that is current and E.M.F. vary in inverse proportion, as between 130 and 200 amperes in Fig. 129. The modern alternators are generally more or less ma-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 17542,
+      "line_end": 17542,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-136",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 136,
+    "caption": "when operating in series, the coils of the transformer will Fig. 136. be without current. In this case, by interchange of power through the transformers, the series connection will be",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 17731,
+      "line_end": 17731,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-137",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 137,
+    "caption": "Fig. 137, let the voltage at the common bus bars be assumed Fig. 137. as zero line, or real axis of coordinates of the complex",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 17741,
+      "line_end": 17741,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-138",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 138,
+    "caption": "eral, in one of these diagrams shown in Fig. 138 in drawn Fig. 138. lines, current and E.M.F. are in the same direction, repre- senting mechanical work done by the machine as motor-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18154,
+      "line_end": 18154,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-139",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 139,
+    "caption": "sists of three components ; the E.M.F. OE£ — Ez, consumed Fig. 139. by the impedance of the motor, the E.M.F. consumed by the impedance of the line, and the E.M.F.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18187,
+      "line_end": 18187,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-140",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 140,
+    "caption": "tor diagram in dotted line. Fig. 140. As seen, for small values of E1 the potential drops in the alternator and in the line. For the value of E1 = E0",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18219,
+      "line_end": 18219,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-747",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 747,
+    "caption": "these quantities change with a change of the constants. Fig. 747. 201. A. — Constant impressed E.M.F. Ev, constant current strength I = i, variable motor excitation Ev (Fig. 142.)",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18241,
+      "line_end": 18241,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-142",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 142,
+    "caption": "etc., the power is / x 02^, I x 03^, etc., increases first, Fig. 142. reaches the maximum at the point 3j, 3, the most extreme point at the right, with the impressed E.M.F. in phase with",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18273,
+      "line_end": 18273,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-143",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 143,
+    "caption": "and O as center. Fig. 143. E lies on a straight line e, passing throtigh the origin;",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18345,
+      "line_end": 18345,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-144",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 144,
+    "caption": "In the first case, El = EQ (Fig. 127), we see that at Fig. 144. very small current, that is very small OE, the current /",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18368,
+      "line_end": 18368,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-145",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 145,
+    "caption": "V Fig. 145. EI = EQ, but has a minimum value corresponding to the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18400,
+      "line_end": 18400,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-146",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 146,
+    "caption": "dicular to clt and then increases again, reaches once more Fig. 146. El = EQ at E?, and then increases beyond E0. The cur-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18470,
+      "line_end": 18470,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-147",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 147,
+    "caption": "204. Fig. 147. D. En = constant ; P = constant.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18514,
+      "line_end": 18514,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-149",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 149,
+    "caption": "7< I < 43 Fig. 149. I",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18603,
+      "line_end": 18603,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-151",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 151,
+    "caption": "20<l<30 Fig. 151. As seen, the permissible value of counter E.M.F. Ev and of current /, becomes narrower with increasing output.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 18691,
+      "line_end": 18691,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-154",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 154,
+    "caption": "\\ Fig. 154. taneous reversal of current and E.M.F. ; that is, differing by the time of a half period.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19092,
+      "line_end": 19092,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-155",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 155,
+    "caption": "TSOO 8000^ #WU 3000 3uOO Fig. 155. and transposing, the Ouartic Equation of Maximum Dis- placement,",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19229,
+      "line_end": 19229,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-156",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 156,
+    "caption": "constantly given by the motor. Fig. 156. 2. The reactance, x, is assumed as constant. While the reactance of the line is practically constant, that of the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19410,
+      "line_end": 19410,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-157",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 157,
+    "caption": "the motor consists of a primary electric circuit, inducing Fig. 157. in the armature the secondary currents, and a primary magnetizing circuit producing the magnetism to act upon",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19509,
+      "line_end": 19509,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-158",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 158,
+    "caption": "ance, only in that position where the induced currents give Fig. 158. a rotary effort in the desired direction, while the armature coils are open-circuited in the position where the rotary",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19536,
+      "line_end": 19536,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-159",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 159,
+    "caption": "the direction of the magnetic field, short-circuit either a Fig. 159. part of the armature coils as shown in Fig. 158, or the whole armature by a connection from brush to brush as",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19563,
+      "line_end": 19563,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-160",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 160,
+    "caption": "and a secondary circuit closed upon itself and displaced in Fig. 160. space by 45° — in a bipolar motor — from the direction of the magnetic flux, as shown diagrammatically in Fig. 160. *",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 19590,
+      "line_end": 19590,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-181",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 181,
+    "caption": "vidual branches both systems become unbalanced systems. Fig. 181. Fig. 182.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 23698,
+      "line_end": 23698,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-182",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 182,
+    "caption": "Fig. 181. Fig. 182. The different branches of a polyphase system may be either independent from each other, that is, without any",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 23701,
+      "line_end": 23701,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-183",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 183,
+    "caption": "four collector rings, as shown diagrammatically in Fig. 183, Fig. 183. is an interlinked system also. The four-wire quarter-phase system produced by a generator with two independent",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 23726,
+      "line_end": 23726,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-184",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 184,
+    "caption": "r Fig. 184. 262. Thus, polyphase systems can be subdivided into : Symmetrical systems and unsymmetrical systems.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 23742,
+      "line_end": 23742,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-198",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 198,
+    "caption": "454 ALTERNATING-CURRENT PHENOMENA. Fig. 198. in three-phase systems Y- connected and delta-connected",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 24560,
+      "line_end": 24560,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-799",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 799,
+    "caption": "mation between polyphase systems are : Fig. 799. 1. The delta -Y connection of transformers between three-phase systems, shown in Fig. 199. One side of the",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 24980,
+      "line_end": 24980,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-200",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 200,
+    "caption": "V Fig. 200. three-phase secondary distributions. The Y connection of",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 24992,
+      "line_end": 24992,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-201",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 201,
+    "caption": "system by the internal impedance of the transformers. Fig. 201. 3. The main and teaser, or T connection of trans- formers between three-phase systems, as shown in Fig. 201.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 25015,
+      "line_end": 25015,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-202",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 202,
+    "caption": "and connected with one of its ends to the center of the Fig. 202. other transformer. From the point £ inside of the teaser transformer, a neutral wire can be brought out in this con-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 25027,
+      "line_end": 25027,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-203",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 203,
+    "caption": "ter-phase side of the transformers contains two equal and Fig. 203. independent (or interlinked) coils, the three-phase side two",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 25051,
+      "line_end": 25051,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-205",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 205,
+    "caption": "9. The double T connection of transformation from Fig. 205. three-phase to six-phase, shown in Fig. 206. Two trans- formers are used with two secondary coils which are T con-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 25088,
+      "line_end": 25088,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-208",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 208,
+    "caption": "2' v ' Fig. 208. able to store energy, since the difference of power between",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 25115,
+      "line_end": 25115,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-209",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 209,
+    "caption": "which is characterized by a constant angle of intersection Fig. 209. Fig. 210.",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 26776,
+      "line_end": 26776,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-alternating-current-phenomena-1900-fig-210",
+    "source_id": "theory-calculation-alternating-current-phenomena-1900",
+    "figure_number": 210,
+    "caption": "Fig. 209. Fig. 210. with all concentric circles or all radii vectores.\" The oscil-",
+    "source_ref": {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "line_start": 26779,
+      "line_end": 26779,
+      "verification": "needs-verification"
+    },
+    "linked_concepts": [],
+    "status": "candidate"
+  }
+]

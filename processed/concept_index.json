@@ -3,74 +3,16 @@
   "total_concepts": 46,
   "records": [
     {
-      "id": "light",
-      "label": "Light",
-      "total_occurrence_count_in_ocr": 2194,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 7,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 8,
-          "status": "seeded"
-        },
-        {
-          "source_id": "four-lectures-relativity-space",
-          "source_title": "Four Lectures on Relativity and Space",
-          "occurrence_count_in_ocr": 156,
-          "status": "seeded"
-        },
-        {
-          "source_id": "general-lectures-electrical-engineering",
-          "source_title": "General Lectures on Electrical Engineering",
-          "occurrence_count_in_ocr": 310,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 1640,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 17,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
-          "occurrence_count_in_ocr": 15,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-electric-apparatus",
-          "source_title": "Theory and Calculation of Electric Apparatus",
-          "occurrence_count_in_ocr": 17,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 24,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 9
-      }
-    },
-    {
       "id": "frequency",
       "label": "Frequency",
-      "total_occurrence_count_in_ocr": 1767,
+      "total_occurrence_count_in_ocr": 2402,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 116,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -114,9 +56,27 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 157,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 281,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 543,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 81,
           "status": "seeded"
         },
         {
@@ -127,14 +87,108 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
+      }
+    },
+    {
+      "id": "light",
+      "label": "Light",
+      "total_occurrence_count_in_ocr": 2226,
+      "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 8,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 156,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 310,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 1640,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 17,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 9,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 17,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 9,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 24,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 13
       }
     },
     {
       "id": "radiation",
       "label": "Radiation",
-      "total_occurrence_count_in_ocr": 936,
+      "total_occurrence_count_in_ocr": 944,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -178,9 +232,27 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 7,
           "status": "seeded"
         },
         {
@@ -191,14 +263,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
       "id": "illumination",
       "label": "Illumination",
-      "total_occurrence_count_in_ocr": 735,
+      "total_occurrence_count_in_ocr": 737,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -242,9 +320,27 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 2,
           "status": "seeded"
         },
         {
@@ -255,14 +351,20 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
       "id": "wave-length",
       "label": "Wave length",
-      "total_occurrence_count_in_ocr": 223,
+      "total_occurrence_count_in_ocr": 241,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 13,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -306,8 +408,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 4,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -319,7 +439,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -357,8 +477,14 @@
     {
       "id": "spectrum",
       "label": "Spectrum",
-      "total_occurrence_count_in_ocr": 164,
+      "total_occurrence_count_in_ocr": 165,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -402,9 +528,27 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 1,
           "status": "seeded"
         },
         {
@@ -415,7 +559,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -435,74 +579,16 @@
       }
     },
     {
-      "id": "arc-lamp",
-      "label": "Arc lamp",
-      "total_occurrence_count_in_ocr": 87,
+      "id": "luminescence",
+      "label": "Luminescence",
+      "total_occurrence_count_in_ocr": 90,
       "sources": [
         {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_id": "electric-discharges-waves-impulses-1914",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 2,
-          "status": "seeded"
-        },
-        {
-          "source_id": "four-lectures-relativity-space",
-          "source_title": "Four Lectures on Relativity and Space",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "general-lectures-electrical-engineering",
-          "source_title": "General Lectures on Electrical Engineering",
-          "occurrence_count_in_ocr": 23,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 60,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-electric-apparatus",
-          "source_title": "Theory and Calculation of Electric Apparatus",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 2,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 9
-      }
-    },
-    {
-      "id": "luminescence",
-      "label": "Luminescence",
-      "total_occurrence_count_in_ocr": 85,
-      "sources": [
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -546,9 +632,27 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
           "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 5,
           "status": "seeded"
         },
         {
@@ -559,7 +663,95 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
+      }
+    },
+    {
+      "id": "arc-lamp",
+      "label": "Arc lamp",
+      "total_occurrence_count_in_ocr": 88,
+      "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 23,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 60,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 2,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 13
       }
     },
     {
@@ -583,6 +775,12 @@
       "label": "Brilliancy",
       "total_occurrence_count_in_ocr": 73,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -626,8 +824,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -639,7 +855,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -647,6 +863,12 @@
       "label": "Ether",
       "total_occurrence_count_in_ocr": 70,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -690,8 +912,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -703,7 +943,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -725,8 +965,14 @@
     {
       "id": "velocity-of-light",
       "label": "Velocity of light",
-      "total_occurrence_count_in_ocr": 58,
+      "total_occurrence_count_in_ocr": 63,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 5,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -770,8 +1016,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -783,7 +1047,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -840,6 +1104,12 @@
       "total_occurrence_count_in_ocr": 33,
       "sources": [
         {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -882,8 +1152,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -895,7 +1183,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -952,6 +1240,12 @@
       "total_occurrence_count_in_ocr": 19,
       "sources": [
         {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -994,8 +1288,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -1007,7 +1319,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -1015,6 +1327,12 @@
       "label": "Light flux density",
       "total_occurrence_count_in_ocr": 19,
       "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -1058,8 +1376,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -1071,7 +1407,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -1091,106 +1427,16 @@
       }
     },
     {
-      "id": "industrial-capitalism",
-      "label": "Industrial capitalism",
+      "id": "dielectric-constant",
+      "label": "Dielectric constant",
       "total_occurrence_count_in_ocr": 15,
       "sources": [
         {
-          "source_id": "america-and-new-epoch",
-          "source_title": "America and the New Epoch",
-          "occurrence_count_in_ocr": 15,
-          "status": "seeded-source-specific"
-        }
-      ],
-      "status_counts": {
-        "seeded-source-specific": 1
-      }
-    },
-    {
-      "id": "photometry",
-      "label": "Photometry",
-      "total_occurrence_count_in_ocr": 15,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_id": "electric-discharges-waves-impulses-1914",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "four-lectures-relativity-space",
-          "source_title": "Four Lectures on Relativity and Space",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "general-lectures-electrical-engineering",
-          "source_title": "General Lectures on Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 15,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
-          "source_title": "Theory and Calculation of Alternating Current Phenomena",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-electric-apparatus",
-          "source_title": "Theory and Calculation of Electric Apparatus",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 9
-      }
-    },
-    {
-      "id": "tie-cable",
-      "label": "Tie cable",
-      "total_occurrence_count_in_ocr": 15,
-      "sources": [
-        {
-          "source_id": "commonwealth-edison-generating-system-trouble",
-          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
-          "occurrence_count_in_ocr": 15,
-          "status": "pdf-text-extracted-candidate"
-        }
-      ],
-      "status_counts": {
-        "pdf-text-extracted-candidate": 1
-      }
-    },
-    {
-      "id": "dielectric-constant",
-      "label": "Dielectric constant",
-      "total_occurrence_count_in_ocr": 13,
-      "sources": [
         {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
@@ -1234,8 +1480,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 1,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -1247,7 +1511,127 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
+      }
+    },
+    {
+      "id": "industrial-capitalism",
+      "label": "Industrial capitalism",
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "america-and-new-epoch",
+          "source_title": "America and the New Epoch",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded-source-specific"
+        }
+      ],
+      "status_counts": {
+        "seeded-source-specific": 1
+      }
+    },
+    {
+      "id": "photometry",
+      "label": "Photometry",
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 15,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 13
+      }
+    },
+    {
+      "id": "tie-cable",
+      "label": "Tie cable",
+      "total_occurrence_count_in_ocr": 15,
+      "sources": [
+        {
+          "source_id": "commonwealth-edison-generating-system-trouble",
+          "source_title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+          "occurrence_count_in_ocr": 15,
+          "status": "pdf-text-extracted-candidate"
+        }
+      ],
+      "status_counts": {
+        "pdf-text-extracted-candidate": 1
       }
     },
     {
@@ -1288,6 +1672,12 @@
       "total_occurrence_count_in_ocr": 12,
       "sources": [
         {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -1330,8 +1720,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -1343,7 +1751,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -1360,6 +1768,94 @@
       ],
       "status_counts": {
         "seeded-source-specific": 1
+      }
+    },
+    {
+      "id": "permeability",
+      "label": "Magnetic permeability",
+      "total_occurrence_count_in_ocr": 10,
+      "sources": [
+        {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "engineering-mathematics",
+          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "four-lectures-relativity-space",
+          "source_title": "Four Lectures on Relativity and Space",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "general-lectures-electrical-engineering",
+          "source_title": "General Lectures on Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "radiation-light-and-illumination",
+          "source_title": "Radiation, Light and Illumination",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theoretical-elements-electrical-engineering",
+          "source_title": "Theoretical Elements of Electrical Engineering",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-apparatus",
+          "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 3,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+          "occurrence_count_in_ocr": 7,
+          "status": "seeded"
+        }
+      ],
+      "status_counts": {
+        "seeded": 13
       }
     },
     {
@@ -1384,6 +1880,12 @@
       "total_occurrence_count_in_ocr": 9,
       "sources": [
         {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -1426,65 +1928,13 @@
           "status": "seeded"
         },
         {
-          "source_id": "theory-calculation-electric-apparatus",
-          "source_title": "Theory and Calculation of Electric Apparatus",
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
         {
-          "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
-          "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        }
-      ],
-      "status_counts": {
-        "seeded": 9
-      }
-    },
-    {
-      "id": "permeability",
-      "label": "Magnetic permeability",
-      "total_occurrence_count_in_ocr": 7,
-      "sources": [
-        {
-          "source_id": "elementary-lectures-electric-discharges-waves-impulses",
-          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "engineering-mathematics",
-          "source_title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "four-lectures-relativity-space",
-          "source_title": "Four Lectures on Relativity and Space",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "general-lectures-electrical-engineering",
-          "source_title": "General Lectures on Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "radiation-light-and-illumination",
-          "source_title": "Radiation, Light and Illumination",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theoretical-elements-electrical-engineering",
-          "source_title": "Theoretical Elements of Electrical Engineering",
-          "occurrence_count_in_ocr": 0,
-          "status": "seeded"
-        },
-        {
-          "source_id": "theory-calculation-alternating-current-phenomena",
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
           "source_title": "Theory and Calculation of Alternating Current Phenomena",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
@@ -1496,14 +1946,20 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
           "source_title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
-          "occurrence_count_in_ocr": 7,
+          "occurrence_count_in_ocr": 0,
           "status": "seeded"
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {
@@ -1624,6 +2080,12 @@
       "total_occurrence_count_in_ocr": 1,
       "sources": [
         {
+          "source_id": "electric-discharges-waves-impulses-1914",
+          "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "elementary-lectures-electric-discharges-waves-impulses",
           "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
           "occurrence_count_in_ocr": 0,
@@ -1666,8 +2128,26 @@
           "status": "seeded"
         },
         {
+          "source_id": "theory-calculation-alternating-current-phenomena-1897",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-alternating-current-phenomena-1900",
+          "source_title": "Theory and Calculation of Alternating Current Phenomena",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
           "source_id": "theory-calculation-electric-apparatus",
           "source_title": "Theory and Calculation of Electric Apparatus",
+          "occurrence_count_in_ocr": 0,
+          "status": "seeded"
+        },
+        {
+          "source_id": "theory-calculation-electric-circuits",
+          "source_title": "Theory and Calculation of Electric Circuits",
           "occurrence_count_in_ocr": 0,
           "status": "seeded"
         },
@@ -1679,7 +2159,7 @@
         }
       ],
       "status_counts": {
-        "seeded": 9
+        "seeded": 13
       }
     },
     {

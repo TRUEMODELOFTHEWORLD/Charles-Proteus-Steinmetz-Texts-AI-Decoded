@@ -1,0 +1,236 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn790009.ca.archive.org",
+        "dir": "/0/items/theoryandcalcul03steigoog"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn790009.ca.archive.org",
+        "dir": "/0/items/theoryandcalcul03steigoog"
+      }
+    ]
+  },
+  "created": 1777488559,
+  "d1": "ia903109.us.archive.org",
+  "d2": "ia803109.us.archive.org",
+  "dir": "/30/items/theoryandcalcul03steigoog",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1577347710",
+      "size": "6080",
+      "md5": "6ced74fb7efa3acf2a1c5bde1a184c3e",
+      "crc32": "36c4c0f7",
+      "sha1": "da4513c41e975f1e5a1ddcf93ca2372d28896768",
+      "format": "Item Tile",
+      "rotation": "0"
+    },
+    {
+      "name": "theoryandcalcul03steigoog.djvu",
+      "source": "derivative",
+      "format": "DjVu",
+      "original": "theoryandcalcul03steigoog_djvu.xml",
+      "md5": "386bb067d6e775cb222f1b1dd9352eed",
+      "mtime": "1210539003",
+      "size": "7923190",
+      "crc32": "7ba2f6e7",
+      "sha1": "1b2ff9f10ee388ac773ddd4ecf898e9f9ad484d3"
+    },
+    {
+      "name": "theoryandcalcul03steigoog.gif",
+      "source": "derivative",
+      "format": "Animated GIF",
+      "original": "theoryandcalcul03steigoog_tif.zip",
+      "md5": "fc95a792fa25036a47c728ab437bf86c",
+      "mtime": "1210526518",
+      "size": "108759",
+      "crc32": "86a2c270",
+      "sha1": "73b07905aed914460fb50c313fb1598b3e7d5bc2"
+    },
+    {
+      "name": "theoryandcalcul03steigoog.pdf",
+      "source": "original",
+      "format": "Image Container PDF",
+      "original-name": "Theory_and_Calculation_of_Alternating_Cu.pdf?id=YrseAAAAMAAJ&output=pdf&sig=k_99RjTfhSFOyNFCnXlXBn-_MdA",
+      "size": "8097618",
+      "atime": "1183134255.61",
+      "mtime": "1182900433.0",
+      "ctime": "1182901154.83",
+      "md5": "34401a88a9e48f4cc22d700c2414fb32",
+      "sha1": "e3653388d31ee1e2676b9f49c97ea7ddc230be3c",
+      "crc32": "32231ef6"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_abbyy.gz",
+      "source": "derivative",
+      "format": "Abbyy GZ",
+      "original": "theoryandcalcul03steigoog_tif.zip",
+      "md5": "9b9d56ea0b55d9d0a3be2787650d1cde",
+      "mtime": "1210538416",
+      "size": "9005044",
+      "crc32": "7e30e07c",
+      "sha1": "2b52c22a8d49703454aaf2cac460aa00d8132960"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_archive.torrent",
+      "source": "metadata",
+      "btih": "f884b8026c99097903d0a260094a195a4394cdd4",
+      "mtime": "1577347711",
+      "size": "6482",
+      "md5": "cb974d0d2ab6ff73ba34996d611cbc5f",
+      "crc32": "6662f478",
+      "sha1": "e1c519b8bd85f0dc3bb411d59f3e4e7b2a5111ff",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_dc.xml",
+      "source": "original",
+      "format": "Dublin Core",
+      "md5": "f5a96ae0ef748b4ed2cacd9d7768cb9b",
+      "mtime": "1244032252",
+      "size": "497",
+      "crc32": "b4d7b8d4",
+      "sha1": "13cca278b370525acd8d6bebdaa484d28f0d233c"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_desc.html",
+      "source": "original",
+      "format": "Metadata",
+      "original-name": "books?id=YrseAAAAMAAJ&oe=UTF-8",
+      "size": "39084",
+      "atime": "1183134255.49",
+      "mtime": "1182343174.0",
+      "ctime": "1182343081.99",
+      "md5": "629b3b3b11dbd28641d508d75a5c330f",
+      "sha1": "855e6619c4c23fd8d381c2e8db1cb9bd9022efca",
+      "crc32": "51bb4ec0"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "theoryandcalcul03steigoog.djvu",
+      "md5": "7e33cda00ac943ba5fa8fb15f8eb9667",
+      "mtime": "1210539024",
+      "size": "597859",
+      "crc32": "b49b3d15",
+      "sha1": "595785e477fad02a8bc3ccd1d756787473146cd2"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "theoryandcalcul03steigoog_abbyy.gz",
+      "md5": "38b02e4f4b48f0c28d46fd3362132c45",
+      "mtime": "1210538672",
+      "size": "8009780",
+      "crc32": "f9264418",
+      "sha1": "124a899f2705e70a62a4393fbf2314f4e34a113f"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_files.xml",
+      "source": "metadata",
+      "format": "Metadata",
+      "md5": "10a30fab414dc64fbfb9b49976d3f8ce",
+      "summation": "md5"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_marc.xml",
+      "source": "original",
+      "format": "MARC",
+      "md5": "d42507fe9919228e9646e118b190c5f1",
+      "mtime": "1244032252",
+      "size": "1780",
+      "crc32": "f2ca0d1c",
+      "sha1": "bfce2575ac187e9ee2522c155a8b01726b01e198"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_meta.mrc",
+      "source": "original",
+      "format": "MARC Binary",
+      "md5": "f5c0aa2aa64883038e2d27b793091dce",
+      "mtime": "1244032252",
+      "size": "607",
+      "crc32": "ba64132c",
+      "sha1": "cdfacd24c2ed6f80084bc86946cd7dbf9b1831ee"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_meta.xml",
+      "source": "metadata",
+      "format": "Metadata",
+      "mtime": "1577347709",
+      "size": "1509",
+      "md5": "dd53d72ffe643bc23cfee284d2cf6f01",
+      "crc32": "eb3f319f",
+      "sha1": "f5d318e631aca2541de9bee75c0f80672cbd865f"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "theoryandcalcul03steigoog_djvu.xml",
+      "md5": "5814236a0a6172fda5e7b9ee9e43bb4b",
+      "mtime": "1244032257",
+      "size": "142451",
+      "crc32": "27c49952",
+      "sha1": "7edcd399e6fb1d8b9986c078fea7a0b192aa6d5c"
+    },
+    {
+      "name": "theoryandcalcul03steigoog_tif.zip",
+      "source": "derivative",
+      "format": "Single Page Processed TIFF ZIP",
+      "original": "theoryandcalcul03steigoog.pdf",
+      "md5": "f77dc03fa3f717a0abccb10a106a9e30",
+      "mtime": "1210526490",
+      "size": "36840183",
+      "crc32": "cad4cfb9",
+      "sha1": "f663a705b90fc0e271944ea0c8bb723554f9b1ce",
+      "filecount": "475"
+    }
+  ],
+  "files_count": 16,
+  "item_last_updated": 1577347711,
+  "item_size": 70780923,
+  "metadata": {
+    "publisher": "New York, The W. J. Johnston co.",
+    "identifier": "theoryandcalcul03steigoog",
+    "scanner": "google",
+    "title": "Theory and calculation of alternating current phenomena",
+    "creator": "Steinmetz, Charles Proteus",
+    "mediatype": "texts",
+    "collection": "americana",
+    "possible-copyright-status": "NOT_IN_COPYRIGHT",
+    "identifier-access": "http://www.archive.org/details/theoryandcalcul03steigoog",
+    "year": "1897",
+    "date": "1897",
+    "scandate": "20061113",
+    "copyright-region": "US",
+    "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+    "identifier-ark": "ark:/13960/t3bz6899b",
+    "imagecount": "475",
+    "publicdate": "2008-05-11 20:50:35",
+    "source": "http://books.google.com/books?id=YrseAAAAMAAJ&oe=UTF-8",
+    "contributor": "University of Michigan",
+    "sponsor": "Google",
+    "uploader": "tpb",
+    "oclc-id": "5963883",
+    "language": "eng",
+    "lccn": "01010085",
+    "subject": "Electric currents, Alternating",
+    "repub_state": "4",
+    "backup_location": "ia903601_34",
+    "openlibrary_edition": "OL6904963M",
+    "openlibrary_work": "OL1544447W",
+    "addeddate": "2008-05-11 20:50:35"
+  },
+  "server": "ia803109.us.archive.org",
+  "uniq": 1083052789,
+  "workable_servers": [
+    "ia803109.us.archive.org",
+    "ia903109.us.archive.org"
+  ]
+}

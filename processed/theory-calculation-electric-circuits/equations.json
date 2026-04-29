@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0001",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ance, a rather narrow range, between about 1.6 microhm-cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1003,
+      "line_end": 1003,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0002",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "{1.6 X 10~*) for copper, to about 100 microhm-cm. for cast iron,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1004,
+      "line_end": 1004,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0003",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "I on Fig. 1. Thus, the resistance may be expressed by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1190,
+      "line_end": 1190,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0004",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "r = roT (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1192,
+      "line_end": 1192,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0005",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "3. The metallic conductors are the most important ones in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1211,
+      "line_end": 1211,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0006",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1.3 ohm-cm., in 30 per cent, nitric acid, and still lower in fused",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1264,
+      "line_end": 1264,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0007",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "salts, to about 10,000 ohm-cm. in pure river water, and from there",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1265,
+      "line_end": 1265,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0008",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "For instance, copper, with atomic weight 63 and valency 2, has",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1469,
+      "line_end": 1469,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0009",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the equivalent 63/2 = 31.5 and copper therefore is deposited at",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1470,
+      "line_end": 1470,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0010",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "as given by Faraday's law. For instance: 1 amp.-sec. deposits",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1498,
+      "line_end": 1498,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0011",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "thus must be such that e volts times 1 amp.-sec, or e watt-sec. or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1500,
+      "line_end": 1500,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0012",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "and approximately 1.6 volts) at constant temperature and thus",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1564,
+      "line_end": 1564,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0013",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "i = '-^^^ (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1568,
+      "line_end": 1568,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0014",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "In such a case the curve III of Fig. 2 would with decreasing",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1570,
+      "line_end": 1570,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0015",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "rent, as shown in Fig. 3. When closing the circuit, however, a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1589,
+      "line_end": 1589,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0016",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "stand low voltage only — 1 volt or less — and therefore is of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1647,
+      "line_end": 1647,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0017",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "gins to decrease again with increasing current, range (3). The",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1713,
+      "line_end": 1713,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0018",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "teristic (1) and (2), from that of decreasing characteristic, (3).",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1715,
+      "line_end": 1715,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0019",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the voltage again increases with increasing current, range (4),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1719,
+      "line_end": 1719,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0020",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1+^1======",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1724,
+      "line_end": 1724,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0021",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "In range (1) the conduction is purely metallic, in range (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1734,
+      "line_end": 1734,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0022",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(2) to range (3) by increasing the current therefore not feasible,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1747,
+      "line_end": 1747,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0023",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "voltage point 6 is so high, that the range (3) of decreasing charac-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1887,
+      "line_end": 1887,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0024",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "scissie and Fig. 7 their approximate temperature-resistance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 1976,
+      "line_end": 1976,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0025",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "8se, and Fig. 10 the approximate resistance temperature char-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2005,
+      "line_end": 2005,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0026",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "25 volts at 1 amp. With increasing terminal voltage, the current",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2223,
+      "line_end": 2223,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0027",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "!B CM. LENGTH 0.56 CM. DIAMETER",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2248,
+      "line_end": 2248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0028",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "series in a constant-current circuit of 4.1 amp. this rod would",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2378,
+      "line_end": 2378,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0029",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "constantnjurrent circuit, 20 volts. On constant-potential supply,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2380,
+      "line_end": 2380,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0030",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "15 X 1.9 CM.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2497,
+      "line_end": 2497,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0031",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "With tbe silicon rod II of Fig. 6, on constant-potential supply,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2598,
+      "line_end": 2598,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0032",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "11. An important application of pyroelectric conduction has",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2615,
+      "line_end": 2615,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0033",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the lower resistivities of electrolytes: 1 ohm per cm.'; borides,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2622,
+      "line_end": 2622,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0034",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "carbides, nitrides, oxides, etc., gave values from 1 ohm per cm.*",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2623,
+      "line_end": 2623,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0035",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "cm. and the electrolytes, 1 ohm-cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2629,
+      "line_end": 2629,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0036",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "to the range (1) and (2) of Fig. 3. It, therefore, is of importance",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2636,
+      "line_end": 2636,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0037",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "point b of Fig. 4 into the range (3) and (4) of low resistance, high",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2665,
+      "line_end": 2665,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0038",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the high-resistance range (2) and never passes beyond this range,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2667,
+      "line_end": 2667,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0039",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "13. Operation of pyroelectric conductors on a constant- voltage",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 2694,
+      "line_end": 2694,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0040",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "positive temperature coefficient of resistance, of about 0.1 per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3279,
+      "line_end": 3279,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0041",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "cient of resistance, its conductivity increasing by about 0.1 per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3293,
+      "line_end": 3293,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0042",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "3. Anthracite. — It has an extremely high resistance, is prac-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3296,
+      "line_end": 3296,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0043",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(1) thus shows the characteristics of metallic conduction, (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3305,
+      "line_end": 3305,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0044",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "fiber is about 10^^, of mica 10^*, of rubber 10^^ ohm-cm., etc.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3323,
+      "line_end": 3323,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0045",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "r = roS-\"^ (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3345,
+      "line_end": 3345,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0046",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fig. 15 shows for a number of high-resistance insulat-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 3365,
+      "line_end": 3365,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0047",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fig. 16 shows the voltage-pressure characteristic, at constant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4236,
+      "line_end": 4236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0048",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "current of 0.1 amp. and 0.05 amp., of a Geissler tube of 1.3 cm.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4237,
+      "line_end": 4237,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0049",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "internal diameter and 200 cm. length, using air as conductor, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4238,
+      "line_end": 4238,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0050",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "65 to 500 ohms per cm.* in the Geissler tube conduction of Figs.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4252,
+      "line_end": 4252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0051",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "netite arcs of 0.3; 1.25; 2.5 and 3.75 cm. length.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4671,
+      "line_end": 4671,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0052",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "e = a + 7T- (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4676,
+      "line_end": 4676,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0053",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Pi = 6i i = c -y/i {I + 8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4701,
+      "line_end": 4701,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0054",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ei = 7T— (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4704,
+      "line_end": 4704,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0055",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "a = 13 volts for mercury,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4721,
+      "line_end": 4721,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0056",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 16 volts for zinc and cadmium (approximately),",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4723,
+      "line_end": 4723,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0057",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 30 volts for magnetite,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4725,
+      "line_end": 4725,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0058",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 36 volts for carbon;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4727,
+      "line_end": 4727,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0059",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "c = 31 for magnetite,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4728,
+      "line_end": 4728,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0060",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 35 for carbon;",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4730,
+      "line_end": 4730,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0061",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "d = 0.125 cm. for magnetite,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4731,
+      "line_end": 4731,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0062",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 0.8 cm. for carbon.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4733,
+      "line_end": 4733,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0063",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "bon arc. It agrees fairly well for arc lengths above 0.75 cm., but",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4736,
+      "line_end": 4736,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0064",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "by equation (4), and approaches for i = the value 6 = 28 volts.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4738,
+      "line_end": 4738,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0065",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "It seems as if the terminal drop, a = 36 volts with carbon, con-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4740,
+      "line_end": 4740,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0066",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "sists of an actual terminal drop, oo = 28 volts, and a terminal",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4741,
+      "line_end": 4741,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0067",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "drop of ai = 8 volts, which resides in the space within a short",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4742,
+      "line_end": 4742,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0068",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Inserting in series to a magnetite arc of 1.8 cm. length, shown as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4752,
+      "line_end": 4752,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0069",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "curve I in Fig. 20, a constant resistance of r = 10 ohms, the vol-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4753,
+      "line_end": 4753,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0070",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "io = 2.9 amp. and the arc thus is unstable for currents below",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4759,
+      "line_end": 4759,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0071",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "io = 2.9 amp. thus separates the unstable lower part of curve",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4762,
+      "line_end": 4762,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0072",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "With a larger series resistance, / = 20 ohms, the stability range",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4765,
+      "line_end": 4765,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0073",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "With a smaller series resistance, r\" = 5 ohms, the stability",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4769,
+      "line_end": 4769,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0074",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "At the stability limit, I'o, in curve III of Fig. 20, the resultant",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 4780,
+      "line_end": 4780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0075",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "„• = £(i+«) = 0.5 ci (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5060,
+      "line_end": 5060,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0076",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= a + 1.5 ^SL+J) (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5066,
+      "line_end": 5066,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0077",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ei = d (10)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5101,
+      "line_end": 5101,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0078",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "e - o + c! (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5112,
+      "line_end": 5112,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0079",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= 13 + -",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5131,
+      "line_end": 5131,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0080",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "L-40 CM. = 2.2 CM.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5148,
+      "line_end": 5148,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0081",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "mercury arc, for a tube diameter of 2 cm., is about ^ volts per",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5203,
+      "line_end": 5203,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0082",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "tube, and the specific resistance of the stream, at 4 amp., is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5205,
+      "line_end": 5205,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0083",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "about 0.2 ohms per cm.*, or of the magnitude of one one-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5210,
+      "line_end": 5210,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0084",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "sistance of the arc stream is of the magnitude of 1 ohm per cm.',",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5226,
+      "line_end": 5226,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0085",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ties covers a range of 1 to 10^^. The magnetic circuit thus is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5464,
+      "line_end": 5464,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0086",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "M = a(S - B) (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5486,
+      "line_end": 5486,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0087",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": ". = 1 (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5499,
+      "line_end": 5499,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0088",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "for B = Oy equation (1) gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5509,
+      "line_end": 5509,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0089",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "/jLo = aS = -; a = — (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5511,
+      "line_end": 5511,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0090",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p = a+aH (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5529,
+      "line_end": 5529,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0091",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Bo = B-H (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5540,
+      "line_end": 5540,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0092",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "far from 20 kilolines per cm.^, and that therefore Frohlich's and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5543,
+      "line_end": 5543,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0093",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fig. 23 shows an average magnetization curve, of good standard",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5801,
+      "line_end": 5801,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0094",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "kilolines per cm.^, the abscissae in units for 5i, in tens for B2, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5805,
+      "line_end": 5805,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0095",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Below ff = 3, p is not a straight line, but curved, due to the in-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5812,
+      "line_end": 5812,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0096",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "straight-line law is reached at the point Ci, at ff = 3, and the re-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5814,
+      "line_end": 5814,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0097",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Pi = 0.102 + 0.059 H (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5817,
+      "line_end": 5817,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0098",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Si = 16,950.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5825,
+      "line_end": 5825,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0099",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "At H = 18, a bend occurs in the reluctivity line, marked by",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5827,
+      "line_end": 5827,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0100",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "P2 = 0.18 + 0.0548 ff (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5830,
+      "line_end": 5830,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0101",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "S2 = 18,250.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5838,
+      "line_end": 5838,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0102",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "At H = 80, another bend occurs in the reluctivity line, marked",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5840,
+      "line_end": 5840,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0103",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "P3 = 0.70 + 0.0477 H (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5844,
+      "line_end": 5844,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0104",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "S = 20,960.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 5852,
+      "line_end": 5852,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0105",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "of soft material of reluctivity pi (ferrite) and g = 1 — p of hard",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6167,
+      "line_end": 6167,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0106",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "P2 = a2 + fT^H J",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6172,
+      "line_end": 6172,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0107",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "'>' = ? = ^' + ^'^ (11)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6182,
+      "line_end": 6182,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0108",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p\" = VPi + ^P^ = (P«i + Qoii) + {P<^i + QfT2)H (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6189,
+      "line_end": 6189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0109",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p\" = qa2+aH (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6194,
+      "line_end": 6194,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0110",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Substituting, as instance, (7) and (9) into (11) and (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6196,
+      "line_end": 6196,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0111",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "— = 0.102,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6199,
+      "line_end": 6199,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0112",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "- = 0.059,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6202,
+      "line_end": 6202,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0113",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "qui = 0.70,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6208,
+      "line_end": 6208,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0114",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "<r = 0.0477,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6209,
+      "line_end": 6209,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0115",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p = 0.80 : pi = 0.082 + 0.0477 H,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6211,
+      "line_end": 6211,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0116",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "g = 0.20 : P2 = 3.5 + 0.0477 H.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6212,
+      "line_end": 6212,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0117",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "inward bend of J?i below H = 2, are best shown (\"Engineering",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6245,
+      "line_end": 6245,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0118",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Suppose now, at some point. Bo = 13.15, we stop the increase",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6248,
+      "line_end": 6248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0119",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "\"decreasing magnetic characteristic,\" and at -H = 0, we are not",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6254,
+      "line_end": 6254,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0120",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "back to B = 0, but a residual or remanent flux is left, in Fig. 25 :",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6256,
+      "line_end": 6256,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0121",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "B = 7.4.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6258,
+      "line_end": 6258,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0122",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Ai, at ff = — 1.5, J5 = —4, and then again reverse, we get a ris-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6279,
+      "line_end": 6279,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0123",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "remanent magnetism. Suppose we stop at point A 2, at H =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6281,
+      "line_end": 6281,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0124",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "— 1.12, jB= — 1.0: the rising magnetization curve B '\" then passes",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6282,
+      "line_end": 6282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0125",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "a point, Ao, between Ai and A 2, such that the rising magnetiza-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6284,
+      "line_end": 6284,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0126",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "H = Oj B = 0, and thereby runs into the curve, J5i.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6286,
+      "line_end": 6286,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0127",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "various rising and decreasing characteristics B\", J?i, J5\"', B\"u",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6310,
+      "line_end": 6310,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0128",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "limits +At, and -~Ba, as shown in Fig. 26, its decreasing branch",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6323,
+      "line_end": 6323,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0129",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "line given as P) in Fig. 28. At Iiigher values of H: from H = Z uf^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6510,
+      "line_end": 6510,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0130",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Thus in Fig. 27, an alternating field H = 1 gives an alternating",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6803,
+      "line_end": 6803,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0131",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "flux density, B2 = 2.6. If, however, this field strength ff = 1",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6804,
+      "line_end": 6804,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0132",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "is left on the magnetic circuit, the flux does not remain at B2 =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6805,
+      "line_end": 6805,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0133",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Thus the alternating characteristic, £2, however important in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6817,
+      "line_end": 6817,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0134",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Thus, for instance, from point Po, the points Pi, P2, P3, etc., are",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6836,
+      "line_end": 6836,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0135",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "J? = 1, may give any value of flux density between B = —4.6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6840,
+      "line_end": 6840,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0136",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "and B = +13.6, and a given value of flux density, such as B =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6841,
+      "line_end": 6841,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0137",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "10, may result from any value of field intensity, between H =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6842,
+      "line_end": 6842,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0138",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "- 0.25 to ff = + 3.4",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6843,
+      "line_end": 6843,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0139",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "point Pi, Fig. 27: H == 2j B = 13, would rapidly change, by the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6852,
+      "line_end": 6852,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0140",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "flux density decreasing, to Po, slower to P2 and then still slower,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6853,
+      "line_end": 6853,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0141",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "36. For H = 0, the magnetic range is from —Ro = —11.2 to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6872,
+      "line_end": 6872,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0142",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "+jBo = 11.2; the permanent value is zero. The method of reach-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6873,
+      "line_end": 6873,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0143",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "tion curve. Thus for ff = 1, to reach permanent condition, an",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6881,
+      "line_end": 6881,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0144",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "alternating m.m.f. is superimposed upon H = 1, and gradually",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6882,
+      "line_end": 6882,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0145",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ing amplitude, with ff = 1, as mean value, the flux density gradu-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6884,
+      "line_end": 6884,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0146",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "entire range down to H = 0, and the inward bend of the magnetic",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 6901,
+      "line_end": 6901,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0147",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "37. As the industrially most important varying magnetic fields",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7025,
+      "line_end": 7025,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0148",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "f> = sB (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7043,
+      "line_end": 7043,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0149",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "e = ns-^ (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7047,
+      "line_end": 7047,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0150",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "F = ni (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7051,
+      "line_end": 7051,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0151",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "H = 47r/",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7060,
+      "line_end": 7060,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0152",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "hence, substituting (5) into (6) and transposing,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7061,
+      "line_end": 7061,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0153",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "or, per cm.^ of the magnetic circuit, that is, f or s = 1 and Z =* ^h",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7076,
+      "line_end": 7076,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0154",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ti?i,2 = — I HdB ergs (1«)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7092,
+      "line_end": 7092,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0155",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "HdB = j4 is the area of the hysteresis loop, shown shaded",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7119,
+      "line_end": 7119,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0156",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "from B = 1000 to S = 12,000, the hysteresie lose can with suffi-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7245,
+      "line_end": 7245,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0157",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = i)B'» (15)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7249,
+      "line_end": 7249,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0158",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "of 1 X 10~' to 2 X 10~' for annealed soft sheet steel, if fi is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7391,
+      "line_end": 7391,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0159",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "or w is given in watts per kilogram or per pound at 60 cycles.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7395,
+      "line_end": 7395,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0160",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 0.824 X 10-^ B^' (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7409,
+      "line_end": 7409,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0161",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "values is good up to B = 10,000, but above this density, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7412,
+      "line_end": 7412,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0162",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "As seen, the magnetite carries practically no flux up to £ = 10,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7593,
+      "line_end": 7593,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0163",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "but beyond B = 12, the flux carried by the magnetite rapidly",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7594,
+      "line_end": 7594,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0164",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Wi = 1.2 B,i-« X 10-^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7740,
+      "line_end": 7740,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0165",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Wj = 23.5 S„i-» X 10-^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7743,
+      "line_end": 7743,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0166",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 1.38 B'-« X 10-^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7746,
+      "line_end": 7746,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0167",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "resis coefficient rj, at high densities, over the value 1.38 X 10~',",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7758,
+      "line_end": 7758,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0168",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "f = ^ (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7771,
+      "line_end": 7771,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0169",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w == rjB^ (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7776,
+      "line_end": 7776,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0170",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "where n = 1.6, it is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7778,
+      "line_end": 7778,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0171",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "r = MTTT? B^-^ (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7780,
+      "line_end": 7780,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0172",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "With decreasingdensity5,B'»~2 steadily increases, if n < 2, and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7786,
+      "line_end": 7786,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0173",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "In the case of Fig. 33, for t? = 0.824 X 10\"^, assuming the per-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7795,
+      "line_end": 7795,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0174",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "II = 1500,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7798,
+      "line_end": 7798,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0175",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "If n > 2, B** - 2 steadily decreases with decreasing B, and the per-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7803,
+      "line_end": 7803,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0176",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "log V} = log II + n log B (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7974,
+      "line_end": 7974,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0177",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "log B, This is done for the silicon steel. Fig. 33, over the range",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7986,
+      "line_end": 7986,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0178",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "from S = 30 to B = 16,000, in Fig. 36, as curve I.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7987,
+      "line_end": 7987,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0179",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "from log B = 3; B = 1000, to log B = 4; B = 10,000, with slope",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7990,
+      "line_end": 7990,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0180",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1.6006, and for low densities, up to log B = 2.6; B = 400, with",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7991,
+      "line_end": 7991,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0181",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 0.824 Si« X 10-»",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7996,
+      "line_end": 7996,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0182",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 0.00257 B^-ii X 10-3",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 7999,
+      "line_end": 7999,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0183",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "However, in this lower range, n = 2 gives a curve:",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8000,
+      "line_end": 8000,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0184",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 0.0457 B^ X 10-3",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8002,
+      "line_end": 8002,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0185",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "n = 1.923,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8009,
+      "line_end": 8009,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0186",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "that is, that at about B = 500, in iron the point is reached, below",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8018,
+      "line_end": 8018,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0187",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "apply, above B = 10,000, and between B = 500 and B = lOOO,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8026,
+      "line_end": 8026,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0188",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "rj = 0.824 X 10-3 fQj. ^i^Q medium range, where n = 1.6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8032,
+      "line_end": 8032,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0189",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "771 = 0.0457 X 10-3 for the low range, where n\\ ^ 2",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8033,
+      "line_end": 8033,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0190",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "n = 1.6 for the medium range, where ij = 0.0824 X 10-'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8048,
+      "line_end": 8048,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0191",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Ml = 2 for the low range, where in = 0.0457 X 10\"*",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8049,
+      "line_end": 8049,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0192",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "bolic equations with n = 1.6 and ui = 2, and Fig. 36 shows the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8175,
+      "line_end": 8175,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0193",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "exponent is very small, rising only to 1.64, or by 2.5 per cent., while",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8181,
+      "line_end": 8181,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0194",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = rjB'' (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8187,
+      "line_end": 8187,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0195",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "log w = log 7} + n log B, (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8198,
+      "line_end": 8198,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0196",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^=-log5 (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8226,
+      "line_end": 8226,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0197",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(a) 17 =3 const.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8252,
+      "line_end": 8252,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0198",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(6) n ■» const. =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8256,
+      "line_end": 8256,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0199",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1; = 1.254X100-3",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8275,
+      "line_end": 8275,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0200",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "n2 = 1 . 6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8278,
+      "line_end": 8278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0201",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1,2 = 1. 254 XlO-«",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8281,
+      "line_end": 8281,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0202",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "W = 97B\"; n = 1.6",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8385,
+      "line_end": 8385,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0203",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "still be represented by the curve with the exponent n = 1.6,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8394,
+      "line_end": 8394,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0204",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "cent., at B = 10,000, changes 77 by about 16 per cent.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8399,
+      "line_end": 8399,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0205",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Thus in Fig, 37 is represented as 1 the logarithmic curve of a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8408,
+      "line_end": 8408,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0206",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "sity gives the exponent n = 1.556, at low densities the exponent",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8410,
+      "line_end": 8410,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0207",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "rti = 1.923. Assuming, however, ti = 1.6 and Wi = 2.0, gives",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8411,
+      "line_end": 8411,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0208",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the average values i, = 1.21 X 10\"' and vi = 010 X 10\"', and the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8412,
+      "line_end": 8412,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0209",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1.6 respectively 2 is considerable, the curves drawn with n =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8553,
+      "line_end": 8553,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0210",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "1.6 and Wi = 2 still represent the observed values fairly well in",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8554,
+      "line_end": 8554,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0211",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "B = 2 — ) follows the same approximate law of the 1.6***",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8856,
+      "line_end": 8856,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0212",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Bo = 2 '",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8865,
+      "line_end": 8865,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0213",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "cycle, and for B2 = —Bi, equation (23) changes to that of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8905,
+      "line_end": 8905,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0214",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Bo = ^L+A* (24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8909,
+      "line_end": 8909,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0215",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = {ri+ pBo'')B^'^ (26)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8936,
+      "line_end": 8936,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0216",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = rioB^'^ (27)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8938,
+      "line_end": 8938,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0217",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "710 = ri + PBo'-' (28)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8940,
+      "line_end": 8940,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0218",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w = 770B\" (29)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8943,
+      "line_end": 8943,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0219",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "770 = 17 + PBo^ (30)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8945,
+      "line_end": 8945,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0220",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "17 = 1.06 X 10-3",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8950,
+      "line_end": 8950,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0221",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "/3 = 0.344 X 10-i«",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8952,
+      "line_end": 8952,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0222",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "17 = 1.05 X 10-'",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8956,
+      "line_end": 8956,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0223",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p = 0.32 X 10",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8965,
+      "line_end": 8965,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0224",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Bi = -|- 12,000 and -Bg = —4000, the increase of the hysteresis",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8975,
+      "line_end": 8975,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0225",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": ",„-1.OSx10'V32B''%1(J^",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 8992,
+      "line_end": 8992,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0226",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "and Si = 12,000.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9059,
+      "line_end": 9059,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0227",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "47. With the exception of a few ferromagnetic substances, the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9068,
+      "line_end": 9068,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0228",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "paramagnetic metals, is /x = 1.003; the permeability of bismuth,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9076,
+      "line_end": 9076,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0229",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "which is very strongly diamagnetic, is /* = 1 — 0.00017 = 0.99983.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9077,
+      "line_end": 9077,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0230",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^^ lower intrinsic saturation value. Thus, if S = 21 X 10' is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9101,
+      "line_end": 9101,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0231",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "value ofS = 0.72 X 21 X 10« = 15.1 X 10* only, or a still lower",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9110,
+      "line_end": 9110,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0232",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "saturation value, S = 19.2 X 10^, but the coefficient of hardness",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9125,
+      "line_end": 9125,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0233",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "of chilled tool steel, a = 8 X 10~^, is 200 times that of the special",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9126,
+      "line_end": 9126,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0234",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "silicon steel, a = 0.04 X 10\"^, and the coefficient of hysteresis of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9127,
+      "line_end": 9127,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0235",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the chilled tool steel, 17 = 75 X 10\"', is 125 times that of the sili-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9128,
+      "line_end": 9128,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0236",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "con steel, 77 = 0.6 X 10\"'. Hardness and hysteresis loss seem",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9129,
+      "line_end": 9129,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0237",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "changes the magnetic constants, especially a and 17— more or",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9154,
+      "line_end": 9154,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0238",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "48. The most important, and therefore most completely in-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9166,
+      "line_end": 9166,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0239",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Its saturation value is probably between S = 21.0 X 10^ and",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9169,
+      "line_end": 9169,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0240",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "S = 21.5 X 10^, the saturation coefficient thus a = 0.047.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9170,
+      "line_end": 9170,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0241",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "saturation values between 20 X 10' and 21 X 10' are found on",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9174,
+      "line_end": 9174,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0242",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "sheet steel or cast steel, etc., lower values, 19 to 19.5 X 10*,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9175,
+      "line_end": 9175,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0243",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "lower values, 12 to 15 X 10', in very impure materials, such as",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9177,
+      "line_end": 9177,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0244",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Pi'actically non-magnetic, lowers the permeability to /x = 1.4.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9202,
+      "line_end": 9202,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0245",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "be 48 per cent., and the saturation density 5^ = 10 X 10^.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9242,
+      "line_end": 9242,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0246",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "saturation density of 4.7 X 10^ to 5.91 X 10^, so that magnet-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9245,
+      "line_end": 9245,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0247",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Its saturation value probably is between S = 12 X 10^ and S =",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9257,
+      "line_end": 9257,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0248",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "14 X 10^, and its magnetic characteristic looks very similar to that",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9258,
+      "line_end": 9258,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0249",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "tween S = 6 X 10^ and /S = 7 X lO^.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9273,
+      "line_end": 9273,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0250",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ganese as pure metal should be about S = 30 X 10^. This",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9290,
+      "line_end": 9290,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0251",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "of temperature, by passing Cr02Cl2 with hydrogen through a",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9380,
+      "line_end": 9380,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0252",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "50. On attached tables are given the magnetic constants of the",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9393,
+      "line_end": 9393,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0253",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "\"\"I = coefficient of hysteresis, in the 1.6*^ power law.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9417,
+      "line_end": 9417,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0254",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "3 = coefficient of unsymmetrical cycle, for the two cases",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9418,
+      "line_end": 9418,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0255",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fig. 42 gives the magnetic characteristics, up to H = 160",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9438,
+      "line_end": 9438,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0256",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "up to £f = 16, for the magnetically aoft materials of Fig. 42,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 9552,
+      "line_end": 9552,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0257",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "energy produced, + increase of the stored magnetic energy. (1)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11124,
+      "line_end": 11124,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0258",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "mechanical energy t^o =Fl by (1), and therefrom the mechanical",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11137,
+      "line_end": 11137,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0259",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "2. The Constant-current Electromagnet",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11175,
+      "line_end": 11175,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0260",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "to its final position 2,1 = the length of this motion, or the stroke",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11183,
+      "line_end": 11183,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0261",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "L=-^10-8 (2)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11189,
+      "line_end": 11189,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0262",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "$, = Mil 108 (3)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11196,
+      "line_end": 11196,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0263",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^, = 12^ 108 (4)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11203,
+      "line_end": 11203,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0264",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "e' = n_lO« = t.^ (5)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11214,
+      "line_end": 11214,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0265",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "p = toe' = io^ -^ (6)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11218,
+      "line_end": 11218,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0266",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ti; = I pdt = nio^(L2 — Li) (7)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11222,
+      "line_end": 11222,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0267",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "wi = — 2\" (8)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11230,
+      "line_end": 11230,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0268",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "W2 = — ?r— (9)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11236,
+      "line_end": 11236,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0269",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "w' = W2 — Wi = -^ (L2 — Li) (10",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11242,
+      "line_end": 11242,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0270",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "= —(L2 - Li) joules. (1 ^)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11248,
+      "line_end": 11248,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0271",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "g = 981 cm.-sec. QJ-^)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11257,
+      "line_end": 11257,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0272",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "and since 1 joule = 10^ absolute units, the mechanical work is",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11272,
+      "line_end": 11272,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0273",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Wo = Fig 10+7 joules. (13)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11274,
+      "line_end": 11274,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0274",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fl = ]f^ (L2 - Li)10+7 gram-cm. (14)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11278,
+      "line_end": 11278,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0275",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "F = '^ ^^^-^ 10' grams (16)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11282,
+      "line_end": 11282,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0276",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "454 X 30.5 = 13,850",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11294,
+      "line_end": 11294,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0277",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "which gives, after substituting for g from (12)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11295,
+      "line_end": 11295,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0278",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(14) : Fl = 3.68 tV(L2 - Li) ft.-lb (17)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11297,
+      "line_end": 11297,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0279",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(15) : F = 3.68 zV ^' \"^ ^' lb. (18)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11299,
+      "line_end": 11299,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0280",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "(16) : F = 3.68 tV ^ lb. (19)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11301,
+      "line_end": 11301,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0281",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "e = 27r fLio (20)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11318,
+      "line_end": 11318,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0282",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "ij. = 2^ (21)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11326,
+      "line_end": 11326,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0283",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "PI = ^ \\ . ^ gram-cm. (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11334,
+      "line_end": 11334,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0284",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "„ io(e2 — ei) 10^ _Jo^ de ^ ,^.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11336,
+      "line_end": 11336,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0285",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^ — 4irp 1^-^^^^\"^ (23)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11338,
+      "line_end": 11338,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0286",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Fl = 0-586 io{e, - e^) ^^ _j^^ ^24)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11342,
+      "line_end": 11342,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0287",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "the stroke is 3 cm., the voltage, consumed at the constant alter-",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11349,
+      "line_end": 11349,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0288",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "F = 122 grams (= 0.27 lb.)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11402,
+      "line_end": 11402,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0289",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "beginning of the stroke were zero, that is, ei = 0, and tbe",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11412,
+      "line_end": 11412,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0290",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "FJ = i^ (26)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11415,
+      "line_end": 11415,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0291",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "output, or the efficiency of the electromagnet, thus is, by (22)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11423,
+      "line_end": 11423,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0292",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^^F^e^ (27)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11426,
+      "line_end": 11426,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0293",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "or, using the more general equation (14), which also appUes to",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11428,
+      "line_end": 11428,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0294",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "r, = ^^^ (28)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11431,
+      "line_end": 11431,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0295",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "linoited. For 1062 = 1, that is, for 1 volt-amp. the maximum",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11448,
+      "line_end": 11448,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0296",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "FJ = j^ = -J- gram-cm. (29)",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11454,
+      "line_end": 11454,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0297",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "^3.5 gram-cm., and a 25-cycle electromagnet never more than",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11457,
+      "line_end": 11457,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0298",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "32.4 gram-cm. pull per volt-ampere suppUed to its terminals.",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11458,
+      "line_end": 11458,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0299",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "Or inversely, for an average pull of 1 gram over a distance of",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11460,
+      "line_end": 11460,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  },
+  {
+    "id": "theory-calculation-electric-circuits-eq-candidate-0300",
+    "source_id": "theory-calculation-electric-circuits",
+    "original_form": "cm., a minimum of y^-r volt-amp. is required at 60 cycles,",
+    "modern_form": "",
+    "variables": [],
+    "physical_meaning": "",
+    "source_ref": {
+      "source_id": "theory-calculation-electric-circuits",
+      "line_start": 11462,
+      "line_end": 11462,
+      "verification": "needs-verification"
+    },
+    "status": "candidate"
+  }
+]

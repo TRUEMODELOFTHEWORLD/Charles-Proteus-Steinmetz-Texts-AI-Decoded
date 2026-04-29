@@ -1,0 +1,26 @@
+{
+  "source_id": "electric-discharges-waves-impulses-1914",
+  "collection_id": "steinmetz",
+  "person_id": "charles-proteus-steinmetz",
+  "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+  "year": 1914,
+  "source_type": "lecture_collection_edition",
+  "source_status": "ocr_seeded",
+  "internet_archive_id": "elementarylectur00stei",
+  "source_url": "https://archive.org/details/elementarylectur00stei",
+  "edition_note": "Second edition, revised and enlarged; Open Library lists the 1914 edition with Internet Archive identifier elementarylectur00stei.",
+  "custody": {
+    "raw_scan_status": "remote_internet_archive_scan_not_copied",
+    "ocr_status": "internet_archive_ocr_preserved",
+    "processed_status": "candidate_catalogs_generated",
+    "scan_verification": "pending"
+  },
+  "quality_rules": [
+    "OCR text is a navigation and candidate-extraction layer, not a corrected edition.",
+    "Exact quotations must be verified against the page image or PDF scan.",
+    "Equation, figure, and glossary candidates remain unpromoted until reviewed.",
+    "Edition differences must stay visible when comparing this source to related editions."
+  ],
+  "why_it_matters": "Expanded edition of the transient lecture source, with special value for waves, impulses, lightning, and discharge language.",
+  "ingested": "2026-04-29"
+}

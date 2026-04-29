@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "quality_note": "Schema reference for public and processed data. It is descriptive, not a formal JSON Schema validator yet.",
   "files": [
     {
@@ -20,7 +20,7 @@
           "title",
           "year"
         ],
-        "record_count": 11
+        "record_count": 15
       },
       "review_state_fields": [
         "processed_status",
@@ -84,7 +84,7 @@
           "status",
           "year"
         ],
-        "record_count": 3345
+        "record_count": 4855
       },
       "review_state_fields": [
         "confidence",
@@ -122,7 +122,7 @@
           "top_themes",
           "word_count"
         ],
-        "record_count": 304
+        "record_count": 394
       },
       "review_state_fields": [
         "status"
@@ -201,7 +201,7 @@
           "word_count",
           "year"
         ],
-        "record_count": 304
+        "record_count": 394
       },
       "review_state_fields": [
         "status"
@@ -343,7 +343,7 @@
           "verification_note",
           "year"
         ],
-        "record_count": 12
+        "record_count": 16
       },
       "review_state_fields": [
         "verification_note"
@@ -578,7 +578,7 @@
           "title",
           "year"
         ],
-        "record_count": 11
+        "record_count": 15
       },
       "review_state_fields": [
         "edition_review_status",

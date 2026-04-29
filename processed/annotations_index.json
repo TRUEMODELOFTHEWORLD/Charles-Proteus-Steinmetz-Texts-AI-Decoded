@@ -1,11 +1,11 @@
 {
   "quality_note": "Annotations include manual source notes when present plus generated review aids derived from processing state. Generated annotations are not source claims.",
-  "total_records": 41,
+  "total_records": 53,
   "manual_records": 5,
-  "generated_records": 36,
+  "generated_records": 48,
   "status_counts": {
     "generated-custody-note": 3,
-    "generated-review-aid": 33,
+    "generated-review-aid": 45,
     "pdf-text-extracted-candidate": 5
   },
   "records": [
@@ -416,6 +416,126 @@
       "kind": "glossary-review",
       "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
       "target": "processed/commonwealth-edison-generating-system-trouble/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-next-action",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/theory-calculation-alternating-current-phenomena-1897/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-equation-triage",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-alternating-current-phenomena-1897/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-glossary-review",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-alternating-current-phenomena-1897/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-next-action",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/theory-calculation-alternating-current-phenomena-1900/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-equation-triage",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-alternating-current-phenomena-1900/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-glossary-review",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-alternating-current-phenomena-1900/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-circuits-next-action",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/theory-calculation-electric-circuits/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-circuits-equation-triage",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/theory-calculation-electric-circuits/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "theory-calculation-electric-circuits-glossary-review",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/theory-calculation-electric-circuits/glossary.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-next-action",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "next-action",
+      "annotation": "Promote scan-verified figure crops and anchor high-value figures to pages.",
+      "target": "/sources/electric-discharges-waves-impulses-1914/",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-equation-triage",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "equation-triage",
+      "annotation": "300 OCR-derived equation candidates need triage into canonical, false positive, and review groups.",
+      "target": "processed/electric-discharges-waves-impulses-1914/equations.json",
+      "status": "generated-review-aid",
+      "generated": true
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-glossary-review",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "kind": "glossary-review",
+      "annotation": "12 glossary records should be checked against source wording before canonical promotion.",
+      "target": "processed/electric-discharges-waves-impulses-1914/glossary.json",
       "status": "generated-review-aid",
       "generated": true
     }

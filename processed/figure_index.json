@@ -1,13 +1,13 @@
 {
   "quality_note": "Candidate figure records come from OCR. Promoted crops are separate scan-derived assets.",
-  "candidate_total_records": 326,
+  "candidate_total_records": 504,
   "promoted_original_figure_count": 15,
   "status_counts": {
-    "candidate": 325,
+    "candidate": 503,
     "pdf-text-extracted-candidate": 1
   },
   "verification_counts": {
-    "needs-verification": 325,
+    "needs-verification": 503,
     "pdf-text-extracted-needs-scan-verification": 1
   },
   "candidate_records": [
@@ -4904,6 +4904,2676 @@
         "line_start": 2560,
         "line_end": 2570,
         "verification": "pdf-text-extracted-needs-scan-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-009",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 9,
+      "caption": "in the direction of the vector, giving the positive half-wave, Fig. 9. and once in opposition to the vector, giving the negative",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2170,
+        "line_end": 2170,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-010",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 10,
+      "caption": "different, they give different polar characteristics. Fig. 10. 15. The sine wave, Fig. 1, is represented in polar",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2178,
+        "line_end": 2178,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-011",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 11,
+      "caption": "nates by a vector, which by its length, OC, denotes tlie in- Fig. 11. tensity, and by its amplitude, AOC, the phase, of the sine",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2266,
+        "line_end": 2266,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-012",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 12,
+      "caption": "— ~^^E. Fig. 12. volts. What will be the E.M.F. required at the generator end of the line ?",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2338,
+        "line_end": 2338,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-016",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 16,
+      "caption": "Eo = V(^ cos a> + Jry + {E^m u> -f Jx)\\ Fig. 16. If, however, the current in the receiving circuit is",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2519,
+        "line_end": 2519,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-077",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 77,
+      "caption": "non-inductive load it will be lower than when feeding into Fig. 77. a circuit with leading current, as, for instance, a synchro-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 2560,
+        "line_end": 2560,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-025",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 25,
+      "caption": "reaction in mechanics. Fig. 25. Further, it is obvious that if in the circuit of a gener-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 3244,
+        "line_end": 3244,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-027",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 27,
+      "caption": "by one-third of a period. Let the RM.Fs. in the direction Fig. 27. from the common connection O of the three branch circuits to the terminals A^, A^f A^, be represented by E-^^ E^, E^.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 3285,
+        "line_end": 3285,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-033",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 33,
+      "caption": "ii Fig. 33. In the same manner, if two branches, E^E^^ and Ei^E^f are loaded, and the third, E^E^, is unloaded, and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 3456,
+        "line_end": 3456,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-035",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 35,
+      "caption": "It is obvious now, since the potential of every point of Fig. 35. the circuit is represented by a point in the topographic",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 3529,
+        "line_end": 3529,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-038",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 38,
+      "caption": "m. fig. 38. and the current is,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 4210,
+        "line_end": 4210,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-043",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 43,
+      "caption": "resofiafice. Fig. 43. Since a synchronous motor in the condition of efficient working acts as a condensance, we get the remarkable result",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 4444,
+        "line_end": 4444,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-048",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 48,
+      "caption": "3— Fig. 48. Thus we have : —",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 5243,
+        "line_end": 5243,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-060",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 60,
+      "caption": "n\\f. 40. Fig. 60. E.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 5305,
+        "line_end": 5305,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-055",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 55,
+      "caption": "E^y with increasing load. Fig. 55. Let —",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 5907,
+        "line_end": 5907,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-081",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 81,
+      "caption": "iron, to give the same loss of energy through eddy currents. Fig. 81. 02. Demagnetizing^ or screening effect of eddy currents.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 10894,
+        "line_end": 10894,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-110",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 110,
+      "caption": "also. Thus, we have, in this case, even on open circuit, no Fig. 110. rotation through a constant magnetic field, but rotation through a pulsating field, which makes the E.M.F. wave",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 17072,
+        "line_end": 17072,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-112",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 112,
+      "caption": "its maximum while the armature coil still partly faces the Fig. 112. preceding-field pole, as shown in diagram Fig. 112, — it tends",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 17126,
+        "line_end": 17126,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-122",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 122,
+      "caption": "eral, in one of these diagrams shown in Fig. 122 in drawn Fig. 122. lines, current and E.M.F. are in the same direction, repre- senting mechanical work done by the machine as motor.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19447,
+        "line_end": 19447,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-124",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 124,
+      "caption": "tor diagram in dotted line. Fig. 124. As seen, for small values of E^ the potential drops in the alternator and in the line. For the value of E^ = Eq",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19519,
+        "line_end": 19519,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-125",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 125,
+      "caption": "\\ X Fig. 125. 180. A. — Constant impressed E.M.F, E^y constant current",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19555,
+        "line_end": 19555,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-128",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 128,
+      "caption": "In the first case, Ey^ = E^ (Fig. 127), we see that at Fig. 128. very small curren^, that is very small OE, the current /",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19688,
+        "line_end": 19688,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-129",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 129,
+      "caption": "the current can never become zero like in the first case^ Fig. 129. El = E^y but has a minimum value corresponding to the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19721,
+        "line_end": 19721,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-130",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 130,
+      "caption": ":^ Fig. 130. El = Eq at Ei^y and then increases beyond Eq, The cur-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19816,
+        "line_end": 19816,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-131",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 131,
+      "caption": "in Chapter IX. Fig. 131. 183. D. E^ =^ constant ; P ^ constant.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19857,
+        "line_end": 19857,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-132",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 132,
+      "caption": "8/lti.7 Fig. 132. can be transmitted by the same current / with two different induced RM.Fs. E^ of the motor; one, OEi = EEq small,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 19949,
+        "line_end": 19949,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-133",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 133,
+      "caption": "ox Fig. 133. The counter E.M.F. of the motor, Ei, is OEi, equal and parallel EE^y but not shown in the diagrams, to avoid",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 20059,
+        "line_end": 20059,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-136",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 136,
+      "caption": "«-^iC- — Fig. 136. Fig. 137.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 20254,
+        "line_end": 20254,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-137",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 137,
+      "caption": "Fig. 136. Fig. 137. we get",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 20257,
+        "line_end": 20257,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-103",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 103,
+      "caption": "o E Fig. 103. I",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 25185,
+        "line_end": 25185,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-104",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 104,
+      "caption": "I Fig. 104. The different branches of a polyphase system may be either independent from each other, that is, without any",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 25191,
+        "line_end": 25191,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1897-fig-165",
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 165,
+      "caption": "four collector rings, as shown diagrammatically in Fig. 165, Fig. 165. is an interlinked system also. The four-wire quarter-phase system produced by a generator with two independent",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1897",
+        "line_start": 25219,
+        "line_end": 25219,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-008",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 8,
+      "caption": "mum value is found in the following way : — Fig. 8. Let, in Fig. 6, AOB represent a quadrant of a circle with radius 1.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 1452,
+        "line_end": 1452,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-007",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 7,
+      "caption": "found in the following way : Fig. 7. Let, in Fig. 7, AOB represent a quadrant of a circle",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 1503,
+        "line_end": 1503,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-011",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 11,
+      "caption": "nates by a vector, which by its length, OC, denotes the in- Fig. 11. tensity, and by its amplitude, AOC, the phase, of the sine",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 1892,
+        "line_end": 1892,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-012",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 12,
+      "caption": "be sent into a non-inductive circuit at an E.M.F. of E Fig. 12. volts. What will be the E.M.F. required at the generator end of the line ?",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 1936,
+        "line_end": 1936,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-013",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 13,
+      "caption": "E? 0 Fig. 13. 18. We may, however, introduce the effect of the induc-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 1989,
+        "line_end": 1989,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-014",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 14,
+      "caption": "E.V o Fig. 14. of the impressed E.M.F., in the latter case being of opposite phase. According to the nature of the problem, either the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2025,
+        "line_end": 2025,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-015",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 15,
+      "caption": "—X« Fig. 15. 19. Coming back to the equation found for the E.M.F.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2062,
+        "line_end": 2062,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-018",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 18,
+      "caption": "E0 = V(^ cos w + Ir)2 -f- (E sin w + Ix)z. Fig. 18. If, however, the current in the receiving circuit is leading, as -is the case when feeding condensers or syn-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2112,
+        "line_end": 2112,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-017",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 17,
+      "caption": "'E. Fig. 17. a circuit with leading current, as, for instance, a synchro- nous motor circuit under the circumstances stated above.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2152,
+        "line_end": 2152,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-020",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 20,
+      "caption": "same E.M.F. and current ; or conversely, at a given primary Fig. 20. impressed E.M.F., E0, the secondary E.M.F., E^ will be smaller with an inductive, and larger with a condenser",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2295,
+        "line_end": 2295,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-021",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 21,
+      "caption": "ever, this becomes too complicated, as will be seen by trying Fig. 21. to calculate, from the above transformer diagram, the ratio of transformation. The primary M.M.F. is given by the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2379,
+        "line_end": 2379,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-022",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 22,
+      "caption": "the graphical representation. Fig. 22. 25. We have seen that the alternating sine wave is represented in intensity, as well as phase, by a vector, Of,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2395,
+        "line_end": 2395,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-024",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 24,
+      "caption": "riod ; tJiat is, retarding the wave through one-quarter period. Fig. 24. Similarly, —",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2524,
+        "line_end": 2524,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-028",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 28,
+      "caption": "-*' Fig. 28. 34. Let, for instance, in Fig. 27, an interlinked three- phase system be represented diagrammatically, as consist-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2816,
+        "line_end": 2816,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-027",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 27,
+      "caption": "by one-third of a period. Let the E.M.Fs. in the direction Fig. 27 from the common connection O of the three branch circuits",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2824,
+        "line_end": 2824,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-029",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 29,
+      "caption": "E° Fig. 29. E.M.Fs., these currents are represented in Fig. 29 by the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2905,
+        "line_end": 2905,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-031",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 31,
+      "caption": "•I, Fig. 31. Fig. 32.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2964,
+        "line_end": 2964,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-032",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 32,
+      "caption": "Fig. 31. Fig. 32. As seen, the induced generator E.M.F. and thus the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 2967,
+        "line_end": 2967,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-034",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 34,
+      "caption": "90° LAO Fig. 34. Only the circuit characteristics of the first phase are shown as ^ and z'r As seen, passing from the receiving",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 3089,
+        "line_end": 3089,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-035",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 35,
+      "caption": "RESISTANCE AND LEAKAGE Fig. 35. current alternately rise and fall, while their phase angle",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 3102,
+        "line_end": 3102,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-038",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 38,
+      "caption": "Er Er0 Fig. 38. and the current is, /=",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 3764,
+        "line_end": 3764,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-039",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 39,
+      "caption": "E Fig. 39. Z-jx0 r—j(x + x0}'",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 3771,
+        "line_end": 3771,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-040",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 40,
+      "caption": "of reactance in series in a non-inductive circuit is, for small Fig. 40. values of reactance, independent of the sign, but propor-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 3869,
+        "line_end": 3869,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-041",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 41,
+      "caption": "-t-CONDENSANCE Fig. 41. E0 = 100 volts, and the following conditions of receiver circuit •— z= 1 Qj r = 1>0> x= 0 (Curve j)",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4148,
+        "line_end": 4148,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-042",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 42,
+      "caption": "series reactance continues up to x0 = il.6, or, x0 = — %x, Fig. 42. where E = 100 volts again ; and for x0 > 1.6 the voltage drops again.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4179,
+        "line_end": 4179,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-043",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 43,
+      "caption": "\\ Fig. 43. Since a synchronous motor in the condition of efficient working acts as a condensance, we get the remarkable result",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4194,
+        "line_end": 4194,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-044",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 44,
+      "caption": "x0 = 3.2 (Curve VI.) Fig. 44. Since z = 1.0, the current, /, in all these diagrams has the same value as E.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4236,
+        "line_end": 4236,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-049",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 49,
+      "caption": "tance factor, *0/r0, of the series impedance. Fig. 49. ''o",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4509,
+        "line_end": 4509,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-050",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 50,
+      "caption": "''o Fig. 50. 50. As an example, Fig. 48 shows the E.M.F., E,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4513,
+        "line_end": 4513,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-051",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 51,
+      "caption": "as functions of the reactance, x, of the receiver circuit. Fig. 51. Figs. 49 to 51 give the polar diagram for E0 = 100, x = .95, x = 0, x = - .95, and Z0 = .3 -/ .4.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4527,
+        "line_end": 4527,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-052",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 52,
+      "caption": "tance,— that is, of the power consumed in the receiver Fig. 52. circuit, which in this case approaches the conditions of a",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4550,
+        "line_end": 4550,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-054",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 54,
+      "caption": "JO 190 200 OHMS Fig. 54. In Fig. 54 are shown the values of /, 71} 70, 7f, in Curves I., II., III., IV., similarly as in Fig. 50, for E0 = 1000 volts,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4821,
+        "line_end": 4821,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-055",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 55,
+      "caption": "E0, with increasing load. Fig. 55. Let —",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 4861,
+        "line_end": 4861,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-081",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 81,
+      "caption": "as shown in Fig. 81. Fig. 81. 92. Demagnetizing, or screening effect of eddy currents.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 8748,
+        "line_end": 8748,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-082",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 82,
+      "caption": "where / = total current in conductor. Fig. 82. The magnetic reluctance of a tubular zone of unit length",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 8940,
+        "line_end": 8940,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-086",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 86,
+      "caption": "i Fig. 86. DISTRIBUTED CAPACITY. 173",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 10694,
+        "line_end": 10694,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-088",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 88,
+      "caption": "V Fig. 88. 176",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 10808,
+        "line_end": 10808,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-089",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 89,
+      "caption": "\\ Fig. 89. DISTRIBUTED CAPACITY.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 10830,
+        "line_end": 10830,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-090",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 90,
+      "caption": "V Fig. 90. put into the line has been consumed therein, and at this point the two curves for lead and for lag join each other as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 10864,
+        "line_end": 10864,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-094",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 94,
+      "caption": "transformer is constructed thus : Fig. 94. Let, in Fig. 94, O® = the magnetic flux in intensity and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 11766,
+        "line_end": 11766,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-102",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 102,
+      "caption": "Fig. 101. Transformer Diagram with 80° Lead in Secondary Circuit. Fig. 102. 202",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 11946,
+        "line_end": 11946,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-103",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 103,
+      "caption": "the locus gives curves of higher order. Fig. 103. Fig. 105 gives the locus of the various quantities when",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 11969,
+        "line_end": 11969,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-104",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 104,
+      "caption": "from the above by proportionality. Fig. 104. 133. It must be understood, however, that for the pur-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 12000,
+        "line_end": 12000,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-105",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 105,
+      "caption": "°f tne transformer. Fig. 105. The resistance and reactance of the primary and the secondary circuit are represented in the impedance by",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 12046,
+        "line_end": 12046,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-106",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 106,
+      "caption": "z Fig. 106. 137. Separating now the internal secondary impedance",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 12301,
+        "line_end": 12301,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-107",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 107,
+      "caption": "Generator I, Transformer I Fig. 107. This is represented diagrammatically in Fig. 107.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 12340,
+        "line_end": 12340,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-108",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 108,
+      "caption": "211 Fig. 108. admittance Y0) the exciting current, the other branches of the impedances ZJ + Z7, ZJ1 + Zn, . . . 2f + Zx, the latter",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 12364,
+        "line_end": 12364,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-113",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 113,
+      "caption": ") Fig. 113. Substituting these values in tne above equation gives",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 13635,
+        "line_end": 13635,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-115",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 115,
+      "caption": "EOG Fig. 115. 156. Thus far the diagram is essentially the same as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 14010,
+        "line_end": 14010,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-119",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 119,
+      "caption": "\"£> Fig. 119. Again, a maximum torque point and a maximum output",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 14959,
+        "line_end": 14959,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-120",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 120,
+      "caption": "267 Fig. 120. 268 ALTERNATING-CURRENT PHENOMENA.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 14974,
+        "line_end": 14974,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-122",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 122,
+      "caption": "1000 2000 3COO 4000 fiOOO fiOOO 7000 8000 Fig. 122. Voltampere output,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 15137,
+        "line_end": 15137,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-126",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 126,
+      "caption": "also. Thus, we havet in this case, even on open circuit, no Fig. 126. rotation through a constant magnetic field, but rotation through a pulsating field, which makes the E.M.F. wave",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 16409,
+        "line_end": 16409,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-127",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 127,
+      "caption": "in diagram in Fig. 127. Since the armature current flows Fig. 127. in opposite direction to the current in the following-field",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 16452,
+        "line_end": 16452,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-128",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 128,
+      "caption": "its maximum while the armature coil still partly faces the Fig. 128. preceding-field pole, as shown in diagram Fig. 128, — it tends",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 16463,
+        "line_end": 16463,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-129",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 129,
+      "caption": "range where the alternator regulates approximately as a constant power machine, that is current and E.M.F. vary in inverse proportion, as between 130 and 200 amperes in Fig. 129. The modern alternators are generally more or less ma-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 17542,
+        "line_end": 17542,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-136",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 136,
+      "caption": "when operating in series, the coils of the transformer will Fig. 136. be without current. In this case, by interchange of power through the transformers, the series connection will be",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 17731,
+        "line_end": 17731,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-137",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 137,
+      "caption": "Fig. 137, let the voltage at the common bus bars be assumed Fig. 137. as zero line, or real axis of coordinates of the complex",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 17741,
+        "line_end": 17741,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-138",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 138,
+      "caption": "eral, in one of these diagrams shown in Fig. 138 in drawn Fig. 138. lines, current and E.M.F. are in the same direction, repre- senting mechanical work done by the machine as motor-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18154,
+        "line_end": 18154,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-139",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 139,
+      "caption": "sists of three components ; the E.M.F. OE£ — Ez, consumed Fig. 139. by the impedance of the motor, the E.M.F. consumed by the impedance of the line, and the E.M.F.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18187,
+        "line_end": 18187,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-140",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 140,
+      "caption": "tor diagram in dotted line. Fig. 140. As seen, for small values of E1 the potential drops in the alternator and in the line. For the value of E1 = E0",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18219,
+        "line_end": 18219,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-747",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 747,
+      "caption": "these quantities change with a change of the constants. Fig. 747. 201. A. — Constant impressed E.M.F. Ev, constant current strength I = i, variable motor excitation Ev (Fig. 142.)",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18241,
+        "line_end": 18241,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-142",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 142,
+      "caption": "etc., the power is / x 02^, I x 03^, etc., increases first, Fig. 142. reaches the maximum at the point 3j, 3, the most extreme point at the right, with the impressed E.M.F. in phase with",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18273,
+        "line_end": 18273,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-143",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 143,
+      "caption": "and O as center. Fig. 143. E lies on a straight line e, passing throtigh the origin;",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18345,
+        "line_end": 18345,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-144",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 144,
+      "caption": "In the first case, El = EQ (Fig. 127), we see that at Fig. 144. very small current, that is very small OE, the current /",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18368,
+        "line_end": 18368,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-145",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 145,
+      "caption": "V Fig. 145. EI = EQ, but has a minimum value corresponding to the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18400,
+        "line_end": 18400,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-146",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 146,
+      "caption": "dicular to clt and then increases again, reaches once more Fig. 146. El = EQ at E?, and then increases beyond E0. The cur-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18470,
+        "line_end": 18470,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-147",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 147,
+      "caption": "204. Fig. 147. D. En = constant ; P = constant.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18514,
+        "line_end": 18514,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-149",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 149,
+      "caption": "7< I < 43 Fig. 149. I",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18603,
+        "line_end": 18603,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-151",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 151,
+      "caption": "20<l<30 Fig. 151. As seen, the permissible value of counter E.M.F. Ev and of current /, becomes narrower with increasing output.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 18691,
+        "line_end": 18691,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-154",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 154,
+      "caption": "\\ Fig. 154. taneous reversal of current and E.M.F. ; that is, differing by the time of a half period.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19092,
+        "line_end": 19092,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-155",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 155,
+      "caption": "TSOO 8000^ #WU 3000 3uOO Fig. 155. and transposing, the Ouartic Equation of Maximum Dis- placement,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19229,
+        "line_end": 19229,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-156",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 156,
+      "caption": "constantly given by the motor. Fig. 156. 2. The reactance, x, is assumed as constant. While the reactance of the line is practically constant, that of the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19410,
+        "line_end": 19410,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-157",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 157,
+      "caption": "the motor consists of a primary electric circuit, inducing Fig. 157. in the armature the secondary currents, and a primary magnetizing circuit producing the magnetism to act upon",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19509,
+        "line_end": 19509,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-158",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 158,
+      "caption": "ance, only in that position where the induced currents give Fig. 158. a rotary effort in the desired direction, while the armature coils are open-circuited in the position where the rotary",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19536,
+        "line_end": 19536,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-159",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 159,
+      "caption": "the direction of the magnetic field, short-circuit either a Fig. 159. part of the armature coils as shown in Fig. 158, or the whole armature by a connection from brush to brush as",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19563,
+        "line_end": 19563,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-160",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 160,
+      "caption": "and a secondary circuit closed upon itself and displaced in Fig. 160. space by 45° — in a bipolar motor — from the direction of the magnetic flux, as shown diagrammatically in Fig. 160. *",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 19590,
+        "line_end": 19590,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-181",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 181,
+      "caption": "vidual branches both systems become unbalanced systems. Fig. 181. Fig. 182.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 23698,
+        "line_end": 23698,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-182",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 182,
+      "caption": "Fig. 181. Fig. 182. The different branches of a polyphase system may be either independent from each other, that is, without any",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 23701,
+        "line_end": 23701,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-183",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 183,
+      "caption": "four collector rings, as shown diagrammatically in Fig. 183, Fig. 183. is an interlinked system also. The four-wire quarter-phase system produced by a generator with two independent",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 23726,
+        "line_end": 23726,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-184",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 184,
+      "caption": "r Fig. 184. 262. Thus, polyphase systems can be subdivided into : Symmetrical systems and unsymmetrical systems.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 23742,
+        "line_end": 23742,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-198",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 198,
+      "caption": "454 ALTERNATING-CURRENT PHENOMENA. Fig. 198. in three-phase systems Y- connected and delta-connected",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 24560,
+        "line_end": 24560,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-799",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 799,
+      "caption": "mation between polyphase systems are : Fig. 799. 1. The delta -Y connection of transformers between three-phase systems, shown in Fig. 199. One side of the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 24980,
+        "line_end": 24980,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-200",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 200,
+      "caption": "V Fig. 200. three-phase secondary distributions. The Y connection of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 24992,
+        "line_end": 24992,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-201",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 201,
+      "caption": "system by the internal impedance of the transformers. Fig. 201. 3. The main and teaser, or T connection of trans- formers between three-phase systems, as shown in Fig. 201.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 25015,
+        "line_end": 25015,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-202",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 202,
+      "caption": "and connected with one of its ends to the center of the Fig. 202. other transformer. From the point £ inside of the teaser transformer, a neutral wire can be brought out in this con-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 25027,
+        "line_end": 25027,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-203",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 203,
+      "caption": "ter-phase side of the transformers contains two equal and Fig. 203. independent (or interlinked) coils, the three-phase side two",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 25051,
+        "line_end": 25051,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-205",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 205,
+      "caption": "9. The double T connection of transformation from Fig. 205. three-phase to six-phase, shown in Fig. 206. Two trans- formers are used with two secondary coils which are T con-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 25088,
+        "line_end": 25088,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-208",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 208,
+      "caption": "2' v ' Fig. 208. able to store energy, since the difference of power between",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 25115,
+        "line_end": 25115,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-209",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 209,
+      "caption": "which is characterized by a constant angle of intersection Fig. 209. Fig. 210.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 26776,
+        "line_end": 26776,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-alternating-current-phenomena-1900-fig-210",
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "source_title": "Theory and Calculation of Alternating Current Phenomena",
+      "figure_number": 210,
+      "caption": "Fig. 209. Fig. 210. with all concentric circles or all radii vectores.\" The oscil-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-alternating-current-phenomena-1900",
+        "line_start": 26779,
+        "line_end": 26779,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-001",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 1,
+      "caption": "L Fig. 1. A characteristic of metallic conductoi^ is that the resistance",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 1172,
+        "line_end": 1172,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-002",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 2,
+      "caption": "/ Fig. 2. ance over a very wide range of temperature is extremely difficult, and often no more accurate.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 1421,
+        "line_end": 1421,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-004",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 4,
+      "caption": "mm Fig. 4. though the temperature coefficient remains negative, like in electrolytic conductors.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 1729,
+        "line_end": 1729,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-005",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 5,
+      "caption": "a Fig. 5. often plotted with -\\/i as abscissae, to show the ranges in better",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 1860,
+        "line_end": 1860,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-010",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 10,
+      "caption": "M Fig. 10. This, however, still further increases the required voltage and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 2593,
+        "line_end": 2593,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-013",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 13,
+      "caption": "L Fig. 13. ticity, metallic luster, etc., and electrically it has a relatively",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 3274,
+        "line_end": 3274,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-021",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 21,
+      "caption": "at low currents the voltage rises again, due to the arc not filling the entire tube. Such a volt-ampere characteristic is given in Fig. 21. 26. Herefrom then follows, that the voltage gradient in the mercury arc, for a tube diameter of 2 cm., is about ^ volts per",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 5200,
+        "line_end": 5200,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-031",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 31,
+      "caption": "(13) Fig. 31. the maximum possible hysteresis loss.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 7195,
+        "line_end": 7195,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-032",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 32,
+      "caption": ")f Fig. 32. w",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 7206,
+        "line_end": 7206,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-034",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 34,
+      "caption": "s Fig. 34. half-scale, as curve 1, and the magnetization curve of magnetite , FeaO^ — which is about the same as the black scale of iron— ic*.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 7575,
+        "line_end": 7575,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-035",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 35,
+      "caption": "3 1 Fig. 35. ^ under the assumption that cither material rigidly follows the 1-8 power law up to the highest densities, by the equation,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 7734,
+        "line_end": 7734,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-045",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 45,
+      "caption": "density is uniform for the width lo between the coil surfaces, Fig. 45. and then decreases toward the interior of the coils, over the dis- tance K respectively ^, to zero at the coil centers. All the coil",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 11784,
+        "line_end": 11784,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-053",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 53,
+      "caption": "one-half the other. Fig. 53. 61. Distribution of the winding over an arc of the periphery^ o^",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 12428,
+        "line_end": 12428,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-064",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 64,
+      "caption": "that harmonic n, where n8 = 180**. Fig. 64. If",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 12455,
+        "line_end": 12455,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-063",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 63,
+      "caption": "The magnetic flux wave, B, becomes more and more 9at-topped with increasing saturation, and finally practically rectangular, in Fig. 63. The curves 60 to 63 are drawn with the same maximum values",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 14546,
+        "line_end": 14546,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-070",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 70,
+      "caption": "\\\\ Fig. 70. The enormous reduction of the voltage peak by an air-gap of",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 16392,
+        "line_end": 16392,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-073",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 73,
+      "caption": "rmmM Fig. 73. r e",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 17068,
+        "line_end": 17068,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-074",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 74,
+      "caption": "r e Fig. 74. proportional to frequency and voltage, the condenser shimts the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 17074,
+        "line_end": 17074,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-076",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 76,
+      "caption": "Qii Lnf ggi Fig. 76. where / = frequency of the fundamental wave.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 17286,
+        "line_end": 17286,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-084",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 84,
+      "caption": "As the two parallel arcs must have the same voltage, the oper- ating point is the point, a, of the intersection of A and -4' in Fig. 84. The arcs thus would divide the current, each operating at 3 amp.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 19228,
+        "line_end": 19228,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-085",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 85,
+      "caption": "g Fig. 85. itself; ft and c, however, are unstable. Thus, at the latter points,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 19483,
+        "line_end": 19483,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-086",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 86,
+      "caption": "1 Fig. 86. condition of arcs with resistance in series and in shunt, on constant, voltage supply, etc.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 19525,
+        "line_end": 19525,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-087",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 87,
+      "caption": "branch circuit also must be in phase with each other, that is, the Fig. 87. frequency of the oscillation in Fig. 87 is that at which capacity, C, and inductance, L, balance, or is the resonance frequency.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 19695,
+        "line_end": 19695,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-088",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 88,
+      "caption": "S~ Fig. 88. the curves of the arc voltage, eo,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 20087,
+        "line_end": 20087,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-089",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 89,
+      "caption": "SHUNTING ARC Fig. 89. As long as the current in the circuit, A — whether resistance or arc — is steady, no current passes the condenser circuit, and the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 20211,
+        "line_end": 20211,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-094",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 94,
+      "caption": "of effective resistances, 22, as the values of r-., for pulsations between i + bi and i — bi, and such a curve is shown as R in Fig. 94. We may say, that the arc, when shunted by an oscillating circuit, has an effective negative resistance,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 20527,
+        "line_end": 20527,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-006",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 6,
+      "caption": "I Fig. 06. first increases, but then decreases again, down to zero, so that the cumulative oscillations produced by this arc are self-limitii^,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 21181,
+        "line_end": 21181,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-107",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 107,
+      "caption": "^i-1.9 00 - 60°; ^0=7.6. Fig. 107. and the magnetic distribution in the transformer, during the moments marked as a, 6, c, d, e, /, g, in Fig. 107, is shown in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 22859,
+        "line_end": 22859,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-105",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 105,
+      "caption": "and the magnetic distribution in the transformer, during the moments marked as a, 6, c, d, e, /, g, in Fig. 107, is shown in Fig. 105. In Fig. 105a, the primary flux is larger than the secondary, and all leakage fluxes (xo and Xi) come from the primary flux,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 22863,
+        "line_end": 22863,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-109",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 109,
+      "caption": "the primary coil equals its resistance drop, eo = roi, then the Fig. 109. voltage across the secondary coil, s, gives the total reactance, x^, for s as primary,",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 23225,
+        "line_end": 23225,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-115",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 115,
+      "caption": "/ Fig. 115. give the best regulation; series inductive reactance with an in- ductive, and series condensive reactance with leading current in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 24956,
+        "line_end": 24956,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-117",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 117,
+      "caption": "O < Fig. 117. and the tangent of the primary phase angle",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 25176,
+        "line_end": 25176,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-119",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 119,
+      "caption": "square will be more fully discussed. Fig. 119. A. T-Connection or Resonating Circuit",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 25319,
+        "line_end": 25319,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-123",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 123,
+      "caption": "8INQLE-PHA8E Fig. 123. Different arrangements can also be used of the constant-current control, for instance, the inductive and condensive reactances in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 27188,
+        "line_end": 27188,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-124",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 124,
+      "caption": "8INQIC*PHA8E Fig. 124. the losses in these transformers have not been included, since",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 27254,
+        "line_end": 27254,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-125",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 125,
+      "caption": "SINOLE-PHASE Fig. 125. cuits instead of being operated from the three-phase secondaries of the step-down transformers can be operated directly from the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 27328,
+        "line_end": 27328,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "theory-calculation-electric-circuits-fig-127",
+      "source_id": "theory-calculation-electric-circuits",
+      "source_title": "Theory and Calculation of Electric Circuits",
+      "figure_number": 127,
+      "caption": "That is, the regulation is improved, by the line and leakage reactance, from g = 4 per cent, to 5 = 1.5 per cent, as seen in Fig. 127. 163. In paragraph 161 and the preceding, the shunted react- ances, 61 and 62, have been assumed as constant and independent",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "theory-calculation-electric-circuits",
+        "line_start": 29165,
+        "line_end": 29165,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-001",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 1,
+      "caption": "oo,o o Fig. 1. exist, which are constant, or permanent, as long as the conditions",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 575,
+        "line_end": 575,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-002",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 2,
+      "caption": "]C Fig. 2. Commonly, transient and permanent phenomena are super- imposed upon each other. For instance, if in the circuit Fig. 1",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 612,
+        "line_end": 612,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-003",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 3,
+      "caption": "G O Fig. 3. the stored energy has to be supplied from the source of power; that is, for a short time power, in supplying the stored energy, flows not",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 661,
+        "line_end": 661,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-025",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 25,
+      "caption": "frequency, and as the result an increase of voltage and a distor- tion of the quadrature phase occurs, as shown in the oscillogram Fig. 25. Various momentary short-circuit phenomena are illustrated by the oscillograms Figs. 26 to 28.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 3288,
+        "line_end": 3288,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-029",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 29,
+      "caption": "4 5 Fig. 29. seconds",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 3647,
+        "line_end": 3647,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-033",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 33,
+      "caption": "= 0.000333 sec. = 0.33 millisecond; Fig. 33. hence, substituted in equation (28),",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 4340,
+        "line_end": 4340,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-034",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 34,
+      "caption": "B Fig. 34. However, if (8) are the equations of current and voltage at a point A of a line, shown diagrammatically in Fig. 34, at any other",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 4499,
+        "line_end": 4499,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-037",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 37,
+      "caption": "section h consists of 4 quarter- wave units, etc. Fig. 37. Fig. 38.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 4810,
+        "line_end": 4810,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-038",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 38,
+      "caption": "Fig. 37. Fig. 38. The same applies to case 1, and it thus follows that the wave",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 4813,
+        "line_end": 4813,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-040",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 40,
+      "caption": "Line Fig. 40. former, the high-tension switches are opened at the generator end of the transmission line. The energy stored magnetically and",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 5407,
+        "line_end": 5407,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-042",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 42,
+      "caption": "constant in the direction of propagation, as indicated by A in Fig. 42. Fig. 42. — Energy Transfer by Traveling Wave.",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 5483,
+        "line_end": 5483,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-054",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 54,
+      "caption": "which it can draw in supplying power. In permanent condition the line could not add to the power, but must consume, that is, the permanent power-transmission diagram must always be like Fig. 54. Not so, as seen, with the transient of the stationary oscillation. Assume, for instance, that we reduce the power dissipation in",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 6338,
+        "line_end": 6338,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-055",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 55,
+      "caption": "u Fig. 55. U„= 533",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 6432,
+        "line_end": 6432,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-056",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 56,
+      "caption": "Line Fig. 56. The diagram of the power of the two waves of opposite direc-",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 6518,
+        "line_end": 6518,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-066",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 66,
+      "caption": "0 Fig. 66. 126 ELECTRICAL DISCHARGES, WAVES AND IMPULSES",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 7087,
+        "line_end": 7087,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-008",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 8,
+      "caption": "tance, the lines of magnetic force are concentric circles, shown by drawn lines in Fig. 8, page 10, and the lines of dielectric force are straight lines radiating from the conductor, shown dotted in Fig. 8. Due to the return conductor, in a two-wire circuit, the lines of magnetic and dielectric force are crowded together between the",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 7189,
+        "line_end": 7189,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-074",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 74,
+      "caption": "Bh = D — -^Goscf) — -cos t/^, Fig. 74. (42)",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 7923,
+        "line_end": 7923,
+        "verification": "needs-verification"
+      }
+    },
+    {
+      "id": "electric-discharges-waves-impulses-1914-fig-076",
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "source_title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "figure_number": 76,
+      "caption": "o O Fig. 76. ^1 t2 H .",
+      "linked_concepts": [],
+      "status": "candidate",
+      "source_ref": {
+        "source_id": "electric-discharges-waves-impulses-1914",
+        "line_start": 8449,
+        "line_end": 8449,
+        "verification": "needs-verification"
       }
     }
   ],
