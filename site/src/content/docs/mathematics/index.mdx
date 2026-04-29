@@ -8,6 +8,7 @@ The mathematics section preserves original equations, historical notation, moder
 ## Seeded Equation Pages
 
 - [First Canonical Equation Set](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/canonical-equation-canon/)
+- [Equation Atlas](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/)
 - [Velocity, Frequency, and Wavelength](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/velocity-frequency-wavelength/)
 - [Symbolic Rectangular Components](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-rectangular-components/)
 - [Symbolic Operator j](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-operator-j/)
@@ -24,6 +25,11 @@ The mathematics section preserves original equations, historical notation, moder
 
 ## Canonical Equation Data
 
+The archive now has two mathematical layers:
+
+- `processed/canonical_equations.json` preserves the first small promoted equation seed set.
+- `processed/equation_atlas.json` exposes the full source-routed candidate formula layer for review.
+
 The first promoted equation set is stored as:
 
 ```text
@@ -31,6 +37,8 @@ processed/canonical_equations.json
 ```
 
 This file is a review-control artifact. It records source location, modern notation, public page link, and current verification status for the first twelve equations.
+
+The generated equation atlas currently routes 3,845 equation and formula candidates from 15 processed sources into families such as symbolic AC, impedance/admittance, transients, waves/radiation, magnetism/hysteresis, power/energy, engineering mathematics, and apparatus systems. It is intentionally labeled as OCR/PDF-text candidate material until each formula is scan-verified.
 
 ## Working Mathematical Strands
 
@@ -74,6 +82,20 @@ This file is a review-control artifact. It records source location, modern notat
       <p>Permanent term, natural term, damping, and oscillatory exchange.</p>
     </div>
   </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/admittance-plane.svg" alt="Recreated admittance plane guide" />
+    <div>
+      <strong>Admittance plane</strong>
+      <p>Conductance, susceptance, reciprocal impedance, and symbolic AC calculation.</p>
+    </div>
+  </div>
+  <div class="codex-visual-card">
+    <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/distributed-constants-line.svg" alt="Recreated distributed constants line guide" />
+    <div>
+      <strong>Distributed line constants</strong>
+      <p>Line inductance, capacity, leakage, resistance, and traveling disturbances.</p>
+    </div>
+  </div>
 </div>
 
 ## Candidate Catalogs
@@ -90,3 +112,7 @@ processed/commonwealth-edison-generating-system-trouble/equations.json
 ```
 
 Those candidates require scan verification before becoming canonical.
+
+The broader generated atlas is the next working surface:
+
+[Open the Equation Atlas](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/)

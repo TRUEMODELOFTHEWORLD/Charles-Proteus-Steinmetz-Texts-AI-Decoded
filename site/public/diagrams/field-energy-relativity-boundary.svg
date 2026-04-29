@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Field Of Energy Boundary</title>
+  <desc id="desc">Modern reading aid for Steinmetz's field language in Relativity and Space.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Field Of Energy Boundary</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for Steinmetz's field language in Relativity and Space.</text>
+  
+  <rect x="120" y="240" width="300" height="210" rx="10" class="plumfill"/>
+  <rect x="780" y="240" width="300" height="210" rx="10" class="greenfill"/>
+  <path d="M450 345 H745" class="gold line"/>
+  <polygon points="750,345 702,322 702,368" fill="#c69b39"/>
+  <text class="ink label" x="162" y="325">action at</text>
+  <text class="ink label" x="162" y="370">a distance</text>
+  <text class="ink label" x="830" y="325">field of</text>
+  <text class="ink label" x="830" y="370">energy</text>
+  <text class="ink small muted" x="260" y="555">Keep three layers separate: Steinmetz wording, modern field theory, later ether-field interpretation.</text>
+
+</svg>

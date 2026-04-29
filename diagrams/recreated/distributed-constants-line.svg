@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Distributed Constants Of A Transmission Line</title>
+  <desc id="desc">Modern reading aid for line capacity, inductance, leakage, waves, and transients.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Distributed Constants Of A Transmission Line</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for line capacity, inductance, leakage, waves, and transients.</text>
+  
+  <line x1="90" y1="250" x2="1110" y2="250" class="green line"/>
+  <line x1="90" y1="470" x2="1110" y2="470" class="green line"/>
+  <path d="M180 250 q20 35 40 0 t40 0 t40 0" class="gold line"/>
+  <path d="M520 250 q20 35 40 0 t40 0 t40 0" class="gold line"/>
+  <path d="M860 250 q20 35 40 0 t40 0 t40 0" class="gold line"/>
+  <line x1="330" y1="250" x2="330" y2="470" class="plum thin"/>
+  <line x1="350" y1="250" x2="350" y2="470" class="plum thin"/>
+  <line x1="690" y1="250" x2="690" y2="470" class="plum thin"/>
+  <line x1="710" y1="250" x2="710" y2="470" class="plum thin"/>
+  <path d="M105 160 C220 110 315 210 430 160 S640 110 750 160 S950 210 1095 160" class="red line"/>
+  <polygon points="1088,160 1040,140 1046,185" fill="#a24b3d"/>
+  <text class="ink label" x="170" y="330">L dx</text>
+  <text class="ink label" x="305" y="545">C dx</text>
+  <text class="ink label" x="515" y="330">R dx</text>
+  <text class="ink label" x="665" y="545">G dx</text>
+  <text class="ink label" x="780" y="130">traveling disturbance</text>
+
+</svg>

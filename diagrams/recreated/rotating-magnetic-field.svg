@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Rotating Magnetic Field From Quadrature Fluxes</title>
+  <desc id="desc">Modern reading aid for induction-machine field language in AC and Theoretical Elements sources.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Rotating Magnetic Field From Quadrature Fluxes</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for induction-machine field language in AC and Theoretical Elements sources.</text>
+  
+  <circle cx="340" cy="365" r="190" class="panel"/>
+  <line x1="150" y1="365" x2="530" y2="365" class="thin muted" stroke="#596661"/>
+  <line x1="340" y1="175" x2="340" y2="555" class="thin muted" stroke="#596661"/>
+  <path d="M340 365 L500 365" class="green line"/>
+  <path d="M340 365 L340 215" class="plum line"/>
+  <path d="M340 365 L460 245" class="gold line"/>
+  <path d="M498 260 A170 170 0 0 1 505 455" class="red thin"/>
+  <text class="ink label" x="535" y="370">flux A</text>
+  <text class="ink label" x="255" y="175">flux B</text>
+  <text class="ink label" x="470" y="225">resultant</text>
+  <rect x="690" y="205" width="330" height="80" rx="8" class="greenfill"/>
+  <rect x="750" y="320" width="330" height="80" rx="8" class="plumfill"/>
+  <rect x="810" y="435" width="330" height="80" rx="8" class="goldfill"/>
+  <text class="ink label" x="718" y="255">space quadrature</text>
+  <text class="ink label" x="778" y="370">time quadrature</text>
+  <text class="ink label" x="838" y="485">rotating field</text>
+
+</svg>

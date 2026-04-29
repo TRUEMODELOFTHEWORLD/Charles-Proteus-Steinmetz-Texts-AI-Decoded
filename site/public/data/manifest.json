@@ -97,6 +97,13 @@
       "format": "json"
     },
     {
+      "id": "equation_atlas",
+      "description": "Source-routed equation, formula, and notation candidate atlas.",
+      "source_path": "processed/equation_atlas.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/equation_atlas.json",
+      "format": "json"
+    },
+    {
       "id": "completion_audit",
       "description": "Source-by-source readiness audit.",
       "source_path": "processed/completion_audit.json",
@@ -129,6 +136,13 @@
       "description": "Visual routing atlas for original crops and OCR/PDF-text figure candidates.",
       "source_path": "processed/figure_candidate_atlas.json",
       "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/figure_candidate_atlas.json",
+      "format": "json"
+    },
+    {
+      "id": "recreated_visual_index",
+      "description": "Generated modern visual guide diagrams keyed to Steinmetz source themes.",
+      "source_path": "processed/recreated_visual_index.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/recreated_visual_index.json",
       "format": "json"
     },
     {

@@ -1,0 +1,217 @@
+{
+  "generated_at": "2026-04-29",
+  "quality_note": "Modern guide diagrams are explanatory reconstructions, not historical figure evidence.",
+  "total_records": 10,
+  "records": [
+    {
+      "id": "rotating-magnetic-field",
+      "title": "Rotating Magnetic Field From Quadrature Fluxes",
+      "subtitle": "Modern reading aid for induction-machine field language in AC and Theoretical Elements sources.",
+      "file": "rotating-magnetic-field.svg",
+      "source_path": "diagrams/recreated/rotating-magnetic-field.svg",
+      "public_path": "/diagrams/rotating-magnetic-field.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/rotating-magnetic-field.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theoretical-elements-electrical-engineering",
+        "theory-calculation-electric-apparatus"
+      ],
+      "concepts": [
+        "symbolic-method",
+        "magnetism",
+        "phase",
+        "induction-motor"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "distributed-constants-line",
+      "title": "Distributed Constants Of A Transmission Line",
+      "subtitle": "Modern reading aid for line capacity, inductance, leakage, waves, and transients.",
+      "file": "distributed-constants-line.svg",
+      "source_path": "diagrams/recreated/distributed-constants-line.svg",
+      "public_path": "/diagrams/distributed-constants-line.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/distributed-constants-line.svg",
+      "sources": [
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "theory-calculation-alternating-current-phenomena-1900",
+        "theory-calculation-electric-circuits"
+      ],
+      "concepts": [
+        "distributed-constants",
+        "capacity",
+        "inductance",
+        "waves"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "surge-impulse-reflection",
+      "title": "Impulse Surge And Reflection",
+      "subtitle": "Modern reading aid for lightning, impulses, discharges, and traveling waves.",
+      "file": "surge-impulse-reflection.svg",
+      "source_path": "diagrams/recreated/surge-impulse-reflection.svg",
+      "public_path": "/diagrams/surge-impulse-reflection.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/surge-impulse-reflection.svg",
+      "sources": [
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914",
+        "general-lectures-electrical-engineering"
+      ],
+      "concepts": [
+        "lightning-surges",
+        "impulse-current",
+        "traveling-wave"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "dielectric-magnetic-energy-storage",
+      "title": "Magnetic And Dielectric Energy Storage",
+      "subtitle": "Modern reading aid for Steinmetz's paired magnetic-field and dielectric-field language.",
+      "file": "dielectric-magnetic-energy-storage.svg",
+      "source_path": "diagrams/recreated/dielectric-magnetic-energy-storage.svg",
+      "public_path": "/diagrams/dielectric-magnetic-energy-storage.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/dielectric-magnetic-energy-storage.svg",
+      "sources": [
+        "theoretical-elements-electrical-engineering",
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914"
+      ],
+      "concepts": [
+        "dielectric-field",
+        "magnetic-field",
+        "energy-storage"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "admittance-plane",
+      "title": "Admittance Plane",
+      "subtitle": "Modern reading aid for conductance, susceptance, and reciprocal impedance.",
+      "file": "admittance-plane.svg",
+      "source_path": "diagrams/recreated/admittance-plane.svg",
+      "public_path": "/diagrams/admittance-plane.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/admittance-plane.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theoretical-elements-electrical-engineering"
+      ],
+      "concepts": [
+        "admittance",
+        "conductance",
+        "susceptance",
+        "symbolic-method"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "harmonic-wave-shape",
+      "title": "Equivalent Sine Waves And Harmonics",
+      "subtitle": "Modern reading aid for wave-shape analysis and higher harmonics.",
+      "file": "harmonic-wave-shape.svg",
+      "source_path": "diagrams/recreated/harmonic-wave-shape.svg",
+      "public_path": "/diagrams/harmonic-wave-shape.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/harmonic-wave-shape.svg",
+      "sources": [
+        "general-lectures-electrical-engineering",
+        "theoretical-elements-electrical-engineering",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "harmonics",
+        "wave-shape",
+        "fourier-analysis"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "hysteresis-loss-law",
+      "title": "Hysteresis Loss Law",
+      "subtitle": "Modern reading aid for the Steinmetz law and magnetic energy loss per cycle.",
+      "file": "hysteresis-loss-law.svg",
+      "source_path": "diagrams/recreated/hysteresis-loss-law.svg",
+      "public_path": "/diagrams/hysteresis-loss-law.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/hysteresis-loss-law.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theoretical-elements-electrical-engineering",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "hysteresis",
+        "magnetic-loss",
+        "effective-resistance"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "synchronous-reactor-power-flow",
+      "title": "Reactors And Synchronizing Power",
+      "subtitle": "Modern reading aid for the Commonwealth Edison report and system-stability mathematics.",
+      "file": "synchronous-reactor-power-flow.svg",
+      "source_path": "diagrams/recreated/synchronous-reactor-power-flow.svg",
+      "public_path": "/diagrams/synchronous-reactor-power-flow.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/synchronous-reactor-power-flow.svg",
+      "sources": [
+        "commonwealth-edison-generating-system-trouble",
+        "theory-calculation-electric-circuits"
+      ],
+      "concepts": [
+        "synchronizing-power",
+        "power-limiting-reactors",
+        "reactance"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "field-energy-relativity-boundary",
+      "title": "Field Of Energy Boundary",
+      "subtitle": "Modern reading aid for Steinmetz's field language in Relativity and Space.",
+      "file": "field-energy-relativity-boundary.svg",
+      "source_path": "diagrams/recreated/field-energy-relativity-boundary.svg",
+      "public_path": "/diagrams/field-energy-relativity-boundary.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/field-energy-relativity-boundary.svg",
+      "sources": [
+        "four-lectures-relativity-space",
+        "theoretical-elements-electrical-engineering"
+      ],
+      "concepts": [
+        "field-language",
+        "ether",
+        "relativity",
+        "energy-field"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "engineering-number-plane",
+      "title": "Engineering Number Plane",
+      "subtitle": "Modern reading aid for number, direction, and symbolic calculation in Engineering Mathematics.",
+      "file": "engineering-number-plane.svg",
+      "source_path": "diagrams/recreated/engineering-number-plane.svg",
+      "public_path": "/diagrams/engineering-number-plane.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/engineering-number-plane.svg",
+      "sources": [
+        "engineering-mathematics",
+        "theory-calculation-alternating-current-phenomena"
+      ],
+      "concepts": [
+        "complex-quantities",
+        "number",
+        "symbolic-method"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    }
+  ]
+}

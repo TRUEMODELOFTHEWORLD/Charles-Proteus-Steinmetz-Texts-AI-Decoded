@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Impulse Surge And Reflection</title>
+  <desc id="desc">Modern reading aid for lightning, impulses, discharges, and traveling waves.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Impulse Surge And Reflection</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for lightning, impulses, discharges, and traveling waves.</text>
+  
+  <line x1="90" y1="420" x2="1100" y2="420" class="green line"/>
+  <rect x="1010" y="270" width="42" height="250" class="panel"/>
+  <path d="M120 420 C180 418 205 416 230 360 C252 305 275 420 330 420 C390 420 430 420 500 420" class="red line"/>
+  <polygon points="510,420 465,400 465,440" fill="#a24b3d"/>
+  <path d="M990 420 C930 418 905 416 880 360 C858 305 835 420 780 420 C720 420 680 420 610 420" class="plum line"/>
+  <polygon points="600,420 645,400 645,440" fill="#6c4d85"/>
+  <path d="M185 570 h680" class="thin muted" stroke="#596661"/>
+  <text class="ink label" x="150" y="330">incident impulse</text>
+  <text class="ink label" x="650" y="330">reflected impulse</text>
+  <text class="ink label" x="970" y="250">terminal</text>
+  <text class="ink small muted" x="185" y="620">Polarity and magnitude depend on terminal condition and line constants.</text>
+
+</svg>

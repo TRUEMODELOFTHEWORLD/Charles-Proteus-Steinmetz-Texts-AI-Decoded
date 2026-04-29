@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Magnetic And Dielectric Energy Storage</title>
+  <desc id="desc">Modern reading aid for Steinmetz's paired magnetic-field and dielectric-field language.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Magnetic And Dielectric Energy Storage</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for Steinmetz's paired magnetic-field and dielectric-field language.</text>
+  
+  <rect x="135" y="220" width="150" height="300" class="goldfill"/>
+  <rect x="455" y="220" width="150" height="300" class="goldfill"/>
+  <line x1="300" y1="270" x2="440" y2="270" class="plum line"/>
+  <line x1="300" y1="350" x2="440" y2="350" class="plum line"/>
+  <line x1="300" y1="430" x2="440" y2="430" class="plum line"/>
+  <polygon points="438,270 405,252 405,288" fill="#6c4d85"/>
+  <polygon points="438,350 405,332 405,368" fill="#6c4d85"/>
+  <polygon points="438,430 405,412 405,448" fill="#6c4d85"/>
+  <path d="M790 270 q45 -70 90 0 t90 0" class="green line"/>
+  <path d="M790 360 q45 -70 90 0 t90 0" class="green line"/>
+  <path d="M790 450 q45 -70 90 0 t90 0" class="green line"/>
+  <circle cx="880" cy="360" r="165" class="panel"/>
+  <text class="ink label" x="180" y="570">dielectric field</text>
+  <text class="ink label" x="802" y="570">magnetic field</text>
+  <text class="ink small muted" x="245" y="630">capacity varies with voltage when dielectric strength is approached</text>
+
+</svg>

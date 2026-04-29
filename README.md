@@ -96,13 +96,14 @@ Current site features include:
 - A generated concept concordance that traces 77 core terms and concepts across all 394 processed text sections, with source-text and workbench links for every hit.
 - A generated theme evidence atlas that gathers source-located OCR/PDF-text passages for ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, symbolic method, wave phenomena, radiation, energy, and apparatus.
 - A generated passage atlas, research map, study curriculum, and hidden-gems discovery layer that surface source-dense passages while keeping OCR verification warnings visible.
+- A generated equation atlas that routes 3,845 equation/formula candidates from 15 sources into mathematical families while preserving OCR verification warnings.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
 - Generated notation, diagram provenance, schema reference, and expert review packet ledgers that turn broad coverage into reviewable scholarly work.
 - Generated release-level, accessibility-audit, edition-comparison, and patent-to-theory bridge controls for publication readiness.
 - A generated canonical verification workbench that turns the first equation canon, promoted original crops, and seeded patents into source-linked scan-check queues.
-- Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
+- Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, illumination, rotating magnetic fields, distributed line constants, surge reflection, field storage, admittance, harmonics, synchronizing reactors, field-energy boundaries, and engineering number planes.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
 - Site-wide readable source/code blocks that wrap long OCR passages instead of trapping them in horizontal or vertical scroll panes.
@@ -224,6 +225,8 @@ It generates `site/src/content/docs/roadmap/completion-audit.mdx` and `processed
 The scholarly apparatus generators are:
 
 ```powershell
+python pipeline/scripts/generate_equation_atlas.py
+python pipeline/scripts/generate_recreated_visuals.py
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
 python pipeline/scripts/generate_verification_workbench.py
@@ -231,7 +234,7 @@ python pipeline/scripts/generate_claim_attribution_ledger.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The second adds release, accessibility, edition, and patent bridge controls. The third generates source-linked canonical verification queues for equations, figures, and patents. The fourth classifies evidence, equations, translations, figures, and patents by claim layer. The fifth publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
+The first two commands generate the public equation atlas and recreated visual index. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
 
 It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, public data exports under `site/public/data/`, and the public citation/data export page. These exports preserve review-state fields so candidate records are not confused with verified claims.
 
@@ -246,6 +249,7 @@ The archive now includes:
 - Cross-source JSON indexes under `processed/`.
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
+- A generated equation atlas in `processed/equation_atlas.json`, with public formula-family pages for 3,845 equation/formula candidates, 2,528 reviewable relation candidates, and 1,330 strong formula candidates.
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
@@ -262,7 +266,8 @@ The archive now includes:
 - A generated canonical verification workbench with equation OCR snippets, original figure crop review cards, and patent authority-review cards.
 - A generated claim attribution ledger that keeps source facts, OCR candidates, modern translations, diagrams, patents, and future interpretive layers separated.
 - Fifteen original scan-derived crops: five from _Radiation, Light and Illumination_, four from _Alternating Current Phenomena_, and six from _Transient Electric Phenomena and Oscillations_, with crop manifests and checksums.
-- Two source-keyed modern redraw sheets for AC symbolic-method geometry and transient condenser-response behavior.
+- A generated figure candidate atlas with 504 OCR/PDF-text figure references routed back to source text and workbench pages.
+- Twenty public modern SVG reading aids, including 10 newly generated source-keyed guide diagrams for rotating fields, distributed line constants, impulse surge reflection, field storage, admittance, harmonics, hysteresis loss, synchronizing reactors, field-energy boundaries, and engineering number planes.
 - Public site pages for the dashboard, source library, diagram archive, concepts, equations, comparisons, and interactive tools.
 - A second public layer for symbolic AC method, impedance, reactance, admittance, transient terms, standing/traveling waves, RLC oscillation, and source-located historical glossary terms.
 - A practical verification queue in `VERIFICATION_QUEUE.md`.
@@ -282,6 +287,7 @@ The public site currently builds more than one thousand pages, including:
 - Generated research workbench pages for 394 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
 - Generated concept-concordance pages for 77 terms and concepts, each linked back to source text and chapter workbench pages.
 - Generated passage-atlas and research-map pages for source-grounded discovery across the 15-source corpus.
+- Generated equation-atlas pages for formula discovery across the 15-source corpus, grouped by symbolic AC, impedance/admittance, transients, waves/radiation, magnetism/hysteresis, power/energy, engineering mathematics, and apparatus systems.
 - A generated completion-audit page and world-class criteria page for the final expert review path.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
@@ -291,3 +297,4 @@ The public site currently builds more than one thousand pages, including:
 - Interactive tools for frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic form, power factor, hysteresis loss, transient RLC condenser-discharge response, and lightning/surge traveling waves.
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures, with a modern symbolic-method redraw sheet.
 - Original scan-crop page for transient starting current, condenser charge, oscillation, and decrement figures, with a modern condenser-response redraw sheet.
+- A recreated visual index with modern guide diagrams tied to source families and concept routes.

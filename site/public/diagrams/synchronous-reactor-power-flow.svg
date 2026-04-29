@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Reactors And Synchronizing Power</title>
+  <desc id="desc">Modern reading aid for the Commonwealth Edison report and system-stability mathematics.</desc>
+  <style>
+    .bg { fill: #fbfaf6; }
+    .panel { fill: #f1ecdf; stroke: #263231; stroke-width: 2; }
+    .ink { fill: #1d2727; font-family: Georgia, 'Times New Roman', serif; }
+    .small { font-size: 24px; }
+    .label { font-size: 30px; font-weight: 700; }
+    .title { font-size: 42px; font-weight: 700; }
+    .muted { fill: #596661; }
+    .gold { stroke: #c69b39; fill: none; }
+    .green { stroke: #2f6d63; fill: none; }
+    .plum { stroke: #6c4d85; fill: none; }
+    .red { stroke: #a24b3d; fill: none; }
+    .bluefill { fill: #dbe8ef; stroke: #456a78; }
+    .goldfill { fill: #f2dfad; stroke: #9b7728; }
+    .greenfill { fill: #d9e8df; stroke: #2f6d63; }
+    .plumfill { fill: #e7dcef; stroke: #6c4d85; }
+    .line { stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+    .thin { stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="ink title" x="56" y="64">Reactors And Synchronizing Power</text>
+  <text class="ink small muted" x="56" y="104">Modern reading aid for the Commonwealth Edison report and system-stability mathematics.</text>
+  
+  <circle cx="230" cy="350" r="110" class="greenfill"/>
+  <circle cx="970" cy="350" r="110" class="greenfill"/>
+  <text class="ink label" x="186" y="360">G1</text>
+  <text class="ink label" x="926" y="360">G2</text>
+  <path d="M340 350 H500 q25 -45 50 0 t50 0 t50 0 t50 0 H860" class="gold line"/>
+  <path d="M500 250 C620 170 735 210 815 285" class="plum line"/>
+  <polygon points="820,290 772,278 800,245" fill="#6c4d85"/>
+  <text class="ink label" x="520" y="420">reactor / tie reactance</text>
+  <text class="ink label" x="520" y="230">synchronizing current</text>
+  <text class="ink small muted" x="410" y="610">Phase displacement drives power exchange; reactance limits current and stabilizes operation.</text>
+
+</svg>

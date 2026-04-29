@@ -55,21 +55,21 @@
     }
   ],
   "page_risk_summary": {
-    "medium": 646,
-    "class:html_table": 80,
-    "class:link_grid": 30,
-    "class:long_urls": 858,
-    "low": 86,
-    "class:markdown_table": 19115,
-    "minimal": 17,
-    "high": 47,
+    "medium": 834,
+    "class:html_table": 83,
+    "class:link_grid": 44,
+    "class:long_urls": 1042,
+    "low": 101,
+    "class:markdown_table": 25554,
+    "minimal": 26,
+    "high": 56,
     "class:visual_archive": 23,
     "class:embedded_scan": 1,
-    "class:source_text_reader": 304,
+    "class:source_text_reader": 394,
     "class:interactive_tool": 8
   },
-  "high_risk_page_count": 47,
-  "medium_risk_page_count": 646,
+  "high_risk_page_count": 56,
+  "medium_risk_page_count": 834,
   "records": [
     {
       "path": "site/src/content/docs/chapter-workbench/radiation-light-and-illumination/lecture-01.mdx",
@@ -143,11 +143,51 @@
       }
     },
     {
+      "path": "site/src/content/docs/concept-concordance/admittance/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/admittance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 93
+      }
+    },
+    {
       "path": "site/src/content/docs/concept-concordance/alternating-current/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/alternating-current/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 196
+        "markdown_table": 285
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/conductance/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/conductance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 75
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/counter-electromotive-force/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/counter-electromotive-force/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 87
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/current-transformer/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/current-transformer/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 75
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/dielectric-field/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-field/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 73
       }
     },
     {
@@ -155,7 +195,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectricity/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 103
+        "markdown_table": 157
       }
     },
     {
@@ -163,7 +203,15 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/electrostatic-capacity/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 140
+        "markdown_table": 203
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/field-stress/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/field-stress/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 78
       }
     },
     {
@@ -171,7 +219,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 170
+        "markdown_table": 236
       }
     },
     {
@@ -179,7 +227,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/hysteresis/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 64
+        "markdown_table": 103
       }
     },
     {
@@ -187,7 +235,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/impedance/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 114
+        "markdown_table": 171
       }
     },
     {
@@ -203,7 +251,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/inductance/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 179
+        "markdown_table": 252
       }
     },
     {
@@ -211,7 +259,15 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 83
+        "markdown_table": 102
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/lightning-surges/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/lightning-surges/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 86
       }
     },
     {
@@ -219,7 +275,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/magnetic-field/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 159
+        "markdown_table": 219
       }
     },
     {
@@ -227,7 +283,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/magnetism/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 197
+        "markdown_table": 268
       }
     },
     {
@@ -235,7 +291,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/oscillation/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 83
+        "markdown_table": 105
       }
     },
     {
@@ -243,7 +299,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/power-factor/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 82
+        "markdown_table": 116
       }
     },
     {
@@ -251,7 +307,15 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/reactance/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 140
+        "markdown_table": 205
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/resonance/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/resonance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 68
       }
     },
     {
@@ -259,7 +323,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/short-circuit/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 81
+        "markdown_table": 112
       }
     },
     {
@@ -267,7 +331,15 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronism/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 134
+        "markdown_table": 179
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/synchronous-machines/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronous-machines/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 66
       }
     },
     {
@@ -275,7 +347,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/tesla-era-overlap/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 89
+        "markdown_table": 114
       }
     },
     {
@@ -283,7 +355,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/transient-phenomena/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 81
+        "markdown_table": 99
       }
     },
     {
@@ -291,7 +363,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
       "risk_level": "high",
       "patterns": {
-        "html_table": 11,
+        "html_table": 15,
         "visual_archive": 1,
         "link_grid": 1
       }
@@ -314,22 +386,21 @@
       }
     },
     {
-      "path": "site/src/content/docs/reading-routes/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/reading-routes/",
-      "risk_level": "high",
-      "patterns": {
-        "html_table": 9,
-        "link_grid": 1
-      }
-    },
-    {
       "path": "site/src/content/docs/roadmap/citation-and-data-export.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/citation-and-data-export/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 44,
+        "markdown_table": 52,
         "embedded_scan": 1,
         "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/roadmap/deep-decoding-promotion-queue.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/deep-decoding-promotion-queue/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 127
       }
     },
     {
@@ -386,7 +457,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/alternating-current-and-symbolic-method/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 235
+        "markdown_table": 326
       }
     },
     {
@@ -394,7 +465,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/dielectricity-capacity-and-displacement/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 158
+        "markdown_table": 225
       }
     },
     {
@@ -402,7 +473,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/energy-power-and-work/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 263
+        "markdown_table": 348
       }
     },
     {
@@ -410,7 +481,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/ether-field-language/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 244
+        "markdown_table": 314
       }
     },
     {
@@ -418,7 +489,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/machines-apparatus-and-systems/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 272
+        "markdown_table": 360
       }
     },
     {
@@ -426,7 +497,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/magnetism-and-hysteresis/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 216
+        "markdown_table": 290
       }
     },
     {
@@ -434,7 +505,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/reactance-impedance-and-admittance/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 238
+        "markdown_table": 326
       }
     },
     {
@@ -442,7 +513,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/transients-oscillations-and-surges/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 159
+        "markdown_table": 198
       }
     },
     {
@@ -450,7 +521,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/theme-evidence/waves-lines-and-radiation/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 260
+        "markdown_table": 344
       }
     },
     {
@@ -478,6 +549,15 @@
         "html_table": 2,
         "link_grid": 1,
         "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/book-coverage/electric-discharges-waves-impulses-1914.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/electric-discharges-waves-impulses-1914/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
       }
     },
     {
@@ -535,6 +615,24 @@
       }
     },
     {
+      "path": "site/src/content/docs/book-coverage/theory-calculation-alternating-current-phenomena-1897.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/book-coverage/theory-calculation-alternating-current-phenomena-1900.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/book-coverage/theory-calculation-alternating-current-phenomena.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena/",
       "risk_level": "medium",
@@ -546,6 +644,15 @@
     {
       "path": "site/src/content/docs/book-coverage/theory-calculation-electric-apparatus.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-apparatus/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/book-coverage/theory-calculation-electric-circuits.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-circuits/",
       "risk_level": "medium",
       "patterns": {
         "html_table": 2,
@@ -766,6 +873,96 @@
       "patterns": {
         "markdown_table": 36,
         "long_urls": 2
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 36,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 35,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 35,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 40,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 31,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
       }
     },
     {
@@ -2182,6 +2379,580 @@
       }
     },
     {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 40,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 36,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 38,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 31,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 27,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-18/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-19.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-19/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-20.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-20/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-21.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-21/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-22.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-22/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 27,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-23.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-23/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-24.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-24/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-25.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-25/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-26.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-26/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-27.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-27/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-28.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-28/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-29.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-29/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-30.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-30/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 27,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 32
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 42,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 35,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 39,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 33,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 41,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 35,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 31,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-18/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-19.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-19/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-20.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-20/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-21.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-21/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-22.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-22/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-23.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-23/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 27,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-24.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-24/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-25.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-25/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-26.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-26/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-27.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-27/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-28.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-28/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-29.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-29/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 32,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-30.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-30/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-31.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-31/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-32.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-32/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34
+      }
+    },
+    {
       "path": "site/src/content/docs/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/",
       "risk_level": "medium",
@@ -2721,6 +3492,168 @@
       }
     },
     {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 42,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 36,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 37,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 35,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 36,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 29,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 27,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 26,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-18/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 28,
+        "long_urls": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-01.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-01/",
       "risk_level": "medium",
@@ -3251,19 +4184,11 @@
       }
     },
     {
-      "path": "site/src/content/docs/concept-concordance/admittance/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/admittance/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 54
-      }
-    },
-    {
       "path": "site/src/content/docs/concept-concordance/arc-lamp/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/arc-lamp/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 35
+        "markdown_table": 46
       }
     },
     {
@@ -3271,31 +4196,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/complex-quantities/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 35
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/conductance/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/conductance/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 48
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/counter-electromotive-force/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/counter-electromotive-force/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 55
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/current-transformer/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/current-transformer/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 49
+        "markdown_table": 62
       }
     },
     {
@@ -3303,15 +4204,15 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/damping/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 38
+        "markdown_table": 52
       }
     },
     {
-      "path": "site/src/content/docs/concept-concordance/dielectric-field/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-field/",
+      "path": "site/src/content/docs/concept-concordance/distributed-constants/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/distributed-constants/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 44
+        "markdown_table": 40
       }
     },
     {
@@ -3319,7 +4220,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/electric-field/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 44
+        "markdown_table": 60
       }
     },
     {
@@ -3327,23 +4228,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/energy-storage-fields/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 39
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/field-stress/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/field-stress/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 59
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/lightning-surges/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/lightning-surges/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 61
+        "markdown_table": 58
       }
     },
     {
@@ -3351,7 +4236,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/magnetic-permeability/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 38
+        "markdown_table": 56
       }
     },
     {
@@ -3359,23 +4244,31 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 44
+        "markdown_table": 49
       }
     },
     {
-      "path": "site/src/content/docs/concept-concordance/resonance/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/resonance/",
+      "path": "site/src/content/docs/concept-concordance/susceptance/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/susceptance/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 39
+        "markdown_table": 50
       }
     },
     {
-      "path": "site/src/content/docs/concept-concordance/synchronous-machines/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronous-machines/",
+      "path": "site/src/content/docs/concept-concordance/symbolic-method/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/symbolic-method/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 57
+        "markdown_table": 56
+      }
+    },
+    {
+      "path": "site/src/content/docs/concept-concordance/velocity-of-light/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 32
       }
     },
     {
@@ -3383,7 +4276,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/",
       "risk_level": "medium",
       "patterns": {
-        "markdown_table": 44
+        "markdown_table": 52
       }
     },
     {
@@ -3391,7 +4284,44 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/complex-quantities/",
       "risk_level": "medium",
       "patterns": {
+        "markdown_table": 18,
         "html_table": 1,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/oscillation-damping.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 18,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/radiation.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/radiation/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 18,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/symbolic-method.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 18,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/transient-phenomena.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 18,
         "visual_archive": 1
       }
     },
@@ -3479,6 +4409,16 @@
       "risk_level": "medium",
       "patterns": {
         "html_table": 2
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-library/official-source-expansion.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/official-source-expansion/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 30,
+        "link_grid": 1,
+        "long_urls": 4
       }
     },
     {
@@ -3704,6 +4644,106 @@
     {
       "path": "site/src/content/docs/source-texts/commonwealth-edison-generating-system-trouble/section-03-record.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/section-03-record/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/lecture-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-10/",
       "risk_level": "medium",
       "patterns": {
         "source_text_reader": 1,
@@ -5352,6 +6392,642 @@
       }
     },
     {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-18/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-19.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-19/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-20.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-20/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-21.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-21/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-22.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-22/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-23.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-23/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-24.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-24/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-25.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-25/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-26.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-26/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-27.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-27/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-28.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-28/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-29.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-29/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-30.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-30/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1897/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 32
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-18/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-19.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-19/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-20.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-20/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-21.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-21/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-22.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-22/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-23.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-23/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-24.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-24/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-25.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-25/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-26.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-26/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-27.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-27/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-28.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-28/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-29.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-29/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-30.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-30/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-31.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-31/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-32.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-32/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena-1900/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 34
+      }
+    },
+    {
       "path": "site/src/content/docs/source-texts/theory-calculation-alternating-current-phenomena/chapter-01.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/",
       "risk_level": "medium",
@@ -5942,6 +7618,186 @@
     {
       "path": "site/src/content/docs/source-texts/theory-calculation-electric-apparatus/chapter-22.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-22/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-01.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-01/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-02.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-02/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-03.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-03/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-04.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-04/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-05.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-05/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-06.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-06/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-07.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-07/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-08.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-08/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-09.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-09/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-10.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-10/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-11.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-11/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-12.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-12/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-13.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-13/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-14.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-14/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-15.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-15/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-16.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-16/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-17.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-17/",
+      "risk_level": "medium",
+      "patterns": {
+        "source_text_reader": 1,
+        "markdown_table": 10,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/chapter-18.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-18/",
       "risk_level": "medium",
       "patterns": {
         "source_text_reader": 1,
@@ -6573,6 +8429,14 @@
       }
     },
     {
+      "path": "site/src/content/docs/chapter-workbench/electric-discharges-waves-impulses-1914/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 12
+      }
+    },
+    {
       "path": "site/src/content/docs/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/",
       "risk_level": "low",
@@ -6601,7 +8465,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 13
+        "markdown_table": 17
       }
     },
     {
@@ -6621,6 +8485,14 @@
       }
     },
     {
+      "path": "site/src/content/docs/chapter-workbench/theory-calculation-electric-circuits/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 20
+      }
+    },
+    {
       "path": "site/src/content/docs/concept-concordance/brilliancy/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/brilliancy/",
       "risk_level": "low",
@@ -6633,7 +8505,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/circuit-breaker/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 15
+        "markdown_table": 17
       }
     },
     {
@@ -6673,15 +8545,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-constant/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 14
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/distributed-constants/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/distributed-constants/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 26
+        "markdown_table": 18
       }
     },
     {
@@ -6713,7 +8577,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 27
+        "markdown_table": 30
       }
     },
     {
@@ -6753,7 +8617,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/luminescence/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 11
+        "markdown_table": 14
       }
     },
     {
@@ -6785,7 +8649,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/power-limiting-reactor/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 22
+        "markdown_table": 26
       }
     },
     {
@@ -6817,23 +8681,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/spectrum/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 19
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/susceptance/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/susceptance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 30
-      }
-    },
-    {
-      "path": "site/src/content/docs/concept-concordance/symbolic-method/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/symbolic-method/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 28
+        "markdown_table": 21
       }
     },
     {
@@ -6841,7 +8689,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronizing-power/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 16
+        "markdown_table": 22
       }
     },
     {
@@ -6861,19 +8709,11 @@
       }
     },
     {
-      "path": "site/src/content/docs/concept-concordance/velocity-of-light/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 29
-      }
-    },
-    {
       "path": "site/src/content/docs/concept-concordance/wave-propagation/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-propagation/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 25
+        "markdown_table": 28
       }
     },
     {
@@ -6885,35 +8725,156 @@
       }
     },
     {
-      "path": "site/src/content/docs/concepts/oscillation-damping.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/",
+      "path": "site/src/content/docs/concepts/admittance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/",
       "risk_level": "low",
       "patterns": {
-        "visual_archive": 1
+        "markdown_table": 18
       }
     },
     {
-      "path": "site/src/content/docs/concepts/radiation.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/radiation/",
+      "path": "site/src/content/docs/concepts/conductance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/conductance/",
       "risk_level": "low",
       "patterns": {
-        "visual_archive": 1
+        "markdown_table": 18
       }
     },
     {
-      "path": "site/src/content/docs/concepts/symbolic-method.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/",
+      "path": "site/src/content/docs/concepts/dielectric-loss.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/dielectric-loss/",
       "risk_level": "low",
       "patterns": {
-        "visual_archive": 1
+        "markdown_table": 18
       }
     },
     {
-      "path": "site/src/content/docs/concepts/transient-phenomena.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/",
+      "path": "site/src/content/docs/concepts/distributed-constants.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/",
       "risk_level": "low",
       "patterns": {
-        "visual_archive": 1
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/dossier-index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/dossier-index/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 24
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/electric-waves.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 16
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/ether.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/ether/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 13,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/harmonics-wave-shape.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/harmonics-wave-shape/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/hysteresis.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/hysteresis/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/illumination.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/illumination/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/impedance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 10
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/inductance-capacity.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/inductance-capacity/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/lightning-surges.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/lightning-surges/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/power-factor.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/power-limiting-reactors.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-limiting-reactors/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 17
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/reactance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/susceptance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/synchronizing-power.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/synchronizing-power/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 18
       }
     },
     {
@@ -7018,7 +8979,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/edition-comparison-layer/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 13
+        "markdown_table": 17
       }
     },
     {
@@ -7086,6 +9047,14 @@
       }
     },
     {
+      "path": "site/src/content/docs/source-texts/electric-discharges-waves-impulses-1914/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 12
+      }
+    },
+    {
       "path": "site/src/content/docs/source-texts/elementary-lectures-electric-discharges-waves-impulses/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/",
       "risk_level": "low",
@@ -7114,7 +9083,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/",
       "risk_level": "low",
       "patterns": {
-        "markdown_table": 13
+        "markdown_table": 17
       }
     },
     {
@@ -7131,6 +9100,14 @@
       "risk_level": "low",
       "patterns": {
         "markdown_table": 24
+      }
+    },
+    {
+      "path": "site/src/content/docs/source-texts/theory-calculation-electric-circuits/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 20
       }
     },
     {
@@ -7352,6 +9329,38 @@
       }
     },
     {
+      "path": "site/src/content/docs/hidden-gems/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/hidden-gems/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/passage-atlas/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/passage-atlas/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/reading-routes/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/reading-routes/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/research-map/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/research-map/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/source-texts/commonwealth-edison-generating-system-trouble/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/",
       "risk_level": "minimal",
@@ -7365,6 +9374,14 @@
       "risk_level": "minimal",
       "patterns": {
         "markdown_table": 6
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/electric-discharges-waves-impulses-1914/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/electric-discharges-waves-impulses-1914/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
       }
     },
     {
@@ -7384,8 +9401,40 @@
       }
     },
     {
+      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1897/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1900/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-electric-circuits/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-circuits/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/start-reading.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/start-reading/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/why-steinmetz-matters.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/why-steinmetz-matters/",
       "risk_level": "minimal",
       "patterns": {
         "link_grid": 1

@@ -310,6 +310,92 @@ a[data-variant='primary']:hover {
   margin: 0.35rem 0 0;
 }
 
+.visual-source-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.visual-source-links a {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 70%, transparent);
+  border-radius: 999px;
+  color: var(--sl-color-text-accent);
+  font-size: 0.74rem;
+  font-weight: 800;
+  padding: 0.15rem 0.45rem;
+  text-decoration: none;
+}
+
+.equation-card-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr));
+  margin: 1.25rem 0;
+}
+
+.equation-candidate-card {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-left: 4px solid var(--codex-gold);
+  border-radius: 8px;
+  background: var(--codex-panel);
+  color: var(--codex-panel-text);
+  display: grid;
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+.equation-candidate-card header {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.equation-candidate-card header span {
+  color: var(--sl-color-text-accent);
+  font-size: 0.85rem;
+  font-weight: 900;
+}
+
+.equation-candidate-card strong {
+  color: var(--codex-panel-text);
+}
+
+.equation-candidate-card small {
+  color: var(--codex-panel-muted);
+}
+
+.equation-candidate-card code {
+  background: color-mix(in srgb, var(--codex-panel) 82%, #ffffff 18%);
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-radius: 6px;
+  color: var(--codex-panel-text);
+  display: block;
+  font-size: 0.95rem;
+  overflow-wrap: anywhere;
+  padding: 0.75rem;
+  white-space: normal;
+}
+
+.equation-candidate-card footer {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.equation-candidate-card nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.equation-candidate-card nav a {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-radius: 999px;
+  color: var(--sl-color-text-accent);
+  font-size: 0.8rem;
+  font-weight: 800;
+  padding: 0.25rem 0.6rem;
+  text-decoration: none;
+}
+
 .source-matrix {
   display: grid;
   gap: 0.85rem;
