@@ -207,6 +207,8 @@ def build_reader_page(
             f'<a href="{BASE_URL}/source-texts/{source_id}/{source_page_slug(next_record)}/">'
             f"Next: {html_escape(chapter_label(next_record))}</a>"
         )
+    back_link = f'<a href="{BASE_URL}/source-texts/{source_id}/">Back to {html_escape(source_title)} source text</a>'
+    nav_links = "\n    ".join(link for link in [previous_link, back_link, next_link] if link)
 
     return f"""---
 title: {yaml_quote(title)}
@@ -259,13 +261,12 @@ import SourceRef from '../../../../components/SourceRef.astro';
   <p><a href="{html_escape(text_asset_url)}">Open the source text asset</a></p>
 </noscript>
 
-## Navigation
-
-<div class="source-text-toolbar" data-layer="source">
-  {previous_link}
-  <a href="{BASE_URL}/source-texts/{source_id}/">Back to {html_escape(source_title)} source text</a>
-  {next_link}
-</div>
+<nav class="source-page-navigation" data-layer="source" aria-label="Source text navigation">
+  <strong>Continue Reading</strong>
+  <div class="source-text-toolbar">
+    {nav_links}
+  </div>
+</nav>
 """
 
 

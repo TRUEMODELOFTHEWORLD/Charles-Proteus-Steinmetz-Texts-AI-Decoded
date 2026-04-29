@@ -469,6 +469,8 @@ def build_workbench_page(record: dict[str, Any], previous_record: dict[str, Any]
             f'<a href="{BASE_URL}/chapter-workbench/{next_record["source_id"]}/{next_record["slug"]}/">'
             f"Next: {html_escape(next_record['label'])}</a>"
         )
+    back_link = f'<a href="{BASE_URL}/chapter-workbench/{html_escape(record["source_id"])}/">Back to source workbench</a>'
+    nav_links = "\n    ".join(link for link in [previous_link, back_link, next_link] if link)
 
     archive_link = f'<a href="{html_escape(links["archive"])}">Internet Archive source</a>' if links.get("archive") else ""
     raw_pdf_link = f'<a href="{html_escape(links["raw_pdf"])}">Raw PDF in repo</a>' if links.get("raw_pdf") else ""
@@ -576,13 +578,12 @@ description: {yaml_quote("Generated chapter research workbench for " + str(recor
 5. Move diagram candidates into the diagram archive only after image extraction, crop verification, and manifest creation.
 6. Keep Steinmetz wording, modern translation, and ether-field interpretation in separate labeled layers.
 
-## Navigation
-
-<div class="source-text-toolbar" data-layer="source">
-  {previous_link}
-  <a href="{BASE_URL}/chapter-workbench/{html_escape(record["source_id"])}/">Back to source workbench</a>
-  {next_link}
-</div>
+<nav class="source-page-navigation" data-layer="source" aria-label="Workbench navigation">
+  <strong>Continue Researching</strong>
+  <div class="source-text-toolbar">
+    {nav_links}
+  </div>
+</nav>
 """
 
 

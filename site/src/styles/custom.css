@@ -756,9 +756,31 @@ a[data-variant='primary']:hover {
 }
 
 .sl-markdown-content pre {
-  max-height: 42rem;
+  max-height: none;
+  overflow: visible;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
   border-radius: 8px;
+}
+
+.sl-markdown-content pre code,
+.sl-markdown-content pre span {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.sl-markdown-content pre.source-text-loader {
+  box-sizing: border-box;
+  width: 100%;
+  max-height: none;
+  min-height: 18rem;
+  overflow: visible;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  line-height: 1.72;
+  margin-bottom: 2rem;
+  padding: 1.1rem;
 }
 
 .source-reader {
@@ -777,6 +799,19 @@ a[data-variant='primary']:hover {
   border-radius: 8px;
   background: #fbfaf6;
   margin-top: 0.8rem;
+}
+
+.source-page-navigation {
+  border-top: 1px solid var(--sl-color-gray-3);
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.source-page-navigation strong {
+  display: block;
+  color: var(--sl-color-text);
+  font-size: 1rem;
+  margin-bottom: 0.35rem;
 }
 
 .codex-reader-controls {

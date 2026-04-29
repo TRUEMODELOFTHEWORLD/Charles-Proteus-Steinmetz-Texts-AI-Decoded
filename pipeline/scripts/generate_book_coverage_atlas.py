@@ -322,6 +322,15 @@ This atlas answers the practical research question: is each book actually repres
   </div>
 </div>
 
+## Choose A Reading Door
+
+<div class="source-matrix">
+  <a href="{BASE_URL}/book-coverage/radiation-light-and-illumination/">Start with radiation and light<span>A readable first source: radiation, electric waves, spectrum, light, illumination, and original visual crops.</span></a>
+  <a href="{BASE_URL}/book-coverage/theory-calculation-alternating-current-phenomena/">Enter the AC mathematics<span>Symbolic method, complex quantities, impedance, reactance, admittance, harmonics, and transformers.</span></a>
+  <a href="{BASE_URL}/book-coverage/theory-calculation-transient-electric-phenomena-oscillations/">Follow transients and surges<span>Temporary terms, oscillations, distributed lines, standing waves, traveling waves, and lightning-related behavior.</span></a>
+  <a href="{BASE_URL}/concept-concordance/">Trace a concept instead<span>Search across sources by terms such as ether, hysteresis, impedance, dielectricity, waves, and transients.</span></a>
+</div>
+
 ## Source Maps
 
 <div class="source-matrix">
@@ -436,6 +445,16 @@ def write_source_page(root: Path, source: dict[str, Any]) -> None:
     themes = pill_list(source.get("theme_totals") or [], "No theme hits yet")
     concepts = pill_list(source.get("top_concepts") or [], "No concept hits yet")
     glossary = pill_list(source.get("top_glossary") or [], "No glossary hits yet")
+    first_section = (
+        source["priority_sections"][0]
+        if source.get("priority_sections")
+        else source["sections"][0]
+        if source.get("sections")
+        else {
+            "label": "Source text index",
+            "links": {"source_text": source["links"]["source_text_index"]},
+        }
+    )
 
     text = f"""---
 title: {yaml_quote(str(source["title"]) + " Coverage Atlas")}
@@ -455,6 +474,15 @@ description: {yaml_quote("Book-level section map and candidate coverage for " + 
     <a href="{html_escape(source["links"]["chapter_workbench_index"])}">Chapter workbench</a>
     <a href="{html_escape(source["links"]["archive"])}">Original source</a>
   </div>
+</div>
+
+## Reader Routes
+
+<div class="source-matrix">
+  <a href="{html_escape(source["links"]["source_text_index"])}">Read the source text<span>Open the full generated text index for this book. Best for reading through the work directly.</span></a>
+  <a href="{html_escape(first_section["links"]["source_text"])}">Start with a strong section<span>{html_escape(first_section["label"])}. Chosen because it has dense concept, equation, figure, or quote signals.</span></a>
+  <a href="{html_escape(source["links"]["chapter_workbench_index"])}">Use the research workbench<span>Open section-level concept hits, glossary hits, equation candidates, figure candidates, and review prompts.</span></a>
+  <a href="{html_escape(source["links"]["curated_source"])}">Read the curated guide<span>Use the human-written overview for context, diagrams, and first deep-decoding links.</span></a>
 </div>
 
 ## Coverage Summary

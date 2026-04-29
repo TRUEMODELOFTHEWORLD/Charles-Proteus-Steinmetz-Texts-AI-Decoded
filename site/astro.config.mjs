@@ -39,16 +39,18 @@ export default defineConfig({
         {
           label: 'Start Here',
           items: [
+            { label: 'Start Reading', slug: 'start-reading' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
+            { label: 'Browse Books', slug: 'book-coverage' },
             { label: 'Source Library', slug: 'source-library' },
-            { label: 'Book Coverage Atlas', slug: 'book-coverage' },
             { label: 'Project Tracker', slug: 'project-tracker' }
           ]
         },
         {
           label: 'Read The Corpus',
           items: [
+            { label: 'Book Coverage Atlas', slug: 'book-coverage' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
@@ -66,19 +68,19 @@ export default defineConfig({
           ]
         },
         {
-          label: 'Source Guides',
+          label: 'Books: Browse And Read',
           items: [
-            { label: 'Radiation, Light and Illumination', slug: 'sources/radiation-light-and-illumination' },
-            { label: 'Elementary Lectures', slug: 'sources/elementary-lectures-electric-discharges-waves-impulses' },
-            { label: 'Engineering Mathematics', slug: 'sources/engineering-mathematics' },
-            { label: 'Alternating Current Phenomena', slug: 'sources/theory-calculation-alternating-current-phenomena' },
-            { label: 'Transient Electric Phenomena', slug: 'sources/theory-calculation-transient-electric-phenomena-oscillations' },
-            { label: 'Theoretical Elements', slug: 'sources/theoretical-elements-electrical-engineering' },
-            { label: 'General Lectures', slug: 'sources/general-lectures-electrical-engineering' },
-            { label: 'Electric Apparatus', slug: 'sources/theory-calculation-electric-apparatus' },
-            { label: 'America and the New Epoch', slug: 'sources/america-and-new-epoch' },
-            { label: 'Relativity and Space', slug: 'sources/four-lectures-relativity-space' },
-            { label: 'Commonwealth Edison Trouble', slug: 'sources/commonwealth-edison-generating-system-trouble' }
+            { label: 'Radiation, Light and Illumination', slug: 'book-coverage/radiation-light-and-illumination' },
+            { label: 'Elementary Lectures', slug: 'book-coverage/elementary-lectures-electric-discharges-waves-impulses' },
+            { label: 'Engineering Mathematics', slug: 'book-coverage/engineering-mathematics' },
+            { label: 'Alternating Current Phenomena', slug: 'book-coverage/theory-calculation-alternating-current-phenomena' },
+            { label: 'Transient Electric Phenomena', slug: 'book-coverage/theory-calculation-transient-electric-phenomena-oscillations' },
+            { label: 'Theoretical Elements', slug: 'book-coverage/theoretical-elements-electrical-engineering' },
+            { label: 'General Lectures', slug: 'book-coverage/general-lectures-electrical-engineering' },
+            { label: 'Electric Apparatus', slug: 'book-coverage/theory-calculation-electric-apparatus' },
+            { label: 'America and the New Epoch', slug: 'book-coverage/america-and-new-epoch' },
+            { label: 'Relativity and Space', slug: 'book-coverage/four-lectures-relativity-space' },
+            { label: 'Commonwealth Edison Trouble', slug: 'book-coverage/commonwealth-edison-generating-system-trouble' }
           ]
         },
         {

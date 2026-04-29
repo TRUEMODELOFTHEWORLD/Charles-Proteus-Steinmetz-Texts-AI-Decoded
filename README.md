@@ -88,6 +88,7 @@ The public site skeleton lives in `site/` and uses Astro + Starlight. It support
 
 Current site features include:
 
+- A friendly Start Reading entry page with routes for newcomers, source-first researchers, engineering students, visual readers, and verification reviewers.
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
 - A generated book coverage atlas that summarizes every processed source, counts candidate equations, figures, quotes, concepts, and glossary hits, and links each book section into the source reader and workbench.
@@ -102,6 +103,7 @@ Current site features include:
 - Recreated research-guide diagrams for radiation, transients, symbolic AC geometry, hysteresis, field propagation, and illumination, plus source-keyed redraw sheets for AC symbolic method and transient condenser response.
 - A station-section/reactor reading aid for the Commonwealth Edison report.
 - Interactive frequency/wavelength, AC waveform/harmonics, impedance/reactance, phasor/symbolic-form, power-factor, hysteresis-loss, transient RLC response, and lightning/surge traveling-wave tools.
+- Site-wide readable source/code blocks that wrap long OCR passages instead of trapping them in horizontal or vertical scroll panes.
 - Quality labels that separate source claims, modern interpretation, mathematical reconstruction, and speculative readings.
 
 To run it after dependencies are installed:

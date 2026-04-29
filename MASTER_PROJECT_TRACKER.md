@@ -28,7 +28,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
 | Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
-| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, and diagram lightbox viewing. |
+| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, and a Start Reading route for non-specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages. |
@@ -149,7 +149,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 
 | Section From Charter | Status | Current Location |
 | --- | --- | --- |
-| 1. Home | Done | `site/src/content/docs/index.mdx` |
+| 1. Home | Done | `site/src/content/docs/index.mdx`, with `site/src/content/docs/start-reading.mdx` as a guided reader entry |
 | 2. Who Was Steinmetz? | Done | `site/src/content/docs/who-was-steinmetz.mdx` |
 | 3. Why Steinmetz Matters | Done | `site/src/content/docs/why-steinmetz-matters.mdx` |
 | 4. Source Library | Done, expanding | `site/src/content/docs/source-library/index.mdx`, source pages with source-access readers, generated book coverage pages, generated source-text browser pages, generated chapter workbench pages, and generated concept concordance pages |
@@ -176,7 +176,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
 | 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, AC waveform/harmonics, impedance, phasor/symbolic form, power factor, hysteresis loss, transient RLC response, and lightning/surge traveling waves. |
-| Reader filtering and multilingual access | Started | Site-wide source-only filter, page-local ask/search, Google Translate shortcuts, and lightbox diagram viewer. |
+| Reader filtering and multilingual access | Started | Site-wide source-only filter, page-local ask/search, Google Translate shortcuts, lightbox diagram viewer, and readable source/code transcript blocks. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker
