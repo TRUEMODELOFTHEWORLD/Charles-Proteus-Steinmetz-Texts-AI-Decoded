@@ -214,7 +214,7 @@ def aggregate_records(source: dict[str, Any], records: list[dict[str, Any]]) -> 
         reverse=True,
     )[:14]
 
-    return {
+    result = {
         "source_id": source["source_id"],
         "title": source.get("title"),
         "year": source.get("year"),
@@ -240,6 +240,84 @@ def aggregate_records(source: dict[str, Any], records: list[dict[str, Any]]) -> 
         "top_glossary": top_glossary,
         "priority_sections": priority_sections,
         "sections": section_rows,
+    }
+    result["study_guide"] = build_study_guide(result)
+    return result
+
+
+def compact_section_ref(section: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": section.get("id"),
+        "label": section.get("label"),
+        "slug": section.get("slug"),
+        "word_count": section.get("word_count"),
+        "top_themes": (section.get("top_themes") or [])[:4],
+        "top_concepts": (section.get("top_concepts") or [])[:4],
+        "equation_count": section.get("equation_count", 0),
+        "figure_count": section.get("figure_count", 0),
+        "quote_count": section.get("quote_count", 0),
+        "links": section.get("links") or {},
+    }
+
+
+def section_signal_score(section: dict[str, Any]) -> int:
+    return (
+        int(section.get("equation_count") or 0) * 80
+        + int(section.get("figure_count") or 0) * 70
+        + int(section.get("quote_count") or 0) * 65
+        + len(section.get("top_concepts") or []) * 35
+        + int(section.get("word_count") or 0) // 150
+    )
+
+
+def top_sections_by(source: dict[str, Any], key: str, limit: int = 4) -> list[dict[str, Any]]:
+    sections = [
+        section for section in source.get("sections", []) if int(section.get(key) or 0) > 0
+    ]
+    sections.sort(
+        key=lambda section: (
+            -int(section.get(key) or 0),
+            -section_signal_score(section),
+            str(section.get("label") or ""),
+        )
+    )
+    return [compact_section_ref(section) for section in sections[:limit]]
+
+
+def theme_sections(source: dict[str, Any], terms: list[str], limit: int = 4) -> list[dict[str, Any]]:
+    wanted = [term.lower() for term in terms]
+    sections: list[dict[str, Any]] = []
+    for section in source.get("sections", []):
+        haystack = " ".join(section.get("top_themes") or [])
+        haystack += " " + " ".join(hit.get("label", "") for hit in section.get("top_concepts", []))
+        haystack = haystack.lower()
+        if any(term in haystack for term in wanted):
+            sections.append(section)
+    sections.sort(key=lambda section: (-section_signal_score(section), str(section.get("label") or "")))
+    return [compact_section_ref(section) for section in sections[:limit]]
+
+
+def build_study_guide(source: dict[str, Any]) -> dict[str, Any]:
+    first_read = [compact_section_ref(section) for section in (source.get("priority_sections") or [])[:5]]
+    math_sections = top_sections_by(source, "equation_count", 5)
+    visual_sections = top_sections_by(source, "figure_count", 5)
+    field_language_sections = theme_sections(
+        source,
+        ["field", "ether", "dielectric", "capacity", "magnetism", "hysteresis", "force"],
+        5,
+    )
+    glossary_sections = theme_sections(
+        source,
+        ["reactance", "impedance", "admittance", "conductance", "susceptance", "capacity", "counter"],
+        5,
+    )
+    return {
+        "quality_note": "Generated from section-level candidate metadata. Use as a reading guide, not as scan verification.",
+        "first_read": first_read,
+        "mathematics": math_sections,
+        "visuals": visual_sections,
+        "field_language": field_language_sections,
+        "terminology": glossary_sections,
     }
 
 
@@ -325,6 +403,7 @@ This atlas answers the practical research question: is each book actually repres
 ## Choose A Reading Door
 
 <div class="source-matrix">
+  <a href="{BASE_URL}/reading-routes/">Choose a guided route<span>Enter by purpose: first hour, source-only, AC math, transients, field language, diagrams, apparatus, or patents.</span></a>
   <a href="{BASE_URL}/book-coverage/radiation-light-and-illumination/">Start with radiation and light<span>A readable first source: radiation, electric waves, spectrum, light, illumination, and original visual crops.</span></a>
   <a href="{BASE_URL}/book-coverage/theory-calculation-alternating-current-phenomena/">Enter the AC mathematics<span>Symbolic method, complex quantities, impedance, reactance, admittance, harmonics, and transformers.</span></a>
   <a href="{BASE_URL}/book-coverage/theory-calculation-transient-electric-phenomena-oscillations/">Follow transients and surges<span>Temporary terms, oscillations, distributed lines, standing waves, traveling waves, and lightning-related behavior.</span></a>
@@ -432,6 +511,74 @@ def pill_list(items: list[dict[str, Any]], empty: str = "Pending") -> str:
     )
 
 
+def study_link_list(sections: list[dict[str, Any]], empty: str) -> str:
+    if not sections:
+        return f"<p>{html_escape(empty)}</p>"
+    items = []
+    for section in sections:
+        themes = ", ".join(section.get("top_themes") or [])
+        counts = []
+        if section.get("equation_count"):
+            counts.append(f"{section['equation_count']} eq.")
+        if section.get("figure_count"):
+            counts.append(f"{section['figure_count']} fig.")
+        if section.get("quote_count"):
+            counts.append(f"{section['quote_count']} quote")
+        meta = "; ".join(counts) or f"{format_number(int(section.get('word_count') or 0))} words"
+        links = section.get("links") or {}
+        items.append(
+            "<li>"
+            f'<a href="{html_escape(links.get("source_text"))}">{html_escape(section.get("label"))}</a>'
+            f'<span>{html_escape(themes or "general section")} - {html_escape(meta)} - '
+            f'<a href="{html_escape(links.get("workbench"))}">workbench</a></span>'
+            "</li>"
+        )
+    return f"<ul class=\"study-link-list\">\n{''.join(items)}\n</ul>"
+
+
+def study_panel(title: str, body: str, sections: list[dict[str, Any]], empty: str, layer: str = "source") -> str:
+    return f"""  <section data-layer="{html_escape(layer)}">
+    <h3>{html_escape(title)}</h3>
+    <p>{html_escape(body)}</p>
+    {study_link_list(sections, empty)}
+  </section>"""
+
+
+def source_study_guide(source: dict[str, Any]) -> str:
+    guide = source.get("study_guide") or {}
+    panels = [
+        study_panel(
+            "Best First Reads",
+            "Start here when you want the strongest section-level doorway into this source.",
+            guide.get("first_read") or [],
+            "No priority sections have been generated yet.",
+            "source",
+        ),
+        study_panel(
+            "Mathematics To Inspect",
+            "Use these sections to promote equations, notation, derivations, and worked examples.",
+            guide.get("mathematics") or [],
+            "No equation-dense sections have been detected yet.",
+            "modern",
+        ),
+        study_panel(
+            "Visual Material To Crop Or Annotate",
+            "Use these sections to locate figure references, scan crops, diagrams, and redraw targets.",
+            guide.get("visuals") or [],
+            "No figure-dense sections have been detected yet.",
+            "source",
+        ),
+        study_panel(
+            "Field And Language Trail",
+            "Use these sections for field, ether, dielectric, magnetic, force, and terminology review.",
+            guide.get("field_language") or [],
+            "No field-language-heavy sections have been detected yet.",
+            "interpretive",
+        ),
+    ]
+    return "\n".join(panels)
+
+
 def write_source_page(root: Path, source: dict[str, Any]) -> None:
     cards = "\n".join(
         [
@@ -482,6 +629,7 @@ description: {yaml_quote("Book-level section map and candidate coverage for " + 
   <a href="{html_escape(source["links"]["source_text_index"])}">Read the source text<span>Open the full generated text index for this book. Best for reading through the work directly.</span></a>
   <a href="{html_escape(first_section["links"]["source_text"])}">Start with a strong section<span>{html_escape(first_section["label"])}. Chosen because it has dense concept, equation, figure, or quote signals.</span></a>
   <a href="{html_escape(source["links"]["chapter_workbench_index"])}">Use the research workbench<span>Open section-level concept hits, glossary hits, equation candidates, figure candidates, and review prompts.</span></a>
+  <a href="{BASE_URL}/reading-routes/">Find this book in guided routes<span>Use purpose-built pathways for source-only reading, AC math, transients, field language, visuals, apparatus, and patents.</span></a>
   <a href="{html_escape(source["links"]["curated_source"])}">Read the curated guide<span>Use the human-written overview for context, diagrams, and first deep-decoding links.</span></a>
 </div>
 
@@ -492,6 +640,12 @@ description: {yaml_quote("Book-level section map and candidate coverage for " + 
 </div>
 
 This page exists to keep the book from becoming a hollow sidebar entry. Every row below points to a processed section and its research workbench. The entries are useful for reading, routing, tagging, and promotion, but they should still be treated as candidate material until exact quotations, equations, and figures are checked against the scan.
+
+## Source Study Guide
+
+<div class="research-passages source-study-guide">
+{source_study_guide(source)}
+</div>
 
 ## Theme Spine
 

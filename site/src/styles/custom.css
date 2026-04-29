@@ -1158,6 +1158,35 @@ body.codex-lightbox-open {
   color: var(--codex-panel-muted);
 }
 
+.source-study-guide {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+}
+
+.study-link-list {
+  display: grid;
+  gap: 0.55rem;
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.study-link-list li {
+  display: grid;
+  gap: 0.2rem;
+  border-top: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 45%, transparent);
+  padding-top: 0.55rem;
+}
+
+.study-link-list a {
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.study-link-list span {
+  color: var(--codex-panel-muted);
+  font-size: 0.86rem;
+}
+
 @media (max-width: 820px) {
   .home-codex-hero,
   .steinmetz-profile-hero,
