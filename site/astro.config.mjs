@@ -40,18 +40,19 @@ export default defineConfig({
           label: 'Start Here',
           items: [
             { label: 'Start Reading', slug: 'start-reading' },
-            { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
+            { label: 'Diagram Archive', slug: 'diagrams' },
+            { label: 'Interactive Tools', slug: 'tools' },
             { label: 'Browse Books', slug: 'book-coverage' },
-            { label: 'Source Library', slug: 'source-library' },
             { label: 'Project Tracker', slug: 'project-tracker' }
           ]
         },
         {
           label: 'Read The Corpus',
           items: [
-            { label: 'Book Coverage Atlas', slug: 'book-coverage' },
+            { label: 'Source Library', slug: 'source-library' },
+            { label: 'Browse Books', slug: 'book-coverage' },
             { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },

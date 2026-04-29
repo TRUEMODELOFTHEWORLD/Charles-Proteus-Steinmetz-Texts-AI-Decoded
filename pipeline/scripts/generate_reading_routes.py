@@ -103,8 +103,8 @@ ROUTES: list[dict[str, Any]] = [
         "section_limit": 10,
         "start_links": [
             ("Who Was Steinmetz?", f"{BASE_URL}/who-was-steinmetz/", "Human and technical orientation."),
-            ("Start Reading", f"{BASE_URL}/start-reading/", "Friendly reader entry point."),
-            ("Book Coverage Atlas", f"{BASE_URL}/book-coverage/", "Book-by-book coverage map."),
+            ("Begin Lecture I", f"{BASE_URL}/source-texts/radiation-light-and-illumination/lecture-01/", "Start reading a primary text immediately."),
+            ("RLI Book Map", f"{BASE_URL}/book-coverage/radiation-light-and-illumination/", "Readable first book with visual source material."),
             ("Diagram Archive", f"{BASE_URL}/diagrams/", "Original crops and modern visual aids."),
         ],
     },
@@ -562,7 +562,7 @@ def start_link_card(link: dict[str, Any]) -> str:
     return f"""  <a href="{html_escape(link.get('url'))}">{html_escape(link.get('label'))}<span>{html_escape(link.get('note'))}</span></a>"""
 
 
-def section_row(section: dict[str, Any]) -> str:
+def section_card(section: dict[str, Any]) -> str:
     links = section.get("links") or {}
     themes = ", ".join(section.get("top_themes") or [])
     concepts = ", ".join(section.get("top_concepts") or [])
@@ -575,17 +575,31 @@ def section_row(section: dict[str, Any]) -> str:
         counts.append(count_label(int(section["quote_count"]), "quote candidate"))
     if not counts:
         counts.append(count_label(int(section.get("word_count") or 0), "word"))
-    return f"""      <tr>
-        <td><strong>{html_escape(section.get('label'))}</strong><br /><span>{html_escape(section.get('source_title'))}</span></td>
-        <td>{html_escape(themes or 'General source route')}<br /><small>{html_escape(concepts or 'Concept density pending promotion')}</small></td>
-        <td>{html_escape('; '.join(counts))}</td>
-        <td><a href="{html_escape(links.get('source_text'))}">source text</a><br /><a href="{html_escape(links.get('workbench'))}">workbench</a><br /><a href="{html_escape(links.get('book_coverage'))}">book map</a></td>
-      </tr>"""
+    return f"""      <article class="route-section-card">
+        <div>
+          <h3>{html_escape(section.get('label'))}</h3>
+          <p>{html_escape(section.get('source_title'))}</p>
+        </div>
+        <div>
+          <strong>Themes</strong>
+          <p>{html_escape(themes or 'General source route')}</p>
+          <small>{html_escape(concepts or 'Concept density pending promotion')}</small>
+        </div>
+        <div>
+          <strong>Why it is here</strong>
+          <p>{html_escape('; '.join(counts))}</p>
+        </div>
+        <nav aria-label="Open reading targets for {html_escape(section.get('label'))}">
+          <a href="{html_escape(links.get('source_text'))}">Read source text</a>
+          <a href="{html_escape(links.get('workbench'))}">Open workbench</a>
+          <a href="{html_escape(links.get('book_coverage'))}">Book map</a>
+        </nav>
+      </article>"""
 
 
 def route_panel(route: dict[str, Any], open_panel: bool = False) -> str:
     links = "\n".join(start_link_card(link) for link in route.get("start_links") or [])
-    rows = "\n".join(section_row(section) for section in route.get("sections") or [])
+    section_cards = "\n".join(section_card(section) for section in route.get("sections") or [])
     open_attr = " open" if open_panel else ""
     return f"""<details class="reading-route-panel" id="{html_escape(route['id'])}"{open_attr}>
   <summary>
@@ -599,21 +613,16 @@ def route_panel(route: dict[str, Any], open_panel: bool = False) -> str:
     <div class="source-matrix route-start-links">
 {links}
     </div>
-    <table class="codex-status-table route-section-table">
-      <thead>
-        <tr><th>Section</th><th>Themes and concepts</th><th>Evidence density</th><th>Open</th></tr>
-      </thead>
-      <tbody>
-{rows}
-      </tbody>
-    </table>
+    <div class="route-section-list">
+{section_cards}
+    </div>
   </div>
 </details>"""
 
 
 def build_page(atlas: dict[str, Any]) -> str:
     route_cards = "\n".join(route_index_card(route) for route in atlas["routes"])
-    panels = "\n\n".join(route_panel(route, open_panel=index < 3) for index, route in enumerate(atlas["routes"]))
+    panels = "\n\n".join(route_panel(route, open_panel=index == 0) for index, route in enumerate(atlas["routes"]))
     selected_sections = atlas.get("selected_unique_section_count") or 0
     processed_sections = atlas.get("processed_section_count") or 0
     route_count = atlas.get("route_count") or 0
@@ -625,7 +634,7 @@ description: "Purpose-built study routes through the processed Steinmetz corpus.
 
 {GENERATED_NOTE}
 
-This page turns the processed corpus into guided routes. It does not replace the source text browser, book coverage atlas, or chapter workbench. It gives each kind of reader a clean doorway into those deeper layers.
+This page turns the processed corpus into guided routes. It is not another place to get lost: choose one route, read the first source-text card, and use the workbench only when you want evidence, diagrams, equations, and verification notes.
 
 <div class="coverage-hero reading-routes-hero">
   <div>
@@ -645,16 +654,16 @@ This page turns the processed corpus into guided routes. It does not replace the
 
 <div class="research-passages">
   <section data-layer="source">
-    <h3>Read source first</h3>
-    <p>Each selected section includes a direct source-text link. Use that before commentary when exact Steinmetz wording matters.</p>
+    <h3>1. Pick one route</h3>
+    <p>If you are new, use First Hour With Steinmetz. If you already know your purpose, jump straight to AC, transients, field language, diagrams, or patents.</p>
   </section>
   <section data-layer="modern">
-    <h3>Then open the workbench</h3>
-    <p>The workbench adds theme hits, concept hits, glossary hits, equation candidates, figure candidates, quote candidates, and review prompts.</p>
+    <h3>2. Read source first</h3>
+    <p>Each card has a direct source-text button. Use that before opening commentary when exact Steinmetz wording matters.</p>
   </section>
   <section data-layer="interpretive">
-    <h3>Keep layers separate</h3>
-    <p>Modern engineering, Tesla-era comparison, and ether-field interpretation remain useful only when visibly separated from source claims.</p>
+    <h3>3. Then use the workbench</h3>
+    <p>The workbench adds concept hits, glossary hits, equation candidates, figure candidates, quote candidates, and review prompts.</p>
   </section>
 </div>
 

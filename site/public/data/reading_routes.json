@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "quality_note": "Guided routes are generated from processed source metadata, theme hits, concept hits, and candidate equation/figure/quote counts. They are navigation aids, not final scholarly judgments.",
   "route_count": 9,
   "source_count": 11,
@@ -19,14 +19,14 @@
           "note": "Human and technical orientation."
         },
         {
-          "label": "Start Reading",
-          "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/start-reading/",
-          "note": "Friendly reader entry point."
+          "label": "Begin Lecture I",
+          "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/",
+          "note": "Start reading a primary text immediately."
         },
         {
-          "label": "Book Coverage Atlas",
-          "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/",
-          "note": "Book-by-book coverage map."
+          "label": "RLI Book Map",
+          "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/radiation-light-and-illumination/",
+          "note": "Readable first book with visual source material."
         },
         {
           "label": "Diagram Archive",

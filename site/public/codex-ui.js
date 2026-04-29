@@ -11,6 +11,16 @@
     });
   }
 
+  function findSidebarHost() {
+    return (
+      document.querySelector('.sidebar-content') ||
+      document.querySelector('starlight-sidebar') ||
+      document.querySelector('[data-has-sidebar] aside') ||
+      document.querySelector('nav[aria-label="Main"]')?.parentElement ||
+      document.querySelector('nav[aria-label="Sidebar"]')?.parentElement
+    );
+  }
+
   function buildReaderControls() {
     if (document.querySelector('.codex-reader-controls')) return;
 
@@ -18,10 +28,13 @@
     panel.className = 'codex-reader-controls';
     panel.setAttribute('aria-label', 'Codex reader controls');
     panel.innerHTML = [
+      '<p class="codex-reader-title">Reader Mode</p>',
       '<div class="codex-control-row" role="group" aria-label="Reading layer filter">',
       '<button type="button" data-codex-mode="all">All layers</button>',
-      '<button type="button" data-codex-mode="steinmetz-only">Steinmetz only</button>',
+      '<button type="button" data-codex-mode="steinmetz-only">Source only</button>',
       '</div>',
+      '<details class="codex-sidebar-tools">',
+      '<summary>Page tools</summary>',
       '<button type="button" class="codex-ask-toggle" aria-expanded="false">Ask this page</button>',
       '<label class="codex-translate">Translate',
       '<select aria-label="Translate this page">',
@@ -41,10 +54,16 @@
       '<input name="q" type="search" autocomplete="off" placeholder="Try: hysteresis, ether, impedance" />',
       '</label>',
       '<div class="codex-ask-results" aria-live="polite"></div>',
-      '</form>'
+      '</form>',
+      '</details>'
     ].join('');
 
-    document.body.appendChild(panel);
+    const sidebarHost = findSidebarHost();
+    if (sidebarHost) {
+      sidebarHost.appendChild(panel);
+    } else {
+      document.body.appendChild(panel);
+    }
     setMode(root.dataset.sourceMode || 'all');
 
     panel.querySelectorAll('[data-codex-mode]').forEach((button) => {
@@ -162,6 +181,20 @@
     });
   }
 
+  function labelGithubLink() {
+    const links = Array.from(
+      document.querySelectorAll('a[href*="github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded"]')
+    );
+    links.forEach((link) => {
+      if (link.querySelector('.codex-github-text')) return;
+      link.classList.add('codex-github-label');
+      const span = document.createElement('span');
+      span.className = 'codex-github-text';
+      span.textContent = 'TRUEMODELOFTHEWORLD';
+      link.appendChild(span);
+    });
+  }
+
   function setupSourceTextLoaders() {
     const loaders = Array.from(document.querySelectorAll('.source-text-loader[data-source-text-url]'));
     if (!loaders.length) return;
@@ -182,6 +215,7 @@
 
   document.addEventListener('DOMContentLoaded', () => {
     buildReaderControls();
+    labelGithubLink();
     setupSourceTextLoaders();
     setupLightbox();
   });

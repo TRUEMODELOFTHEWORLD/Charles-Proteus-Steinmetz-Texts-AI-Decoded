@@ -28,7 +28,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
 | Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
-| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, mobile-first responsive hardening, a Start Reading route, and generated guided reading routes for non-specialist and specialist entry. |
+| Reader UX layer | Sidebar Reader Mode now provides source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, mobile-first responsive hardening, a direct Start Reading entry, and card-based guided reading routes for non-specialist and specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
@@ -190,7 +190,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 13. Glossary of Forgotten Electrical Language | Started | `site/src/content/docs/glossary/` |
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
 | 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, AC waveform/harmonics, impedance, phasor/symbolic form, power factor, hysteresis loss, transient RLC response, and lightning/surge traveling waves. |
-| Reader filtering and multilingual access | Started | Site-wide source-only filter, page-local ask/search, Google Translate shortcuts, lightbox diagram viewer, and readable source/code transcript blocks. |
+| Reader filtering and multilingual access | Started | Sidebar source-only filter, page-local ask/search, Google Translate shortcuts, lightbox diagram viewer, and readable source/code transcript blocks. |
 | Mobile readiness audit | Started | `site/src/content/docs/roadmap/mobile-readiness-audit.mdx` and `processed/mobile_readiness_audit.json` track responsive CSS gates and high-risk generated page families for phone review. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
