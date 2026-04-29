@@ -62,6 +62,13 @@
       "format": "json"
     },
     {
+      "id": "reading_routes",
+      "description": "Generated guided study routes across the processed corpus.",
+      "source_path": "processed/reading_routes.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/reading_routes.json",
+      "format": "json"
+    },
+    {
       "id": "canonical_equations",
       "description": "First canonical equation set and review state.",
       "source_path": "processed/canonical_equations.json",

@@ -31,6 +31,7 @@ DATA_EXPORTS = [
     ("chapter_workbench", "processed/chapter_workbench.json", "Section-level workbench records."),
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit index."),
     ("theme_evidence_atlas", "processed/theme_evidence_atlas.json", "Source-text evidence atlas for charter-critical research themes."),
+    ("reading_routes", "processed/reading_routes.json", "Generated guided study routes across the processed corpus."),
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),
     ("completion_audit", "processed/completion_audit.json", "Source-by-source readiness audit."),
     ("citation_index", "processed/citation_index.json", "Citation records for source and site artifacts."),

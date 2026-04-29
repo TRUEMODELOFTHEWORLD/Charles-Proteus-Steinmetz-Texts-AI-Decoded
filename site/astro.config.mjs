@@ -40,6 +40,7 @@ export default defineConfig({
           label: 'Start Here',
           items: [
             { label: 'Start Reading', slug: 'start-reading' },
+            { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
             { label: 'Browse Books', slug: 'book-coverage' },
@@ -51,6 +52,7 @@ export default defineConfig({
           label: 'Read The Corpus',
           items: [
             { label: 'Book Coverage Atlas', slug: 'book-coverage' },
+            { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Source Text Browser', slug: 'source-texts' },
             { label: 'Chapter Workbench', slug: 'chapter-workbench' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
