@@ -367,6 +367,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `c88cbc3` | Added generated source study guides to every book coverage page, giving each source first-read, math, visual, and field-language routes from existing metadata. |
 | `3fb4a60` | Added site-wide mobile responsive hardening for grids, cards, tables, source readers, code blocks, fixed controls, and visual panels. |
 | `4afac0c` | Added the generated mobile readiness audit, public data export, and tracker controls for phone/tablet publication review. |
+| `eeb9284` | Added the generated deep-decoding promotion queue, public roadmap page, and public data export for source-balanced curated-page promotion. |
 
 ## Next Work Queue
 
