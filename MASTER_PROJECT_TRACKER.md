@@ -28,7 +28,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Public pages | Source library, source dashboard, concepts, equations, diagrams, comparisons, glossary, hidden gems, research questions, roadmap, and tools. |
 | Original scan crops | Fifteen promoted crops: five from `Radiation, Light and Illumination`, four from `Alternating Current Phenomena`, and six from `Transient Electric Phenomena and Oscillations`, with manifests and checksums. |
 | Modern redraw sheets | Source-keyed redraw sheets now exist for AC symbolic-method geometry and transient condenser-response behavior. |
-| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, a Start Reading route, and generated guided reading routes for non-specialist and specialist entry. |
+| Reader UX layer | Global reader controls now provide source-only filtering, page-local ask/search, translation shortcuts, diagram lightbox viewing, readable source/code blocks, mobile-first responsive hardening, a Start Reading route, and generated guided reading routes for non-specialist and specialist entry. |
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 304 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Book coverage atlas | Generated book-level coverage pages now expose all 11 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
@@ -92,6 +92,7 @@ These are new workstreams added after the foundation was built. They define what
 | Edition comparison layer | Started | A generated edition-collation queue now identifies source edition review work. |
 | Patent-to-theory bridge | Started | A generated patent bridge links seeded patents to concepts, diagram targets, and theory-review actions. |
 | Accessibility and reading-quality audit | Started | Generated structural audit covers alt text, tables, iframes, and manual review gates. |
+| Mobile readiness audit | Started | Generated structural mobile audit tracks responsive CSS gates, source-text readers, table-heavy pages, scan embeds, visual panels, tools, and manual viewport review rules. |
 | Research API and data export | Started | Public data manifest, reusable JSON exports, citation index, CSL JSON, and BibTeX now generate. |
 | Canonical verification workbench | Started | Equation OCR snippets, original crop cards, and patent authority-review cards now route scan-check work item by item. |
 | Claim attribution and source isolation | Started | A generated ledger now keeps source custody, Steinmetz wording, math candidates, modern translations, diagrams, patents, and interpretation layers separate for future multi-author expansion. |
@@ -184,6 +185,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 14. Research Questions | Started | `site/src/content/docs/research-questions.mdx` |
 | 15. Interactive Tools | Started | `site/src/content/docs/tools/index.mdx`, including wave relation, AC waveform/harmonics, impedance, phasor/symbolic form, power factor, hysteresis loss, transient RLC response, and lightning/surge traveling waves. |
 | Reader filtering and multilingual access | Started | Site-wide source-only filter, page-local ask/search, Google Translate shortcuts, lightbox diagram viewer, and readable source/code transcript blocks. |
+| Mobile readiness audit | Started | `site/src/content/docs/roadmap/mobile-readiness-audit.mdx` and `processed/mobile_readiness_audit.json` track responsive CSS gates and high-risk generated page families for phone review. |
 | 16. Data Pipeline | Started | `pipeline/` and `processed/source_processing_status.md` |
 
 ## Data Pipeline Tracker
@@ -209,6 +211,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate scholarly exports | Started | `generate_scholarly_exports.py` builds `CITATION.cff`, citation JSON, CSL JSON, BibTeX, public `/data/` exports, a data manifest, and the public citation/export page. |
 | Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
 | Generate publication readiness controls | Started | `generate_publication_readiness.py` builds release readiness, accessibility audit, edition comparison, and patent bridge JSON plus public roadmap pages. |
+| Generate mobile readiness audit | Started | `generate_mobile_readiness_audit.py` builds `processed/mobile_readiness_audit.json` and a public roadmap page, then exposes the JSON through public data exports. |
 | Generate canonical verification queues | Started | `generate_verification_workbench.py` builds equation OCR-snippet queues, original-figure crop review cards, patent authority-review cards, and public roadmap pages. |
 | Generate claim attribution ledger | Started | `generate_claim_attribution_ledger.py` classifies evidence, canonical equations, modern translations, diagrams, and patents by claim type and interpretation layer. |
 | Generate glossary candidates | Started | `processed/glossary_index.json`. |
@@ -250,6 +253,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `expert_review_packets.json` | Started as the routed expert-review bundle index. |
 | `release_readiness.json` | Started as the named publication release-level map. |
 | `accessibility_audit.json` | Started as the structural accessibility scan and manual gate list. |
+| `mobile_readiness_audit.json` | Started as the structural mobile-readiness gate list and generated-page review queue. |
 | `edition_comparison_index.json` | Started as the edition-collation queue for seeded sources. |
 | `patent_theory_bridge.json` | Started as the patent-to-concept and patent-to-theory bridge. |
 | `canonical_verification_workbench.json` | Started as the queue index for equation, figure, and patent verification work. |
@@ -290,6 +294,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7J. Claim attribution ledger | Generate source-isolation and interpretation-layer controls. | Generated a 3,380-record attribution ledger and public roadmap page. |
 | M7K. Figure candidate atlas | Generate a visual-routing map for all promoted scan crops and remaining figure candidates. | Public figure atlas separates original crop assets from OCR/PDF-text candidates and links each candidate back to source text and workbench pages. |
 | M7L. Guided reading routes | Generate purpose-built reader pathways so the corpus is explorable without becoming shallow. | Public route page now exposes nine generated pathways backed by `processed/reading_routes.json` and linked from home, sidebar, Start Reading, Source Library, and data exports. |
+| M7M. Mobile publication hardening | Treat phone reading as a publication gate for source text, tables, diagrams, tools, and navigation. | Global responsive CSS is in place; `processed/mobile_readiness_audit.json` and a public roadmap page now track CSS gates, page-risk patterns, and required manual viewports. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -354,6 +359,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `1ebcddf` | Added generated figure candidate atlas so promoted scan crops and OCR/PDF-text figure references are visible, linked, and reviewable source by source. |
 | `acca450` | Added generated guided reading routes so readers can enter the processed corpus by purpose while staying linked to source text, workbench pages, verification routes, and public data exports. |
 | `c88cbc3` | Added generated source study guides to every book coverage page, giving each source first-read, math, visual, and field-language routes from existing metadata. |
+| `3fb4a60` | Added site-wide mobile responsive hardening for grids, cards, tables, source readers, code blocks, fixed controls, and visual panels. |
 
 ## Next Work Queue
 
@@ -370,4 +376,5 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
 12. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
 13. Use the generated figure candidate atlas to crop the highest-value unpromoted figures from AC, RLI, Elementary Lectures, General Lectures, Electric Apparatus, Engineering Mathematics, and Relativity and Space.
-14. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.
+14. Use the mobile readiness audit to manually inspect the highest-risk generated pages at 360px, 430px, 768px, and desktop widths before each publication push.
+15. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.

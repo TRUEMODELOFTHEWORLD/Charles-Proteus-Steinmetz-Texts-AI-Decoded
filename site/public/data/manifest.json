@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "project": "Steinmetz Decoded",
   "site_url": "https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
   "repository": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded",
@@ -136,6 +136,13 @@
       "description": "Automated accessibility-readiness scan and manual review gates.",
       "source_path": "processed/accessibility_audit.json",
       "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/accessibility_audit.json",
+      "format": "json"
+    },
+    {
+      "id": "mobile_readiness_audit",
+      "description": "Structural mobile-readiness CSS gates and page-pattern review queue.",
+      "source_path": "processed/mobile_readiness_audit.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/mobile_readiness_audit.json",
       "format": "json"
     },
     {

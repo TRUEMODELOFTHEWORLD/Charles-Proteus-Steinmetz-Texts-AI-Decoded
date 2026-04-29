@@ -42,6 +42,7 @@ DATA_EXPORTS = [
     ("expert_review_packets", "processed/expert_review_packets.json", "Expert review bundles for canonical promotion work."),
     ("release_readiness", "processed/release_readiness.json", "Named publication release levels and readiness states."),
     ("accessibility_audit", "processed/accessibility_audit.json", "Automated accessibility-readiness scan and manual review gates."),
+    ("mobile_readiness_audit", "processed/mobile_readiness_audit.json", "Structural mobile-readiness CSS gates and page-pattern review queue."),
     ("edition_comparison_index", "processed/edition_comparison_index.json", "Edition collation queue for seeded sources."),
     ("patent_theory_bridge", "processed/patent_theory_bridge.json", "Seeded bridge from patents to concepts and theory-review targets."),
     ("canonical_verification_workbench", "processed/canonical_verification_workbench.json", "Top-level queue index for canonical equation, figure, and patent verification."),
