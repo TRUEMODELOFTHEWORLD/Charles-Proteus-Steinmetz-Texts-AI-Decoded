@@ -69,6 +69,13 @@
       "format": "json"
     },
     {
+      "id": "deep_decoding_promotion_queue",
+      "description": "Generated queue for promoting covered source sections into richer deep-decoding pages.",
+      "source_path": "processed/deep_decoding_promotion_queue.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/deep_decoding_promotion_queue.json",
+      "format": "json"
+    },
+    {
       "id": "canonical_equations",
       "description": "First canonical equation set and review state.",
       "source_path": "processed/canonical_equations.json",

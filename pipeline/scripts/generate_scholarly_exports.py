@@ -32,6 +32,7 @@ DATA_EXPORTS = [
     ("concept_concordance", "processed/concept_concordance.json", "Source-text concept hit index."),
     ("theme_evidence_atlas", "processed/theme_evidence_atlas.json", "Source-text evidence atlas for charter-critical research themes."),
     ("reading_routes", "processed/reading_routes.json", "Generated guided study routes across the processed corpus."),
+    ("deep_decoding_promotion_queue", "processed/deep_decoding_promotion_queue.json", "Generated queue for promoting covered source sections into richer deep-decoding pages."),
     ("canonical_equations", "processed/canonical_equations.json", "First canonical equation set and review state."),
     ("completion_audit", "processed/completion_audit.json", "Source-by-source readiness audit."),
     ("citation_index", "processed/citation_index.json", "Citation records for source and site artifacts."),

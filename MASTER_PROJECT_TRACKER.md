@@ -37,6 +37,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Figure candidate atlas | Generated visual-routing pages now separate promoted original scan crops from OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
 | Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
+| Deep-decoding promotion queue | `processed/deep_decoding_promotion_queue.json` and a public roadmap page now rank all 304 processed sections for the next curated long-form decoding passes, with global and source-balanced queues. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
 | World-class criteria | Public expert finishing criteria now define what the archive must do before it can honestly call itself definitive. |
 | Scholarly exports | `CITATION.cff`, `processed/citation_index.json`, CSL JSON, BibTeX, public `/data/` exports, and a data manifest now publish reusable research data with review-state labels intact. |
@@ -87,6 +88,7 @@ These are new workstreams added after the foundation was built. They define what
 | Citation/export system | Started | Researchers can export BibTeX, CSL JSON, stable source IDs, recommended citations, and public JSON data. |
 | Canonical review workflow | Started | Candidate -> source-located -> scan-verified -> mathematically reviewed -> context reviewed -> canonical is public and tied to issue templates. |
 | Guided reading routes | Started | Generated routes make the corpus browsable by purpose without replacing source-text, workbench, or verification layers. |
+| Deep-decoding promotion queue | Started | Generated promotion queue turns broad corpus coverage into prioritized editorial targets for richer curated source pages. |
 | Mathematical errata and notation ledger | Started | The first generated notation ledger maps source and modern symbols across the canonical equation seed set. |
 | Diagram provenance ledger | Started | The generated provenance ledger maps 15 original crops and 9 modern redraws with source, asset, and review-state fields. |
 | Edition comparison layer | Started | A generated edition-collation queue now identifies source edition review work. |
@@ -166,6 +168,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4f. Concept Concordance | Started | `site/src/content/docs/concept-concordance/` generated from processed text sections and curated concept vocabulary |
 | 4f-2. Theme Evidence Atlas | Started | `site/src/content/docs/theme-evidence/` generated from processed text sections and charter-critical theme vocabulary |
 | 4f-3. Guided Reading Routes | Started | `site/src/content/docs/reading-routes/` generated from book coverage metadata to give newcomers, engineers, field-language readers, diagram readers, and patent researchers clean entry paths |
+| 4f-4. Deep-Decoding Promotion Queue | Started | `site/src/content/docs/roadmap/deep-decoding-promotion-queue.mdx` and `processed/deep_decoding_promotion_queue.json` rank the next sections to convert from generated coverage into curated long-form pages |
 | 8a. Figure Candidate Atlas | Started | `site/src/content/docs/diagrams/figure-candidate-atlas.mdx` generated from figure candidates and promoted scan crops |
 | 4g. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 4h. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
@@ -207,6 +210,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate theme evidence atlas pages | Started | `generate_theme_evidence_atlas.py` builds 10 public theme-evidence pages plus `processed/theme_evidence_atlas.json`. |
 | Generate figure candidate atlas pages | Started | `generate_figure_candidate_atlas.py` builds a public figure atlas plus `processed/figure_candidate_atlas.json`, routing promoted crops and OCR/PDF-text candidates back to source pages. |
 | Generate guided reading route pages | Started | `generate_reading_routes.py` builds `processed/reading_routes.json` and the public `reading-routes/` page from source coverage, workbench links, and candidate density. |
+| Generate deep-decoding promotion queue | Started | `generate_deep_decoding_queue.py` builds `processed/deep_decoding_promotion_queue.json` and a public roadmap page ranking the next source sections for curated promotion. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
 | Generate scholarly exports | Started | `generate_scholarly_exports.py` builds `CITATION.cff`, citation JSON, CSL JSON, BibTeX, public `/data/` exports, a data manifest, and the public citation/export page. |
 | Generate world-class scholarly ledgers | Started | `generate_world_class_artifacts.py` builds notation, diagram provenance, schema reference, and expert review packet JSON plus public roadmap pages. |
@@ -243,6 +247,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
 | `figure_candidate_atlas.json` | Started as the archive-wide visual routing layer for promoted original crops and OCR/PDF-text figure references. |
 | `reading_routes.json` | Started as the archive-wide guided study route layer across all processed sections. |
+| `deep_decoding_promotion_queue.json` | Started as the archive-wide editorial queue for converting source coverage into mature deep-decoding pages. |
 | `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
 | `citation_index.json` | Started as the archive-wide citation record set for project and source records. |
 | `citation_index.csl.json` | Started as the CSL JSON export for citation managers. |
@@ -295,6 +300,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7K. Figure candidate atlas | Generate a visual-routing map for all promoted scan crops and remaining figure candidates. | Public figure atlas separates original crop assets from OCR/PDF-text candidates and links each candidate back to source text and workbench pages. |
 | M7L. Guided reading routes | Generate purpose-built reader pathways so the corpus is explorable without becoming shallow. | Public route page now exposes nine generated pathways backed by `processed/reading_routes.json` and linked from home, sidebar, Start Reading, Source Library, and data exports. |
 | M7M. Mobile publication hardening | Treat phone reading as a publication gate for source text, tables, diagrams, tools, and navigation. | Global responsive CSS is in place; `processed/mobile_readiness_audit.json` and a public roadmap page now track CSS gates, page-risk patterns, and required manual viewports. |
+| M7N. Deep-decoding promotion queue | Turn broad generated coverage into prioritized curated writing work. | All 304 processed sections are ranked globally and by source-balanced priority; the public queue defines required deep-page layers and links every candidate to source text and workbench pages. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -360,6 +366,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `acca450` | Added generated guided reading routes so readers can enter the processed corpus by purpose while staying linked to source text, workbench pages, verification routes, and public data exports. |
 | `c88cbc3` | Added generated source study guides to every book coverage page, giving each source first-read, math, visual, and field-language routes from existing metadata. |
 | `3fb4a60` | Added site-wide mobile responsive hardening for grids, cards, tables, source readers, code blocks, fixed controls, and visual panels. |
+| `4afac0c` | Added the generated mobile readiness audit, public data export, and tracker controls for phone/tablet publication review. |
 
 ## Next Work Queue
 
@@ -372,9 +379,10 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 7. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.
 8. Scan-verify the Commonwealth Edison report, crop Appendix Figure 1, and promote corrected synchronizing-power equations.
 9. Use the generated reading routes, book coverage atlas, source-text browser, chapter workbench, and concept concordance to promote the next batch of chapter-by-chapter deep readings without losing full-text coverage.
-10. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
-11. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
-12. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
-13. Use the generated figure candidate atlas to crop the highest-value unpromoted figures from AC, RLI, Elementary Lectures, General Lectures, Electric Apparatus, Engineering Mathematics, and Relativity and Space.
-14. Use the mobile readiness audit to manually inspect the highest-risk generated pages at 360px, 430px, 768px, and desktop widths before each publication push.
-15. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.
+10. Use the deep-decoding promotion queue to promote the next source-balanced batch of curated pages, beginning with high-value math, transient, field-language, and apparatus sections.
+11. Acquire and process high-priority bibliography intake sources: `On the Law of Hysteresis`, `Complex Quantities and Their Use in Electrical Engineering`, `The General Equations of the Electric Circuit`, `Mechanical Forces in Magnetic Fields`, and first-edition variants where available.
+12. Complete the Steinmetz patent authority pass, download patent PDFs/drawings, and create one verified patent page per patent.
+13. Use the new citation/data exports, scholarly ledgers, and review templates to prepare external expert review packets.
+14. Use the generated figure candidate atlas to crop the highest-value unpromoted figures from AC, RLI, Elementary Lectures, General Lectures, Electric Apparatus, Engineering Mathematics, and Relativity and Space.
+15. Use the mobile readiness audit to manually inspect the highest-risk generated pages at 360px, 430px, 768px, and desktop widths before each publication push.
+16. Add the remaining world-class apparatus: formal JSON schemas, deeper accessibility testing, completed edition collation, verified patent dossiers, and named release publication notes.
