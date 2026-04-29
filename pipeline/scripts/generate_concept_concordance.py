@@ -277,7 +277,7 @@ def code_fence(text: str) -> str:
     for match in re.finditer(r"`+", text):
         longest = max(longest, len(match.group(0)) + 1)
     fence = "`" * longest
-    return f"{fence}text\n{text}\n{fence}"
+    return f"{fence}text wrap\n{text}\n{fence}"
 
 
 def source_page_slug(record: dict[str, Any]) -> str:

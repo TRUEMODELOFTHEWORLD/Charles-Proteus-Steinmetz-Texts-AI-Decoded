@@ -77,7 +77,7 @@
     const contentRoot = document.querySelector('main') || document.body;
 
     function pageTextNodes() {
-      return Array.from(contentRoot.querySelectorAll('p, li, td, blockquote, pre.source-text-loader'))
+      return Array.from(contentRoot.querySelectorAll('p, li, td, blockquote, pre.source-text-loader, .source-text-loader'))
         .filter((node) => !node.closest('.codex-reader-controls'))
         .map((node) => node.textContent.replace(/\s+/g, ' ').trim())
         .filter((text) => text.length > 65);

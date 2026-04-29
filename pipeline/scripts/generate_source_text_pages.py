@@ -65,7 +65,7 @@ def code_fence(text: str) -> str:
     for match in re.finditer(r"`+", text):
         longest = max(longest, len(match.group(0)) + 1)
     fence = "`" * longest
-    return f"{fence}text\n{text.rstrip()}\n{fence}"
+    return f"{fence}text wrap\n{text.rstrip()}\n{fence}"
 
 
 def read_source_text(root: Path, record: dict[str, Any]) -> str:
@@ -255,7 +255,7 @@ import SourceRef from '../../../../components/SourceRef.astro';
 
 ## Source Text
 
-<pre class="source-text-loader" data-source-text-url="{html_escape(text_asset_url)}">Loading source text...</pre>
+<div class="source-text-loader source-text-manuscript" data-source-text-url="{html_escape(text_asset_url)}">Loading source text...</div>
 
 <noscript>
   <p><a href="{html_escape(text_asset_url)}">Open the source text asset</a></p>

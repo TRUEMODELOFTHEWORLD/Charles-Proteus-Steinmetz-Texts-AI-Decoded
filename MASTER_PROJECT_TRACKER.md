@@ -332,7 +332,13 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `feb0145` | Added the generated completion audit and world-class finishing criteria. |
 | `62967cd` | Added scholarly citation/data exports, editorial policy, canonical review workflow, and issue templates. |
 | `69ed6ec` | Added notation, diagram provenance, schema reference, and expert review packet ledgers. |
-| pending commit | Added publication readiness, accessibility, edition comparison, and patent-to-theory bridge controls. |
+| `7935569` | Added publication readiness, accessibility, edition comparison, and patent-to-theory bridge controls. |
+| `4906c5d` | Added the canonical verification workbench, equation review queues, figure review queues, and patent authority-review queues. |
+| `e8c79bd` | Added the claim attribution ledger and source-isolation data model for facts, candidates, translations, diagrams, patents, and interpretive boundaries. |
+| `f87c901` | Added the generated book coverage atlas and upgraded the Steinmetz profile and browsing UX. |
+| `2ddab91` | Fixed source-reader UX and browsing paths with improved reader controls, source access, and navigation. |
+| `59b1978` | Added the generated theme evidence atlas across charter-critical Steinmetz themes. |
+| pending commit | Strengthen generated source-text and snippet readability so source manuscripts, workbench excerpts, concordance snippets, and theme evidence excerpts expand instead of trapping text in scroll boxes. |
 
 ## Next Work Queue
 
