@@ -1,6 +1,6 @@
 # Steinmetz Decoded
 
-LIVE DEMO : https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/
+LIVE WEBSITE : https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded/
 
 An open-source research archive and public knowledge base for the writings of Charles Proteus Steinmetz.
 
