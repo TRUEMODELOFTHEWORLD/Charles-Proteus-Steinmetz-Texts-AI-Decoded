@@ -1,0 +1,652 @@
+{
+  "generated_at": "2026-04-29",
+  "quality_note": "Crosslinked research surfaces route source, math, visual, and concept evidence. Candidate records require scan and editorial verification.",
+  "source_count": 15,
+  "concept_bridge_count": 22,
+  "total_formula_candidates": 3845,
+  "total_figure_candidates": 504,
+  "total_promoted_crops": 15,
+  "total_modern_visual_guides": 10,
+  "sources": [
+    {
+      "source_id": "america-and-new-epoch",
+      "title": "America and the New Epoch",
+      "year": 1916,
+      "formula_candidates": 21,
+      "figure_candidates": 0,
+      "promoted_crops": 0,
+      "modern_visual_guides": 0,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/america-and-new-epoch/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/america-and-new-epoch/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/america-and-new-epoch/"
+      }
+    },
+    {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1911,
+      "formula_candidates": 300,
+      "figure_candidates": 16,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/elementary-lectures-electric-discharges-waves-impulses/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/elementary-lectures-electric-discharges-waves-impulses/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/elementary-lectures-electric-discharges-waves-impulses/"
+      }
+    },
+    {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1914,
+      "formula_candidates": 300,
+      "figure_candidates": 18,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/electric-discharges-waves-impulses-1914/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/electric-discharges-waves-impulses-1914/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/electric-discharges-waves-impulses-1914/"
+      }
+    },
+    {
+      "source_id": "engineering-mathematics",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "year": 1911,
+      "formula_candidates": 300,
+      "figure_candidates": 9,
+      "promoted_crops": 0,
+      "modern_visual_guides": 3,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/engineering-mathematics/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/engineering-mathematics/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/engineering-mathematics/"
+      }
+    },
+    {
+      "source_id": "four-lectures-relativity-space",
+      "title": "Four Lectures on Relativity and Space",
+      "year": 1923,
+      "formula_candidates": 170,
+      "figure_candidates": 19,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/four-lectures-relativity-space/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/four-lectures-relativity-space/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/four-lectures-relativity-space/"
+      }
+    },
+    {
+      "source_id": "general-lectures-electrical-engineering",
+      "title": "General Lectures on Electrical Engineering",
+      "year": 1908,
+      "formula_candidates": 134,
+      "figure_candidates": 14,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/general-lectures-electrical-engineering/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/general-lectures-electrical-engineering/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/general-lectures-electrical-engineering/"
+      }
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "year": 1919,
+      "formula_candidates": 220,
+      "figure_candidates": 1,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/commonwealth-edison-generating-system-trouble/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/commonwealth-edison-generating-system-trouble/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/commonwealth-edison-generating-system-trouble/"
+      }
+    },
+    {
+      "source_id": "radiation-light-and-illumination",
+      "title": "Radiation, Light and Illumination",
+      "year": 1909,
+      "formula_candidates": 300,
+      "figure_candidates": 98,
+      "promoted_crops": 5,
+      "modern_visual_guides": 0,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/radiation-light-and-illumination/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/radiation-light-and-illumination/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/radiation-light-and-illumination/"
+      }
+    },
+    {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "year": 1915,
+      "formula_candidates": 300,
+      "figure_candidates": 10,
+      "promoted_crops": 0,
+      "modern_visual_guides": 6,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theoretical-elements-electrical-engineering/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theoretical-elements-electrical-engineering/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theoretical-elements-electrical-engineering/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1916,
+      "formula_candidates": 300,
+      "figure_candidates": 145,
+      "promoted_crops": 4,
+      "modern_visual_guides": 4,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "formula_candidates": 300,
+      "figure_candidates": 91,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1900/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1900/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1900/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "formula_candidates": 300,
+      "figure_candidates": 32,
+      "promoted_crops": 0,
+      "modern_visual_guides": 0,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1897/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1897/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1897/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-electric-apparatus",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "year": 1917,
+      "formula_candidates": 300,
+      "figure_candidates": 13,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-apparatus/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-apparatus/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-apparatus/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-electric-circuits",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "formula_candidates": 300,
+      "figure_candidates": 37,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-circuits/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-circuits/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-circuits/"
+      }
+    },
+    {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "year": 1909,
+      "formula_candidates": 300,
+      "figure_candidates": 1,
+      "promoted_crops": 6,
+      "modern_visual_guides": 1,
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-transient-electric-phenomena-oscillations/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-transient-electric-phenomena-oscillations/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-transient-electric-phenomena-oscillations/"
+      }
+    }
+  ],
+  "concept_bridges": [
+    {
+      "page_slug": "admittance",
+      "page_title": "Admittance",
+      "formula_candidate_count": 544,
+      "figure_candidate_count": 5,
+      "modern_visual_count": 3,
+      "families": [
+        "impedance-admittance",
+        "symbolic-ac"
+      ],
+      "keywords": [
+        "admittance",
+        "conductance",
+        "susceptance",
+        "reciprocal"
+      ]
+    },
+    {
+      "page_slug": "complex-quantities",
+      "page_title": "Complex Quantities",
+      "formula_candidate_count": 845,
+      "figure_candidate_count": 35,
+      "modern_visual_count": 3,
+      "families": [
+        "engineering-math",
+        "symbolic-ac"
+      ],
+      "keywords": [
+        "complex",
+        "imaginary",
+        "quadrature",
+        "j",
+        "vector"
+      ]
+    },
+    {
+      "page_slug": "conductance",
+      "page_title": "Conductance",
+      "formula_candidate_count": 204,
+      "figure_candidate_count": 4,
+      "modern_visual_count": 1,
+      "families": [
+        "impedance-admittance"
+      ],
+      "keywords": [
+        "conductance",
+        "admittance",
+        "susceptance"
+      ]
+    },
+    {
+      "page_slug": "dielectric-loss",
+      "page_title": "Dielectric Loss",
+      "formula_candidate_count": 855,
+      "figure_candidate_count": 59,
+      "modern_visual_count": 1,
+      "families": [
+        "inductance-capacity",
+        "magnetism-hysteresis",
+        "power-energy"
+      ],
+      "keywords": [
+        "dielectric",
+        "capacity",
+        "condenser",
+        "loss",
+        "energy"
+      ]
+    },
+    {
+      "page_slug": "distributed-constants",
+      "page_title": "Distributed Constants",
+      "formula_candidate_count": 1547,
+      "figure_candidate_count": 125,
+      "modern_visual_count": 4,
+      "families": [
+        "inductance-capacity",
+        "transients-oscillation",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "distributed",
+        "line",
+        "capacity",
+        "inductance",
+        "wave",
+        "propagation"
+      ]
+    },
+    {
+      "page_slug": "electric-waves",
+      "page_title": "Electric Waves",
+      "formula_candidate_count": 1237,
+      "figure_candidate_count": 142,
+      "modern_visual_count": 4,
+      "families": [
+        "transients-oscillation",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "electric wave",
+        "wave",
+        "radiation",
+        "frequency",
+        "wavelength",
+        "line"
+      ]
+    },
+    {
+      "page_slug": "ether",
+      "page_title": "Ether",
+      "formula_candidate_count": 404,
+      "figure_candidate_count": 107,
+      "modern_visual_count": 1,
+      "families": [
+        "waves-radiation"
+      ],
+      "keywords": [
+        "ether",
+        "field",
+        "radiation",
+        "wave",
+        "medium"
+      ]
+    },
+    {
+      "page_slug": "harmonics-wave-shape",
+      "page_title": "Harmonics And Wave Shape",
+      "formula_candidate_count": 1108,
+      "figure_candidate_count": 27,
+      "modern_visual_count": 1,
+      "families": [
+        "engineering-math",
+        "symbolic-ac",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "harmonic",
+        "wave shape",
+        "sine",
+        "frequency",
+        "fourier"
+      ]
+    },
+    {
+      "page_slug": "hysteresis",
+      "page_title": "Hysteresis",
+      "formula_candidate_count": 207,
+      "figure_candidate_count": 39,
+      "modern_visual_count": 1,
+      "families": [
+        "magnetism-hysteresis",
+        "power-energy"
+      ],
+      "keywords": [
+        "hysteresis",
+        "magnetic",
+        "loss",
+        "effective resistance"
+      ]
+    },
+    {
+      "page_slug": "illumination",
+      "page_title": "Illumination",
+      "formula_candidate_count": 529,
+      "figure_candidate_count": 113,
+      "modern_visual_count": 4,
+      "families": [
+        "power-energy",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "illumination",
+        "light",
+        "flux",
+        "photometry",
+        "radiation"
+      ]
+    },
+    {
+      "page_slug": "impedance",
+      "page_title": "Impedance",
+      "formula_candidate_count": 1031,
+      "figure_candidate_count": 143,
+      "modern_visual_count": 3,
+      "families": [
+        "impedance-admittance",
+        "symbolic-ac"
+      ],
+      "keywords": [
+        "impedance",
+        "reactance",
+        "resistance",
+        "phase"
+      ]
+    },
+    {
+      "page_slug": "inductance-capacity",
+      "page_title": "Inductance And Capacity",
+      "formula_candidate_count": 1329,
+      "figure_candidate_count": 60,
+      "modern_visual_count": 2,
+      "families": [
+        "inductance-capacity",
+        "transients-oscillation"
+      ],
+      "keywords": [
+        "inductance",
+        "capacity",
+        "condenser",
+        "magnetic",
+        "dielectric"
+      ]
+    },
+    {
+      "page_slug": "lightning-surges",
+      "page_title": "Lightning And Surges",
+      "formula_candidate_count": 1443,
+      "figure_candidate_count": 38,
+      "modern_visual_count": 1,
+      "families": [
+        "apparatus-systems",
+        "transients-oscillation",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "lightning",
+        "surge",
+        "impulse",
+        "traveling wave",
+        "discharge"
+      ]
+    },
+    {
+      "page_slug": "oscillation-damping",
+      "page_title": "Oscillation And Damping",
+      "formula_candidate_count": 925,
+      "figure_candidate_count": 44,
+      "modern_visual_count": 2,
+      "families": [
+        "transients-oscillation"
+      ],
+      "keywords": [
+        "oscillation",
+        "damping",
+        "decrement",
+        "period",
+        "transient"
+      ]
+    },
+    {
+      "page_slug": "power-factor",
+      "page_title": "Power Factor",
+      "formula_candidate_count": 691,
+      "figure_candidate_count": 83,
+      "modern_visual_count": 3,
+      "families": [
+        "impedance-admittance",
+        "power-energy",
+        "symbolic-ac"
+      ],
+      "keywords": [
+        "power factor",
+        "wattless",
+        "phase",
+        "reactive",
+        "effective"
+      ]
+    },
+    {
+      "page_slug": "power-limiting-reactors",
+      "page_title": "Power-Limiting Reactors",
+      "formula_candidate_count": 563,
+      "figure_candidate_count": 38,
+      "modern_visual_count": 1,
+      "families": [
+        "apparatus-systems",
+        "impedance-admittance",
+        "power-energy"
+      ],
+      "keywords": [
+        "reactor",
+        "reactance",
+        "short circuit",
+        "synchronism",
+        "station"
+      ]
+    },
+    {
+      "page_slug": "radiation",
+      "page_title": "Radiation",
+      "formula_candidate_count": 429,
+      "figure_candidate_count": 110,
+      "modern_visual_count": 4,
+      "families": [
+        "waves-radiation"
+      ],
+      "keywords": [
+        "radiation",
+        "light",
+        "frequency",
+        "wave length",
+        "spectrum"
+      ]
+    },
+    {
+      "page_slug": "reactance",
+      "page_title": "Reactance",
+      "formula_candidate_count": 1198,
+      "figure_candidate_count": 78,
+      "modern_visual_count": 2,
+      "families": [
+        "apparatus-systems",
+        "impedance-admittance",
+        "inductance-capacity"
+      ],
+      "keywords": [
+        "reactance",
+        "inductance",
+        "capacity",
+        "wattless",
+        "impedance"
+      ]
+    },
+    {
+      "page_slug": "susceptance",
+      "page_title": "Susceptance",
+      "formula_candidate_count": 400,
+      "figure_candidate_count": 29,
+      "modern_visual_count": 1,
+      "families": [
+        "impedance-admittance"
+      ],
+      "keywords": [
+        "susceptance",
+        "admittance",
+        "conductance",
+        "capacity"
+      ]
+    },
+    {
+      "page_slug": "symbolic-method",
+      "page_title": "Symbolic Method",
+      "formula_candidate_count": 1034,
+      "figure_candidate_count": 39,
+      "modern_visual_count": 3,
+      "families": [
+        "engineering-math",
+        "impedance-admittance",
+        "symbolic-ac"
+      ],
+      "keywords": [
+        "symbolic",
+        "complex",
+        "j",
+        "quadrature",
+        "rectangular",
+        "vector"
+      ]
+    },
+    {
+      "page_slug": "synchronizing-power",
+      "page_title": "Synchronizing Power",
+      "formula_candidate_count": 731,
+      "figure_candidate_count": 22,
+      "modern_visual_count": 1,
+      "families": [
+        "apparatus-systems",
+        "impedance-admittance",
+        "power-energy"
+      ],
+      "keywords": [
+        "synchronizing",
+        "synchronism",
+        "reactor",
+        "station",
+        "power"
+      ]
+    },
+    {
+      "page_slug": "transient-phenomena",
+      "page_title": "Transient Phenomena",
+      "formula_candidate_count": 1227,
+      "figure_candidate_count": 37,
+      "modern_visual_count": 2,
+      "families": [
+        "transients-oscillation",
+        "waves-radiation"
+      ],
+      "keywords": [
+        "transient",
+        "temporary",
+        "oscillation",
+        "damping",
+        "surge",
+        "impulse"
+      ]
+    }
+  ]
+}

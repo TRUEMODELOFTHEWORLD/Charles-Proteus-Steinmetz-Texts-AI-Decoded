@@ -39,6 +39,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Theme evidence atlas | Generated source-grounded theme pages now expose nine charter-critical evidence routes under `site/src/content/docs/theme-evidence/`, covering ether/field language, magnetism/hysteresis, dielectricity/capacity, impedance/reactance, AC symbolic method, transients/surges, waves/radiation, energy/power, and apparatus. |
 | Figure candidate atlas | Generated visual-routing pages now separate 15 promoted original scan crops from 504 OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
 | Equation atlas | Generated math-routing pages now expose 3,845 equation/formula candidates from 15 sources, including 2,528 reviewable relation candidates and 1,330 strong formula candidates grouped by mathematical family. |
+| Crosslinked research surfaces | Generated source visual maps, source formula maps, and concept evidence bridges now connect diagrams, formulas, concepts, source text, and workbench pages across all 15 processed sources and 22 curated concept pages. |
 | Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
 | Deep-decoding promotion queue | `processed/deep_decoding_promotion_queue.json` and a public roadmap page now rank all 394 processed sections for the next curated long-form decoding passes, with global and source-balanced queues. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
@@ -66,8 +67,8 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Account for more notable Steinmetz works | Started | Wikipedia bibliography intake now tracks books, lecture collections, pamphlets, and papers beyond the seeded source catalog; four additional book-level OCR seeds were added. |
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; generated concept concordance now traces 77 concepts across all processed sections; 22 curated concept pages now carry source-grounded dossiers for deeper reading and promotion; scan-grounded promotion continues. |
-| Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, candidate Steinmetz hysteresis-law page, and generated equation atlas now expose the broader formula layer; scan verification and worked examples continue. |
-| Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; 504 figure references and 20 modern SVG reading aids now make the visual layer visible while crop verification continues. |
+| Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, candidate Steinmetz hysteresis-law page, generated equation atlas, and source formula maps now expose the broader formula layer; scan verification and worked examples continue. |
+| Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; 504 figure references, source visual maps, and 20 modern SVG reading aids now make the visual layer visible while crop verification continues. |
 | Build glossary of forgotten electrical language | Started | Glossary index plus source-located pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance. |
 | Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
 | Compare Steinmetz with Tesla-era science | Started | Introductory Tesla-era comparison and transient page exist. Needs Tesla source anchoring before stronger claims. |
@@ -175,6 +176,8 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4f-3. Guided Reading Routes | Started | `site/src/content/docs/reading-routes/` generated from book coverage metadata to give newcomers, engineers, field-language readers, diagram readers, and patent researchers clean entry paths |
 | 4f-4. Deep-Decoding Promotion Queue | Started | `site/src/content/docs/roadmap/deep-decoding-promotion-queue.mdx` and `processed/deep_decoding_promotion_queue.json` rank the next sections to convert from generated coverage into curated long-form pages |
 | 8a. Figure Candidate Atlas | Started | `site/src/content/docs/diagrams/figure-candidate-atlas.mdx` generated from figure candidates and promoted scan crops |
+| 8b. Source Visual Maps | Started | `site/src/content/docs/diagrams/source-visuals/` generated for all 15 processed sources, linking promoted crops, figure candidates, modern guide diagrams, source text, workbench, and formula maps |
+| 7a. Source Formula Maps | Started | `site/src/content/docs/mathematics/source-formula-maps/` generated for all 15 processed sources, linking formula families, top candidates, source text, workbench, and visual maps |
 | 4g. Completion Audit | Started | `site/src/content/docs/roadmap/completion-audit.mdx` generated from source readiness gates |
 | 4h. Citation And Data Export | Started | `site/src/content/docs/roadmap/citation-and-data-export.mdx`, `CITATION.cff`, public `/data/` exports, BibTeX, and CSL JSON generated |
 | 4i. Editorial Policy And Review Workflow | Started | `site/src/content/docs/roadmap/editorial-policy.mdx`, `site/src/content/docs/roadmap/canonical-review-workflow.mdx`, contribution rules, and GitHub issue templates |
@@ -183,8 +186,8 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | 4l. Claim Attribution Ledger | Started | `site/src/content/docs/roadmap/claim-attribution-ledger.mdx` and `processed/claim_attribution_ledger.json` generated |
 | 5. Book-by-Book Deep Decoding | Started | RLI, AC, transient, engineering math, Theoretical Elements, Electric Apparatus, General Lectures, Relativity and Space, Commonwealth Edison, historical-context pages, and generated book coverage pages |
 | 6. Concept Encyclopedia | Started | `site/src/content/docs/concepts/` |
-| 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` plus generated `mathematics/equation-atlas/` family pages |
-| 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` with global lightbox viewing, figure candidate atlas, and recreated visual index |
+| 7. Mathematics of Steinmetz | Started | `site/src/content/docs/mathematics/` plus generated `mathematics/equation-atlas/` family pages and generated source formula maps |
+| 8. Diagram Archive | Started | `site/src/content/docs/diagrams/` with global lightbox viewing, figure candidate atlas, recreated visual index, original crop pages, and generated source visual maps |
 | 9. Steinmetz vs Modern EE | Started | `site/src/content/docs/comparisons/` |
 | 10. Steinmetz and Tesla-Era Electrical Science | Started | `site/src/content/docs/comparisons/tesla-era-electrical-science.mdx` |
 | 11. Steinmetz and Ken Wheeler-Style Field Interpretation | Started | `site/src/content/docs/comparisons/ether-field-reading-guide.mdx` |
@@ -217,6 +220,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate figure candidate atlas pages | Started | `generate_figure_candidate_atlas.py` builds a public figure atlas plus `processed/figure_candidate_atlas.json`, routing promoted crops and OCR/PDF-text candidates back to source pages. |
 | Generate equation atlas pages | Started | `generate_equation_atlas.py` builds `processed/equation_atlas.json`, public data export, and source-routed formula family pages. |
 | Generate recreated visual guides | Started | `generate_recreated_visuals.py` builds `processed/recreated_visual_index.json`, public SVG assets, and a recreated visual index page. |
+| Generate crosslinked research surfaces | Started | `generate_crosslinked_research_surfaces.py` builds source visual maps, source formula maps, concept math/visual bridges, and `processed/crosslinked_research_surfaces.json`. |
 | Generate guided reading route pages | Started | `generate_reading_routes.py` builds `processed/reading_routes.json` and the public `reading-routes/` page from source coverage, workbench links, and candidate density. |
 | Generate deep-decoding promotion queue | Started | `generate_deep_decoding_queue.py` builds `processed/deep_decoding_promotion_queue.json` and a public roadmap page ranking the next source sections for curated promotion. |
 | Generate completion audit | Started | `generate_completion_audit.py` builds `processed/completion_audit.json` and the public completion audit page. |
@@ -257,6 +261,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `theme_evidence_atlas.json` | Done as the archive-wide generated evidence router for charter-critical themes across processed source text. |
 | `figure_candidate_atlas.json` | Started as the archive-wide visual routing layer for promoted original crops and OCR/PDF-text figure references. |
 | `recreated_visual_index.json` | Started as the generated index of modern source-keyed guide diagrams. |
+| `crosslinked_research_surfaces.json` | Started as the generated bridge joining concepts, formulas, figures, source visual maps, and source formula maps. |
 | `reading_routes.json` | Started as the archive-wide guided study route layer across all processed sections. |
 | `deep_decoding_promotion_queue.json` | Started as the archive-wide editorial queue for converting source coverage into mature deep-decoding pages. |
 | `completion_audit.json` | Started as the source-by-source readiness audit for canonical review. |
@@ -317,6 +322,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7P. Passage discovery atlas | Surface source-dense passages for readers and editors without treating OCR snippets as verified quotes. | Generated 150 balanced public passage candidates from 5,427 source-derived candidates, plus theme pages, a research map, a study curriculum, a rebuilt hidden-gems page, and public data export. |
 | M7Q. Equation atlas and formula routing | Make the full mathematical candidate layer visible without promoting OCR formulas as verified. | Generated 3,845 equation/formula candidates, 2,528 reviewable relation candidates, and 1,330 strong formula candidates across source-routed family pages and public data export. |
 | M7R. Recreated visual breadth | Expand visual reading aids beyond the first-wave diagrams while keeping them separate from original figures. | Generated 10 additional source-keyed SVG guide diagrams and a recreated visual index, bringing the public modern SVG guide layer to 20 diagrams. |
+| M7S. Crosslinked math/visual surfaces | Stop treating diagrams, formulas, concepts, and source pages as isolated showcases. | Generated source visual maps and source formula maps for all 15 processed sources, plus math/visual evidence bridges on 22 curated concept pages. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 

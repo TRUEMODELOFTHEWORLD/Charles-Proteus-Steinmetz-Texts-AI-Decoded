@@ -146,6 +146,13 @@
       "format": "json"
     },
     {
+      "id": "crosslinked_research_surfaces",
+      "description": "Crosslinked source-level math/visual maps and concept evidence bridges.",
+      "source_path": "processed/crosslinked_research_surfaces.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/crosslinked_research_surfaces.json",
+      "format": "json"
+    },
+    {
       "id": "schema_reference",
       "description": "Descriptive schema reference for processed and public data.",
       "source_path": "processed/schema_reference.json",

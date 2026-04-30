@@ -55,21 +55,21 @@
     }
   ],
   "page_risk_summary": {
-    "medium": 834,
-    "class:html_table": 83,
-    "class:link_grid": 44,
+    "medium": 849,
+    "class:html_table": 158,
+    "class:link_grid": 80,
     "class:long_urls": 1042,
-    "low": 101,
-    "class:markdown_table": 25554,
+    "low": 96,
+    "class:markdown_table": 25664,
     "minimal": 26,
-    "high": 56,
-    "class:visual_archive": 23,
+    "high": 78,
+    "class:visual_archive": 54,
     "class:embedded_scan": 1,
     "class:source_text_reader": 394,
     "class:interactive_tool": 8
   },
-  "high_risk_page_count": 56,
-  "medium_risk_page_count": 834,
+  "high_risk_page_count": 78,
+  "medium_risk_page_count": 849,
   "records": [
     {
       "path": "site/src/content/docs/chapter-workbench/radiation-light-and-illumination/lecture-01.mdx",
@@ -359,6 +359,227 @@
       }
     },
     {
+      "path": "site/src/content/docs/concepts/admittance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/complex-quantities.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/complex-quantities/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 3,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/conductance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/conductance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/dielectric-loss.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/dielectric-loss/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/distributed-constants.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/electric-waves.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 16,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/ether.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/ether/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 13,
+        "html_table": 2,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/harmonics-wave-shape.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/harmonics-wave-shape/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/hysteresis.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/hysteresis/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/illumination.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/illumination/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/impedance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/inductance-capacity.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/inductance-capacity/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/lightning-surges.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/lightning-surges/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/oscillation-damping.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/power-factor.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/power-limiting-reactors.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-limiting-reactors/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 17,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/radiation.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/radiation/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/reactance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/susceptance.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/symbolic-method.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/synchronizing-power.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/synchronizing-power/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/concepts/transient-phenomena.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/",
+      "risk_level": "high",
+      "patterns": {
+        "markdown_table": 18,
+        "html_table": 2,
+        "visual_archive": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/diagrams/figure-candidate-atlas.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
       "risk_level": "high",
@@ -374,7 +595,8 @@
       "risk_level": "high",
       "patterns": {
         "html_table": 2,
-        "visual_archive": 1
+        "visual_archive": 1,
+        "link_grid": 1
       }
     },
     {
@@ -390,7 +612,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/citation-and-data-export/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 52,
+        "markdown_table": 55,
         "embedded_scan": 1,
         "long_urls": 1
       }
@@ -4280,58 +4502,13 @@
       }
     },
     {
-      "path": "site/src/content/docs/concepts/complex-quantities.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/complex-quantities/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 18,
-        "html_table": 1,
-        "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/oscillation-damping.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/oscillation-damping/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 18,
-        "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/radiation.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/radiation/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 18,
-        "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/symbolic-method.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/symbolic-method/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 18,
-        "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/transient-phenomena.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/transient-phenomena/",
-      "risk_level": "medium",
-      "patterns": {
-        "markdown_table": 18,
-        "visual_archive": 1
-      }
-    },
-    {
       "path": "site/src/content/docs/diagrams/original-radiation-light-and-illumination.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original-radiation-light-and-illumination/",
       "risk_level": "medium",
       "patterns": {
         "html_table": 1,
-        "visual_archive": 1
+        "visual_archive": 1,
+        "link_grid": 1
       }
     },
     {
@@ -4340,7 +4517,138 @@
       "risk_level": "medium",
       "patterns": {
         "html_table": 1,
-        "visual_archive": 1
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/commonwealth-edison-generating-system-trouble.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/commonwealth-edison-generating-system-trouble/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/electric-discharges-waves-impulses-1914.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/electric-discharges-waves-impulses-1914/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/elementary-lectures-electric-discharges-waves-impulses.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/elementary-lectures-electric-discharges-waves-impulses/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/engineering-mathematics.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/engineering-mathematics/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/four-lectures-relativity-space.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/four-lectures-relativity-space/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/general-lectures-electrical-engineering.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/general-lectures-electrical-engineering/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/radiation-light-and-illumination.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/radiation-light-and-illumination/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theoretical-elements-electrical-engineering.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theoretical-elements-electrical-engineering/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1900.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-alternating-current-phenomena.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-electric-apparatus.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-apparatus/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-electric-circuits.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-circuits/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-transient-electric-phenomena-oscillations.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-transient-electric-phenomena-oscillations/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 1,
+        "visual_archive": 1,
+        "link_grid": 1
       }
     },
     {
@@ -4360,6 +4668,76 @@
       "patterns": {
         "html_table": 1,
         "visual_archive": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/general-lectures-electrical-engineering.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/general-lectures-electrical-engineering/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 9,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theoretical-elements-electrical-engineering.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theoretical-elements-electrical-engineering/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 11,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1897.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 12,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1900.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 12,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 11,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-electric-apparatus.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-apparatus/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 11,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-electric-circuits.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-circuits/",
+      "risk_level": "medium",
+      "patterns": {
+        "markdown_table": 9,
+        "html_table": 1,
+        "link_grid": 1
       }
     },
     {
@@ -8725,92 +9103,11 @@
       }
     },
     {
-      "path": "site/src/content/docs/concepts/admittance.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/conductance.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/conductance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/dielectric-loss.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/dielectric-loss/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/distributed-constants.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/distributed-constants/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
       "path": "site/src/content/docs/concepts/dossier-index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/dossier-index/",
       "risk_level": "low",
       "patterns": {
         "markdown_table": 24
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/electric-waves.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 16
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/ether.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/ether/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 13,
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/harmonics-wave-shape.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/harmonics-wave-shape/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/hysteresis.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/hysteresis/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/illumination.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/illumination/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/impedance.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/impedance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
       }
     },
     {
@@ -8822,67 +9119,38 @@
       }
     },
     {
-      "path": "site/src/content/docs/concepts/inductance-capacity.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/inductance-capacity/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/lightning-surges.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/lightning-surges/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/power-factor.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/power-limiting-reactors.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-limiting-reactors/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 17
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/reactance.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/susceptance.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
-      "path": "site/src/content/docs/concepts/synchronizing-power.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/synchronizing-power/",
-      "risk_level": "low",
-      "patterns": {
-        "markdown_table": 18
-      }
-    },
-    {
       "path": "site/src/content/docs/diagrams/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
       "risk_level": "low",
       "patterns": {
         "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/recreated-visual-index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/recreated-visual-index/",
+      "risk_level": "low",
+      "patterns": {
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/america-and-new-epoch.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/america-and-new-epoch/",
+      "risk_level": "low",
+      "patterns": {
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1897.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "low",
+      "patterns": {
+        "html_table": 1,
         "link_grid": 1
       }
     },
@@ -8900,6 +9168,15 @@
       "risk_level": "low",
       "patterns": {
         "html_table": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/equation-atlas/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/",
+      "risk_level": "low",
+      "patterns": {
+        "html_table": 1,
+        "link_grid": 1
       }
     },
     {
@@ -8931,7 +9208,88 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/",
       "risk_level": "low",
       "patterns": {
-        "visual_archive": 1
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/america-and-new-epoch.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/america-and-new-epoch/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 4,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/commonwealth-edison-generating-system-trouble.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/commonwealth-edison-generating-system-trouble/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 3,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/electric-discharges-waves-impulses-1914.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/electric-discharges-waves-impulses-1914/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 3,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/elementary-lectures-electric-discharges-waves-impulses.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/elementary-lectures-electric-discharges-waves-impulses/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 3,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/engineering-mathematics.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/engineering-mathematics/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 3,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/four-lectures-relativity-space.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/four-lectures-relativity-space/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 6,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/radiation-light-and-illumination.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/radiation-light-and-illumination/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 7,
+        "html_table": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/mathematics/source-formula-maps/theory-calculation-transient-electric-phenomena-oscillations.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-transient-electric-phenomena-oscillations/",
+      "risk_level": "low",
+      "patterns": {
+        "markdown_table": 3,
+        "html_table": 1,
+        "link_grid": 1
       }
     },
     {

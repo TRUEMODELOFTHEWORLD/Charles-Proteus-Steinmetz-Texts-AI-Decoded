@@ -97,6 +97,8 @@ Current site features include:
 - A generated theme evidence atlas that gathers source-located OCR/PDF-text passages for ether, fields, magnetism, dielectricity, hysteresis, reactance, impedance, transients, symbolic method, wave phenomena, radiation, energy, and apparatus.
 - A generated passage atlas, research map, study curriculum, and hidden-gems discovery layer that surface source-dense passages while keeping OCR verification warnings visible.
 - A generated equation atlas that routes 3,845 equation/formula candidates from 15 sources into mathematical families while preserving OCR verification warnings.
+- Generated source visual maps and source formula maps that connect every processed source to its diagrams, formula candidates, source text, workbench pages, and concept routes.
+- Generated math/visual evidence bridges on curated concept pages so pages like Ether, radiation, symbolic method, hysteresis, transients, reactance, and admittance no longer stand apart from the broader formula and diagram layers.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
@@ -227,6 +229,7 @@ The scholarly apparatus generators are:
 ```powershell
 python pipeline/scripts/generate_equation_atlas.py
 python pipeline/scripts/generate_recreated_visuals.py
+python pipeline/scripts/generate_crosslinked_research_surfaces.py
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
 python pipeline/scripts/generate_verification_workbench.py
@@ -234,7 +237,7 @@ python pipeline/scripts/generate_claim_attribution_ledger.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first two commands generate the public equation atlas and recreated visual index. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
+The first three commands generate the public equation atlas, recreated visual index, source visual maps, source formula maps, and concept math/visual evidence bridges. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
 
 It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, public data exports under `site/public/data/`, and the public citation/data export page. These exports preserve review-state fields so candidate records are not confused with verified claims.
 
@@ -250,6 +253,7 @@ The archive now includes:
 - Generated annotation and crosslink indexes for review-state notes and navigation between sources, concepts, terms, equations, and figures.
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
 - A generated equation atlas in `processed/equation_atlas.json`, with public formula-family pages for 3,845 equation/formula candidates, 2,528 reviewable relation candidates, and 1,330 strong formula candidates.
+- A generated crosslinked research-surface layer in `processed/crosslinked_research_surfaces.json`, with source visual maps and source formula maps for all 15 processed sources plus concept evidence bridges on 22 curated concept pages.
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
@@ -288,6 +292,7 @@ The public site currently builds more than one thousand pages, including:
 - Generated concept-concordance pages for 77 terms and concepts, each linked back to source text and chapter workbench pages.
 - Generated passage-atlas and research-map pages for source-grounded discovery across the 15-source corpus.
 - Generated equation-atlas pages for formula discovery across the 15-source corpus, grouped by symbolic AC, impedance/admittance, transients, waves/radiation, magnetism/hysteresis, power/energy, engineering mathematics, and apparatus systems.
+- Generated source visual maps and source formula maps for all 15 processed sources, so a reader can browse one book's diagrams, formulas, source text, and workbench pages without bouncing through unrelated indexes.
 - A generated completion-audit page and world-class criteria page for the final expert review path.
 - Deep source pages for _Radiation, Light and Illumination_, _Alternating Current Phenomena_, _Transient Electric Phenomena_, and _Engineering Mathematics_.
 - Concept pages for radiation, electric waves, lightning and surges, ether, illumination, transients, symbolic method, harmonics and wave shape, hysteresis, impedance, reactance, admittance, power factor, distributed constants, oscillation and damping, inductance/capacity, power-limiting reactors, and synchronizing power.
@@ -298,3 +303,4 @@ The public site currently builds more than one thousand pages, including:
 - Original scan-crop pages for RLI visual anchors and AC Chapter V symbolic-method figures, with a modern symbolic-method redraw sheet.
 - Original scan-crop page for transient starting current, condenser charge, oscillation, and decrement figures, with a modern condenser-response redraw sheet.
 - A recreated visual index with modern guide diagrams tied to source families and concept routes.
+- Concept pages with generated math/visual evidence bridges that link concept reading directly into formula families, source formula maps, source visual maps, and figure candidates.

@@ -424,6 +424,51 @@ a[data-variant='primary']:hover {
   margin-top: 0.35rem;
 }
 
+.evidence-source-grid {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr));
+  margin: 1.25rem 0;
+}
+
+.evidence-source-card {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
+  border-left: 4px solid var(--codex-gold);
+  border-radius: 8px;
+  background: var(--codex-panel);
+  color: var(--codex-panel-text);
+  padding: 1rem;
+}
+
+.evidence-source-card h3 {
+  color: var(--codex-panel-text);
+  font-size: 1rem;
+  margin: 0;
+}
+
+.evidence-source-card p {
+  color: var(--codex-panel-muted);
+  margin: 0.55rem 0 0;
+}
+
+.evidence-source-card a,
+.evidence-inline-links a {
+  color: var(--sl-color-text-accent);
+  font-weight: 800;
+}
+
+.evidence-inline-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.65rem;
+  margin: 1rem 0;
+}
+
+.evidence-candidate-table td:nth-child(3) {
+  min-width: 18rem;
+}
+
 .research-passages {
   display: grid;
   gap: 1rem;

@@ -43,6 +43,7 @@ DATA_EXPORTS = [
     ("diagram_provenance_ledger", "processed/diagram_provenance_ledger.json", "Original crop and redraw provenance ledger."),
     ("figure_candidate_atlas", "processed/figure_candidate_atlas.json", "Visual routing atlas for original crops and OCR/PDF-text figure candidates."),
     ("recreated_visual_index", "processed/recreated_visual_index.json", "Generated modern visual guide diagrams keyed to Steinmetz source themes."),
+    ("crosslinked_research_surfaces", "processed/crosslinked_research_surfaces.json", "Crosslinked source-level math/visual maps and concept evidence bridges."),
     ("schema_reference", "processed/schema_reference.json", "Descriptive schema reference for processed and public data."),
     ("expert_review_packets", "processed/expert_review_packets.json", "Expert review bundles for canonical promotion work."),
     ("release_readiness", "processed/release_readiness.json", "Named publication release levels and readiness states."),

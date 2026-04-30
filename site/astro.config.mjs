@@ -150,6 +150,7 @@ export default defineConfig({
           items: [
             { label: 'Equation Catalog', slug: 'mathematics' },
             { label: 'Equation Atlas', slug: 'mathematics/equation-atlas' },
+            { label: 'Source Formula Maps', slug: 'mathematics/source-formula-maps' },
             { label: 'First Canonical Set', slug: 'mathematics/canonical-equation-canon' },
             { label: 'Velocity, Frequency, Wavelength', slug: 'mathematics/equations/velocity-frequency-wavelength' },
             { label: 'Symbolic Components', slug: 'mathematics/equations/symbolic-rectangular-components' },
@@ -172,6 +173,7 @@ export default defineConfig({
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
             { label: 'Figure Candidate Atlas', slug: 'diagrams/figure-candidate-atlas' },
+            { label: 'Source Visual Maps', slug: 'diagrams/source-visuals' },
             { label: 'Recreated Visual Index', slug: 'diagrams/recreated-visual-index' },
             { label: 'Original RLI Figures', slug: 'diagrams/original-radiation-light-and-illumination' },
             { label: 'Original AC Figures', slug: 'diagrams/original-alternating-current-phenomena' },
