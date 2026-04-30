@@ -102,6 +102,7 @@ Current site features include:
 - Generated source visual maps and source formula maps that connect every processed source to its diagrams, formula candidates, source text, workbench pages, and concept routes.
 - Generated math/visual evidence bridges on curated concept pages so pages like Ether, radiation, symbolic method, hysteresis, transients, reactance, and admittance no longer stand apart from the broader formula and diagram layers.
 - Generated visual topic galleries that let readers enter by theme while still seeing source maps, workbench links, figure candidates, formulas, and verification boundaries.
+- Expanded curated deep-decoding pages for the electric field, general number, transient terms, high-frequency surges, impedance/reactance, admittance, hysteresis/effective resistance, hysteresis motor, standing/traveling waves, and first mathematical equation pages, with source-text, workbench, formula, visual, and verification routes.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.

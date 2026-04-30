@@ -4,6 +4,7 @@ description: The mathematical relation behind Steinmetz's radiation spectrum.
 ---
 
 import SourceRef from '../../../../components/SourceRef.astro';
+import LayeredReading from '../../../../components/LayeredReading.astro';
 
 <SourceRef source="Radiation, Light and Illumination" location="Lecture I" status="formula OCR needs verification" />
 
@@ -41,3 +42,55 @@ That is about 5,000 km, or about 3,100 miles.
 ## Physical Meaning
 
 This relation is the bridge between ordinary power frequency, wireless waves, Hertzian waves, infrared, visible light, ultraviolet, and X-rays.
+
+## Why Steinmetz Starts Here
+
+This equation lets Steinmetz make an unusually broad move in the opening lecture: he places slow electrical alternations, wireless waves, visible light, ultraviolet radiation, and X-rays onto one continuum. The quantities differ enormously in frequency and wavelength, but the same propagation relation ties them together.
+
+That is why this simple relation is foundational for the archive. It connects the radiation book to electric waves, spectrum diagrams, transmission-line phenomena, and the later wave/surge material.
+
+## Unit Translation
+
+Steinmetz's first source uses centimeter-second language. A modern SI translation usually writes:
+
+```math
+c = f\lambda
+```
+
+with:
+
+- `c` in meters per second,
+- `f` in hertz,
+- `\lambda` in meters.
+
+The historical relation is the same, but the numerical scale changes with units. Mature equation pages should show the original unit system before converting.
+
+## Worked Modern Example
+
+For a `60 Hz` alternating quantity using `c = 3.0 x 10^8 m/s`:
+
+```math
+\lambda = \frac{3.0 \times 10^8}{60}
+  = 5.0 \times 10^6\ \text{m}
+```
+
+That is `5,000 km`, matching the historical scale when centimeters are converted to kilometers.
+
+<LayeredReading label="Conceptual Reading" open>
+The equation is simple, but the conceptual consequence is large: frequency is not just a circuit label and wavelength is not only an optics label. Together they let Steinmetz describe electrical waves and visible light as members of a wider radiation scale.
+</LayeredReading>
+
+## Research Routes
+
+<div class="source-matrix">
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/">Read Lecture I source<span>Open the source text where the frequency-wavelength bridge begins.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/radiation-light-spectrum/">Open radiation visuals<span>See the spectrum guide, source visual map, figure candidates, and related formulas.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/">Open Electric Waves<span>Trace the concept side of this relation through the corpus.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/tools/#wave-relation-visualizer">Open wave visualizer<span>Use the interactive tool as a modern explanation aid.</span></a>
+</div>
+
+## Verification Needs
+
+- Verify the exact symbol Steinmetz prints for velocity in Lecture I.
+- Confirm the numerical wavelength example against the scan, including units and rounding.
+- Link the equation to the original spectrum table and Fig. 14 crop after final page verification.

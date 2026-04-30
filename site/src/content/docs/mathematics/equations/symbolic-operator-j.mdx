@@ -22,6 +22,8 @@ j = \sqrt{-1}
 
 Steinmetz does not introduce `j` as abstract algebra alone. It appears as the operator that carries a sine-wave quantity into quadrature. Multiplication by `j` is the symbolic form of a quarter-period displacement.
 
+In other words, `j` is a bridge between a diagram and an equation. The vector drawing shows a perpendicular component; the algebraic operator lets that perpendicular relation participate in calculation.
+
 ## Modern Equivalent
 
 Modern electrical engineering keeps `j` for the imaginary unit because `i` is usually current:
@@ -31,6 +33,28 @@ j^2 = -1
 ```
 
 What is easy to lose is the physical meaning: in AC phasors, `j` is a 90 degree rotation.
+
+## Step-By-Step Translation
+
+Start with a rectangular complex quantity:
+
+```math
+A = a + jb
+```
+
+Multiplying by `j` gives:
+
+```math
+jA = ja + j^2b
+```
+
+Because `j^2 = -1`:
+
+```math
+jA = -b + ja
+```
+
+The pair `(a, b)` has rotated into `(-b, a)`. This is the algebraic form of the quarter-period rotation shown in Steinmetz's symbolic-method figure.
 
 ## Source Figure
 
@@ -42,8 +66,27 @@ What is easy to lose is the physical meaning: in AC phasors, `j` is a 90 degree 
 The imaginary unit is a compact way to keep two facts together: magnitude and phase. Without it, AC calculation either becomes diagram-heavy or loses the physical phase relation.
 </LayeredReading>
 
+<LayeredReading label="Interpretive Boundary">
+The `j` operator should not be turned into an ontology claim by itself. It is a mathematical operator that represents quadrature. Field-based interpretation may discuss what the quadrature relation means physically in magnetic and dielectric storage, but Steinmetz's explicit claim here is mathematical and geometric.
+</LayeredReading>
+
+## Research Routes
+
+<div class="source-matrix">
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/">Read Symbolic Method source<span>Open the AC chapter where Steinmetz develops the symbolic method.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/imaginary-unit-j/">Open glossary term<span>Read the historical-language page for `j` and its engineering notation role.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/ac-symbolic-geometry/">Open AC symbolic visuals<span>Use the visual route for phasors, rectangular components, quarter-period rotation, and impedance geometry.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/symbolic-ac/">Open symbolic AC formulas<span>Review the source-routed formula family for complex quantities and symbolic calculation.</span></a>
+</div>
+
 ## Related Pages
 
 - [Imaginary Unit j](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/imaginary-unit-j/)
 - [Complex Quantities](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/complex-quantities/)
 - [Symbolic Components](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-rectangular-components/)
+
+## Verification Needs
+
+- Transcribe the surrounding definition from the scan, not only the displayed equations.
+- Compare Fig. 24's caption and diagram labels against the promoted crop manifest.
+- Check whether earlier AC editions explain `j` with the same wording or a different pedagogical order.
