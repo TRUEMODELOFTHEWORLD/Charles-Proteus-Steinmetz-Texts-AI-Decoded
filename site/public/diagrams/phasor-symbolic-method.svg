@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc"><title id="title">Phasor and symbolic method guide</title><desc id="desc">A recreated guide to Steinmetz's symbolic method and vector representation of alternating quantities.</desc><rect width="900" height="520" fill="#f7f4ed"/><text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Symbolic Method</text><text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for alternating-current vector representation. Original figures require scan extraction.</text><line x1="120" y1="330" x2="760" y2="330" stroke="#26312e" stroke-width="2"/><line x1="240" y1="450" x2="240" y2="115" stroke="#26312e" stroke-width="2"/><text x="766" y="335" font-family="Arial, sans-serif" font-size="15" fill="#26312e">real axis</text><text x="210" y="108" font-family="Arial, sans-serif" font-size="15" fill="#26312e">quadrature axis</text><g stroke-width="5" fill="none" stroke-linecap="round"><line x1="240" y1="330" x2="590" y2="210" stroke="#2f6f67"/><line x1="240" y1="330" x2="590" y2="330" stroke="#9b4d32"/><line x1="590" y1="330" x2="590" y2="210" stroke="#6b5896"/></g><polygon points="590,210 570,210 584,224" fill="#2f6f67"/><polygon points="590,330 570,322 570,338" fill="#9b4d32"/><polygon points="590,210 582,230 598,230" fill="#6b5896"/><text x="610" y="214" font-family="Arial, sans-serif" font-size="18" fill="#2f6f67">Z or E</text><text x="455" y="355" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">resistance component</text><text x="604" y="278" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">reactance component</text><path d="M320 330 A80 80 0 0 0 315 303" fill="none" stroke="#a9822a" stroke-width="3"/><text x="328" y="307" font-family="Arial, sans-serif" font-size="16" fill="#a9822a">phase angle</text><text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use as a navigation diagram for symbolic quantities, impedance, reactance, and phase. Not a substitute for the original scan figures.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Phasor and symbolic method guide</title>
+  <desc id="desc">A recreated guide to Steinmetz's symbolic method and vector representation of alternating quantities.</desc>
+  <rect width="900" height="520" fill="#f7f4ed"/>
+  <text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Symbolic Method</text>
+  <text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for alternating-current vector representation. Original figures require scan extraction.</text>
+  <line x1="120" y1="330" x2="760" y2="330" stroke="#26312e" stroke-width="2"/>
+  <line x1="240" y1="450" x2="240" y2="115" stroke="#26312e" stroke-width="2"/>
+  <text x="766" y="335" font-family="Arial, sans-serif" font-size="15" fill="#26312e">real axis</text>
+  <text x="210" y="108" font-family="Arial, sans-serif" font-size="15" fill="#26312e">quadrature axis</text>
+  <g stroke-width="5" fill="none" stroke-linecap="round">
+    <line x1="240" y1="330" x2="590" y2="210" stroke="#2f6f67"/>
+    <line x1="240" y1="330" x2="590" y2="330" stroke="#9b4d32"/>
+    <line x1="590" y1="330" x2="590" y2="210" stroke="#6b5896"/>
+  </g>
+  <polygon points="590,210 570,210 584,224" fill="#2f6f67"/>
+  <polygon points="590,330 570,322 570,338" fill="#9b4d32"/>
+  <polygon points="590,210 582,230 598,230" fill="#6b5896"/>
+  <text x="610" y="214" font-family="Arial, sans-serif" font-size="18" fill="#2f6f67">Z or E</text>
+  <text x="455" y="355" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">resistance component</text>
+  <text x="604" y="278" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">reactance component</text>
+  <path d="M320 330 A80 80 0 0 0 315 303" fill="none" stroke="#a9822a" stroke-width="3"/>
+  <text x="328" y="307" font-family="Arial, sans-serif" font-size="16" fill="#a9822a">phase angle</text>
+  <text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use as a navigation diagram for symbolic quantities, impedance, reactance, and phase. Not a substitute for the original scan figures.</text>
+</svg>

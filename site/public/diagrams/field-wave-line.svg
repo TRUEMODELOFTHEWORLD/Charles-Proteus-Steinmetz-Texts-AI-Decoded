@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc"><title id="title">Transmission line field wave guide</title><desc id="desc">A recreated guide to wave propagation, distributed constants, and field extension in Steinmetz's transient and alternating-current texts.</desc><rect width="900" height="520" fill="#f7f4ed"/><text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Field Propagation</text><text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for distributed line behavior. Original figures require extraction and page mapping.</text><line x1="120" y1="210" x2="790" y2="210" stroke="#26312e" stroke-width="6"/><line x1="120" y1="310" x2="790" y2="310" stroke="#26312e" stroke-width="6"/><g fill="none" stroke-width="3"><path d="M150 210 C190 130 230 130 270 210 C310 290 350 290 390 210 C430 130 470 130 510 210 C550 290 590 290 630 210 C670 130 710 130 750 210" stroke="#2f6f67"/><path d="M150 310 C190 390 230 390 270 310 C310 230 350 230 390 310 C430 390 470 390 510 310 C550 230 590 230 630 310 C670 390 710 390 750 310" stroke="#9b4d32"/></g><polygon points="798,260 768,244 768,276" fill="#a9822a"/><text x="695" y="250" font-family="Arial, sans-serif" font-size="16" fill="#a9822a">travel</text><text x="148" y="156" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">electric field condition</text><text x="150" y="386" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">magnetic field condition</text><text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use with distributed constants, standing waves, traveling waves, lightning surges, and transmission-line natural periods.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Transmission line field wave guide</title>
+  <desc id="desc">A recreated guide to wave propagation, distributed constants, and field extension in Steinmetz's transient and alternating-current texts.</desc>
+  <rect width="900" height="520" fill="#f7f4ed"/>
+  <text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Field Propagation</text>
+  <text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for distributed line behavior. Original figures require extraction and page mapping.</text>
+  <line x1="120" y1="210" x2="790" y2="210" stroke="#26312e" stroke-width="6"/>
+  <line x1="120" y1="310" x2="790" y2="310" stroke="#26312e" stroke-width="6"/>
+  <g fill="none" stroke-width="3">
+    <path d="M150 210 C190 130 230 130 270 210 C310 290 350 290 390 210 C430 130 470 130 510 210 C550 290 590 290 630 210 C670 130 710 130 750 210" stroke="#2f6f67"/>
+    <path d="M150 310 C190 390 230 390 270 310 C310 230 350 230 390 310 C430 390 470 390 510 310 C550 230 590 230 630 310 C670 390 710 390 750 310" stroke="#9b4d32"/>
+  </g>
+  <polygon points="798,260 768,244 768,276" fill="#a9822a"/>
+  <text x="695" y="250" font-family="Arial, sans-serif" font-size="16" fill="#a9822a">travel</text>
+  <text x="148" y="156" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">electric field condition</text>
+  <text x="150" y="386" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">magnetic field condition</text>
+  <text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use with distributed constants, standing waves, traveling waves, lightning surges, and transmission-line natural periods.</text>
+</svg>

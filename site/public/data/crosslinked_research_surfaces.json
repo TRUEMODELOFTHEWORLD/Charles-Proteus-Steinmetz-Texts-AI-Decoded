@@ -6,7 +6,7 @@
   "total_formula_candidates": 3845,
   "total_figure_candidates": 504,
   "total_promoted_crops": 15,
-  "total_modern_visual_guides": 10,
+  "total_modern_visual_guides": 20,
   "sources": [
     {
       "source_id": "america-and-new-epoch",
@@ -31,7 +31,7 @@
       "formula_candidates": 300,
       "figure_candidates": 16,
       "promoted_crops": 0,
-      "modern_visual_guides": 2,
+      "modern_visual_guides": 5,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/elementary-lectures-electric-discharges-waves-impulses/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/",
@@ -47,7 +47,7 @@
       "formula_candidates": 300,
       "figure_candidates": 18,
       "promoted_crops": 0,
-      "modern_visual_guides": 2,
+      "modern_visual_guides": 5,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/electric-discharges-waves-impulses-1914/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/",
@@ -63,7 +63,7 @@
       "formula_candidates": 300,
       "figure_candidates": 9,
       "promoted_crops": 0,
-      "modern_visual_guides": 3,
+      "modern_visual_guides": 6,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/engineering-mathematics/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/",
@@ -111,7 +111,7 @@
       "formula_candidates": 220,
       "figure_candidates": 1,
       "promoted_crops": 0,
-      "modern_visual_guides": 1,
+      "modern_visual_guides": 2,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/commonwealth-edison-generating-system-trouble/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/",
@@ -127,7 +127,7 @@
       "formula_candidates": 300,
       "figure_candidates": 98,
       "promoted_crops": 5,
-      "modern_visual_guides": 0,
+      "modern_visual_guides": 2,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/radiation-light-and-illumination/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/",
@@ -143,7 +143,7 @@
       "formula_candidates": 300,
       "figure_candidates": 10,
       "promoted_crops": 0,
-      "modern_visual_guides": 6,
+      "modern_visual_guides": 7,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theoretical-elements-electrical-engineering/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/",
@@ -159,7 +159,7 @@
       "formula_candidates": 300,
       "figure_candidates": 145,
       "promoted_crops": 4,
-      "modern_visual_guides": 4,
+      "modern_visual_guides": 8,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/",
@@ -175,7 +175,7 @@
       "formula_candidates": 300,
       "figure_candidates": 91,
       "promoted_crops": 0,
-      "modern_visual_guides": 1,
+      "modern_visual_guides": 4,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1900/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/",
@@ -191,7 +191,7 @@
       "formula_candidates": 300,
       "figure_candidates": 32,
       "promoted_crops": 0,
-      "modern_visual_guides": 0,
+      "modern_visual_guides": 3,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1897/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/",
@@ -207,7 +207,7 @@
       "formula_candidates": 300,
       "figure_candidates": 13,
       "promoted_crops": 0,
-      "modern_visual_guides": 1,
+      "modern_visual_guides": 2,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-apparatus/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/",
@@ -223,7 +223,7 @@
       "formula_candidates": 300,
       "figure_candidates": 37,
       "promoted_crops": 0,
-      "modern_visual_guides": 2,
+      "modern_visual_guides": 5,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-circuits/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/",
@@ -239,7 +239,7 @@
       "formula_candidates": 300,
       "figure_candidates": 1,
       "promoted_crops": 6,
-      "modern_visual_guides": 1,
+      "modern_visual_guides": 4,
       "links": {
         "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-transient-electric-phenomena-oscillations/",
         "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/",
@@ -255,7 +255,7 @@
       "page_title": "Admittance",
       "formula_candidate_count": 544,
       "figure_candidate_count": 5,
-      "modern_visual_count": 3,
+      "modern_visual_count": 6,
       "families": [
         "impedance-admittance",
         "symbolic-ac"
@@ -272,7 +272,7 @@
       "page_title": "Complex Quantities",
       "formula_candidate_count": 845,
       "figure_candidate_count": 35,
-      "modern_visual_count": 3,
+      "modern_visual_count": 6,
       "families": [
         "engineering-math",
         "symbolic-ac"
@@ -324,7 +324,7 @@
       "page_title": "Distributed Constants",
       "formula_candidate_count": 1547,
       "figure_candidate_count": 125,
-      "modern_visual_count": 4,
+      "modern_visual_count": 8,
       "families": [
         "inductance-capacity",
         "transients-oscillation",
@@ -344,7 +344,7 @@
       "page_title": "Electric Waves",
       "formula_candidate_count": 1237,
       "figure_candidate_count": 142,
-      "modern_visual_count": 4,
+      "modern_visual_count": 8,
       "families": [
         "transients-oscillation",
         "waves-radiation"
@@ -363,7 +363,7 @@
       "page_title": "Ether",
       "formula_candidate_count": 404,
       "figure_candidate_count": 107,
-      "modern_visual_count": 1,
+      "modern_visual_count": 2,
       "families": [
         "waves-radiation"
       ],
@@ -399,7 +399,7 @@
       "page_title": "Hysteresis",
       "formula_candidate_count": 207,
       "figure_candidate_count": 39,
-      "modern_visual_count": 1,
+      "modern_visual_count": 2,
       "families": [
         "magnetism-hysteresis",
         "power-energy"
@@ -416,7 +416,7 @@
       "page_title": "Illumination",
       "formula_candidate_count": 529,
       "figure_candidate_count": 113,
-      "modern_visual_count": 4,
+      "modern_visual_count": 9,
       "families": [
         "power-energy",
         "waves-radiation"
@@ -434,7 +434,7 @@
       "page_title": "Impedance",
       "formula_candidate_count": 1031,
       "figure_candidate_count": 143,
-      "modern_visual_count": 3,
+      "modern_visual_count": 6,
       "families": [
         "impedance-admittance",
         "symbolic-ac"
@@ -451,7 +451,7 @@
       "page_title": "Inductance And Capacity",
       "formula_candidate_count": 1329,
       "figure_candidate_count": 60,
-      "modern_visual_count": 2,
+      "modern_visual_count": 3,
       "families": [
         "inductance-capacity",
         "transients-oscillation"
@@ -469,7 +469,7 @@
       "page_title": "Lightning And Surges",
       "formula_candidate_count": 1443,
       "figure_candidate_count": 38,
-      "modern_visual_count": 1,
+      "modern_visual_count": 2,
       "families": [
         "apparatus-systems",
         "transients-oscillation",
@@ -488,7 +488,7 @@
       "page_title": "Oscillation And Damping",
       "formula_candidate_count": 925,
       "figure_candidate_count": 44,
-      "modern_visual_count": 2,
+      "modern_visual_count": 3,
       "families": [
         "transients-oscillation"
       ],
@@ -505,7 +505,7 @@
       "page_title": "Power Factor",
       "formula_candidate_count": 691,
       "figure_candidate_count": 83,
-      "modern_visual_count": 3,
+      "modern_visual_count": 6,
       "families": [
         "impedance-admittance",
         "power-energy",
@@ -524,7 +524,7 @@
       "page_title": "Power-Limiting Reactors",
       "formula_candidate_count": 563,
       "figure_candidate_count": 38,
-      "modern_visual_count": 1,
+      "modern_visual_count": 3,
       "families": [
         "apparatus-systems",
         "impedance-admittance",
@@ -543,7 +543,7 @@
       "page_title": "Radiation",
       "formula_candidate_count": 429,
       "figure_candidate_count": 110,
-      "modern_visual_count": 4,
+      "modern_visual_count": 9,
       "families": [
         "waves-radiation"
       ],
@@ -560,7 +560,7 @@
       "page_title": "Reactance",
       "formula_candidate_count": 1198,
       "figure_candidate_count": 78,
-      "modern_visual_count": 2,
+      "modern_visual_count": 4,
       "families": [
         "apparatus-systems",
         "impedance-admittance",
@@ -595,7 +595,7 @@
       "page_title": "Symbolic Method",
       "formula_candidate_count": 1034,
       "figure_candidate_count": 39,
-      "modern_visual_count": 3,
+      "modern_visual_count": 6,
       "families": [
         "engineering-math",
         "impedance-admittance",
@@ -615,7 +615,7 @@
       "page_title": "Synchronizing Power",
       "formula_candidate_count": 731,
       "figure_candidate_count": 22,
-      "modern_visual_count": 1,
+      "modern_visual_count": 3,
       "families": [
         "apparatus-systems",
         "impedance-admittance",
@@ -634,7 +634,7 @@
       "page_title": "Transient Phenomena",
       "formula_candidate_count": 1227,
       "figure_candidate_count": 37,
-      "modern_visual_count": 2,
+      "modern_visual_count": 3,
       "families": [
         "transients-oscillation",
         "waves-radiation"

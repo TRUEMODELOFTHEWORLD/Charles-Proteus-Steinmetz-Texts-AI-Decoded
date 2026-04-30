@@ -307,6 +307,131 @@ def visual_records() -> list[dict[str, Any]]:
     ]
 
 
+def supplemental_visual_records() -> list[dict[str, Any]]:
+    """Register older hand-built guide diagrams in the generated visual system.
+
+    These SVGs were already published before the generated visual index existed.
+    Keeping them here prevents downstream source visual maps and concept bridges
+    from undercounting the real visual surface area of the site.
+    """
+
+    return [
+        {
+            "id": "spectrum-of-radiation",
+            "title": "Spectrum Of Radiation",
+            "subtitle": "Modern navigation guide for Steinmetz's electric-wave, visible-light, ultraviolet, and X-ray spectrum bridge.",
+            "file": "spectrum-of-radiation.svg",
+            "sources": ["radiation-light-and-illumination"],
+            "concepts": ["radiation", "electric-waves", "frequency", "spectrum", "ether"],
+        },
+        {
+            "id": "ac-symbolic-method-redraw-sheet",
+            "title": "AC Symbolic Method Redraw Sheet",
+            "subtitle": "Modern redraw sheet for rectangular components, resultant addition, and quarter-period j rotation.",
+            "file": "ac-symbolic-method-redraw-sheet.svg",
+            "sources": [
+                "theory-calculation-alternating-current-phenomena",
+                "theory-calculation-alternating-current-phenomena-1897",
+                "theory-calculation-alternating-current-phenomena-1900",
+                "engineering-mathematics",
+            ],
+            "concepts": ["symbolic-method", "complex-quantities", "phasor", "operator-j"],
+        },
+        {
+            "id": "transient-condenser-response-redraw-sheet",
+            "title": "Transient Condenser Response Redraw Sheet",
+            "subtitle": "Modern redraw sheet for logarithmic charge, critical damping, oscillatory charge, and decrement.",
+            "file": "transient-condenser-response-redraw-sheet.svg",
+            "sources": [
+                "theory-calculation-transient-electric-phenomena-oscillations",
+                "elementary-lectures-electric-discharges-waves-impulses",
+                "electric-discharges-waves-impulses-1914",
+            ],
+            "concepts": ["transient-phenomena", "oscillation-damping", "capacity", "condenser"],
+        },
+        {
+            "id": "phasor-symbolic-method",
+            "title": "Phasor And Symbolic Method",
+            "subtitle": "Modern reading aid for vector and complex-number representation of alternating quantities.",
+            "file": "phasor-symbolic-method.svg",
+            "sources": [
+                "theory-calculation-alternating-current-phenomena",
+                "theory-calculation-alternating-current-phenomena-1897",
+                "theory-calculation-alternating-current-phenomena-1900",
+                "engineering-mathematics",
+            ],
+            "concepts": ["symbolic-method", "complex-quantities", "phase", "phasor"],
+        },
+        {
+            "id": "transient-decay-oscillation",
+            "title": "Transient Decay And Oscillation",
+            "subtitle": "Modern guide for permanent terms, temporary terms, decay, and oscillatory readjustment.",
+            "file": "transient-decay-oscillation.svg",
+            "sources": [
+                "theory-calculation-transient-electric-phenomena-oscillations",
+                "elementary-lectures-electric-discharges-waves-impulses",
+                "electric-discharges-waves-impulses-1914",
+            ],
+            "concepts": ["transient-phenomena", "oscillation-damping", "damping", "stored-energy"],
+        },
+        {
+            "id": "hysteresis-loop",
+            "title": "Hysteresis Loop",
+            "subtitle": "Modern guide for magnetic lag, loop area, and energy loss per cycle.",
+            "file": "hysteresis-loop.svg",
+            "sources": [
+                "theoretical-elements-electrical-engineering",
+                "theory-calculation-alternating-current-phenomena",
+                "theory-calculation-electric-apparatus",
+                "engineering-mathematics",
+            ],
+            "concepts": ["hysteresis", "magnetism", "magnetic-loss", "effective-resistance"],
+        },
+        {
+            "id": "field-wave-line",
+            "title": "Field Wave Line",
+            "subtitle": "Modern reading aid for distributed constants, standing waves, traveling waves, and surge propagation.",
+            "file": "field-wave-line.svg",
+            "sources": [
+                "theory-calculation-transient-electric-phenomena-oscillations",
+                "elementary-lectures-electric-discharges-waves-impulses",
+                "electric-discharges-waves-impulses-1914",
+                "theory-calculation-electric-circuits",
+            ],
+            "concepts": ["electric-waves", "distributed-constants", "traveling-wave", "lightning-surges"],
+        },
+        {
+            "id": "impedance-reactance-triangle",
+            "title": "Impedance And Reactance Triangle",
+            "subtitle": "Modern guide for resistance, reactance, impedance, phase angle, and symbolic quantities.",
+            "file": "impedance-reactance-triangle.svg",
+            "sources": [
+                "theory-calculation-alternating-current-phenomena",
+                "theory-calculation-alternating-current-phenomena-1897",
+                "theory-calculation-alternating-current-phenomena-1900",
+                "theory-calculation-electric-circuits",
+            ],
+            "concepts": ["impedance", "reactance", "power-factor", "symbolic-method"],
+        },
+        {
+            "id": "illumination-inverse-square",
+            "title": "Illumination Inverse-Square Geometry",
+            "subtitle": "Modern guide for the practical bridge from radiation to visual illumination and light distribution.",
+            "file": "illumination-inverse-square.svg",
+            "sources": ["radiation-light-and-illumination"],
+            "concepts": ["illumination", "radiation", "light-flux", "inverse-square"],
+        },
+        {
+            "id": "commonwealth-edison-system-reactor-map",
+            "title": "Commonwealth Edison System Reactor Map",
+            "subtitle": "Modern reading aid for station sections, power-limiting reactors, tie cables, and synchronism.",
+            "file": "commonwealth-edison-system-reactor-map.svg",
+            "sources": ["commonwealth-edison-generating-system-trouble", "theory-calculation-electric-circuits"],
+            "concepts": ["power-limiting-reactors", "synchronizing-power", "reactance", "power-systems"],
+        },
+    ]
+
+
 def build_index_page(records: list[dict[str, Any]]) -> str:
     cards = []
     for record in records:
@@ -362,22 +487,27 @@ def main() -> int:
     root = Path(__file__).resolve().parents[2]
     source_dir = root / "diagrams" / "recreated"
     public_dir = root / "site" / "public" / "diagrams"
-    records = visual_records()
+    records = visual_records() + supplemental_visual_records()
     enriched = []
     for record in records:
-        svg = svg_shell(record["title"], record["subtitle"], record["body"])
         output_path = source_dir / record["file"]
         public_path = public_dir / record["file"]
-        write_text(output_path, svg)
+        if "body" in record:
+            svg = svg_shell(record["title"], record["subtitle"], record["body"])
+            write_text(output_path, svg)
+        elif not output_path.exists() and public_path.exists():
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(public_path, output_path)
         public_path.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(output_path, public_path)
+        if output_path.exists():
+            shutil.copyfile(output_path, public_path)
         enriched.append(
             {
                 "id": record["id"],
                 "title": record["title"],
                 "subtitle": record["subtitle"],
                 "file": record["file"],
-                "source_path": str(output_path.relative_to(root)).replace("\\", "/"),
+                "source_path": str(output_path.relative_to(root)).replace("\\", "/") if output_path.exists() else None,
                 "public_path": f"/diagrams/{record['file']}",
                 "public_url": f"{BASE_URL}/diagrams/{record['file']}",
                 "sources": record["sources"],

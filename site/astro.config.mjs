@@ -173,6 +173,7 @@ export default defineConfig({
           label: 'Visual And Language Archive',
           items: [
             { label: 'Diagram Archive', slug: 'diagrams' },
+            { label: 'Visual Topic Galleries', slug: 'diagrams/visual-topic-galleries' },
             { label: 'Figure Candidate Atlas', slug: 'diagrams/figure-candidate-atlas' },
             { label: 'Source Visual Maps', slug: 'diagrams/source-visuals' },
             { label: 'Recreated Visual Index', slug: 'diagrams/recreated-visual-index' },

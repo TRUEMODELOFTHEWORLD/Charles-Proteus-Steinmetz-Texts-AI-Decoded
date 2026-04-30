@@ -41,6 +41,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Figure candidate atlas | Generated visual-routing pages now separate 15 promoted original scan crops from 504 OCR/PDF-text figure references, with source-text and workbench links for figure verification. |
 | Equation atlas | Generated math-routing pages now expose 3,845 equation/formula candidates from 15 sources, including 2,528 reviewable relation candidates and 1,330 strong formula candidates grouped by mathematical family. |
 | Crosslinked research surfaces | Generated source visual maps, source formula maps, and concept evidence bridges now connect diagrams, formulas, concepts, source text, and workbench pages across all 15 processed sources and 22 curated concept pages. |
+| Visual topic galleries | Generated eight topic-level visual galleries now connect modern guide diagrams, figure candidates, source maps, formula leads, and workbench links for radiation, AC symbolic geometry, transients, hysteresis, dielectric-field energy, power systems, ether/field language, and illumination. |
 | Guided reading routes | `processed/reading_routes.json` and `site/src/content/docs/reading-routes/` now provide nine purpose-built pathways through the corpus: first-hour reading, source-only reading, AC symbolic method, transients, field language, mathematics, visuals, apparatus, and patents. |
 | Deep-decoding promotion queue | `processed/deep_decoding_promotion_queue.json` and a public roadmap page now rank all 394 processed sections for the next curated long-form decoding passes, with global and source-balanced queues. |
 | Completion audit | `processed/completion_audit.json` and a public completion-audit page now measure source-by-source readiness for canonical review. |
@@ -69,7 +70,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Include patents in detail | Started | A seeded patent register covers the Wikipedia-listed examples with Google Patents links, technical digests, diagram targets, and completion rules; full 200-plus catalog remains pending authority verification. |
 | Extract every major concept | Started | Public concept encyclopedia exists; generated concept concordance now traces 77 concepts across all processed sections; 22 curated concept pages now carry source-grounded dossiers for deeper reading and promotion; scan-grounded promotion continues. |
 | Extract equations and derivations | Started | Equation candidates, public math pages, first twelve-equation canon, candidate Steinmetz hysteresis-law page, generated equation atlas, and source formula maps now expose the broader formula layer; scan verification and worked examples continue. |
-| Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; 504 figure references, source visual maps, and 20 modern SVG reading aids now make the visual layer visible while crop verification continues. |
+| Extract diagrams and figures | Started | RLI, AC Chapter V, and transient crops exist; 504 figure references, source visual maps, eight visual topic galleries, and 20 modern SVG reading aids now make the visual layer visible while crop verification continues. |
 | Build glossary of forgotten electrical language | Started | Glossary index plus source-located pages for condensive reactance, wattless component, imaginary unit `j`, electrostatic capacity, counter e.m.f., and effective resistance. |
 | Compare Steinmetz with modern EE | Started | Radiation and AC symbolic method comparisons exist. Needs broader equation-by-equation comparison. |
 | Compare Steinmetz with Tesla-era science | Started | Introductory Tesla-era comparison and transient page exist. Needs Tesla source anchoring before stronger claims. |
@@ -97,6 +98,7 @@ These are new workstreams added after the foundation was built. They define what
 | Concept page depth dossiers | Started | Generated dossier sections prevent promoted concept pages from remaining thin placeholders while keeping OCR evidence visibly provisional. |
 | Mathematical errata and notation ledger | Started | The first generated notation ledger maps source and modern symbols across the canonical equation seed set. |
 | Diagram provenance ledger | Started | The generated provenance ledger maps promoted original crops and early redraws; the separate recreated visual index now tracks the newest generated guide diagrams. |
+| Visual discovery galleries | Started | Topic-level visual galleries now make diagrams, figure candidates, formula leads, source maps, and verification paths discoverable together rather than as isolated pages. |
 | Edition comparison layer | Started | A generated edition-collation queue now identifies source edition review work. |
 | Patent-to-theory bridge | Started | A generated patent bridge links seeded patents to concepts, diagram targets, and theory-review actions. |
 | Accessibility and reading-quality audit | Started | Generated structural audit covers alt text, tables, iframes, and manual review gates. |
@@ -327,6 +329,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7R. Recreated visual breadth | Expand visual reading aids beyond the first-wave diagrams while keeping them separate from original figures. | Generated 10 additional source-keyed SVG guide diagrams and a recreated visual index, bringing the public modern SVG guide layer to 20 diagrams. |
 | M7S. Crosslinked math/visual surfaces | Stop treating diagrams, formulas, concepts, and source pages as isolated showcases. | Generated source visual maps and source formula maps for all 15 processed sources, plus math/visual evidence bridges on 22 curated concept pages. |
 | M7T. Source overview dashboards | Prevent curated source pages from being thin doors beside richer generated layers. | Added generated dashboards to all 15 curated source overview pages, plus a source-dashboard index and public data export. |
+| M7U. Visual topic galleries | Treat diagrams as a site-wide discovery system rather than one archive page. | Registered all 20 modern guide diagrams in the generated visual index, regenerated source/concept visual surfaces, and added eight theme galleries with figure and formula leads. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 
@@ -396,6 +399,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 | `eeb9284` | Added the generated deep-decoding promotion queue, public roadmap page, and public data export for source-balanced curated-page promotion. |
 | `pending` | Added generated passage atlas, research map, study curriculum, and hidden-gems discovery layer across the 15-source corpus. |
 | `pending` | Added generated equation atlas, formula-family pages, recreated visual index, and 10 new source-keyed guide diagrams. |
+| `pending` | Added generated visual topic galleries and corrected recreated-visual indexing so all 20 modern guide diagrams propagate into source maps and concept bridges. |
 
 ## Next Work Queue
 
@@ -404,7 +408,7 @@ The future architecture is now tracked publicly at `site/src/content/docs/roadma
 3. Complete second-pass review of original transient figure crops and refine the condenser-response redraw sheet.
 4. Scan-verify the first 12 canonical equations and expand each with exact page anchors and additional worked examples.
 5. Use the generated equation atlas to promote the first source-balanced batch of formula pages beyond the seed canon, beginning with transients, impedance/admittance, engineering mathematics, distributed constants, and apparatus formulas.
-6. Use the generated recreated visual index to attach visual guide diagrams to the most relevant concept, equation, and chapter workbench pages.
+6. Use the generated recreated visual index and visual topic galleries to attach visual guide diagrams to the most relevant concept, equation, chapter workbench, and source guide pages.
 7. Scan-verify glossary term pages for `electrostatic capacity`, `counter-electromotive force`, and `effective resistance`, then promote dielectric and hysteresis terms.
 8. Refine generated annotation and crosslink indexes with page maps, confidence levels, and curated canonical links.
 9. Add advanced interactive tools: multi-section surge lattice diagram, vector phasor animation, and source-specific worked calculators.

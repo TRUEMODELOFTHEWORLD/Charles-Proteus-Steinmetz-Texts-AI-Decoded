@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc"><title id="title">Transient decay and oscillation guide</title><desc id="desc">A recreated guide to exponential and oscillatory transient terms in Steinmetz's transient phenomena texts.</desc><rect width="900" height="520" fill="#f7f4ed"/><text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Transient Term</text><text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for permanent term plus transient term. Original figures require scan extraction.</text><line x1="75" y1="360" x2="820" y2="360" stroke="#26312e" stroke-width="2"/><line x1="110" y1="430" x2="110" y2="120" stroke="#26312e" stroke-width="2"/><text x="824" y="365" font-family="Arial, sans-serif" font-size="15" fill="#26312e">time</text><text x="84" y="116" font-family="Arial, sans-serif" font-size="15" fill="#26312e">current / voltage</text><path d="M110 250 C210 246 300 246 395 246 C500 246 620 246 800 246" fill="none" stroke="#9b4d32" stroke-width="4"/><text x="620" y="232" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">permanent term</text><path d="M110 160 C160 265 210 300 270 318 C350 343 470 356 800 360" fill="none" stroke="#2f6f67" stroke-width="4"/><text x="280" y="316" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">single-energy decay</text><path d="M110 160 C150 84 190 430 235 360 C285 280 335 430 390 360 C450 298 505 398 565 360 C620 330 680 380 800 360" fill="none" stroke="#6b5896" stroke-width="4"/><text x="510" y="414" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">oscillatory transient</text><text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use with Elementary Lectures and Transient Electric Phenomena. Labels are modern navigation aids, not original captions.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Transient decay and oscillation guide</title>
+  <desc id="desc">A recreated guide to exponential and oscillatory transient terms in Steinmetz's transient phenomena texts.</desc>
+  <rect width="900" height="520" fill="#f7f4ed"/>
+  <text x="42" y="58" font-family="Georgia, serif" font-size="30" fill="#1c2422">Transient Term</text>
+  <text x="42" y="88" font-family="Arial, sans-serif" font-size="14" fill="#526064">Recreated guide for permanent term plus transient term. Original figures require scan extraction.</text>
+  <line x1="75" y1="360" x2="820" y2="360" stroke="#26312e" stroke-width="2"/>
+  <line x1="110" y1="430" x2="110" y2="120" stroke="#26312e" stroke-width="2"/>
+  <text x="824" y="365" font-family="Arial, sans-serif" font-size="15" fill="#26312e">time</text>
+  <text x="84" y="116" font-family="Arial, sans-serif" font-size="15" fill="#26312e">current / voltage</text>
+  <path d="M110 250 C210 246 300 246 395 246 C500 246 620 246 800 246" fill="none" stroke="#9b4d32" stroke-width="4"/>
+  <text x="620" y="232" font-family="Arial, sans-serif" font-size="16" fill="#9b4d32">permanent term</text>
+  <path d="M110 160 C160 265 210 300 270 318 C350 343 470 356 800 360" fill="none" stroke="#2f6f67" stroke-width="4"/>
+  <text x="280" y="316" font-family="Arial, sans-serif" font-size="16" fill="#2f6f67">single-energy decay</text>
+  <path d="M110 160 C150 84 190 430 235 360 C285 280 335 430 390 360 C450 298 505 398 565 360 C620 330 680 380 800 360" fill="none" stroke="#6b5896" stroke-width="4"/>
+  <text x="510" y="414" font-family="Arial, sans-serif" font-size="16" fill="#6b5896">oscillatory transient</text>
+  <text x="42" y="472" font-family="Arial, sans-serif" font-size="14" fill="#526064">Use with Elementary Lectures and Transient Electric Phenomena. Labels are modern navigation aids, not original captions.</text>
+</svg>

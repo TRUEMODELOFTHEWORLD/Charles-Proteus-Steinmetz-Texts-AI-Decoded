@@ -153,6 +153,13 @@
       "format": "json"
     },
     {
+      "id": "visual_topic_galleries",
+      "description": "Topic-level visual discovery galleries connecting guide diagrams, figure candidates, source maps, and formula leads.",
+      "source_path": "processed/visual_topic_galleries.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/visual_topic_galleries.json",
+      "format": "json"
+    },
+    {
       "id": "source_research_dashboards",
       "description": "Generated source overview dashboards tying curated source pages to text, workbench, formula, visual, and verification layers.",
       "source_path": "processed/source_research_dashboards.json",

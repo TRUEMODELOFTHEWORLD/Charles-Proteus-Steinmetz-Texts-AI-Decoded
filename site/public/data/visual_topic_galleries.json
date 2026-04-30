@@ -1,0 +1,321 @@
+{
+  "generated_at": "2026-04-29",
+  "quality_note": "Visual topic galleries are discovery routes over source, figure, visual, and formula candidate layers.",
+  "topic_count": 8,
+  "topics": [
+    {
+      "id": "radiation-light-spectrum",
+      "title": "Radiation, Light, And Spectrum",
+      "description": "Visual routes through radiation, electric waves, visible light, ultraviolet, X-rays, refraction, reflection, and spectrum language.",
+      "visual_count": 10,
+      "figure_count": 181,
+      "formula_count": 1151,
+      "sources": [
+        "radiation-light-and-illumination",
+        "general-lectures-electrical-engineering"
+      ],
+      "concepts": [
+        "radiation",
+        "electric-waves",
+        "frequency",
+        "spectrum",
+        "ether",
+        "illumination",
+        "light-flux"
+      ],
+      "keywords": [
+        "radiation",
+        "light",
+        "spectrum",
+        "wave",
+        "frequency",
+        "wavelength",
+        "ultra",
+        "violet",
+        "x-ray",
+        "refraction",
+        "reflection"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/radiation-light-spectrum/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "ac-symbolic-geometry",
+      "title": "AC Symbolic Geometry",
+      "description": "Visual routes through vectors, rectangular components, complex quantities, j rotation, impedance, reactance, admittance, and phasor thinking.",
+      "visual_count": 12,
+      "figure_count": 301,
+      "formula_count": 1331,
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-alternating-current-phenomena-1897",
+        "theory-calculation-alternating-current-phenomena-1900",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "symbolic-method",
+        "complex-quantities",
+        "phasor",
+        "operator-j",
+        "impedance",
+        "reactance",
+        "admittance",
+        "phase"
+      ],
+      "keywords": [
+        "symbolic",
+        "complex",
+        "vector",
+        "rectangular",
+        "component",
+        "phasor",
+        "phase",
+        "impedance",
+        "reactance",
+        "admittance",
+        "quadrature"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/ac-symbolic-geometry/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "transients-surges-oscillations",
+      "title": "Transients, Surges, And Oscillations",
+      "description": "Visual routes through condenser charge and discharge, transient terms, damping, impulses, lightning surges, reflections, and traveling waves.",
+      "visual_count": 7,
+      "figure_count": 83,
+      "formula_count": 1254,
+      "sources": [
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914",
+        "general-lectures-electrical-engineering"
+      ],
+      "concepts": [
+        "transient-phenomena",
+        "oscillation-damping",
+        "lightning-surges",
+        "traveling-wave",
+        "distributed-constants",
+        "capacity",
+        "condenser"
+      ],
+      "keywords": [
+        "transient",
+        "surge",
+        "impulse",
+        "lightning",
+        "oscillation",
+        "damping",
+        "decrement",
+        "condenser",
+        "charge",
+        "discharge",
+        "traveling",
+        "standing"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/transients-surges-oscillations/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "magnetism-hysteresis-machines",
+      "title": "Magnetism, Hysteresis, And Machines",
+      "description": "Visual routes through magnetic lag, hysteresis loss, rotating magnetic fields, induction machines, effective resistance, and magnetic energy.",
+      "visual_count": 14,
+      "figure_count": 352,
+      "formula_count": 2266,
+      "sources": [
+        "theoretical-elements-electrical-engineering",
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-electric-apparatus",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "hysteresis",
+        "magnetism",
+        "magnetic-loss",
+        "effective-resistance",
+        "rotating-magnetic-field",
+        "induction-motor"
+      ],
+      "keywords": [
+        "hysteresis",
+        "magnetic",
+        "magnetism",
+        "field",
+        "lag",
+        "loss",
+        "rotating",
+        "motor",
+        "transformer",
+        "flux"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/magnetism-hysteresis-machines/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "dielectric-field-energy",
+      "title": "Dielectric Field And Stored Energy",
+      "description": "Visual routes through capacity, dielectric field language, magnetic/dielectric storage, distributed constants, and energy readjustment.",
+      "visual_count": 15,
+      "figure_count": 106,
+      "formula_count": 1614,
+      "sources": [
+        "theoretical-elements-electrical-engineering",
+        "theory-calculation-electric-circuits",
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "elementary-lectures-electric-discharges-waves-impulses"
+      ],
+      "concepts": [
+        "dielectric-field",
+        "dielectric-loss",
+        "capacity",
+        "inductance",
+        "energy-storage",
+        "distributed-constants"
+      ],
+      "keywords": [
+        "dielectric",
+        "capacity",
+        "condenser",
+        "stored",
+        "energy",
+        "electrostatic",
+        "inductance",
+        "distributed"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/dielectric-field-energy/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "power-systems-reactors",
+      "title": "Power Systems, Reactors, And Synchronism",
+      "description": "Visual routes through system sections, reactors, synchronizing current, power-limiting reactance, apparatus, and industrial engineering decisions.",
+      "visual_count": 12,
+      "figure_count": 228,
+      "formula_count": 1212,
+      "sources": [
+        "commonwealth-edison-generating-system-trouble",
+        "theory-calculation-electric-circuits",
+        "theory-calculation-electric-apparatus",
+        "general-lectures-electrical-engineering"
+      ],
+      "concepts": [
+        "power-limiting-reactors",
+        "synchronizing-power",
+        "reactance",
+        "power-systems",
+        "apparatus"
+      ],
+      "keywords": [
+        "reactor",
+        "synchron",
+        "station",
+        "system",
+        "power",
+        "apparatus",
+        "machine",
+        "generator",
+        "tie",
+        "short-circuit"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/power-systems-reactors/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "ether-field-relativity",
+      "title": "Ether, Field Language, And Relativity",
+      "description": "Visual routes through ether references, Faraday-Maxwell field language, field of force, field of energy, and relativity-era boundaries.",
+      "visual_count": 11,
+      "figure_count": 157,
+      "formula_count": 1253,
+      "sources": [
+        "four-lectures-relativity-space",
+        "radiation-light-and-illumination",
+        "theoretical-elements-electrical-engineering"
+      ],
+      "concepts": [
+        "ether",
+        "field-language",
+        "energy-field",
+        "relativity",
+        "force"
+      ],
+      "keywords": [
+        "ether",
+        "field",
+        "force",
+        "energy",
+        "relativity",
+        "space",
+        "gravitation",
+        "faraday",
+        "maxwell"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/ether-field-relativity/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    },
+    {
+      "id": "illumination-engineering",
+      "title": "Illumination Engineering",
+      "description": "Visual routes through light flux, photometry, distribution curves, inverse-square reasoning, physiological visibility, and lighting practice.",
+      "visual_count": 2,
+      "figure_count": 107,
+      "formula_count": 327,
+      "sources": [
+        "radiation-light-and-illumination"
+      ],
+      "concepts": [
+        "illumination",
+        "light-flux",
+        "photometry",
+        "radiation",
+        "inverse-square"
+      ],
+      "keywords": [
+        "illumination",
+        "light flux",
+        "photometry",
+        "lumin",
+        "candle",
+        "distribution",
+        "physiological",
+        "visibility"
+      ],
+      "links": {
+        "page": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/illumination-engineering/",
+        "diagram_archive": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/",
+        "figure_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/figure-candidate-atlas/",
+        "equation_atlas": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equation-atlas/"
+      }
+    }
+  ]
+}

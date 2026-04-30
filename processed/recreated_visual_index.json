@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-04-29",
   "quality_note": "Modern guide diagrams are explanatory reconstructions, not historical figure evidence.",
-  "total_records": 10,
+  "total_records": 20,
   "records": [
     {
       "id": "rotating-magnetic-field",
@@ -209,6 +209,227 @@
         "complex-quantities",
         "number",
         "symbolic-method"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "spectrum-of-radiation",
+      "title": "Spectrum Of Radiation",
+      "subtitle": "Modern navigation guide for Steinmetz's electric-wave, visible-light, ultraviolet, and X-ray spectrum bridge.",
+      "file": "spectrum-of-radiation.svg",
+      "source_path": "diagrams/recreated/spectrum-of-radiation.svg",
+      "public_path": "/diagrams/spectrum-of-radiation.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/spectrum-of-radiation.svg",
+      "sources": [
+        "radiation-light-and-illumination"
+      ],
+      "concepts": [
+        "radiation",
+        "electric-waves",
+        "frequency",
+        "spectrum",
+        "ether"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "ac-symbolic-method-redraw-sheet",
+      "title": "AC Symbolic Method Redraw Sheet",
+      "subtitle": "Modern redraw sheet for rectangular components, resultant addition, and quarter-period j rotation.",
+      "file": "ac-symbolic-method-redraw-sheet.svg",
+      "source_path": "diagrams/recreated/ac-symbolic-method-redraw-sheet.svg",
+      "public_path": "/diagrams/ac-symbolic-method-redraw-sheet.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/ac-symbolic-method-redraw-sheet.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-alternating-current-phenomena-1897",
+        "theory-calculation-alternating-current-phenomena-1900",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "symbolic-method",
+        "complex-quantities",
+        "phasor",
+        "operator-j"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "transient-condenser-response-redraw-sheet",
+      "title": "Transient Condenser Response Redraw Sheet",
+      "subtitle": "Modern redraw sheet for logarithmic charge, critical damping, oscillatory charge, and decrement.",
+      "file": "transient-condenser-response-redraw-sheet.svg",
+      "source_path": "diagrams/recreated/transient-condenser-response-redraw-sheet.svg",
+      "public_path": "/diagrams/transient-condenser-response-redraw-sheet.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/transient-condenser-response-redraw-sheet.svg",
+      "sources": [
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914"
+      ],
+      "concepts": [
+        "transient-phenomena",
+        "oscillation-damping",
+        "capacity",
+        "condenser"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "phasor-symbolic-method",
+      "title": "Phasor And Symbolic Method",
+      "subtitle": "Modern reading aid for vector and complex-number representation of alternating quantities.",
+      "file": "phasor-symbolic-method.svg",
+      "source_path": "diagrams/recreated/phasor-symbolic-method.svg",
+      "public_path": "/diagrams/phasor-symbolic-method.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/phasor-symbolic-method.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-alternating-current-phenomena-1897",
+        "theory-calculation-alternating-current-phenomena-1900",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "symbolic-method",
+        "complex-quantities",
+        "phase",
+        "phasor"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "transient-decay-oscillation",
+      "title": "Transient Decay And Oscillation",
+      "subtitle": "Modern guide for permanent terms, temporary terms, decay, and oscillatory readjustment.",
+      "file": "transient-decay-oscillation.svg",
+      "source_path": "diagrams/recreated/transient-decay-oscillation.svg",
+      "public_path": "/diagrams/transient-decay-oscillation.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/transient-decay-oscillation.svg",
+      "sources": [
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914"
+      ],
+      "concepts": [
+        "transient-phenomena",
+        "oscillation-damping",
+        "damping",
+        "stored-energy"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "hysteresis-loop",
+      "title": "Hysteresis Loop",
+      "subtitle": "Modern guide for magnetic lag, loop area, and energy loss per cycle.",
+      "file": "hysteresis-loop.svg",
+      "source_path": "diagrams/recreated/hysteresis-loop.svg",
+      "public_path": "/diagrams/hysteresis-loop.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/hysteresis-loop.svg",
+      "sources": [
+        "theoretical-elements-electrical-engineering",
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-electric-apparatus",
+        "engineering-mathematics"
+      ],
+      "concepts": [
+        "hysteresis",
+        "magnetism",
+        "magnetic-loss",
+        "effective-resistance"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "field-wave-line",
+      "title": "Field Wave Line",
+      "subtitle": "Modern reading aid for distributed constants, standing waves, traveling waves, and surge propagation.",
+      "file": "field-wave-line.svg",
+      "source_path": "diagrams/recreated/field-wave-line.svg",
+      "public_path": "/diagrams/field-wave-line.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/field-wave-line.svg",
+      "sources": [
+        "theory-calculation-transient-electric-phenomena-oscillations",
+        "elementary-lectures-electric-discharges-waves-impulses",
+        "electric-discharges-waves-impulses-1914",
+        "theory-calculation-electric-circuits"
+      ],
+      "concepts": [
+        "electric-waves",
+        "distributed-constants",
+        "traveling-wave",
+        "lightning-surges"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "impedance-reactance-triangle",
+      "title": "Impedance And Reactance Triangle",
+      "subtitle": "Modern guide for resistance, reactance, impedance, phase angle, and symbolic quantities.",
+      "file": "impedance-reactance-triangle.svg",
+      "source_path": "diagrams/recreated/impedance-reactance-triangle.svg",
+      "public_path": "/diagrams/impedance-reactance-triangle.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/impedance-reactance-triangle.svg",
+      "sources": [
+        "theory-calculation-alternating-current-phenomena",
+        "theory-calculation-alternating-current-phenomena-1897",
+        "theory-calculation-alternating-current-phenomena-1900",
+        "theory-calculation-electric-circuits"
+      ],
+      "concepts": [
+        "impedance",
+        "reactance",
+        "power-factor",
+        "symbolic-method"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "illumination-inverse-square",
+      "title": "Illumination Inverse-Square Geometry",
+      "subtitle": "Modern guide for the practical bridge from radiation to visual illumination and light distribution.",
+      "file": "illumination-inverse-square.svg",
+      "source_path": "diagrams/recreated/illumination-inverse-square.svg",
+      "public_path": "/diagrams/illumination-inverse-square.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/illumination-inverse-square.svg",
+      "sources": [
+        "radiation-light-and-illumination"
+      ],
+      "concepts": [
+        "illumination",
+        "radiation",
+        "light-flux",
+        "inverse-square"
+      ],
+      "status": "modern-recreated-guide-diagram",
+      "quality_note": "Generated modern reading aid; not an original Steinmetz figure."
+    },
+    {
+      "id": "commonwealth-edison-system-reactor-map",
+      "title": "Commonwealth Edison System Reactor Map",
+      "subtitle": "Modern reading aid for station sections, power-limiting reactors, tie cables, and synchronism.",
+      "file": "commonwealth-edison-system-reactor-map.svg",
+      "source_path": "diagrams/recreated/commonwealth-edison-system-reactor-map.svg",
+      "public_path": "/diagrams/commonwealth-edison-system-reactor-map.svg",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/commonwealth-edison-system-reactor-map.svg",
+      "sources": [
+        "commonwealth-edison-generating-system-trouble",
+        "theory-calculation-electric-circuits"
+      ],
+      "concepts": [
+        "power-limiting-reactors",
+        "synchronizing-power",
+        "reactance",
+        "power-systems"
       ],
       "status": "modern-recreated-guide-diagram",
       "quality_note": "Generated modern reading aid; not an original Steinmetz figure."

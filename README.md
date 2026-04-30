@@ -100,6 +100,7 @@ Current site features include:
 - A generated equation atlas that routes 3,845 equation/formula candidates from 15 sources into mathematical families while preserving OCR verification warnings.
 - Generated source visual maps and source formula maps that connect every processed source to its diagrams, formula candidates, source text, workbench pages, and concept routes.
 - Generated math/visual evidence bridges on curated concept pages so pages like Ether, radiation, symbolic method, hysteresis, transients, reactance, and admittance no longer stand apart from the broader formula and diagram layers.
+- Generated visual topic galleries that let readers enter by theme while still seeing source maps, workbench links, figure candidates, formulas, and verification boundaries.
 - A generated completion audit that measures source-by-source readiness for canonical review and keeps the path to a definitive archive explicit.
 - Public citation and data exports, including `CITATION.cff`, BibTeX, CSL JSON, a public data manifest, and reusable copies of the core processed indexes.
 - A critical-edition editorial policy, canonical review workflow, and GitHub issue templates for source verification, equation review, and diagram review.
@@ -231,6 +232,7 @@ The scholarly apparatus generators are:
 python pipeline/scripts/generate_equation_atlas.py
 python pipeline/scripts/generate_recreated_visuals.py
 python pipeline/scripts/generate_crosslinked_research_surfaces.py
+python pipeline/scripts/generate_visual_topic_galleries.py
 python pipeline/scripts/generate_source_research_dashboards.py
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
@@ -239,7 +241,7 @@ python pipeline/scripts/generate_claim_attribution_ledger.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first four commands generate the public equation atlas, recreated visual index, source visual maps, source formula maps, concept math/visual evidence bridges, and source research dashboards. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
+The first five commands generate the public equation atlas, recreated visual index, source visual maps, source formula maps, concept math/visual evidence bridges, visual topic galleries, and source research dashboards. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
 
 It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, public data exports under `site/public/data/`, and the public citation/data export page. These exports preserve review-state fields so candidate records are not confused with verified claims.
 
