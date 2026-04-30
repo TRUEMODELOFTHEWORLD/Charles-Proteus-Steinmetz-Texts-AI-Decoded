@@ -89,6 +89,7 @@ The public site skeleton lives in `site/` and uses Astro + Starlight. It support
 Current site features include:
 
 - A friendly Start Reading entry page with routes for newcomers, source-first researchers, engineering students, visual readers, and verification reviewers.
+- A redesigned reader-gateway layer that connects the home page, Start Reading, Source Library, book coverage, visual topic galleries, equation atlas, and verification queues so casual readers and technical researchers can enter the same corpus without hunting through unrelated indexes.
 - Expanded source-library pages for the first seeded Steinmetz corpus.
 - Generated source research dashboards on every curated source overview, so `/sources/...` pages now route directly into source text, book coverage, workbench, visual maps, formula maps, theme evidence, concept trails, and verification focus.
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.

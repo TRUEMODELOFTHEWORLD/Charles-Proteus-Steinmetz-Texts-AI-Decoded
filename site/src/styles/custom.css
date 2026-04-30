@@ -1498,6 +1498,53 @@ body.codex-lightbox-open {
   color: var(--codex-panel-muted);
 }
 
+.reader-step-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(12rem, 0.65fr);
+  gap: 0.85rem;
+  align-items: start;
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 62%, transparent);
+  border-left: 4px solid var(--codex-gold);
+  border-radius: 8px;
+  background: var(--codex-panel);
+  color: var(--codex-panel-text);
+  margin: 0.85rem 0;
+  padding: 1rem;
+}
+
+.reader-step-card h3 {
+  color: var(--codex-panel-text);
+  font-size: 1rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.reader-step-card p {
+  color: var(--codex-panel-muted);
+  margin: 0.32rem 0 0;
+}
+
+.reader-step-card nav {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.reader-step-card nav a {
+  border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 62%, transparent);
+  border-radius: 8px;
+  color: var(--codex-panel-text);
+  font-weight: 850;
+  padding: 0.52rem 0.62rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.reader-step-card nav a:first-child {
+  color: #171d1b;
+  background: #d4b15c;
+  border-color: #d4b15c;
+}
+
 .source-study-guide {
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
 }
@@ -1697,7 +1744,8 @@ body.codex-lightbox-open {
   .source-access,
   .tool-shell,
   .layered-reading,
-  .source-text-warning {
+  .source-text-warning,
+  .reader-step-card {
     border-radius: 8px;
   }
 
@@ -1840,7 +1888,15 @@ body.codex-lightbox-open {
     grid-template-columns: 1fr;
   }
 
+  .reader-step-card {
+    grid-template-columns: 1fr;
+  }
+
   .route-section-card nav {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-step-card nav {
     grid-template-columns: 1fr;
   }
 }

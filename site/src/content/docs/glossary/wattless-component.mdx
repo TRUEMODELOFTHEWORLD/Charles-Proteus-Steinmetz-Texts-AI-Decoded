@@ -4,6 +4,7 @@ description: Historical AC language for reactive, quadrature components.
 ---
 
 import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
 
 <SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter VIII OCR candidate lines 48-117" status="needs scan verification" />
 
@@ -15,6 +16,8 @@ import SourceRef from '../../../components/SourceRef.astro';
 
 Reactive component, quadrature component, or non-real-power component, depending on context.
 
+In modern power language this sits near **reactive current**, **reactive power**, and the imaginary or quadrature part of an AC quantity. The word should not be translated mechanically in every sentence; the surrounding source context decides whether Steinmetz is speaking of current components, power components, admittance components, or apparatus effects.
+
 ## Steinmetz Usage
 
 The OCR candidate in the admittance chapter uses wattless language when distinguishing the in-phase power component from the quadrature reactive component.
@@ -23,10 +26,51 @@ The OCR candidate in the admittance chapter uses wattless language when distingu
 
 A wattless component is not useless. It is "wattless" because it does not represent net real power consumption over a cycle. It can still correspond to large currents, field energy exchange, voltage stress, and apparatus rating demands.
 
+This is one of the places where older language can help a modern reader. "Wattless" says that the component does not settle into heat, mechanical output, or another net work term over the full cycle. It may still be physically vigorous: energy can move into a magnetic or dielectric field and then return to the circuit.
+
+## Mathematical Reading
+
+If current is resolved into an in-phase component and a quadrature component relative to voltage:
+
+```math
+I = I_p + j I_q
+```
+
+then the real-power component is associated with `I_p`, while the quadrature or wattless component is associated with `I_q`.
+
+For sinusoidal RMS quantities:
+
+```math
+P = VI \cos \theta
+```
+
+The quadrature part contributes to reactive exchange and power factor, not to net real power:
+
+```math
+Q = VI \sin \theta
+```
+
+The archive should preserve Steinmetz's wording first, then translate carefully into modern `P`, `Q`, phasor, impedance, or admittance language.
+
+## Why It Matters
+
+- It prevents a false equation between current magnitude and useful power.
+- It explains why low power factor can burden generators, conductors, and transformers even when real power is smaller.
+- It keeps field storage visible in AC theory.
+- It links naturally to susceptance, reactance, and the imaginary part of impedance/admittance.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+A field-oriented interpretation may read the wattless component as cyclic field exchange: energy entering and leaving magnetic or dielectric conditions without appearing as net work over the full period. That is an interpretive reading. The source-grounded claim is narrower: Steinmetz distinguishes the power-producing in-phase component from quadrature components that do not represent net watts.
+</LayeredReading>
+
+## Verification Needs
+
+The next scholarly pass should collect every occurrence of wattless language across the AC and apparatus sources, verify the exact sentences against scans, and separate current-component usage from power-factor and admittance usage.
+
 ## Related Concepts
 
-- Reactance
-- Susceptance
-- Power factor
-- Admittance
-- Field energy storage
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/)
+- [Power factor](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/power-factor/)
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Field energy storage visual route](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/dielectric-field-energy/)

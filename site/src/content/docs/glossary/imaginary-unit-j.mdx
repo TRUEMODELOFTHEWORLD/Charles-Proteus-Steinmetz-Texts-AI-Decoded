@@ -4,6 +4,7 @@ description: Historical and modern meanings of Steinmetz's AC operator j.
 ---
 
 import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
 
 <SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter V, printed page 33, Fig. 24" status="scan crop promoted; exact transcription pending" />
 
@@ -27,6 +28,8 @@ j = \sqrt{-1}
 
 Modern electrical engineering uses `j` for the imaginary unit because `i` is commonly reserved for current. The meaning is the same mathematical imaginary unit, but in AC analysis it carries phase and quadrature information.
 
+In ordinary mathematics the imaginary unit is usually written `i`. In electrical engineering, `j` became standard because current was already written as `i` or `I`. Steinmetz is part of the historical path by which this notation became natural to engineers instead of only to mathematicians.
+
 ## Conceptual Meaning
 
 `j` is not only notation. In Steinmetz's presentation it is the hinge between geometry and algebra:
@@ -35,11 +38,52 @@ Modern electrical engineering uses `j` for the imaginary unit because `i` is com
 - As operation, it performs a 90 degree phase rotation.
 - As algebra, it lets impedance, admittance, current, and voltage be handled as complex quantities.
 
+That is why this small symbol matters so much. It turns alternating-current engineering from a collection of time-wave drawings into a calculable symbolic language. A 90 degree phase displacement becomes multiplication; vector diagrams become algebra; apparatus behavior becomes solvable with complex quantities.
+
+## Mathematical Reading
+
+The core identities are:
+
+```math
+j^2 = -1
+```
+
+```math
+\frac{1}{j} = -j
+```
+
+Multiplication by `j` rotates a phasor by one quarter period in the positive quadrature direction:
+
+```math
+j(a + jb) = -b + ja
+```
+
+In impedance notation:
+
+```math
+Z = R + jX
+```
+
+the real part `R` corresponds to the in-phase, real-power component, while `jX` marks the quadrature component associated with reactance and cyclic field energy.
+
 ## Source Figure
 
 <div class="diagram-frame">
   <img src="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/original/theory-calculation-alternating-current-phenomena/figures/fig-24-quarter-period-rotation.png" alt="Original scan crop of Steinmetz Fig. 24 quarter-period rotation" />
 </div>
+
+<div class="source-matrix">
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/visual-topic-galleries/ac-symbolic-geometry/">Open AC symbolic visual route<span>Modern guide diagrams, original AC crops, figure candidates, formula families, and workbench pages for symbolic geometry.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/equations/symbolic-operator-j/">Open equation page<span>Focused equation note for `j`, quadrature, and quarter-period rotation.</span></a>
+</div>
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+There is no need to force `j` into an ether claim. It is first a mathematical operator. A field-oriented interpretation may use it to discuss quadrature field exchange, but the source-grounded claim is that Steinmetz used `j` to encode a quarter-period displacement in the symbolic method.
+</LayeredReading>
+
+## Verification Needs
+
+The promoted Fig. 24 crop exists, but exact printed wording around the definition should still be transcribed against the scan. The AC 1897, 1900, and 1916 edition variants should also be compared before the archive makes claims about how Steinmetz's explanation changed over time.
 
 ## Related Pages
 

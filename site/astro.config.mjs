@@ -41,12 +41,14 @@ export default defineConfig({
           items: [
             { label: 'Start Reading', slug: 'start-reading' },
             { label: 'Research Map', slug: 'research-map' },
+            { label: 'Source Library', slug: 'source-library' },
+            { label: 'Browse Books', slug: 'book-coverage' },
+            { label: 'Visual Topic Galleries', slug: 'diagrams/visual-topic-galleries' },
+            { label: 'Equation Atlas', slug: 'mathematics/equation-atlas' },
+            { label: 'Interactive Tools', slug: 'tools' },
             { label: 'Study Curriculum', slug: 'research-map/study-curriculum' },
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why Steinmetz Matters', slug: 'why-steinmetz-matters' },
-            { label: 'Diagram Archive', slug: 'diagrams' },
-            { label: 'Interactive Tools', slug: 'tools' },
-            { label: 'Browse Books', slug: 'book-coverage' },
             { label: 'Project Tracker', slug: 'project-tracker' }
           ]
         },
@@ -62,6 +64,8 @@ export default defineConfig({
             { label: 'Passage Atlas', slug: 'passage-atlas' },
             { label: 'Concept Concordance', slug: 'concept-concordance' },
             { label: 'Theme Evidence Atlas', slug: 'theme-evidence' },
+            { label: 'Source Formula Maps', slug: 'mathematics/source-formula-maps' },
+            { label: 'Source Visual Maps', slug: 'diagrams/source-visuals' },
             { label: 'Evidence Ledger', slug: 'source-library/evidence-ledger' },
             { label: 'Chapter Atlas', slug: 'source-library/chapter-atlas' },
             { label: 'Processing Dashboard', slug: 'research-status' },

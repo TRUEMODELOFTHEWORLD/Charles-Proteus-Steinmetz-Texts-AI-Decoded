@@ -4,6 +4,7 @@ description: Historical Steinmetz term corresponding to capacitive reactance.
 ---
 
 import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
 
 <SourceRef source="Theory and Calculation of Alternating Current Phenomena" location="Chapter V and IX OCR candidates" status="needs scan verification" />
 
@@ -19,6 +20,14 @@ Capacitive reactance.
 X_C = \frac{1}{2\pi fC}
 ```
 
+Modern texts usually call this **capacitive reactance** and often assign it a negative sign in the impedance expression:
+
+```math
+Z_C = -jX_C
+```
+
+Steinmetz's older word **condensive** points to the condenser and to electrostatic capacity. The term is obsolete, but it is not conceptually empty.
+
 ## Steinmetz Usage
 
 The OCR candidate uses "condensive reactance" for the reactance associated with capacity in a condenser. It is treated as opposite in sign to inductive reactance.
@@ -27,10 +36,40 @@ The OCR candidate uses "condensive reactance" for the reactance associated with 
 
 The term is obsolete in modern classrooms, but it is conceptually useful. It preserves the idea that capacity is not merely a component value. It is an AC opposition associated with electrostatic storage.
 
+It also keeps the duality with inductive reactance visible. Inductance and capacity do not merely "impede" in the same way as resistance. They store energy in different field conditions and return it at different phase relations. Steinmetz's language makes this opposition a first-class idea.
+
+## Mathematical Reading
+
+For a condenser of capacity `C` on a sinusoidal system of frequency `f`, the capacity susceptance is:
+
+```math
+b = 2\pi f C
+```
+
+The corresponding reactance magnitude is:
+
+```math
+X_C = \frac{1}{b} = \frac{1}{2\pi f C}
+```
+
+The sign convention depends on whether the archive is reproducing Steinmetz's source notation, a later phasor convention, or a modern impedance/admittance convention. Mature pages should show both the historical form and the modern translation.
+
+## Plain-English Reading
+
+A condenser does not consume energy the way a resistor does. It draws current because the electric field between its plates is being charged and discharged. Condensive reactance is the AC opposition associated with that cyclic electrostatic storage.
+
+<LayeredReading label="Ether-Field Interpretive Reading">
+A Wheeler-style reading may describe condensive reactance as the measurable opposition associated with dielectric field compression and release. That can be useful as interpretation, but the source-grounded claim is simply that Steinmetz treats capacity as producing a reactance opposite in sign or phase character to inductive reactance.
+</LayeredReading>
+
+## Verification Needs
+
+The next pass should collate all uses of "condensive reactance," "capacity reactance," "electrostatic capacity," and "susceptance" across the AC editions and electric-circuit texts. The exact sign conventions must be verified from the printed equations, not inferred from modern habits.
+
 ## Related Terms
 
-- Reactance
-- Capacity
-- Susceptance
-- Resonance
-- Wattless component
+- [Reactance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/reactance/)
+- [Electrostatic Capacity](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/electrostatic-capacity/)
+- [Susceptance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/susceptance/)
+- [Admittance](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/admittance/)
+- [Wattless Component](/Charles-Proteus-Steinmetz-Texts-AI-Decoded/glossary/wattless-component/)
