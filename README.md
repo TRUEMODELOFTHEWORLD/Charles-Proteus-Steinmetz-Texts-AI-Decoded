@@ -90,6 +90,7 @@ Current site features include:
 
 - A friendly Start Reading entry page with routes for newcomers, source-first researchers, engineering students, visual readers, and verification reviewers.
 - Expanded source-library pages for the first seeded Steinmetz corpus.
+- Generated source research dashboards on every curated source overview, so `/sources/...` pages now route directly into source text, book coverage, workbench, visual maps, formula maps, theme evidence, concept trails, and verification focus.
 - A generated source-text browser exposing every processed chapter, lecture, section, and report division as public reader pages.
 - A generated book coverage atlas that summarizes every processed source, counts candidate equations, figures, quotes, concepts, and glossary hits, and links each book section into the source reader and workbench.
 - A generated chapter research workbench that maps every processed section to source links, theme snippets, glossary hits, equation candidates, figure candidates, quote candidates, and promotion checklists.
@@ -230,6 +231,7 @@ The scholarly apparatus generators are:
 python pipeline/scripts/generate_equation_atlas.py
 python pipeline/scripts/generate_recreated_visuals.py
 python pipeline/scripts/generate_crosslinked_research_surfaces.py
+python pipeline/scripts/generate_source_research_dashboards.py
 python pipeline/scripts/generate_world_class_artifacts.py
 python pipeline/scripts/generate_publication_readiness.py
 python pipeline/scripts/generate_verification_workbench.py
@@ -237,7 +239,7 @@ python pipeline/scripts/generate_claim_attribution_ledger.py
 python pipeline/scripts/generate_scholarly_exports.py
 ```
 
-The first three commands generate the public equation atlas, recreated visual index, source visual maps, source formula maps, and concept math/visual evidence bridges. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
+The first four commands generate the public equation atlas, recreated visual index, source visual maps, source formula maps, concept math/visual evidence bridges, and source research dashboards. The world-class command generates `processed/notation_ledger.json`, `processed/diagram_provenance_ledger.json`, `processed/schema_reference.json`, `processed/expert_review_packets.json`, and their public roadmap pages. The publication-readiness command adds release, accessibility, edition, and patent bridge controls. The verification command generates source-linked canonical verification queues for equations, figures, and patents. The claim-attribution command classifies evidence, equations, translations, figures, and patents by claim layer. The export command publishes the current processed indexes and scholarly ledgers under `site/public/data/`.
 
 It generates `CITATION.cff`, `processed/citation_index.json`, `processed/citation_index.csl.json`, `processed/citation_index.bib`, public data exports under `site/public/data/`, and the public citation/data export page. These exports preserve review-state fields so candidate records are not confused with verified claims.
 
@@ -254,6 +256,7 @@ The archive now includes:
 - A first twelve-equation canon in `processed/canonical_equations.json`, with public pages for the new equation spine.
 - A generated equation atlas in `processed/equation_atlas.json`, with public formula-family pages for 3,845 equation/formula candidates, 2,528 reviewable relation candidates, and 1,330 strong formula candidates.
 - A generated crosslinked research-surface layer in `processed/crosslinked_research_surfaces.json`, with source visual maps and source formula maps for all 15 processed sources plus concept evidence bridges on 22 curated concept pages.
+- A generated source research dashboard layer in `processed/source_research_dashboards.json`, with every curated source overview enriched as a reader/research front door.
 - A source-located candidate page for the Steinmetz hysteresis law and its 1.6-power loss relation.
 - A generated source-processing dashboard.
 - A PDF text extraction and page-map pass for the Commonwealth Edison report, with 5 report sections, 220 equation candidates, 12 concept candidates, 12 glossary candidates, and a deep page on reactors and synchronism.
@@ -287,6 +290,7 @@ https://truemodeloftheworld.github.io/Charles-Proteus-Steinmetz-Texts-AI-Decoded
 The public site currently builds more than one thousand pages, including:
 
 - Source overviews for the seeded Steinmetz corpus.
+- Source research dashboards for all 15 processed sources, joining each curated overview to reading, study, analysis, math, visual, theme, concept, and verification routes.
 - Full generated text-reader coverage for 394 processed chapters, lectures, sections, and report divisions.
 - Generated research workbench pages for 394 processed sections, connecting each chapter to source text, concepts, glossary terms, equations, figures, quotes, and promotion steps.
 - Generated concept-concordance pages for 77 terms and concepts, each linked back to source text and chapter workbench pages.

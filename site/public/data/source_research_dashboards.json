@@ -1,0 +1,3295 @@
+{
+  "generated_at": "2026-04-29",
+  "quality_note": "Source research dashboards are generated routing layers over candidate OCR/PDF evidence.",
+  "source_count": 15,
+  "sources": [
+    {
+      "source_id": "america-and-new-epoch",
+      "title": "America and the New Epoch",
+      "year": 1916,
+      "sections": 18,
+      "words": 44474,
+      "equation_candidates": 16,
+      "formula_candidates": 21,
+      "figure_candidates": 0,
+      "promoted_crops": 0,
+      "modern_visual_guides": 0,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "ether",
+          "label": "Ether references",
+          "count": 47
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 25
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 7
+        },
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 6
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 3
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 2
+        }
+      ],
+      "concepts": [
+        {
+          "id": "corporation",
+          "label": "Corporation",
+          "count": 244,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/corporation/"
+        },
+        {
+          "id": "competition",
+          "label": "Competition",
+          "count": 78,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/competition/"
+        },
+        {
+          "id": "co-operation",
+          "label": "Co-operation",
+          "count": 67,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/co-operation/"
+        },
+        {
+          "id": "monarchy",
+          "label": "Monarchy",
+          "count": 19,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/monarchy/"
+        },
+        {
+          "id": "democracy",
+          "label": "Democracy",
+          "count": 16,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/democracy/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "co-operation",
+          "label": "co-operation",
+          "count": 67
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "america-and-new-epoch-chapter-04",
+          "label": "Chapter 3: The Individualistic Era: From Competition to Co-operation",
+          "word_count": 4451,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-04/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-05",
+          "label": "Chapter 4: The Individualistic Era: The Other Side",
+          "word_count": 3764,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-05/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-07",
+          "label": "Chapter 6: Germany in the Individualistic Era",
+          "word_count": 2448,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-07/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-14",
+          "label": "Chapter 13: Evolution: Industrial Government",
+          "word_count": 2660,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-14/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-14/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-18",
+          "label": "Chapter 17: Conclusion",
+          "word_count": 2276,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-18/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-18/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-12",
+          "label": "Chapter 11: Democracy and Monarchy",
+          "word_count": 1574,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-12/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-12/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-03",
+          "label": "Chapter 2: The Epoch of the French Revolution",
+          "word_count": 1254,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-03/"
+          }
+        },
+        {
+          "id": "america-and-new-epoch-chapter-17",
+          "label": "Chapter 16: The Future Corporation",
+          "word_count": 3488,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/chapter-17/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/chapter-17/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/america-and-new-epoch/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/america-and-new-epoch/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/america-and-new-epoch/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/america-and-new-epoch/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/america-and-new-epoch/",
+        "archive": "https://archive.org/details/americanewepoch00stei"
+      }
+    },
+    {
+      "source_id": "elementary-lectures-electric-discharges-waves-impulses",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1911,
+      "sections": 10,
+      "words": 32133,
+      "equation_candidates": 54,
+      "formula_candidates": 300,
+      "figure_candidates": 16,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 483
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 477
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 404
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 326
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 241
+        },
+        {
+          "id": "lightning-surges",
+          "label": "Lightning / surges",
+          "count": 112
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 107
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 47
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 79,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 16,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 14,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 13,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 11,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "velocity-of-light",
+          "label": "Velocity of light",
+          "count": 4,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 16
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 13
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-07",
+          "label": "Lecture 7: Line Oscillations",
+          "word_count": 3398,
+          "equations": 8,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-07/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-04",
+          "label": "Lecture 4: Single-Energy Transients In Alternating Current Circuits",
+          "word_count": 5396,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-04/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-06",
+          "label": "Lecture 6: Double-Energy Transients",
+          "word_count": 2818,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-06/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-02",
+          "label": "Lecture 2: The Electric Field",
+          "word_count": 2138,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-02/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-05",
+          "label": "Lecture 5: Single-Energy Transient Of Ironclad Circuit",
+          "word_count": 1306,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-05/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-01",
+          "label": "Lecture 1: Nature And Origin Of Transients",
+          "word_count": 2696,
+          "equations": 6,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-01/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-03",
+          "label": "Lecture 3: Single-Energy Transients In Continuous Current Circuits",
+          "word_count": 2569,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-03/"
+          }
+        },
+        {
+          "id": "elementary-lectures-electric-discharges-waves-impulses-lecture-10",
+          "label": "Lecture 10: Inductance And Capacity Of Round Parallel Conductors",
+          "word_count": 4572,
+          "equations": 0,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/lecture-10/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/lecture-10/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/elementary-lectures-electric-discharges-waves-impulses/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/elementary-lectures-electric-discharges-waves-impulses/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/elementary-lectures-electric-discharges-waves-impulses/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/elementary-lectures-electric-discharges-waves-impulses/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/elementary-lectures-electric-discharges-waves-impulses/",
+        "archive": "https://archive.org/details/elementarylectur00steirich"
+      }
+    },
+    {
+      "source_id": "electric-discharges-waves-impulses-1914",
+      "title": "Elementary Lectures on Electric Discharges, Waves and Impulses, and Other Transients",
+      "year": 1914,
+      "sections": 10,
+      "words": 34696,
+      "equation_candidates": 54,
+      "formula_candidates": 300,
+      "figure_candidates": 18,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 573
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 497
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 411
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 331
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 250
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 124
+        },
+        {
+          "id": "lightning-surges",
+          "label": "Lightning / surges",
+          "count": 119
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 48
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 93,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 19,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 17,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 13,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 10,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "velocity-of-light",
+          "label": "Velocity of light",
+          "count": 4,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 19
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 13
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-07",
+          "label": "Lecture 7: Line Oscillations",
+          "word_count": 3408,
+          "equations": 8,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-07/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-04",
+          "label": "Lecture 4: Single-Energy Transients In Alternating Current Circuits",
+          "word_count": 5659,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-04/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-06",
+          "label": "Lecture 6: Double-Energy Transients",
+          "word_count": 2822,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-06/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-02",
+          "label": "Lecture 2: The Electric Field",
+          "word_count": 2159,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-02/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-05",
+          "label": "Lecture 5: Single-Energy Tra.Nsient Of Ironclad Circuit",
+          "word_count": 1321,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-05/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-01",
+          "label": "Lecture 1: Nature And Origin Of Transients",
+          "word_count": 2710,
+          "equations": 6,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-01/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-03",
+          "label": "Lecture 3: Single-Energy Transients In Continuous Current Circuits",
+          "word_count": 2625,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-03/"
+          }
+        },
+        {
+          "id": "electric-discharges-waves-impulses-1914-lecture-10",
+          "label": "Lecture 10: Continual And Cumulative Oscillations",
+          "word_count": 6690,
+          "equations": 0,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/lecture-10/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/lecture-10/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/electric-discharges-waves-impulses-1914/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/electric-discharges-waves-impulses-1914/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/electric-discharges-waves-impulses-1914/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/electric-discharges-waves-impulses-1914/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/electric-discharges-waves-impulses-1914/",
+        "archive": "https://archive.org/details/elementarylectur00stei"
+      }
+    },
+    {
+      "source_id": "engineering-mathematics",
+      "title": "Engineering Mathematics: A Series of Lectures Delivered at Union College",
+      "year": 1911,
+      "sections": 6,
+      "words": 54448,
+      "equation_candidates": 8,
+      "formula_candidates": 300,
+      "figure_candidates": 9,
+      "promoted_crops": 0,
+      "modern_visual_guides": 3,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 114
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 99
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 75
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 75
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 57
+        },
+        {
+          "id": "ether",
+          "label": "Ether references",
+          "count": 52
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 50
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 47
+        }
+      ],
+      "concepts": [
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 52,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 24,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 13,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 7,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "illumination",
+          "label": "Illumination",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "arc-lamp",
+          "label": "Arc lamp",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/arc-lamp/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 52
+        },
+        {
+          "id": "electrostatic capacity",
+          "label": "electrostatic capacity",
+          "count": 1
+        },
+        {
+          "id": "effective resistance",
+          "label": "effective resistance",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "engineering-mathematics-chapter-01",
+          "label": "Chapter 1: The General Number",
+          "word_count": 10319,
+          "equations": 8,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-01/"
+          }
+        },
+        {
+          "id": "engineering-mathematics-chapter-03",
+          "label": "Chapter 3: Trigonometric Series",
+          "word_count": 18269,
+          "equations": 0,
+          "figures": 5,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-03/"
+          }
+        },
+        {
+          "id": "engineering-mathematics-chapter-05",
+          "label": "Chapter 6: Empirical Curves",
+          "word_count": 7171,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-05/"
+          }
+        },
+        {
+          "id": "engineering-mathematics-chapter-06",
+          "label": "Chapter 7: Numerical Calculations",
+          "word_count": 7123,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-06/"
+          }
+        },
+        {
+          "id": "engineering-mathematics-chapter-02",
+          "label": "Chapter 2: Potential Series And Exponential Function",
+          "word_count": 7738,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-02/"
+          }
+        },
+        {
+          "id": "engineering-mathematics-chapter-04",
+          "label": "Chapter 5: Methods Of Approximation",
+          "word_count": 3828,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/chapter-04/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/engineering-mathematics/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/engineering-mathematics/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/engineering-mathematics/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/engineering-mathematics/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/engineering-mathematics/",
+        "archive": "https://archive.org/details/engineeringmathe00steirich"
+      }
+    },
+    {
+      "source_id": "four-lectures-relativity-space",
+      "title": "Four Lectures on Relativity and Space",
+      "year": 1923,
+      "sections": 4,
+      "words": 39381,
+      "equation_candidates": 24,
+      "formula_candidates": 170,
+      "figure_candidates": 19,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 283
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 182
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 110
+        },
+        {
+          "id": "ether",
+          "label": "Ether references",
+          "count": 94
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 74
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 40
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 21
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 9
+        }
+      ],
+      "concepts": [
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 158,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 94,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "velocity-of-light",
+          "label": "Velocity of light",
+          "count": 31,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/"
+        },
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 8,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 6,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "spectrum",
+          "label": "Spectrum",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/spectrum/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "electric-waves",
+          "label": "Electric waves",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/electric-waves/"
+        },
+        {
+          "id": "refraction",
+          "label": "Refraction",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/refraction/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 94
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 6
+        },
+        {
+          "id": "electric waves",
+          "label": "electric waves",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "four-lectures-relativity-space-lecture-04",
+          "label": "Lecture 4: The Characteristics Of Space A. The Geometry Of The Gravitational Field",
+          "word_count": 18408,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/lecture-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/lecture-04/"
+          }
+        },
+        {
+          "id": "four-lectures-relativity-space-lecture-02",
+          "label": "Lecture 2: Conclusions From The Relativity Theory",
+          "word_count": 10298,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/lecture-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/lecture-02/"
+          }
+        },
+        {
+          "id": "four-lectures-relativity-space-lecture-03",
+          "label": "Lecture 3: Gravitation And The Gravitational Fleld",
+          "word_count": 6716,
+          "equations": 8,
+          "figures": 5,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/lecture-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/lecture-03/"
+          }
+        },
+        {
+          "id": "four-lectures-relativity-space-lecture-01",
+          "label": "Lecture 1: General",
+          "word_count": 3959,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/lecture-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/lecture-01/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/four-lectures-relativity-space/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/four-lectures-relativity-space/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/four-lectures-relativity-space/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/four-lectures-relativity-space/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/four-lectures-relativity-space/",
+        "archive": "https://archive.org/details/fourlecturesonre00stei"
+      }
+    },
+    {
+      "source_id": "general-lectures-electrical-engineering",
+      "title": "General Lectures on Electrical Engineering",
+      "year": 1908,
+      "sections": 17,
+      "words": 61815,
+      "equation_candidates": 89,
+      "formula_candidates": 134,
+      "figure_candidates": 14,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 961
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 274
+        },
+        {
+          "id": "lightning-surges",
+          "label": "Lightning / surges",
+          "count": 271
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 263
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 119
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 113
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 90
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 89
+        }
+      ],
+      "concepts": [
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 572,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 142,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "illumination",
+          "label": "Illumination",
+          "count": 102,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 85,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 56,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "arc-lamp",
+          "label": "Arc lamp",
+          "count": 31,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/arc-lamp/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 31,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "spectrum",
+          "label": "Spectrum",
+          "count": 29,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/spectrum/"
+        },
+        {
+          "id": "ultraviolet",
+          "label": "Ultra-violet radiation",
+          "count": 11,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ultraviolet/"
+        },
+        {
+          "id": "ultrared",
+          "label": "Ultra-red radiation",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ultrared/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 56
+        },
+        {
+          "id": "candle-power",
+          "label": "candle-power",
+          "count": 45
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 31
+        },
+        {
+          "id": "brilliancy",
+          "label": "brilliancy",
+          "count": 4
+        },
+        {
+          "id": "mechanical equivalent of light",
+          "label": "mechanical equivalent of light",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "general-lectures-electrical-engineering-lecture-17",
+          "label": "Lecture 17: Arc Lighting",
+          "word_count": 20719,
+          "equations": 8,
+          "figures": 2,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-17/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-17/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-12",
+          "label": "Lecture 12: Electric Railway",
+          "word_count": 3175,
+          "equations": 6,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-12/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-12/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-05",
+          "label": "Lecture 5: Long Distance Transmission",
+          "word_count": 2599,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-05/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-02",
+          "label": "Lecture 2: General Distribution",
+          "word_count": 2681,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-02/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-14",
+          "label": "Lecture 14: Alternating Current Railway Motor",
+          "word_count": 4794,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-14/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-14/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-03",
+          "label": "Lecture 3: Light And Power Distribution",
+          "word_count": 2515,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-03/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-07",
+          "label": "Lecture 7: High Frequency Oscillations And Surges",
+          "word_count": 1981,
+          "equations": 7,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-07/"
+          }
+        },
+        {
+          "id": "general-lectures-electrical-engineering-lecture-06",
+          "label": "Lecture 6: Higher Harmonics Of The Generator Wave",
+          "word_count": 2674,
+          "equations": 7,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/lecture-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/lecture-06/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/general-lectures-electrical-engineering/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/general-lectures-electrical-engineering/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/general-lectures-electrical-engineering/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/general-lectures-electrical-engineering/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/general-lectures-electrical-engineering/",
+        "archive": "https://archive.org/details/generallectureso00steiuoft"
+      }
+    },
+    {
+      "source_id": "commonwealth-edison-generating-system-trouble",
+      "title": "Investigation of Some Trouble in the Generating System of the Commonwealth Edison Co.",
+      "year": 1919,
+      "sections": 5,
+      "words": 17784,
+      "equation_candidates": 8,
+      "formula_candidates": 220,
+      "figure_candidates": 1,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "quote_candidates": 5,
+      "themes": [
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 106
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 62
+        },
+        {
+          "id": "ether",
+          "label": "Ether references",
+          "count": 50
+        },
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 27
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 23
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 16
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 13
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 1
+        }
+      ],
+      "concepts": [
+        {
+          "id": "synchronism",
+          "label": "Synchronism",
+          "count": 135,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronism/"
+        },
+        {
+          "id": "synchronizing-power",
+          "label": "Synchronizing power",
+          "count": 35,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronizing-power/"
+        },
+        {
+          "id": "short-circuit",
+          "label": "Short circuit",
+          "count": 34,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/short-circuit/"
+        },
+        {
+          "id": "synchronous-machines",
+          "label": "Synchronous machines",
+          "count": 32,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/synchronous-machines/"
+        },
+        {
+          "id": "power-limiting-reactor",
+          "label": "Power limiting reactor",
+          "count": 17,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/power-limiting-reactor/"
+        },
+        {
+          "id": "tie-cable",
+          "label": "Tie cable",
+          "count": 13,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/tie-cable/"
+        },
+        {
+          "id": "circuit-breaker",
+          "label": "Circuit breaker",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/circuit-breaker/"
+        },
+        {
+          "id": "protective-reactance",
+          "label": "Protective reactance",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/protective-reactance/"
+        },
+        {
+          "id": "current-transformer",
+          "label": "Current transformer",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/current-transformer/"
+        },
+        {
+          "id": "hunting-pulsation",
+          "label": "Hunting pulsation",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/hunting-pulsation/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "synchronizing power",
+          "label": "synchronizing power",
+          "count": 35
+        },
+        {
+          "id": "power limiting reactor",
+          "label": "power limiting reactor",
+          "count": 17
+        },
+        {
+          "id": "tie cable",
+          "label": "tie cable",
+          "count": 13
+        },
+        {
+          "id": "synchronous apparatus",
+          "label": "synchronous apparatus",
+          "count": 4
+        },
+        {
+          "id": "power limiting reactance",
+          "label": "power limiting reactance",
+          "count": 4
+        },
+        {
+          "id": "critical slip",
+          "label": "critical slip",
+          "count": 4
+        },
+        {
+          "id": "feeder reactance",
+          "label": "feeder reactance",
+          "count": 2
+        },
+        {
+          "id": "protective reactance",
+          "label": "protective reactance",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "commonwealth-edison-generating-system-trouble-appendix-01-synchronous-operation",
+          "label": "Mathematical Appendix 5: Appendix: Synchronous Operation",
+          "word_count": 8812,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 1,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/appendix-01-synchronous-operation/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/appendix-01-synchronous-operation/"
+          }
+        },
+        {
+          "id": "commonwealth-edison-generating-system-trouble-section-02-discussion-of-recommendations",
+          "label": "Report Section 3: Discussion of Recommendations",
+          "word_count": 1622,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 3,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/section-02-discussion-of-recommendations/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/section-02-discussion-of-recommendations/"
+          }
+        },
+        {
+          "id": "commonwealth-edison-generating-system-trouble-section-01-recommendations",
+          "label": "Report Section 2: Recommendations",
+          "word_count": 2384,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/section-01-recommendations/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/section-01-recommendations/"
+          }
+        },
+        {
+          "id": "commonwealth-edison-generating-system-trouble-section-03-record",
+          "label": "Report Record 4: Record of Four Troubles",
+          "word_count": 4341,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/section-03-record/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/section-03-record/"
+          }
+        },
+        {
+          "id": "commonwealth-edison-generating-system-trouble-front-letter-01",
+          "label": "Front Matter 1: Cover Letter to Samuel Insull",
+          "word_count": 625,
+          "equations": 0,
+          "figures": 0,
+          "quotes": 1,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/front-letter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/front-letter-01/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/commonwealth-edison-generating-system-trouble/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/commonwealth-edison-generating-system-trouble/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/commonwealth-edison-generating-system-trouble/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/commonwealth-edison-generating-system-trouble/",
+        "archive": "https://github.com/TRUEMODELOFTHEWORLD/Charles-Proteus-Steinmetz-Texts-AI-Decoded/blob/main/sources/commonwealth-edison-generating-system-trouble/raw/commonwealth-edison-generating-system-trouble-local.pdf"
+      }
+    },
+    {
+      "source_id": "radiation-light-and-illumination",
+      "title": "Radiation, Light and Illumination",
+      "year": 1909,
+      "sections": 13,
+      "words": 86387,
+      "equation_candidates": 74,
+      "formula_candidates": 300,
+      "figure_candidates": 98,
+      "promoted_crops": 5,
+      "modern_visual_guides": 0,
+      "quote_candidates": 3,
+      "themes": [
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 3314
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 348
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 290
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 54
+        },
+        {
+          "id": "ether",
+          "label": "Ether references",
+          "count": 37
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 33
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 32
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 22
+        }
+      ],
+      "concepts": [
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 1658,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 785,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "illumination",
+          "label": "Illumination",
+          "count": 563,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/"
+        },
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 122,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "spectrum",
+          "label": "Spectrum",
+          "count": 113,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/spectrum/"
+        },
+        {
+          "id": "arc-lamp",
+          "label": "Arc lamp",
+          "count": 74,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/arc-lamp/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 72,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "luminescence",
+          "label": "Luminescence",
+          "count": 72,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/luminescence/"
+        },
+        {
+          "id": "brilliancy",
+          "label": "Brilliancy",
+          "count": 62,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/brilliancy/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 37,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ultra-violet",
+          "label": "ultra-violet",
+          "count": 89
+        },
+        {
+          "id": "candle-power",
+          "label": "candle-power",
+          "count": 78
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 72
+        },
+        {
+          "id": "brilliancy",
+          "label": "brilliancy",
+          "count": 62
+        },
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 37
+        },
+        {
+          "id": "ultra-red",
+          "label": "ultra-red",
+          "count": 27
+        },
+        {
+          "id": "light flux density",
+          "label": "light flux density",
+          "count": 17
+        },
+        {
+          "id": "flux of light",
+          "label": "flux of light",
+          "count": 16
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "radiation-light-and-illumination-lecture-01",
+          "label": "Lecture 1: Nature And Different Forms Of Radiation",
+          "word_count": 5749,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 2,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-01/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-06",
+          "label": "Lecture 6: Luminescence",
+          "word_count": 10895,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-06/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-10",
+          "label": "Lecture 10: Light Flux And Distribution",
+          "word_count": 7958,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-10/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-10/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-02",
+          "label": "Lecture 2: Relation Of Bodies To Radiation",
+          "word_count": 5812,
+          "equations": 8,
+          "figures": 5,
+          "quotes": 1,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-02/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-09",
+          "label": "Lecture 9: Measurement Of Light And Radiation",
+          "word_count": 6669,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-09/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-09/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-03",
+          "label": "Lecture 3: Physiological Effects Of Radiation",
+          "word_count": 9087,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-03/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-05",
+          "label": "Lecture 5: Temperature Radiation",
+          "word_count": 8675,
+          "equations": 8,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-05/"
+          }
+        },
+        {
+          "id": "radiation-light-and-illumination-lecture-08",
+          "label": "Lecture 8: Arc Lamps And Arc Lighting",
+          "word_count": 8747,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-08/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/lecture-08/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/radiation-light-and-illumination/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/radiation-light-and-illumination/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/radiation-light-and-illumination/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/radiation-light-and-illumination/",
+        "archive": "https://archive.org/details/radiationlightil00steirich"
+      }
+    },
+    {
+      "source_id": "theoretical-elements-electrical-engineering",
+      "title": "Theoretical Elements of Electrical Engineering",
+      "year": 1915,
+      "sections": 114,
+      "words": 90757,
+      "equation_candidates": 56,
+      "formula_candidates": 300,
+      "figure_candidates": 10,
+      "promoted_crops": 0,
+      "modern_visual_guides": 6,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 862
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 648
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 435
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 238
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 206
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 171
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 100
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 94
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 192,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 44,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 19,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 13,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 19
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theoretical-elements-electrical-engineering-section-07",
+          "label": "Theory Section 7: Inductance in Alternating-current Circuits",
+          "word_count": 1937,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-07/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-01",
+          "label": "Theory Section 1: Magnetism and Electric Current",
+          "word_count": 2193,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-01/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-04",
+          "label": "Theory Section 4: Power and Effective Values",
+          "word_count": 1332,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-04/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-03",
+          "label": "Theory Section 3: Generation of E.m.f.",
+          "word_count": 1002,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-03/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-06",
+          "label": "Theory Section 6: Self-inductance of Continuous-current Circuits",
+          "word_count": 1414,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-06/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-05",
+          "label": "Theory Section 5: Self-inductance and Mutual Inductance",
+          "word_count": 944,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-05/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-02",
+          "label": "Theory Section 2: Magnetism and E.m.f.",
+          "word_count": 623,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-02/"
+          }
+        },
+        {
+          "id": "theoretical-elements-electrical-engineering-section-19",
+          "label": "Theory Section 19: Fields of Force",
+          "word_count": 1678,
+          "equations": 0,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/section-19/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/section-19/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theoretical-elements-electrical-engineering/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theoretical-elements-electrical-engineering/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theoretical-elements-electrical-engineering/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theoretical-elements-electrical-engineering/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theoretical-elements-electrical-engineering/",
+        "archive": "https://archive.org/details/theoreticalelect00steirich"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1897",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1897,
+      "sections": 30,
+      "words": 76757,
+      "equation_candidates": 76,
+      "formula_candidates": 300,
+      "figure_candidates": 32,
+      "promoted_crops": 0,
+      "modern_visual_guides": 0,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 624
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 557
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 494
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 268
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 198
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 198
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 173
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 155
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 150,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 30,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 22,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 7,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "dielectric-constant",
+          "label": "Dielectric constant",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-constant/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 30
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-04",
+          "label": "Chapter 4: Graphic Befrisxintation",
+          "word_count": 3073,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-04/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-08",
+          "label": "Chapter 8: Capacity",
+          "word_count": 4274,
+          "equations": 8,
+          "figures": 5,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-08/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-08/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-06",
+          "label": "Chapter 6: Topographic Method",
+          "word_count": 1684,
+          "equations": 8,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-06/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-09",
+          "label": "Chapter 9: Kbsistanci: And Kbactance Of Transmission Iine8",
+          "word_count": 3373,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-09/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-09/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-03",
+          "label": "Chapter 3: Iiaw Of Eucctbo-Maonimc Induction",
+          "word_count": 727,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-03/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-01",
+          "label": "Chapter 1: Introduction",
+          "word_count": 2333,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-01/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-05",
+          "label": "Chapter 5: Symbouc Mbthod",
+          "word_count": 2030,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-05/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1897-chapter-07",
+          "label": "Chapter 7: Admittance, Conductance, Susceftance",
+          "word_count": 1238,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/chapter-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/chapter-07/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1897/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1897/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1897/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1897/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1897/",
+        "archive": "https://archive.org/details/theoryandcalcul03steigoog"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena-1900",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1900,
+      "sections": 32,
+      "words": 91217,
+      "equation_candidates": 64,
+      "formula_candidates": 300,
+      "figure_candidates": 91,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 776
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 682
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 654
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 392
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 277
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 276
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 238
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 207
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 247,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 35,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 27,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 8,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 3,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "dielectric-constant",
+          "label": "Dielectric constant",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-constant/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 35
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 3
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-04",
+          "label": "Chapter 4: Graphic Representation",
+          "word_count": 3152,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-04/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-08",
+          "label": "Chapter 8: Circuits Containing Resistance, Inductance, And Capacity",
+          "word_count": 4195,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-08/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-08/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-06",
+          "label": "Chapter 6: Topographic Method",
+          "word_count": 1850,
+          "equations": 8,
+          "figures": 7,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-06/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-05",
+          "label": "Chapter 5: Symbolic Method",
+          "word_count": 1993,
+          "equations": 8,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-05/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-02",
+          "label": "Chapter 2: Instantaneous Values And Integral Values",
+          "word_count": 895,
+          "equations": 8,
+          "figures": 2,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-02/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-03",
+          "label": "Chapter 3: Law Of Electro-Magnetic Induction",
+          "word_count": 724,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-03/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-01",
+          "label": "Chapter 1: Introduction",
+          "word_count": 2368,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-01/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-1900-chapter-07",
+          "label": "Chapter 7: Admittance, Conductance, Susceptance",
+          "word_count": 1254,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/chapter-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/chapter-07/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena-1900/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena-1900/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena-1900/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena-1900/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena-1900/",
+        "archive": "https://archive.org/details/theorycalculatio00steiiala"
+      }
+    },
+    {
+      "source_id": "theory-calculation-alternating-current-phenomena",
+      "title": "Theory and Calculation of Alternating Current Phenomena",
+      "year": 1916,
+      "sections": 37,
+      "words": 109539,
+      "equation_candidates": 72,
+      "formula_candidates": 300,
+      "figure_candidates": 145,
+      "promoted_crops": 4,
+      "modern_visual_guides": 4,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 1066
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 826
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 800
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 453
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 386
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 313
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 251
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 244
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 210,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 41,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 30,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 10,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 3,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "velocity-of-light",
+          "label": "Velocity of light",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/"
+        },
+        {
+          "id": "dielectric-constant",
+          "label": "Dielectric constant",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-constant/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "counter e.m.f.",
+          "label": "counter e.m.f.",
+          "count": 70
+        },
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 41
+        },
+        {
+          "id": "effective resistance",
+          "label": "effective resistance",
+          "count": 33
+        },
+        {
+          "id": "electrostatic capacity",
+          "label": "electrostatic capacity",
+          "count": 1
+        },
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-06",
+          "label": "Chapter 6: Topographic Method",
+          "word_count": 1780,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-06/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-09",
+          "label": "Chapter 9: Circuits Containing Resistance, Inductive Reactance, And Condensive Reactance",
+          "word_count": 3916,
+          "equations": 8,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-09/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-09/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-07",
+          "label": "Chapter 7: Polar Coordinates And Polar Diagrams",
+          "word_count": 2051,
+          "equations": 8,
+          "figures": 7,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-07/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-07/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-04",
+          "label": "Chapter 4: Vector Representation",
+          "word_count": 3435,
+          "equations": 8,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-04/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-02",
+          "label": "Chapter 2: Instantaneous Values And Integral Values",
+          "word_count": 1100,
+          "equations": 8,
+          "figures": 2,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-02/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-05",
+          "label": "Chapter 5: Symbolic Method",
+          "word_count": 2253,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-05/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-01",
+          "label": "Chapter 1: Introduction",
+          "word_count": 2869,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-01/"
+          }
+        },
+        {
+          "id": "theory-calculation-alternating-current-phenomena-chapter-08",
+          "label": "Chapter 8: Admittance, Conductance, Susceptance",
+          "word_count": 1363,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/chapter-08/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/chapter-08/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-alternating-current-phenomena/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-alternating-current-phenomena/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-alternating-current-phenomena/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-alternating-current-phenomena/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-alternating-current-phenomena/",
+        "archive": "https://archive.org/details/5edtheorycalculatisteiuoft"
+      }
+    },
+    {
+      "source_id": "theory-calculation-electric-apparatus",
+      "title": "Theory and Calculation of Electric Apparatus",
+      "year": 1917,
+      "sections": 22,
+      "words": 118262,
+      "equation_candidates": 24,
+      "formula_candidates": 300,
+      "figure_candidates": 13,
+      "promoted_crops": 0,
+      "modern_visual_guides": 1,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 870
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 677
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 556
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 511
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 190
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 189
+        },
+        {
+          "id": "alternating-current",
+          "label": "Alternating current",
+          "count": 162
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 151
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 518,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 36,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 34,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "illumination",
+          "label": "Illumination",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 34
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-03",
+          "label": "Chapter 4: Induction Motor With Secondary Excitation",
+          "word_count": 9778,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-03/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-02",
+          "label": "Chapter 2: Multiple Squirrel-Cage Induction Motor",
+          "word_count": 5213,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-02/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-01",
+          "label": "Chapter 1: Speed Control Of Induction Motors",
+          "word_count": 6386,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-01/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-18",
+          "label": "Chapter 20: Single-Phase Commutator Motors",
+          "word_count": 23780,
+          "equations": 0,
+          "figures": 5,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-18/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-18/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-17",
+          "label": "Chapter 19: Alternating- Current Motors In General",
+          "word_count": 6936,
+          "equations": 0,
+          "figures": 3,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-17/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-17/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-20",
+          "label": "Chapter 22: Unipolar Machines",
+          "word_count": 2788,
+          "equations": 0,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-20/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-20/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-12",
+          "label": "Chapter 14: Phase Conversion And Single-Phase Generation",
+          "word_count": 6188,
+          "equations": 0,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-12/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-12/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-apparatus-chapter-14",
+          "label": "Chapter 16: Reaction Machines",
+          "word_count": 3527,
+          "equations": 0,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/chapter-14/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/chapter-14/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-apparatus/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-apparatus/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-apparatus/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-apparatus/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-apparatus/",
+        "archive": "https://archive.org/details/theoryandcalcul04steigoog"
+      }
+    },
+    {
+      "source_id": "theory-calculation-electric-circuits",
+      "title": "Theory and Calculation of Electric Circuits",
+      "year": 1917,
+      "sections": 18,
+      "words": 83211,
+      "equation_candidates": 48,
+      "formula_candidates": 300,
+      "figure_candidates": 37,
+      "promoted_crops": 0,
+      "modern_visual_guides": 2,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 1035
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 594
+        },
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 454
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 210
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 205
+        },
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 175
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 128
+        },
+        {
+          "id": "hysteresis",
+          "label": "Hysteresis",
+          "count": 100
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 79,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 39,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 30,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 7,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "arc-lamp",
+          "label": "Arc lamp",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/arc-lamp/"
+        },
+        {
+          "id": "luminescence",
+          "label": "Luminescence",
+          "count": 4,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/luminescence/"
+        },
+        {
+          "id": "illumination",
+          "label": "Illumination",
+          "count": 2,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/illumination/"
+        },
+        {
+          "id": "spectrum",
+          "label": "Spectrum",
+          "count": 1,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/spectrum/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 30
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-electric-circuits-chapter-01",
+          "label": "Chapter 1: Electric Conduction. Soled And Liquid",
+          "word_count": 6860,
+          "equations": 8,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-01/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-01/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-04",
+          "label": "Chapter 4: Magnetism",
+          "word_count": 4132,
+          "equations": 8,
+          "figures": 4,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-04/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-04/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-02",
+          "label": "Chapter 2: Electric Conduction. Gas And Vapor",
+          "word_count": 3991,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-02/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-02/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-06",
+          "label": "Chapter 6: Magnetism",
+          "word_count": 4468,
+          "equations": 8,
+          "figures": 1,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-06/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-05",
+          "label": "Chapter 5: Magnetism",
+          "word_count": 3661,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-05/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-05/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-03",
+          "label": "Chapter 3: Magnetism",
+          "word_count": 3495,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-03/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-03/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-10",
+          "label": "Chapter 10: Instability Of Circuits : The Arc",
+          "word_count": 9446,
+          "equations": 0,
+          "figures": 8,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-10/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-10/"
+          }
+        },
+        {
+          "id": "theory-calculation-electric-circuits-chapter-14",
+          "label": "Chapter 14: Constant-Potential Constant-Current Trans Formation",
+          "word_count": 11556,
+          "equations": 0,
+          "figures": 6,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/chapter-14/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/chapter-14/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-electric-circuits/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-electric-circuits/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-electric-circuits/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-electric-circuits/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-electric-circuits/",
+        "archive": "https://archive.org/details/theoryandcalcul06steigoog"
+      }
+    },
+    {
+      "source_id": "theory-calculation-transient-electric-phenomena-oscillations",
+      "title": "Theory and Calculation of Transient Electric Phenomena and Oscillations",
+      "year": 1909,
+      "sections": 58,
+      "words": 109824,
+      "equation_candidates": 101,
+      "formula_candidates": 300,
+      "figure_candidates": 1,
+      "promoted_crops": 6,
+      "modern_visual_guides": 1,
+      "quote_candidates": 0,
+      "themes": [
+        {
+          "id": "waves-lines",
+          "label": "Waves / transmission lines",
+          "count": 1375
+        },
+        {
+          "id": "transients",
+          "label": "Transients / damping",
+          "count": 947
+        },
+        {
+          "id": "dielectricity",
+          "label": "Dielectricity / capacity",
+          "count": 700
+        },
+        {
+          "id": "magnetism",
+          "label": "Magnetism",
+          "count": 649
+        },
+        {
+          "id": "fields",
+          "label": "Field language",
+          "count": 616
+        },
+        {
+          "id": "radiation-light",
+          "label": "Radiation / light",
+          "count": 611
+        },
+        {
+          "id": "impedance-reactance",
+          "label": "Impedance / reactance",
+          "count": 268
+        },
+        {
+          "id": "complex-quantities",
+          "label": "Complex quantities",
+          "count": 221
+        }
+      ],
+      "concepts": [
+        {
+          "id": "frequency",
+          "label": "Frequency",
+          "count": 369,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/frequency/"
+        },
+        {
+          "id": "wave-length",
+          "label": "Wave length",
+          "count": 111,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/wave-length/"
+        },
+        {
+          "id": "light",
+          "label": "Light",
+          "count": 95,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/light/"
+        },
+        {
+          "id": "radiation",
+          "label": "Radiation",
+          "count": 36,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/radiation/"
+        },
+        {
+          "id": "ether",
+          "label": "Ether",
+          "count": 19,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ether/"
+        },
+        {
+          "id": "permeability",
+          "label": "Magnetic permeability",
+          "count": 15,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/permeability/"
+        },
+        {
+          "id": "refraction",
+          "label": "Refraction",
+          "count": 11,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/refraction/"
+        },
+        {
+          "id": "dielectric-constant",
+          "label": "Dielectric constant",
+          "count": 6,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/dielectric-constant/"
+        },
+        {
+          "id": "velocity-of-light",
+          "label": "Velocity of light",
+          "count": 5,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/velocity-of-light/"
+        },
+        {
+          "id": "ultraviolet",
+          "label": "Ultra-violet radiation",
+          "count": 3,
+          "link": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concept-concordance/ultraviolet/"
+        }
+      ],
+      "glossary": [
+        {
+          "id": "wave length",
+          "label": "wave length",
+          "count": 111
+        },
+        {
+          "id": "ether",
+          "label": "ether",
+          "count": 19
+        },
+        {
+          "id": "ultra-red",
+          "label": "ultra-red",
+          "count": 1
+        }
+      ],
+      "priority_sections": [
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-24",
+          "label": "Chapter 2: Introduction",
+          "word_count": 2603,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-24/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-24/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-23",
+          "label": "Chapter 1: The Constants Of The Electric Circuit",
+          "word_count": 3601,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-23/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-23/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-25",
+          "label": "Chapter 3: Inductance And Resistance In Continuous Current Circuits",
+          "word_count": 3220,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-25/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-25/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-26",
+          "label": "Chapter 4: Inductance And Resistance In Alternating Current Circuits",
+          "word_count": 896,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-26/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-26/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-12",
+          "label": "Chapter 8: Velocity Of Propagation Op Electric Field. 387",
+          "word_count": 112,
+          "equations": 8,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-12/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-12/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-06",
+          "label": "Chapter 2: Long Distance Transmission Line. 279",
+          "word_count": 226,
+          "equations": 7,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-06/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-06/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-19",
+          "label": "Chapter 6: Transition Points And The Complex Circuit. 498",
+          "word_count": 94,
+          "equations": 6,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-19/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-19/"
+          }
+        },
+        {
+          "id": "theory-calculation-transient-electric-phenomena-oscillations-chapter-15",
+          "label": "Chapter 2: Discussion Of General Equations. 431",
+          "word_count": 64,
+          "equations": 5,
+          "figures": 0,
+          "quotes": 0,
+          "links": {
+            "source": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/chapter-15/",
+            "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/chapter-15/"
+          }
+        }
+      ],
+      "links": {
+        "coverage": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/book-coverage/theory-calculation-transient-electric-phenomena-oscillations/",
+        "source_text": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/theory-calculation-transient-electric-phenomena-oscillations/",
+        "workbench": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/chapter-workbench/theory-calculation-transient-electric-phenomena-oscillations/",
+        "visual_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/theory-calculation-transient-electric-phenomena-oscillations/",
+        "formula_map": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/mathematics/source-formula-maps/theory-calculation-transient-electric-phenomena-oscillations/",
+        "archive": "https://archive.org/details/transelectricphenom00steirich"
+      }
+    }
+  ]
+}

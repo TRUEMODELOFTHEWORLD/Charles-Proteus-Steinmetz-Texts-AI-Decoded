@@ -55,21 +55,21 @@
     }
   ],
   "page_risk_summary": {
-    "medium": 849,
-    "class:html_table": 158,
-    "class:link_grid": 80,
-    "class:long_urls": 1042,
-    "low": 96,
-    "class:markdown_table": 25664,
-    "minimal": 26,
-    "high": 78,
+    "medium": 854,
+    "class:html_table": 188,
+    "class:link_grid": 81,
+    "class:long_urls": 1043,
+    "low": 88,
+    "class:markdown_table": 25665,
+    "minimal": 21,
+    "high": 87,
     "class:visual_archive": 54,
     "class:embedded_scan": 1,
     "class:source_text_reader": 394,
     "class:interactive_tool": 8
   },
-  "high_risk_page_count": 78,
-  "medium_risk_page_count": 849,
+  "high_risk_page_count": 87,
+  "medium_risk_page_count": 854,
   "records": [
     {
       "path": "site/src/content/docs/chapter-workbench/radiation-light-and-illumination/lecture-01.mdx",
@@ -612,7 +612,7 @@
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/roadmap/citation-and-data-export/",
       "risk_level": "high",
       "patterns": {
-        "markdown_table": 55,
+        "markdown_table": 56,
         "embedded_scan": 1,
         "long_urls": 1
       }
@@ -672,6 +672,93 @@
       "risk_level": "high",
       "patterns": {
         "markdown_table": 116
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/america-and-new-epoch/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/america-and-new-epoch/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 3,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/commonwealth-edison-generating-system-trouble/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 3,
+        "visual_archive": 1,
+        "link_grid": 1,
+        "long_urls": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/elementary-lectures-electric-discharges-waves-impulses/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 2,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/four-lectures-relativity-space/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/four-lectures-relativity-space/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 3,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/general-lectures-electrical-engineering/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/general-lectures-electrical-engineering/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 3,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/radiation-light-and-illumination/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 2,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 2,
+        "visual_archive": 1,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-electric-apparatus/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-apparatus/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 3,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-transient-electric-phenomena-oscillations/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/",
+      "risk_level": "high",
+      "patterns": {
+        "html_table": 2,
+        "visual_archive": 1,
+        "link_grid": 1
       }
     },
     {
@@ -8772,12 +8859,20 @@
       }
     },
     {
-      "path": "site/src/content/docs/sources/commonwealth-edison-generating-system-trouble/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/",
+      "path": "site/src/content/docs/sources/electric-discharges-waves-impulses-1914/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/electric-discharges-waves-impulses-1914/",
       "risk_level": "medium",
       "patterns": {
-        "html_table": 1,
-        "visual_archive": 1,
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/engineering-mathematics/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
         "link_grid": 1
       }
     },
@@ -8787,6 +8882,42 @@
       "risk_level": "medium",
       "patterns": {
         "html_table": 2
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theoretical-elements-electrical-engineering/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theoretical-elements-electrical-engineering/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1897/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1897/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1900/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1900/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
+      }
+    },
+    {
+      "path": "site/src/content/docs/sources/theory-calculation-electric-circuits/index.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-circuits/",
+      "risk_level": "medium",
+      "patterns": {
+        "html_table": 2,
+        "link_grid": 1
       }
     },
     {
@@ -9469,56 +9600,11 @@
       }
     },
     {
-      "path": "site/src/content/docs/sources/america-and-new-epoch/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/america-and-new-epoch/",
-      "risk_level": "low",
-      "patterns": {
-        "html_table": 1,
-        "link_grid": 1
-      }
-    },
-    {
       "path": "site/src/content/docs/sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/commonwealth-edison-generating-system-trouble/power-limiting-reactors-synchronism/",
       "risk_level": "low",
       "patterns": {
         "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/elementary-lectures-electric-discharges-waves-impulses/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/elementary-lectures-electric-discharges-waves-impulses/",
-      "risk_level": "low",
-      "patterns": {
-        "visual_archive": 1,
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/four-lectures-relativity-space/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/four-lectures-relativity-space/",
-      "risk_level": "low",
-      "patterns": {
-        "html_table": 1,
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/general-lectures-electrical-engineering/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/general-lectures-electrical-engineering/",
-      "risk_level": "low",
-      "patterns": {
-        "html_table": 1,
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/radiation-light-and-illumination/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/",
-      "risk_level": "low",
-      "patterns": {
-        "visual_archive": 1,
-        "link_grid": 1
       }
     },
     {
@@ -9530,15 +9616,6 @@
       }
     },
     {
-      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/",
-      "risk_level": "low",
-      "patterns": {
-        "visual_archive": 1,
-        "link_grid": 1
-      }
-    },
-    {
       "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena/symbolic-method.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena/symbolic-method/",
       "risk_level": "low",
@@ -9547,29 +9624,11 @@
       }
     },
     {
-      "path": "site/src/content/docs/sources/theory-calculation-electric-apparatus/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-apparatus/",
-      "risk_level": "low",
-      "patterns": {
-        "html_table": 1,
-        "link_grid": 1
-      }
-    },
-    {
       "path": "site/src/content/docs/sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/condenser-charge-discharge/",
       "risk_level": "low",
       "patterns": {
         "visual_archive": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/theory-calculation-transient-electric-phenomena-oscillations/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-transient-electric-phenomena-oscillations/",
-      "risk_level": "low",
-      "patterns": {
-        "visual_archive": 1,
-        "link_grid": 1
       }
     },
     {
@@ -9719,6 +9778,14 @@
       }
     },
     {
+      "path": "site/src/content/docs/source-library/source-research-dashboards.mdx",
+      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-library/source-research-dashboards/",
+      "risk_level": "minimal",
+      "patterns": {
+        "link_grid": 1
+      }
+    },
+    {
       "path": "site/src/content/docs/source-texts/commonwealth-edison-generating-system-trouble/index.mdx",
       "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/commonwealth-edison-generating-system-trouble/",
       "risk_level": "minimal",
@@ -9732,54 +9799,6 @@
       "risk_level": "minimal",
       "patterns": {
         "markdown_table": 6
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/electric-discharges-waves-impulses-1914/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/electric-discharges-waves-impulses-1914/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/engineering-mathematics/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/engineering-mathematics/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/theoretical-elements-electrical-engineering/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theoretical-elements-electrical-engineering/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1897/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1897/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/theory-calculation-alternating-current-phenomena-1900/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-alternating-current-phenomena-1900/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
-      }
-    },
-    {
-      "path": "site/src/content/docs/sources/theory-calculation-electric-circuits/index.mdx",
-      "url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/theory-calculation-electric-circuits/",
-      "risk_level": "minimal",
-      "patterns": {
-        "link_grid": 1
       }
     },
     {

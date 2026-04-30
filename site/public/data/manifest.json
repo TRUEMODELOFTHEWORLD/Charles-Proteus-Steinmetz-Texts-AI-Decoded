@@ -153,6 +153,13 @@
       "format": "json"
     },
     {
+      "id": "source_research_dashboards",
+      "description": "Generated source overview dashboards tying curated source pages to text, workbench, formula, visual, and verification layers.",
+      "source_path": "processed/source_research_dashboards.json",
+      "public_url": "/Charles-Proteus-Steinmetz-Texts-AI-Decoded/data/source_research_dashboards.json",
+      "format": "json"
+    },
+    {
       "id": "schema_reference",
       "description": "Descriptive schema reference for processed and public data.",
       "source_path": "processed/schema_reference.json",

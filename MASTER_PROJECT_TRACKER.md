@@ -32,6 +32,7 @@ The guiding rule is speed with labels: publish useful candidate layers quickly, 
 | Original-source access | Source pages now expose Archive.org scan links, OCR links, and inline scan readers where stable archive IDs exist. |
 | Source text browser | Generated public reader pages now expose 394 processed chapters, lectures, sections, and report divisions under `site/src/content/docs/source-texts/`. |
 | Book coverage atlas | Generated book-level coverage pages now expose all 15 seeded sources under `site/src/content/docs/book-coverage/`, with every processed section linked to source text and chapter workbench pages, plus source study-guide panels for first reads, math, visuals, and field-language trails. |
+| Source research dashboards | Generated dashboards now enrich all 15 curated `/sources/...` overview pages, tying each source to source text, book coverage, chapter workbench, visual maps, formula maps, theme evidence, concept trails, terminology signals, and verification focus. |
 | Chapter workbench | Generated research maps now expose 394 processed sections under `site/src/content/docs/chapter-workbench/`, joining source links, theme snippets, concept/glossary hits, equation candidates, figure candidates, quote candidates, modern prompts, interpretive boundaries, and promotion checklists. |
 | Passage atlas and research map | Generated discovery pages now rank 150 balanced candidate passages from 5,427 source-derived candidates across 15 sources and nine themes, with a reader-facing research map, study curriculum, and renewed hidden-gems page. |
 | Concept concordance | Generated concept-trace pages now expose 77 curated terms and concepts under `site/src/content/docs/concept-concordance/`, linking every hit back to source text and chapter workbench pages. |
@@ -213,6 +214,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | Generate summaries | Started | Public source and chapter pages, mostly curated. |
 | Generate public source text readers | Started | `generate_source_text_pages.py` builds 394 public source-text section pages from processed chapter records. |
 | Generate book coverage atlas pages | Started | `generate_book_coverage_atlas.py` builds 15 source-level book-coverage pages plus an index and `processed/book_coverage_atlas.json`, including generated source study-guide panels and route links. |
+| Generate source research dashboards | Started | `generate_source_research_dashboards.py` appends dashboard front doors to all 15 curated source overview pages and writes `processed/source_research_dashboards.json`. |
 | Generate chapter workbench pages | Started | `generate_chapter_workbench.py` builds 394 public workbench section pages plus indexes and `processed/chapter_workbench.json`. |
 | Generate concept concordance pages | Started | `generate_concept_concordance.py` builds 78 public concept-concordance pages plus `processed/concept_concordance.json`. |
 | Generate concept page dossiers | Started | `generate_concept_page_dossiers.py` appends source-grounded dossier sections to 22 curated concept pages and writes `processed/concept_page_dossiers.json`. |
@@ -255,6 +257,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | `evidence_ledger.json` | Done as the archive-wide traceability layer for source claims, candidates, and promoted assets. |
 | `chapter_atlas.json` | Done as the archive-wide OCR/PDF-text theme routing map for chapters, lectures, sections, and report divisions. |
 | `book_coverage_atlas.json` | Started as the generated source-by-source coverage map with section links, theme totals, concept density, glossary density, candidate counts, and source study-guide routes. |
+| `source_research_dashboards.json` | Started as the generated source overview dashboard layer connecting curated source pages to reading, workbench, formula, visual, theme, concept, and verification routes. |
 | `chapter_workbench.json` | Done as the archive-wide generated workbench index joining section text, theme routing, term hits, equations, figures, quotes, links, and promotion status. |
 | `concept_concordance.json` | Done as the archive-wide generated concept-trace index across processed source text. |
 | `concept_page_dossiers.json` | Started as the curated concept-page enrichment layer built from concordance evidence. |
@@ -323,6 +326,7 @@ Each mature concept, equation, diagram, or comparison page should include these 
 | M7Q. Equation atlas and formula routing | Make the full mathematical candidate layer visible without promoting OCR formulas as verified. | Generated 3,845 equation/formula candidates, 2,528 reviewable relation candidates, and 1,330 strong formula candidates across source-routed family pages and public data export. |
 | M7R. Recreated visual breadth | Expand visual reading aids beyond the first-wave diagrams while keeping them separate from original figures. | Generated 10 additional source-keyed SVG guide diagrams and a recreated visual index, bringing the public modern SVG guide layer to 20 diagrams. |
 | M7S. Crosslinked math/visual surfaces | Stop treating diagrams, formulas, concepts, and source pages as isolated showcases. | Generated source visual maps and source formula maps for all 15 processed sources, plus math/visual evidence bridges on 22 curated concept pages. |
+| M7T. Source overview dashboards | Prevent curated source pages from being thin doors beside richer generated layers. | Added generated dashboards to all 15 curated source overview pages, plus a source-dashboard index and public data export. |
 | M8. Expanded Steinmetz source intake | Add notable works and patents to control files, public pages, and verification queue. | Wikipedia bibliography and patent examples are now tracked; next step is acquisition and source-by-source processing. |
 | M9. Future multi-author architecture | Prepare separate source domains for Tesla, Dollard, Walter Russell, and others. | Wider scope can be added without blending fact, comparison, and interpretation. |
 

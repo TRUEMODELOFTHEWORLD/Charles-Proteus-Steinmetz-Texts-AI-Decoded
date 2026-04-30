@@ -54,6 +54,7 @@ export default defineConfig({
           label: 'Read The Corpus',
           items: [
             { label: 'Source Library', slug: 'source-library' },
+            { label: 'Source Dashboards', slug: 'source-library/source-research-dashboards' },
             { label: 'Browse Books', slug: 'book-coverage' },
             { label: 'Guided Reading Routes', slug: 'reading-routes' },
             { label: 'Source Text Browser', slug: 'source-texts' },
