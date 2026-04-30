@@ -3,18 +3,63 @@ title: Steinmetz vs Modern Radiation
 description: How Steinmetz's radiation language maps to modern electrical engineering.
 ---
 
+import SourceRef from '../../../components/SourceRef.astro';
+import LayeredReading from '../../../components/LayeredReading.astro';
+
+<SourceRef source="Radiation, Light and Illumination" location="Lecture I and related radiation/light sections" status="OCR-derived comparison; exact claims need scan verification" />
+
 ## What Steinmetz Says
 
-Radiation is energy in transit. Heat is produced when radiation is intercepted and absorbed.
+Steinmetz's radiation language is valuable because it keeps process and effect apart. In the current processed source, radiation is treated as energy in transit. Heat is not simply identical with radiation; heat is an effect produced when radiation is intercepted and absorbed by matter.
+
+The same opening source also places visible light, ultraviolet, X-rays, wireless waves, and ordinary electrical wave phenomena on a frequency/wavelength continuum. That is the important conceptual move: radiation is not introduced as a narrow lighting topic, but as a general physical process whose effects differ by frequency, material interaction, and physiological response.
 
 ## What Modern EE Says
 
-Electromagnetic radiation carries energy through fields. Thermal radiation is radiation associated with temperature and absorption/emission processes.
+Modern electrical engineering and physics describe electromagnetic radiation as energy carried by electromagnetic fields. Thermal radiation is radiation associated with temperature-dependent emission and absorption. Visible light is the portion of electromagnetic radiation that human vision responds to.
+
+Modern language is more standardized, but it can make a beginner blur several layers:
+
+- propagation of electromagnetic energy,
+- absorption or emission by matter,
+- heating as one possible material effect,
+- visibility as a physiological effect,
+- illumination as an engineering quantity involving geometry, distribution, and human visual response.
 
 ## Are They Equivalent?
 
-Mostly. Steinmetz's older language is still conceptually sharp because it refuses to collapse propagation and absorption into a single vague word.
+Mostly, at the level of engineering interpretation. Steinmetz's older language is still conceptually sharp because it refuses to collapse propagation and absorption into a single vague word. It also helps the reader see why a lighting book begins with radiation, electric waves, spectrum, and ether-era wave theory before moving to photometry and practical illumination.
 
-## Interpretive Reading
+<table class="codex-status-table">
+  <thead>
+    <tr><th>Layer</th><th>Steinmetz Framing</th><th>Modern Framing</th><th>Archive Caution</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Radiation</td><td>Energy in transit and wave phenomenon.</td><td>Electromagnetic field energy propagating through space or media.</td><td>Verify exact wording before quoting.</td></tr>
+    <tr><td>Heat</td><td>Effect produced after interaction with matter.</td><td>Thermal energy transfer and material temperature change.</td><td>Do not treat heat and radiation as identical.</td></tr>
+    <tr><td>Light</td><td>Radiation that produces visual sensation.</td><td>Visible electromagnetic radiation and visual response.</td><td>Keep physical radiation and physiological perception separate.</td></tr>
+    <tr><td>Illumination</td><td>Engineering distribution of useful light.</td><td>Luminous flux, illuminance, geometry, photometry, and visual task conditions.</td><td>Do not reduce illumination to watts alone.</td></tr>
+  </tbody>
+</table>
 
-Interpretive only: this passage supports field-process thinking, but it should not be overstated as proof of any later ether model.
+## Source Routes
+
+<div class="source-matrix">
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/source-texts/radiation-light-and-illumination/lecture-01/">Read Lecture I Source Text<span>Primary OCR-derived source route for radiation, light, electric waves, ether language, and the spectrum table.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/sources/radiation-light-and-illumination/lecture-01/">Read Lecture I Deep Decoding<span>Curated first-page commentary with modern and interpretive layers separated.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/radiation/">Radiation Concept Page<span>Concept dossier, source distribution, formula/visual bridge, and priority passages.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/electric-waves/">Electric Waves Concept Page<span>Route from radiation into electric waves, wireless waves, and frequency/wavelength continuity.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/concepts/illumination/">Illumination Concept Page<span>Route from radiation/light to photometry, flux distribution, and practical lighting engineering.</span></a>
+  <a href="/Charles-Proteus-Steinmetz-Texts-AI-Decoded/diagrams/source-visuals/radiation-light-and-illumination/">RLI Visual Map<span>Promoted crops and candidate figure references for the radiation/light source.</span></a>
+</div>
+
+<LayeredReading label="Interpretive Reading" open>
+Interpretive only: Steinmetz's radiation distinction supports field-process thinking because it separates energy in transit from later material effects. That does not prove any later ether model, Wheeler-style vocabulary, or nonmodern ontology. It only gives a source-grounded place to compare those readings carefully.
+</LayeredReading>
+
+## Next Review Tasks
+
+- Scan-check the opening radiation definition before treating any wording as canonical.
+- Pair the spectrum table and Fig. 14 crop with the exact printed page reference.
+- Add a modern electromagnetic-radiation reference for the present-day comparison layer.
+- Promote a worked example using velocity, frequency, and wavelength after the OCR math is checked.
