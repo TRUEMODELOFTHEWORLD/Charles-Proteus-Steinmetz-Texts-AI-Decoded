@@ -1,7 +1,6 @@
 (function () {
   const root = document.documentElement;
   const storedMode = localStorage.getItem('codex-source-mode') || 'all';
-  const SOURCE_READER_MATH_ENABLED = false;
   root.dataset.sourceMode = storedMode;
 
   function setMode(mode) {
@@ -274,7 +273,6 @@
     const shell = document.createElement('section');
     shell.className = 'codex-source-reader';
     shell.dataset.view = 'readable';
-    shell.dataset.math = SOURCE_READER_MATH_ENABLED ? (localStorage.getItem('codex-reader-math') || 'on') : 'off';
     shell.dataset.artifacts = localStorage.getItem('codex-reader-artifacts') || 'hide';
     shell.style.setProperty('--codex-reader-scale', String(Number.isFinite(savedScale) ? savedScale : 1));
     shell.innerHTML = [
@@ -297,9 +295,6 @@
       '<button type="button" data-reader-view="dense" aria-pressed="false">Dense</button>',
       '<button type="button" data-reader-action="smaller">A-</button>',
       '<button type="button" data-reader-action="larger">A+</button>',
-      SOURCE_READER_MATH_ENABLED
-        ? `<button type="button" data-reader-action="math" aria-pressed="${shell.dataset.math === 'on'}">Math</button>`
-        : '<span class="reader-math-paused" title="Automatic source-reader KaTeX is paused until OCR equations are manually curated.">Math paused</span>',
       `<button type="button" data-reader-action="artifacts" aria-pressed="${shell.dataset.artifacts === 'show'}">OCR Fragments</button>`,
       '<button type="button" data-reader-action="scan">Scan</button>',
       '<button type="button" data-reader-action="copy">Copy Link</button>',
@@ -346,20 +341,17 @@
         const matches = terms.length && blockMatches(block, terms);
         if (block.type === 'artifact' && !showArtifacts && !matches) return '';
         if (matches) matchIds.push(index);
-        const displayType = !SOURCE_READER_MATH_ENABLED && block.type === 'equation' ? 'paragraph' : block.type;
+        const displayType = block.type;
         const blockClass = [
           'reader-block',
           `reader-block-${displayType}`,
           matches ? 'has-reader-match' : '',
           index === activeMatch ? 'is-active-match' : ''
         ].filter(Boolean).join(' ');
-        const label = displayType === 'heading' ? 'Heading' : displayType === 'equation' ? 'Formula candidate' : displayType === 'artifact' ? 'OCR fragment' : 'Passage';
+        const label = displayType === 'heading' ? 'Heading' : displayType === 'artifact' ? 'OCR fragment' : 'Passage';
         const body = highlightText(block.text, terms);
         if (displayType === 'heading') {
           return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to ${label}">#</a><h3>${body}</h3></section>`;
-        }
-        if (displayType === 'equation') {
-          return `<section class="${blockClass}" id="${block.id}" data-formula-text="${escapeHtml(block.text)}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to ${label}">#</a><div class="reader-math-panel" aria-label="KaTeX rendering of formula candidate"><span class="reader-math-label">KaTeX candidate</span><div class="reader-math-output"></div></div><pre class="reader-equation-transcript">${body}</pre></section>`;
         }
         if (displayType === 'page-marker') {
           return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to page marker">#</a><p>${body}</p></section>`;
@@ -370,17 +362,13 @@
         return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to passage">#</a><p>${body}</p></section>`;
       }).join('');
 
-      if (SOURCE_READER_MATH_ENABLED) enhanceReaderMath(shell);
-
       const markCount = documentPane.querySelectorAll('mark.reader-highlight').length;
       const activeHuman = activeMatch >= 0 ? matchIds.indexOf(activeMatch) + 1 : 0;
       statusLine.textContent = terms.length
         ? `${markCount.toLocaleString()} highlighted term match${markCount === 1 ? '' : 'es'} in ${matchIds.length.toLocaleString()} passage${matchIds.length === 1 ? '' : 's'}${activeHuman > 0 ? ` - selected ${activeHuman} of ${matchIds.length}` : ''}.`
         : artifactCount
           ? `Readable mode unwraps OCR line breaks. ${artifactCount.toLocaleString()} OCR fragments are hidden; Transcript mode preserves everything.`
-          : SOURCE_READER_MATH_ENABLED
-            ? 'Readable mode unwraps OCR line breaks. Math mode renders formula candidates with KaTeX while preserving the raw OCR transcript for verification.'
-            : 'Readable mode unwraps OCR line breaks. Automatic source-reader KaTeX is paused; formulas remain in the verified text stream and Transcript mode.';
+          : 'Readable mode unwraps OCR line breaks. Equations remain as source text for scan verification; curated equation pages handle reviewed notation separately.';
       shell._matchIds = matchIds;
     }
 
@@ -441,14 +429,6 @@
           shell.style.setProperty('--codex-reader-scale', String(next));
           localStorage.setItem('codex-reader-scale', String(next));
         }
-        if (action === 'math') {
-          shell.dataset.math = shell.dataset.math === 'on' ? 'off' : 'on';
-          localStorage.setItem('codex-reader-math', shell.dataset.math);
-          button.setAttribute('aria-pressed', String(shell.dataset.math === 'on'));
-          statusLine.textContent = shell.dataset.math === 'on'
-            ? 'Math rendering is on. Formula candidates remain tied to their raw OCR transcript.'
-            : 'Math rendering is hidden. Raw OCR transcript remains visible.';
-        }
         if (action === 'artifacts') {
           shell.dataset.artifacts = shell.dataset.artifacts === 'show' ? 'hide' : 'show';
           localStorage.setItem('codex-reader-artifacts', shell.dataset.artifacts);
@@ -502,92 +482,6 @@
     if (initialQuery) {
       window.setTimeout(() => jump(1), 180);
     }
-  }
-
-  function enhanceReaderMath(shell) {
-    if (!window.katex) return;
-    const formulaBlocks = Array.from(shell.querySelectorAll('.reader-block-equation[data-formula-text]'));
-    formulaBlocks.forEach((block) => {
-      const raw = block.dataset.formulaText || '';
-      const output = block.querySelector('.reader-math-output');
-      if (!output) return;
-      if (!likelyReaderFormula(raw)) {
-        block.classList.add('is-weak-formula-candidate');
-        output.textContent = 'Formula candidate needs scan review.';
-        return;
-      }
-      try {
-        window.katex.render(normalizeReaderFormula(raw), output, {
-          throwOnError: false,
-          displayMode: true,
-          strict: 'ignore',
-          trust: false
-        });
-        block.classList.add('has-rendered-math');
-      } catch (_error) {
-        block.classList.add('is-weak-formula-candidate');
-        output.textContent = 'Formula candidate needs scan review.';
-      }
-    });
-  }
-
-  function likelyReaderFormula(text) {
-    const value = (text || '').replace(/\s+/g, ' ').trim();
-    if (value.length < 2 || value.length > 220) return false;
-    if (looksLikeOcrArtifact(value)) return false;
-
-    const hasLetter = /[A-Za-z]/.test(value);
-    const hasDigit = /\d/.test(value);
-    const hasEquationSign = /[=\u2248\u2260\u2264\u2265]/.test(value);
-    const operators = value.match(/[+\-*/^_(){}\[\]\u221a\u2211\u222b<>\u00b1]/g) || [];
-    const mathWords = value.match(/\b(sin|cos|tan|log|sqrt|pi|theta|lambda|omega|phi)\b/gi) || [];
-    const words = value.match(/[A-Za-z]{3,}/g) || [];
-    const mathOrUnitWord = /^(sin|cos|tan|log|sqrt|pi|theta|lambda|omega|phi|emf|rms|volt|volts|ohm|ohms|ampere|amperes|watt|watts|cycle|cycles|henry|farad)$/i;
-    const naturalWords = words.filter((word) => !mathOrUnitWord.test(word));
-    const proseMarkers = /\b(the|that|which|with|from|seems|volume|maximum|minimum|saturation|value|values|only|known|exception|higher|lower|containing|contained|therein|thereof|iron|cobalt|alloy|compound|material|cent|percent|per cent)\b/i;
-    const prosePunctuation = /[,.;:]/.test(value);
-    const equationLead = /^\s*(?:\(?\d+[.)]?\s*)?(?:[A-Za-z][A-Za-z0-9_]*|[A-Z]|[a-z]|\d+(?:\.\d+)?)\s*(?:=|[+\-*/^_])/;
-    const formulaCluster = /(?:[A-Za-z]\s*=\s*[-+0-9A-Za-z(]|\d+(?:\.\d+)?\s*[xX*]\s*10|\\(?:sin|cos|tan|log|sqrt|frac)|\b(?:sin|cos|tan|log|sqrt)\s*[\(A-Za-z0-9])/i;
-    const symbolDensity = operators.length + (hasEquationSign ? 2 : 0) + mathWords.length * 2;
-    const hasUnitOnly = /\b(voltage|current|impedance|reactance|amperes?|volts?|ohms?)\b/i.test(value) && !hasEquationSign && operators.length === 0;
-    const mostlyWords = /^[A-Za-z ,.'-]+$/.test(value);
-
-    if (hasUnitOnly || (mostlyWords && mathWords.length === 0)) return false;
-
-    // Source OCR often creates prose blocks containing one embedded relation, for example
-    // "72 per cent ... value of S = ...". Those should remain readable prose, not KaTeX panels.
-    if (!equationLead && naturalWords.length >= 6 && proseMarkers.test(value)) return false;
-    if (naturalWords.length >= 9 && symbolDensity < 10) return false;
-    if (naturalWords.length >= 6 && prosePunctuation && !equationLead && symbolDensity < 8) return false;
-    if (!hasEquationSign && mathWords.length === 0 && operators.length < 2) return false;
-
-    if (hasEquationSign && (equationLead || formulaCluster) && naturalWords.length <= 8) return true;
-    if (hasEquationSign && naturalWords.length <= 4 && symbolDensity >= 3) return true;
-    if (mathWords.length > 0 && (hasLetter || hasDigit) && naturalWords.length <= 6) return true;
-    if (equationLead && hasLetter && symbolDensity >= 2 && naturalWords.length <= 6) return true;
-    return false;
-  }
-
-  function normalizeReaderFormula(text) {
-    return (text || '')
-      .replace(/[\u201c\u201d]/g, '"')
-      .replace(/[\u2018\u2019]/g, "'")
-      .replace(/\u2212/g, '-')
-      .replace(/\bpi\b/gi, '\\pi')
-      .replace(/\btheta\b/gi, '\\theta')
-      .replace(/\blambda\b/gi, '\\lambda')
-      .replace(/\bomega\b/gi, '\\omega')
-      .replace(/\bphi\b/gi, '\\phi')
-      .replace(/\bsin\b/gi, '\\sin')
-      .replace(/\bcos\b/gi, '\\cos')
-      .replace(/\btan\b/gi, '\\tan')
-      .replace(/\blog\b/gi, '\\log')
-      .replace(/\bsqrt\b/gi, '\\sqrt')
-      .replace(/\be\.?m\.?f\.?/gi, '\\mathrm{e.m.f.}')
-      .replace(/\bEo\b/g, 'E_0')
-      .replace(/\bZo\b/g, 'Z_0')
-      .replace(/\bIo\b/g, 'I_0')
-      .trim();
   }
 
   function buildReaderBlocks(sourceText) {
@@ -646,7 +540,6 @@
     if (looksLikeOcrArtifact(text)) return 'artifact';
     const uppercaseHeadingWords = text.match(/[A-Z][A-Z.'-]{2,}/g) || [];
     if (lines.length <= 3 && text.length >= 12 && text.length < 160 && text === text.toUpperCase() && uppercaseHeadingWords.length >= 2) return 'heading';
-    if (lines.length <= 6 && likelyReaderFormula(text)) return 'equation';
     if (/^\d{1,4}$/.test(text) || /^[A-Z ,.'-]+\.\s+\d{1,4}$/.test(text)) return 'page-marker';
     return 'paragraph';
   }
