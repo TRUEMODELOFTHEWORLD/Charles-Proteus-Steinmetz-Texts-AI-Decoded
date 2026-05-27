@@ -3936,6 +3936,180 @@ html[data-theme='light'] .source-text-tags b {
   color: var(--sl-color-text-accent);
 }
 
+.source-reader-guide {
+  display: grid;
+  gap: 0.75rem;
+  margin: 0.95rem 0 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(240, 217, 148, 0.22);
+  border-radius: 12px;
+  background:
+    linear-gradient(180deg, rgba(240, 217, 148, 0.055), rgba(255, 255, 255, 0.018)),
+    color-mix(in srgb, var(--sl-color-bg) 88%, var(--codex-panel) 12%);
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.16);
+}
+
+.source-reader-guide > div {
+  border-left: 3px solid rgba(240, 217, 148, 0.42);
+  padding-left: 0.75rem;
+}
+
+.source-reader-guide span {
+  display: block;
+  margin-bottom: 0.15rem;
+  color: var(--codex-reader-accent, #e8cf83);
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.source-reader-guide p {
+  margin: 0;
+  color: var(--sl-color-gray-1);
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+.source-reader-guide a {
+  color: var(--codex-reader-accent, #e8cf83);
+  font-weight: 750;
+}
+
+.codex-source-reader .reader-block-formula-fragment {
+  margin-block: 1rem;
+  border-left-color: rgba(240, 217, 148, 0.58);
+}
+
+.codex-source-reader .reader-fragment-card {
+  display: grid;
+  gap: 0.75rem;
+  max-width: 100%;
+  border: 1px solid rgba(140, 108, 39, 0.28);
+  border-radius: 12px;
+  padding: 0.85rem 0.95rem;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(140, 108, 39, 0.035) 0,
+      rgba(140, 108, 39, 0.035) 8px,
+      transparent 8px,
+      transparent 16px
+    ),
+    rgba(120, 91, 30, 0.075);
+  color: #2f2718;
+}
+
+html:not([data-theme='light']) .codex-source-reader .reader-fragment-card {
+  border-color: rgba(240, 217, 148, 0.26);
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(240, 217, 148, 0.035) 0,
+      rgba(240, 217, 148, 0.035) 8px,
+      transparent 8px,
+      transparent 16px
+    ),
+    rgba(240, 217, 148, 0.07);
+  color: #fff7df;
+}
+
+.codex-source-reader .reader-fragment-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.codex-source-reader .reader-fragment-heading strong {
+  color: inherit;
+  font-family: var(--__sl-font);
+  font-size: 0.9rem;
+}
+
+.codex-source-reader .reader-fragment-heading span {
+  color: color-mix(in srgb, currentColor 72%, transparent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.codex-source-reader .reader-fragment-card code {
+  display: block;
+  max-inline-size: 100%;
+  border: 1px solid rgba(140, 108, 39, 0.24);
+  border-radius: 8px;
+  padding: 0.7rem 0.75rem;
+  background: rgba(255, 255, 255, 0.42);
+  color: inherit;
+  font-family: var(--__sl-font-mono);
+  font-size: calc(0.84rem * var(--codex-reader-scale));
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+}
+
+html:not([data-theme='light']) .codex-source-reader .reader-fragment-card code {
+  border-color: rgba(240, 217, 148, 0.18);
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.codex-source-reader .reader-fragment-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.codex-source-reader .reader-fragment-actions :is(button, a) {
+  border: 1px solid rgba(140, 108, 39, 0.32);
+  border-radius: 999px;
+  padding: 0.32rem 0.58rem;
+  background: rgba(255, 255, 255, 0.32);
+  color: inherit;
+  cursor: pointer;
+  font: 800 0.72rem/1 var(--__sl-font);
+  text-decoration: none;
+}
+
+html:not([data-theme='light']) .codex-source-reader .reader-fragment-actions :is(button, a) {
+  border-color: rgba(240, 217, 148, 0.3);
+  background: rgba(0, 0, 0, 0.16);
+}
+
+.codex-source-reader .reader-fragment-actions :is(button, a):hover,
+.codex-source-reader .reader-fragment-actions :is(button, a):focus-visible {
+  border-color: var(--codex-reader-accent, #e8cf83);
+  color: var(--codex-reader-accent, #e8cf83);
+}
+
+@media (min-width: 920px) {
+  .source-reader-guide {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .source-reader-guide > div:first-child,
+  .source-reader-guide > div:last-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 640px) {
+  .source-reader-guide {
+    padding: 0.85rem;
+  }
+
+  .codex-source-reader .reader-fragment-card {
+    padding: 0.75rem;
+  }
+
+  .codex-source-reader .reader-fragment-actions :is(button, a) {
+    flex: 1 1 auto;
+    text-align: center;
+  }
+}
+
 /* Global math-card contrast and KaTeX enforcement. Generated formula candidates must be readable before review. */
 html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card {
   background:

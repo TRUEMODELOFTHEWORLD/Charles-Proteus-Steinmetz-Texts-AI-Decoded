@@ -325,10 +325,12 @@
 
     rawPane.textContent = sourceText.trim();
     const artifactCount = blocks.filter((block) => block.type === 'artifact').length;
+    const formulaFragmentCount = blocks.filter((block) => block.type === 'formula-fragment').length;
     ribbon.innerHTML = [
       `<span>${escapeHtml(status)}</span>`,
       `<span>${(blocks.length - artifactCount).toLocaleString()} reading blocks</span>`,
-      artifactCount ? `<span>${artifactCount.toLocaleString()} OCR fragments hidden</span>` : '',
+      formulaFragmentCount ? `<span>${formulaFragmentCount.toLocaleString()} formula fragments flagged</span>` : '',
+      artifactCount ? `<span>${artifactCount.toLocaleString()} stray OCR fragments hidden</span>` : '',
       `<span>${countWords(sourceText).toLocaleString()} words</span>`,
       ...tags.slice(0, 8).map((tag) => `<span>${escapeHtml(tag)}</span>`)
     ].join('');
@@ -348,7 +350,13 @@
           matches ? 'has-reader-match' : '',
           index === activeMatch ? 'is-active-match' : ''
         ].filter(Boolean).join(' ');
-        const label = displayType === 'heading' ? 'Heading' : displayType === 'artifact' ? 'OCR fragment' : 'Passage';
+        const label = displayType === 'heading'
+          ? 'Heading'
+          : displayType === 'artifact'
+            ? 'OCR fragment'
+            : displayType === 'formula-fragment'
+              ? 'formula fragment'
+              : 'Passage';
         const body = highlightText(block.text, terms);
         if (displayType === 'heading') {
           return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to ${label}">#</a><h3>${body}</h3></section>`;
@@ -359,6 +367,28 @@
         if (displayType === 'artifact') {
           return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to ${label}">#</a><p>${body}</p></section>`;
         }
+        if (displayType === 'formula-fragment') {
+          const reviewUrl = loader.dataset.readerReviewUrl || '';
+          const reviewLink = reviewUrl
+            ? `<a href="${escapeHtml(reviewUrl)}">Research review</a>`
+            : '';
+          return `<section class="${blockClass}" id="${block.id}">
+            <a class="reader-anchor" href="#${block.id}" aria-label="Link to ${label}">#</a>
+            <div class="reader-fragment-card">
+              <div class="reader-fragment-heading">
+                <strong>Verify formula against scan</strong>
+                <span>OCR/formula fragment</span>
+              </div>
+              <code>${body}</code>
+              <div class="reader-fragment-actions">
+                <button type="button" data-reader-inline-action="raw">Open Transcript</button>
+                <button type="button" data-reader-inline-action="scan">Original Scan</button>
+                <button type="button" data-reader-inline-action="copy-fragment" data-fragment-index="${index}">Copy Fragment</button>
+                ${reviewLink}
+              </div>
+            </div>
+          </section>`;
+        }
         return `<section class="${blockClass}" id="${block.id}"><a class="reader-anchor" href="#${block.id}" aria-label="Link to passage">#</a><p>${body}</p></section>`;
       }).join('');
 
@@ -367,8 +397,10 @@
       statusLine.textContent = terms.length
         ? `${markCount.toLocaleString()} highlighted term match${markCount === 1 ? '' : 'es'} in ${matchIds.length.toLocaleString()} passage${matchIds.length === 1 ? '' : 's'}${activeHuman > 0 ? ` - selected ${activeHuman} of ${matchIds.length}` : ''}.`
         : artifactCount
-          ? `Readable mode unwraps OCR line breaks. ${artifactCount.toLocaleString()} OCR fragments are hidden; Transcript mode preserves everything.`
-          : 'Readable mode unwraps OCR line breaks. Equations remain as source text for scan verification; curated equation pages handle reviewed notation separately.';
+          ? `Readable text is for study. ${formulaFragmentCount ? `${formulaFragmentCount.toLocaleString()} formula-like OCR fragment${formulaFragmentCount === 1 ? '' : 's'} are flagged for scan verification; ` : ''}${artifactCount.toLocaleString()} stray OCR fragment${artifactCount === 1 ? '' : 's'} are hidden unless enabled.`
+          : formulaFragmentCount
+            ? `Readable text is for study. ${formulaFragmentCount.toLocaleString()} formula-like OCR fragment${formulaFragmentCount === 1 ? '' : 's'} are flagged; exact equations require scan verification.`
+            : 'Readable mode unwraps OCR line breaks. Exact equations, symbols, and diagrams still require scan verification; curated equation pages handle reviewed notation separately.';
       shell._matchIds = matchIds;
     }
 
@@ -477,6 +509,36 @@
       });
     });
 
+    documentPane.addEventListener('click', async (event) => {
+      const button = event.target.closest('[data-reader-inline-action]');
+      if (!button) return;
+      const action = button.dataset.readerInlineAction;
+      if (action === 'raw') {
+        shell.dataset.view = 'raw';
+        shell.querySelectorAll('[data-reader-view]').forEach((viewButton) => {
+          viewButton.setAttribute('aria-pressed', String(viewButton.dataset.readerView === 'raw'));
+        });
+        rawPane.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+      if (action === 'scan') {
+        const scan = document.getElementById('original-scan-viewer');
+        if (scan) {
+          scan.open = true;
+          scan.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+      if (action === 'copy-fragment') {
+        const index = Number(button.dataset.fragmentIndex);
+        const fragment = Number.isFinite(index) ? blocks[index]?.raw || blocks[index]?.text || '' : '';
+        try {
+          await navigator.clipboard.writeText(fragment);
+          statusLine.textContent = 'OCR/formula fragment copied for scan review.';
+        } catch (_error) {
+          statusLine.textContent = fragment || 'Copy was blocked by the browser.';
+        }
+      }
+    });
+
     render();
     updateReaderProgress();
     if (initialQuery) {
@@ -494,7 +556,9 @@
     chunks.forEach((chunk) => {
       const lines = chunk.split('\n').map((line) => line.trim()).filter(Boolean);
       if (!lines.length) return;
-      splitLongLineGroup(lines).forEach((group) => lineGroups.push(group));
+      splitFormulaAwareGroups(lines).forEach((formulaAwareGroup) => {
+        splitLongLineGroup(formulaAwareGroup).forEach((group) => lineGroups.push(group));
+      });
     });
     return lineGroups.map((lines, index) => {
       const text = joinOcrLines(lines);
@@ -524,6 +588,24 @@
     return groups;
   }
 
+  function splitFormulaAwareGroups(lines) {
+    const groups = [];
+    let current = [];
+    lines.forEach((line) => {
+      if (looksLikeFormulaFragment(line)) {
+        if (current.length) {
+          groups.push(current);
+          current = [];
+        }
+        groups.push([line]);
+        return;
+      }
+      current.push(line);
+    });
+    if (current.length) groups.push(current);
+    return groups;
+  }
+
   function joinOcrLines(lines) {
     return lines.reduce((joined, line) => {
       if (!joined) return line;
@@ -538,6 +620,7 @@
     if (/^\[page break\]$/i.test(text)) return 'page-marker';
     if (/^(lecture|chapter|section|part)\b/i.test(text) && text.length < 180) return 'heading';
     if (looksLikeOcrArtifact(text)) return 'artifact';
+    if (looksLikeFormulaFragment(text)) return 'formula-fragment';
     const uppercaseHeadingWords = text.match(/[A-Z][A-Z.'-]{2,}/g) || [];
     if (lines.length <= 3 && text.length >= 12 && text.length < 160 && text === text.toUpperCase() && uppercaseHeadingWords.length >= 2) return 'heading';
     if (/^\d{1,4}$/.test(text) || /^[A-Z ,.'-]+\.\s+\d{1,4}$/.test(text)) return 'page-marker';
@@ -557,6 +640,32 @@
     if (value.length <= 4 && words.length === 0 && !/[=]/.test(value)) return true;
     if (value.length <= 8 && words.length === 0 && letters.length <= 2 && digits.length <= 2 && !/[=]/.test(value)) return true;
     if (/^[A-Za-z]?[\^_'.;,;:|<>\\/+-]{1,8}$/.test(value)) return true;
+    return false;
+  }
+
+  function looksLikeFormulaFragment(text) {
+    const value = (text || '').replace(/\s+/g, ' ').trim();
+    if (!value || /^\[page break\]$/i.test(value)) return false;
+    if (value.length < 2 || value.length > 220) return false;
+    if (/[.!?]\s+[A-Z][a-z]/.test(value) && value.length > 80) return false;
+
+    const words = value.match(/[A-Za-z]{3,}/g) || [];
+    const shortWords = value.match(/\b[A-Za-z]{1,2}\b/g) || [];
+    const digits = value.match(/\d/g) || [];
+    const operators = value.match(/[=+\-*/^_<>|\\√∑∫πΩωµμ°~]/g) || [];
+    const ocrMarks = value.match(/[■□�{}[\]`´¨¤¦¬]/g) || [];
+    const equationNumber = /\(\s*\d{1,3}\s*\)\s*$/.test(value);
+    const hasFormulaSymbol = /[=^_√∑∫]|X\s*10|10\s*[-^~]|VLC|Zq|yo|j[)(]|[rcgl][o0]\b|\\/.test(value);
+    const naturalWords = words.filter((word) => !/^(Fig|Chapter|Lecture|Section|Thus|where|then|and|the|for|with|from|into|only|line)$/i.test(word));
+    const letterCount = (value.match(/[A-Za-z]/g) || []).length;
+    const symbolDensity = (operators.length + ocrMarks.length + digits.length) / Math.max(value.length, 1);
+
+    if (equationNumber && (hasFormulaSymbol || operators.length >= 1)) return true;
+    if (value.length <= 36 && hasFormulaSymbol && words.length <= 4) return true;
+    if (value.length <= 90 && hasFormulaSymbol && operators.length >= 2 && naturalWords.length <= 5) return true;
+    if (value.length <= 120 && symbolDensity > 0.22 && naturalWords.length <= 6) return true;
+    if (ocrMarks.length >= 2 && operators.length >= 1 && naturalWords.length <= 8) return true;
+    if (shortWords.length >= 4 && operators.length >= 2 && letterCount < 28) return true;
     return false;
   }
 
