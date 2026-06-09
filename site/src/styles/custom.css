@@ -508,10 +508,12 @@ a[data-variant='primary']:hover {
   gap: 0.45rem;
 }
 
-.equation-candidate-card nav a {
+.equation-candidate-card nav a,
+.equation-candidate-card nav button {
   border: 1px solid color-mix(in srgb, var(--sl-color-gray-3) 65%, transparent);
   border-radius: 999px;
   color: var(--sl-color-text-accent);
+  cursor: pointer;
   font-size: 0.8rem;
   font-weight: 800;
   padding: 0.25rem 0.6rem;
@@ -4147,6 +4149,43 @@ html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card hea
   -webkit-overflow-scrolling: touch;
 }
 
+.sl-markdown-content .equation-candidate-card .equation-review-box {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0.35rem 0 0.45rem;
+  border: 1px solid rgba(120, 91, 30, 0.2);
+  border-left: 4px solid rgba(169, 130, 42, 0.7);
+  border-radius: 8px;
+  background: rgba(120, 91, 30, 0.075);
+  padding: 0.75rem 0.85rem;
+}
+
+.sl-markdown-content .equation-candidate-card .equation-review-box > span {
+  color: #634914;
+  font-size: 0.74rem;
+  font-weight: 900;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.sl-markdown-content .equation-candidate-card .equation-review-box code {
+  display: block;
+  max-inline-size: 100%;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card .equation-review-box {
+  background: rgba(255, 255, 255, 0.045);
+  border-color: rgba(240, 217, 148, 0.22);
+  border-left-color: var(--codex-reader-accent);
+}
+
+html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card .equation-review-box > span {
+  color: var(--codex-reader-accent);
+}
+
 html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card .equation-render {
   border-color: rgba(240, 217, 148, 0.2);
   background: rgba(255, 255, 255, 0.045);
@@ -4188,19 +4227,22 @@ html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card cod
   color: #f8f4ea !important;
 }
 
-.sl-markdown-content .equation-candidate-card nav a {
+.sl-markdown-content .equation-candidate-card nav a,
+.sl-markdown-content .equation-candidate-card nav button {
   background: rgba(169, 130, 42, 0.1);
   border-color: rgba(169, 130, 42, 0.32) !important;
   color: #5f4715 !important;
 }
 
-html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card nav a {
+html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card nav a,
+html:not([data-theme='light']) .sl-markdown-content .equation-candidate-card nav button {
   background: rgba(240, 217, 148, 0.08) !important;
   border-color: rgba(240, 217, 148, 0.25) !important;
   color: var(--codex-reader-accent) !important;
 }
 
-.sl-markdown-content .equation-candidate-card nav a:hover {
+.sl-markdown-content .equation-candidate-card nav a:hover,
+.sl-markdown-content .equation-candidate-card nav button:hover {
   background: var(--codex-reader-accent) !important;
   color: #111716 !important;
 }
@@ -4247,14 +4289,27 @@ html[data-theme='light'] .sl-markdown-content :is(.codex-signal > div, .source-m
   color: #fff9e8 !important;
 }
 
-.sl-markdown-content .equation-card-grid .equation-candidate-card nav a {
+.sl-markdown-content .equation-card-grid .equation-candidate-card .equation-review-box {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border-color: rgba(240, 217, 148, 0.24) !important;
+  border-left-color: var(--codex-reader-accent) !important;
+}
+
+.sl-markdown-content .equation-card-grid .equation-candidate-card .equation-review-box > span {
+  color: #f0d994 !important;
+}
+
+.sl-markdown-content .equation-card-grid .equation-candidate-card nav a,
+.sl-markdown-content .equation-card-grid .equation-candidate-card nav button {
   background: rgba(240, 217, 148, 0.1) !important;
   border-color: rgba(240, 217, 148, 0.3) !important;
   color: #f5d36b !important;
 }
 
 .sl-markdown-content .equation-card-grid .equation-candidate-card nav a:hover,
-.sl-markdown-content .equation-card-grid .equation-candidate-card nav a:focus-visible {
+.sl-markdown-content .equation-card-grid .equation-candidate-card nav a:focus-visible,
+.sl-markdown-content .equation-card-grid .equation-candidate-card nav button:hover,
+.sl-markdown-content .equation-card-grid .equation-candidate-card nav button:focus-visible {
   background: #f0d994 !important;
   color: #111716 !important;
 }

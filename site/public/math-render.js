@@ -1,10 +1,4 @@
 (function () {
-  function looksLikeFormula(text) {
-    if (!text || text.length > 180) return false;
-    if (/[=^_+\-*/()]/.test(text) && /[A-Za-z0-9]/.test(text)) return true;
-    return /\b(sin|cos|tan|log|sqrt|pi|theta|lambda|omega|phi|impedance|reactance)\b/i.test(text);
-  }
-
   function decodeEntities(text) {
     var textarea = document.createElement("textarea");
     textarea.innerHTML = text || "";
@@ -52,7 +46,9 @@
 
   function renderEquationSpans(root) {
     if (!window.katex) return false;
-    var nodes = (root || document).querySelectorAll(".equation-render:not([data-katex-rendered='true'])");
+    var nodes = (root || document).querySelectorAll(
+      ".equation-render[data-katex-source='reviewed']:not([data-katex-rendered='true']), .equation-render[data-reviewed='true']:not([data-katex-rendered='true'])"
+    );
     Array.prototype.forEach.call(nodes, function (node) {
       var text = node.textContent || "";
       if (!text.trim()) return;
@@ -73,21 +69,14 @@
 
   function renderFormulaCode() {
     if (!window.katex) return;
-    var mathContext = /\/mathematics\/|\/concepts\/|\/glossary\//.test(window.location.pathname);
     var candidates = document.querySelectorAll(
-      ".equation-candidate-card code, .equation-source-summary code, .canonical-equation-table code, .math-formula-code, .formula-leads-table code, .concept-formula-table code"
+      ".canonical-equation-table code[data-reviewed='true'], .math-formula-code[data-reviewed='true'], .formula-leads-table code[data-reviewed='true'], .concept-formula-table code[data-reviewed='true']"
     );
-
-    if (mathContext) {
-      document.querySelectorAll(".sl-markdown-content table code").forEach(function (node) {
-        if (!node.closest("pre")) candidates = Array.prototype.concat.call(Array.prototype.slice.call(candidates), [node]);
-      });
-    }
 
     Array.prototype.forEach.call(candidates, function (node) {
       if (node.dataset.katexRendered === "true" || node.closest("pre")) return;
       var text = node.textContent.trim();
-      if (!looksLikeFormula(text)) return;
+      if (!text) return;
       try {
         window.katex.render(normalizeMath(text), node, {
           throwOnError: false,
@@ -119,6 +108,19 @@
   window.addEventListener("load", scheduleMathRender);
   document.addEventListener("astro:page-load", scheduleMathRender);
   document.addEventListener("starlight:search-result", scheduleMathRender);
+
+  document.addEventListener("click", async function (event) {
+    var button = event.target && event.target.closest ? event.target.closest("[data-copy-equation]") : null;
+    if (!button || !navigator.clipboard) return;
+    try {
+      await navigator.clipboard.writeText(button.getAttribute("data-copy-equation") || "");
+      var previous = button.textContent;
+      button.textContent = "copied";
+      window.setTimeout(function () { button.textContent = previous || "copy OCR"; }, 1200);
+    } catch (_error) {
+      button.textContent = "copy failed";
+    }
+  });
 })();
 
 

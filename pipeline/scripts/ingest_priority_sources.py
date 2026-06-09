@@ -805,17 +805,18 @@ import SourceAccess from '../../../../components/SourceAccess.astro';
 ## Read This Source
 
 <div class="source-matrix">
-  <a href="{BASE_URL}/book-coverage/{source.source_id}/">Book coverage atlas<span>Browse all generated sections with concept density and review signals.</span></a>
-  <a href="{BASE_URL}/source-texts/{source.source_id}/">Source text index<span>Read the generated OCR-derived section text directly.</span></a>
-  <a href="{BASE_URL}/chapter-workbench/{source.source_id}/">Research review<span>Open equation, figure, glossary, quote, and concept candidates section by section.</span></a>
-  <a href="https://archive.org/details/{source.internet_archive_id}">Internet Archive scan<span>Verify exact quotations and page images before canonical use.</span></a>
+  <a href="{BASE_URL}/source-texts/{source.source_id}/">Read source text<span>Open the processed reader first and move section by section.</span></a>
+  <a href="{BASE_URL}/book-coverage/{source.source_id}/">Reader guide<span>See the strongest sections, concept routes, figures, and formula map.</span></a>
+  <a href="https://archive.org/details/{source.internet_archive_id}">Original scan<span>Verify exact quotations, diagrams, page images, and equations.</span></a>
+  <a href="{BASE_URL}/chapter-workbench/{source.source_id}/">Research review<span>Use this only when you need equation, figure, glossary, quote, and concept candidates.</span></a>
 </div>
 
 ## Why This Source Was Added
 
 {source.why_it_matters}
 
-## Candidate Processing State
+<details class="research-metadata">
+<summary>Candidate processing state</summary>
 
 - Source type: `{source.source_type}`
 - Internet Archive identifier: `{source.internet_archive_id}`
@@ -824,6 +825,8 @@ import SourceAccess from '../../../../components/SourceAccess.astro';
 - Candidate figures: {figure_count}
 - Candidate quote hits: {quote_count}
 - Review status: OCR-derived candidates, not a corrected critical edition.
+
+</details>
 
 ## Edition And Custody Note
 

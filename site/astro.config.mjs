@@ -428,6 +428,7 @@ export default defineConfig({
             { label: 'Extracted Visual Candidates', slug: 'diagrams/extracted-visual-candidates' },
             { label: 'Figure Candidate Atlas', slug: 'diagrams/figure-candidate-atlas' },
             { label: 'Completion Audit', slug: 'roadmap/completion-audit' },
+            { label: 'Public Reader Quality Audit', slug: 'roadmap/public-reader-quality-audit' },
             { label: 'Canonical Review', slug: 'roadmap/canonical-review-workflow' },
             { label: 'Canonical Verification', slug: 'roadmap/canonical-verification-workbench' },
             { label: 'Citation And Data Export', slug: 'roadmap/citation-and-data-export' },

@@ -394,6 +394,23 @@ def build_atlas(root: Path) -> dict[str, Any]:
     }
 
 
+def candidate_kind(record: dict[str, Any]) -> tuple[str, str]:
+    """Classify how a public reader should treat an OCR equation candidate."""
+    score = int(record.get("quality_score") or 0)
+    text = clean_text(record.get("original_form"), 360)
+    word_count = len(re.findall(r"[A-Za-z]{3,}", text))
+    token_count = max(1, len(re.findall(r"\S+", text)))
+    has_relation = bool(re.search(r"[=<>≈∼]|(?:\b\d+\s*[+\-*/^]\s*\d+\b)", text))
+    mostly_words = word_count / token_count > 0.62
+    if score >= 58 and has_relation and not (mostly_words and len(text) > 90):
+        return ("review-priority", "Priority OCR formula candidate")
+    if score >= 36 and has_relation:
+        return ("review-relation", "Reviewable OCR relation")
+    if has_relation or re.search(r"[+\-*/^()]", text):
+        return ("fragment", "OCR formula fragment")
+    return ("noise", "Possible prose/noisy OCR")
+
+
 def card(record: dict[str, Any], rank: int | None = None) -> str:
     rank_html = f"<span>#{rank}</span>" if rank is not None else ""
     line = record.get("line_start")
@@ -401,21 +418,25 @@ def card(record: dict[str, Any], rank: int | None = None) -> str:
     source_link = record.get("links", {}).get("source_text") or record.get("links", {}).get("source_text_index")
     workbench_link = record.get("links", {}).get("workbench") or record.get("links", {}).get("workbench_index")
     original = record.get("original_form")
-    latex = latex_candidate(original)
-    return f"""<article class="equation-candidate-card" data-layer="math-candidate">
+    kind, kind_label = candidate_kind(record)
+    return f"""<article class="equation-candidate-card equation-candidate-card--{html_escape(kind)}" data-layer="math-candidate">
   <header>
     {rank_html}
     <strong>{html_escape(record.get("source_title"))}</strong>
     <small>{html_escape(section)}{html_escape(" - line " + str(line) if line else "")}</small>
   </header>
-  <span class="equation-render">\\({html_math_escape(latex)}\\)</span>
-  <details class="equation-source-line"><summary>OCR source line</summary><code>{html_escape(original)}</code></details>
+  <div class="equation-review-box" data-candidate-kind="{html_escape(kind)}">
+    <span>{html_escape(kind_label)}</span>
+    <code>{html_escape(original)}</code>
+  </div>
+  <details class="equation-source-line"><summary>Why this is not rendered automatically</summary><p>This line is OCR/PDF-derived candidate text. Treat it as a pointer to the source scan, not as a verified mathematical transcription.</p></details>
   <footer>
     <small>{html_escape(record.get("quality_band"))} - score {html_escape(record.get("quality_score"))} - {html_escape(FAMILIES.get(str(record.get("family")), {}).get("label", "General candidates"))}</small>
     <nav>
       <a href="{html_escape(source_link)}">source text</a>
       <a href="{html_escape(workbench_link)}">research review</a>
       <a href="{BASE_URL}/roadmap/equation-verification-queue/">verification queue</a>
+      <button type="button" data-copy-equation="{html_escape(original)}">copy OCR</button>
     </nav>
   </footer>
 </article>"""
@@ -461,7 +482,7 @@ description: Source-routed equation, formula, and notation candidate atlas acros
 
 {GENERATED_NOTE}
 
-This atlas exposes the mathematical breadth already present in the processed corpus. It is a review map, not a final equation canon: OCR formula lines can contain wrong symbols, missing fractions, page headers, figure references, or broken typography.
+This atlas exposes the mathematical breadth already present in the processed corpus. It is a review map, not a final equation canon: OCR formula lines can contain wrong symbols, missing fractions, page headers, figure references, prose contamination, or broken typography.
 
 <div class="source-text-warning" data-layer="math-candidate">
   <strong>Use rule:</strong> read these as formula candidates. A formula becomes canonical only after scan verification, notation cleanup, variable definition, derivation review, and physical-meaning review.
@@ -480,7 +501,9 @@ This atlas exposes the mathematical breadth already present in the processed cor
 {family_cards(atlas)}
 </div>
 
-## Highest-Priority Formula Candidates
+## Highest-Priority OCR Formula Candidates
+
+The cards below are intentionally not rendered as KaTeX. They preserve the OCR line as a verification target so researchers can compare the scan, correct the notation, define variables, and promote only the reviewed result into the canonical math pages.
 
 <div class="equation-card-grid">
 {chr(10).join(card(record, index + 1) for index, record in enumerate(top_records))}
@@ -550,6 +573,8 @@ description: "Equation candidates for {html_escape(family["label"])}."
 </div>
 
 ## Candidate Formula Cards
+
+These are OCR candidates. They remain plain text until a reviewer checks the scan and promotes the formula into a curated math page.
 
 <div class="equation-card-grid">
 {chr(10).join(card(record, index + 1) for index, record in enumerate(shown))}

@@ -202,7 +202,7 @@ def build_block(dossier: dict[str, Any]) -> str:
   </section>
 </div>
 
-### Fast Reading Path For {md(title)}
+### Best Steinmetz Passages To Read First
 
 <table class="codex-status-table concept-reading-path">
   <thead>
@@ -218,6 +218,7 @@ def build_block(dossier: dict[str, Any]) -> str:
 - **Tracked vocabulary:** {concept_labels}.
 - **Concordance:** {concordance_links}.
 - **Source discipline:** the table above is for reading and navigation; exact quotation still requires scan verification.
+- **Reader route:** read the passage first, then return here for modern translation, mathematical reconstruction, visual routes, and interpretation boundaries.
 - **Editorial rule:** expand this page by promoting scan-checked passages, equations, and diagrams from the linked workbench pages, not by adding unsourced generalizations.
 
 {END}
