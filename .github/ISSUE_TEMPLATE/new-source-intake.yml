@@ -1,69 +1,132 @@
 name: New source intake
-description: Propose a new source for custody, processing, and review.
+description: Propose a new Steinmetz source for custody, processing, and review.
 title: "[Source intake]: "
 labels: ["source-intake", "needs-verification"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping expand Steinmetz Decoded. Please submit one source per issue when possible.
+
+        A source lead can be valuable even before full text is available, but the archive will not present it as decoded until custody, OCR/text extraction, page mapping, and review state are visible.
+
   - type: input
     id: title
     attributes:
       label: Source title
-      description: Full title as printed or cataloged.
+      description: Full title exactly as printed or cataloged.
+      placeholder: Complex Quantities and Their Use in Electrical Engineering
     validations:
       required: true
+
   - type: input
     id: creator
     attributes:
-      label: Creator / author / editor
-      description: Name the creator and editor if known.
+      label: Creator / author / editor / custodian
+      description: Name Steinmetz, the editor, journal, conference, patent office, or archive custodian if known.
+      placeholder: Charles Proteus Steinmetz; Proceedings editor; archive custodian
     validations:
       required: true
+
   - type: input
     id: year
     attributes:
-      label: Year / edition
-      description: Include edition, volume, issue, or patent number when applicable.
+      label: Year / edition / identifier
+      description: Include edition, volume, issue, proceedings title, patent number, collection ID, or approximate date.
+      placeholder: 1894; AIEE paper; US patent number; collection identifier
+
   - type: dropdown
     id: source_type
     attributes:
       label: Source type
       options:
         - book
-        - paper
+        - book edition
+        - journal article
+        - conference paper
         - lecture
+        - technical report
         - patent
         - archival collection
         - correspondence
         - diagram/plate
+        - finding aid only
         - other
     validations:
       required: true
+
+  - type: dropdown
+    id: custody_status
+    attributes:
+      label: Current custody status
+      description: Choose the strongest custody level currently known.
+      options:
+        - public scan or full text available
+        - official patent record available
+        - local public-domain file available
+        - DOI or publisher record only
+        - library/catalog record only
+        - archive finding aid only
+        - restricted access
+        - duplicate/edition check needed
+        - unknown / needs acquisition
+    validations:
+      required: true
+
   - type: textarea
     id: links
     attributes:
       label: Authority links
-      description: Archive.org, DOI, HathiTrust, Google Patents, finding aid, catalog record, or publisher link.
+      description: Internet Archive, DOI, HathiTrust, Google Books, Open Library, Google Patents, USPTO, finding aid, catalog record, or publisher link.
+      placeholder: |
+        - https://archive.org/...
+        - https://doi.org/...
+        - https://patents.google.com/patent/...
+
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights / public-domain notes
+      description: Explain whether the scan appears public-domain, restricted, contributor-supplied, or unknown. Do not paste long copyrighted text.
+
   - type: textarea
     id: why
     attributes:
       label: Why this source matters
       description: Explain the concepts, equations, diagrams, patents, or historical questions this source may affect.
+      placeholder: Hysteresis law, complex quantities, lightning surges, magnetic force language, patents, Tesla-era comparison, etc.
+
   - type: textarea
-    id: custody
+    id: defects
     attributes:
-      label: Custody and rights notes
-      description: Public-domain status, scan quality, OCR status, known defects, and whether a local file has been added.
+      label: Known defects or uncertainties
+      description: Missing pages, poor OCR, uncertain edition, title-page mismatch, duplicate scan, damaged figures, or uncertain authorship.
+
   - type: checkboxes
     id: required_outputs
     attributes:
-      label: Required processing outputs
+      label: Expected processing outputs if accepted
       options:
-        - label: source manifest
-        - label: raw file or public link
+        - label: source manifest / metadata record
+        - label: raw file or stable public link
         - label: OCR or extracted text
         - label: page/section map
-        - label: equation candidates
-        - label: figure candidates
+        - label: source reader page
         - label: concept candidates
         - label: glossary candidates
         - label: quote / hidden-gem candidates
+        - label: equation or formula candidates
+        - label: figure or diagram candidates
         - label: verification queue entries
+
+  - type: checkboxes
+    id: contributor_checks
+    attributes:
+      label: Contributor checks
+      options:
+        - label: I am submitting a source lead, not claiming the archive has decoded it yet.
+          required: true
+        - label: I included the best authority link or custody note I have.
+          required: true
+        - label: I separated source facts from interpretation or speculation.
+          required: true

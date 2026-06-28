@@ -100,6 +100,13 @@ Use these labels throughout the project:
 - **Speculative connection**: possible but unproven connection.
 - **Needs verification**: claim, page map, OCR, citation, diagram, or derivation still awaiting review.
 
+
+## Adding Missing Steinmetz Sources
+
+Use `SOURCE_ACQUISITION.md` before adding a new book, article, lecture, patent, report, correspondence item, or archival collection. Public readers can use the site page at `/source-library/source-acquisition-guide/` to submit source leads.
+
+The key rule is custody before decoding: a work can be registered from a DOI, bibliography, or finding aid, but it should not be presented as decoded until a public scan, local public-domain file, official patent record, or equivalent custody trail exists.
+
 ## Website
 
 The public site skeleton lives in `site/` and uses Astro + Starlight. It supports MDX long-form pages, sidebar navigation, search, KaTeX math, citations, callouts, and interactive explainer components.

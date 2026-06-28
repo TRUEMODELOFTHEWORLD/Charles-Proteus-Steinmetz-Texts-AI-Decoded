@@ -41,6 +41,8 @@ Use the GitHub issue templates for source verification, equation review, and dia
 
 Use the new source-intake issue template before adding a major book, paper, lecture, patent, archive collection, or correspondence file. A source should enter the repository through custody first, then extraction, then review, then public synthesis.
 
+For detailed source-custody work, use `SOURCE_ACQUISITION.md`. It defines custody levels, required metadata, processing gates, and review states for books, papers, patents, correspondence, and archival collections.
+
 Promotion states:
 
 - `candidate`: found by OCR, script, or first-pass reading.

@@ -348,7 +348,8 @@ export default defineConfig({
             { label: 'Commonwealth Edison Trouble', slug: 'book-coverage/commonwealth-edison-generating-system-trouble' },
             { label: 'Source Library', slug: 'source-library' },
             { label: 'Newly Added Works', slug: 'source-library/newly-added-steinmetz-works' },
-            { label: 'Source Expansion Wave', slug: 'source-library/steinmetz-source-expansion-wave' }
+            { label: 'Source Expansion Wave', slug: 'source-library/steinmetz-source-expansion-wave' },
+            { label: 'Source Acquisition Guide', slug: 'source-library/source-acquisition-guide' }
           ]
         },
         {
