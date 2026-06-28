@@ -322,6 +322,7 @@ export default defineConfig({
             { label: 'Who Was Steinmetz?', slug: 'who-was-steinmetz' },
             { label: 'Why He Matters', slug: 'why-steinmetz-matters' },
             { label: 'Guided Routes', slug: 'reading-routes' },
+            { label: 'Essential Papers', slug: 'essential-steinmetz-papers' },
             { label: 'Contribute', slug: 'contribute' }
           ]
         },
@@ -345,7 +346,9 @@ export default defineConfig({
             { label: 'America and the New Epoch', slug: 'book-coverage/america-and-new-epoch' },
             { label: 'Relativity and Space', slug: 'book-coverage/four-lectures-relativity-space' },
             { label: 'Commonwealth Edison Trouble', slug: 'book-coverage/commonwealth-edison-generating-system-trouble' },
-            { label: 'Source Library', slug: 'source-library' }
+            { label: 'Source Library', slug: 'source-library' },
+            { label: 'Newly Added Works', slug: 'source-library/newly-added-steinmetz-works' },
+            { label: 'Source Expansion Wave', slug: 'source-library/steinmetz-source-expansion-wave' }
           ]
         },
         {
@@ -375,6 +378,7 @@ export default defineConfig({
           items: [
             { label: 'Equation Atlas', slug: 'mathematics/equation-atlas' },
             { label: 'Equation Catalog', slug: 'mathematics' },
+            { label: 'Steinmetz Math Map', slug: 'mathematics/steinmetz-math-map' },
             { label: 'First Canonical Set', slug: 'mathematics/canonical-equation-canon' },
             { label: 'Interactive Tools', slug: 'tools' },
             { label: 'Impedance And Reactance', slug: 'mathematics/equations/impedance-reactance' },

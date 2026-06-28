@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-06-28",
+  "quality_note": "Public source-expansion wave. Registered authority targets are not decoded source evidence until custody and review gates are satisfied.",
+  "targets": [
+    {
+      "work_id": "law-of-hysteresis-1892",
+      "title": "On the Law of Hysteresis",
+      "year": 1892,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/T-AIEE.1892.5570437",
+      "why_it_matters": "Foundational source for Steinmetz's hysteresis law, magnetic loss, and the later Steinmetz equation.",
+      "repo_action": "Acquire a primary scan or publisher PDF, then OCR, page-map, extract equations and hysteresis diagrams, and promote only scan-checked claims.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Hysteresis And Symbolic Method Spine",
+      "rank": 1,
+      "concepts": [
+        "hysteresis",
+        "magnetic-fields",
+        "dielectric-loss",
+        "inductance-capacity"
+      ],
+      "reader_title": "Hysteresis law and magnetic loss",
+      "reader_value": "This is the origin point for Steinmetz's magnetic-loss reputation. It should eventually anchor the hysteresis concept page, the Steinmetz equation page, and modern core-loss comparison.",
+      "gate": "Acquire primary scan or publisher PDF, then transcribe equations and any magnetic-loss curves against page images."
+    },
+    {
+      "work_id": "complex-quantities-use-electrical-engineering-1894",
+      "title": "Complex Quantities and Their Use in Electrical Engineering",
+      "year": 1894,
+      "source_type": "conference_paper",
+      "priority": "critical",
+      "manifest_status": "registered_primary_proceedings_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://books.google.com/books/about/Proceedings_of_the_International_Electri.html?id=X09AAQAAMAAJ",
+      "why_it_matters": "Flagship source for complex quantities, the symbolic method, and early phasor engineering.",
+      "repo_action": "Acquire and verify against the Proceedings scan. Do not use Scribd or forum PDFs as custody copies until they match the primary proceedings.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Hysteresis And Symbolic Method Spine",
+      "rank": 2,
+      "concepts": [
+        "complex-quantities",
+        "symbolic-method",
+        "impedance",
+        "reactance",
+        "admittance"
+      ],
+      "reader_title": "Complex quantities and the birth of engineering phasors",
+      "reader_value": "This should become the flagship source for how Steinmetz made alternating-current calculation algebraic, geometric, and teachable.",
+      "gate": "Verify against the International Electrical Congress proceedings scan before promoting any quotation or equation."
+    },
+    {
+      "work_id": "general-equations-electric-circuit-1908",
+      "title": "The General Equations of the Electric Circuit",
+      "year": 1908,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1908.6742132",
+      "why_it_matters": "Bridge between symbolic method, differential equations, transients, and general circuit theory.",
+      "repo_action": "Acquire the article and link it to Electric Circuits and Transient Electric Phenomena.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Hysteresis And Symbolic Method Spine",
+      "rank": 3,
+      "concepts": [
+        "symbolic-method",
+        "complex-quantities",
+        "transient-phenomena",
+        "impedance",
+        "distributed-constants"
+      ],
+      "reader_title": "General equations of the electric circuit",
+      "reader_value": "This paper bridges steady-state symbolic method, differential equations, and the general circuit theory behind later source books.",
+      "gate": "Acquire article text and preserve equation/page mapping before adding formulas to the curated math canon."
+    },
+    {
+      "work_id": "general-equations-electric-circuit-iii-1919",
+      "title": "The General Equations of the Electric Circuit-III",
+      "year": 1919,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/T-AIEE.1919.4765606",
+      "why_it_matters": "Continuation of Steinmetz's general circuit equation program.",
+      "repo_action": "Acquire together with the 1908 paper so the series can be decoded as a sequence.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Hysteresis And Symbolic Method Spine",
+      "rank": 4,
+      "concepts": [
+        "symbolic-method",
+        "transient-phenomena",
+        "distributed-constants",
+        "impedance"
+      ],
+      "reader_title": "General circuit equations, continuation",
+      "reader_value": "The continuation lets the archive show development over time rather than treating general circuit equations as a one-off article.",
+      "gate": "Acquire together with the 1908 paper so the series can be decoded as a sequence."
+    },
+    {
+      "work_id": "mechanical-forces-magnetic-fields-1910",
+      "title": "Mechanical Forces in Magnetic Fields",
+      "year": 1910,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1910.6660496",
+      "why_it_matters": "High-value source for force, stress, pressure, and tension language in magnetic fields.",
+      "repo_action": "Acquire scan/PDF, then build the field-force dossier and keep ether-field readings labeled as interpretation.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Hysteresis And Symbolic Method Spine",
+      "rank": 5,
+      "concepts": [
+        "magnetic-fields",
+        "hysteresis",
+        "ether",
+        "inductance-capacity"
+      ],
+      "reader_title": "Mechanical forces, magnetic stress, and field language",
+      "reader_value": "This is the highest-value pending source for force, stress, pressure, and tension vocabulary in magnetic fields.",
+      "gate": "Acquire the article and separate explicit Steinmetz field-force language from later ether-field interpretation."
+    },
+    {
+      "work_id": "lightning-phenomena-electric-circuits-1907",
+      "title": "Lightning Phenomena in Electric Circuits",
+      "year": 1907,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1907.6742407",
+      "why_it_matters": "Primary lightning, surge, impulse, and high-voltage transient source.",
+      "repo_action": "Acquire scan/PDF and feed the lightning-surges concept page, equation queue, and diagram archive.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 6,
+      "concepts": [
+        "lightning-surges",
+        "transient-phenomena",
+        "electric-waves",
+        "distributed-constants"
+      ],
+      "reader_title": "Lightning phenomena in electric circuits",
+      "reader_value": "This should become a cornerstone for surge theory, steep wave fronts, impulse behavior, and high-voltage protection.",
+      "gate": "Acquire the proceedings scan and extract impulse-wave diagrams only after page-image verification."
+    },
+    {
+      "work_id": "natural-period-transmission-line-lightning-1898",
+      "title": "The Natural Period of a Transmission Line and the Frequency of Lightning Discharge Therefrom",
+      "year": 1898,
+      "source_type": "article",
+      "priority": "critical",
+      "manifest_status": "planned_article_acquisition",
+      "coverage_state": "planned-acquisition",
+      "completion_class": "planned-source",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": null,
+      "why_it_matters": "Lightning, surge frequency, distributed constants, natural period, and transmission-line wave behavior.",
+      "repo_action": null,
+      "next_actions": [
+        "Locate the best public-domain or institutional authority copy.",
+        "Run the standard source pipeline before any claims are promoted."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 7,
+      "concepts": [
+        "distributed-constants",
+        "lightning-surges",
+        "electric-waves",
+        "transient-phenomena"
+      ],
+      "reader_title": "Natural period of transmission lines and lightning discharge",
+      "reader_value": "This is the missing early bridge between line constants, natural oscillation, and lightning-frequency reasoning.",
+      "gate": "Locate the Electrical World issue or a library scan before any source text is generated."
+    },
+    {
+      "work_id": "disruptive-strength-transient-voltages-1910",
+      "title": "Disruptive Strength with Transient Voltages",
+      "year": 1910,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "planned_article_acquisition",
+      "coverage_state": "planned-acquisition",
+      "completion_class": "planned-source",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1910.6659996",
+      "why_it_matters": "Transient voltages, disruptive strength, insulation stress, and surge breakdown behavior.",
+      "repo_action": null,
+      "next_actions": [
+        "Locate the best public-domain or institutional authority copy.",
+        "Run the standard source pipeline before any claims are promoted."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 8,
+      "concepts": [
+        "lightning-surges",
+        "dielectric-loss",
+        "transient-phenomena"
+      ],
+      "reader_title": "Disruptive strength under transient voltage",
+      "reader_value": "This source should strengthen insulation stress, breakdown, and surge-dielectric language.",
+      "gate": "Acquire primary scan and keep Hayden/Steinmetz authorship visible in citations."
+    },
+    {
+      "work_id": "instability-electric-circuits-1914",
+      "title": "Instability of Electric Circuits",
+      "year": 1914,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "planned_article_acquisition",
+      "coverage_state": "planned-acquisition",
+      "completion_class": "planned-source",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1914.6661036",
+      "why_it_matters": "Circuit instability, cumulative effects, oscillations, and protection language.",
+      "repo_action": null,
+      "next_actions": [
+        "Locate the best public-domain or institutional authority copy.",
+        "Run the standard source pipeline before any claims are promoted."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 9,
+      "concepts": [
+        "transient-phenomena",
+        "oscillation-damping",
+        "lightning-surges"
+      ],
+      "reader_title": "Instability of electric circuits",
+      "reader_value": "This source can connect cumulative circuit behavior, negative-resistance-like effects, oscillation, and protective design.",
+      "gate": "Acquire article scan and route suspicious OCR formulas into review, not curated math."
+    },
+    {
+      "work_id": "outline-theory-impulse-currents-1916",
+      "title": "Outline of Theory of Impulse Currents",
+      "year": 1916,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1916.6590573",
+      "why_it_matters": "Direct source for impulse-current and surge mathematics.",
+      "repo_action": "Acquire and decode after the expanded Electric Discharges edition is aligned.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 10,
+      "concepts": [
+        "lightning-surges",
+        "transient-phenomena",
+        "distributed-constants"
+      ],
+      "reader_title": "Theory of impulse currents",
+      "reader_value": "This is a direct mathematical source for impulse-current reasoning and should feed the surge math route.",
+      "gate": "Acquire article and scan-check each equation before adding to canonical formula pages."
+    },
+    {
+      "work_id": "oxide-film-lightning-arrester-1918",
+      "title": "The Oxide Film Lightning Arrester",
+      "year": 1918,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "planned_article_acquisition",
+      "coverage_state": "planned-acquisition",
+      "completion_class": "planned-source",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/PAIEE.1918.6594099",
+      "why_it_matters": "Lightning arresters, surge protection, oxide films, and high-voltage apparatus behavior.",
+      "repo_action": null,
+      "next_actions": [
+        "Locate the best public-domain or institutional authority copy.",
+        "Run the standard source pipeline before any claims are promoted."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 11,
+      "concepts": [
+        "lightning-surges",
+        "dielectric-loss",
+        "electric-apparatus"
+      ],
+      "reader_title": "Oxide film lightning arrester",
+      "reader_value": "This source turns surge theory into protective apparatus and belongs beside the patent-to-theory bridge.",
+      "gate": "Acquire scan and keep apparatus claims separate from general transient theory."
+    },
+    {
+      "work_id": "condenser-discharges-general-gas-circuit-1922",
+      "title": "Condenser Discharges Through a General Gas Circuit",
+      "year": 1922,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "planned_article_acquisition",
+      "coverage_state": "planned-acquisition",
+      "completion_class": "planned-source",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/JoAIEE.1922.6591026",
+      "why_it_matters": "Gas discharge behavior, condenser discharge, oscillation/damping, and high-voltage transients.",
+      "repo_action": null,
+      "next_actions": [
+        "Locate the best public-domain or institutional authority copy.",
+        "Run the standard source pipeline before any claims are promoted."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 12,
+      "concepts": [
+        "transient-phenomena",
+        "oscillation-damping",
+        "dielectric-loss"
+      ],
+      "reader_title": "Condenser discharges through a gas circuit",
+      "reader_value": "This should enrich discharge, damping, oscillation, and nonlinear gas-circuit behavior.",
+      "gate": "Acquire article and verify whether figures or oscillograms exist before visual promotion."
+    },
+    {
+      "work_id": "cable-charge-and-discharge-1923",
+      "title": "Cable Charge and Discharge",
+      "year": 1923,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/T-AIEE.1923.5060899",
+      "why_it_matters": "Distributed capacity, cable charge/discharge curves, and line-transient behavior.",
+      "repo_action": "Acquire and connect to distributed constants, condenser charge, and traveling waves.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 13,
+      "concepts": [
+        "distributed-constants",
+        "transient-phenomena",
+        "inductance-capacity",
+        "electric-waves"
+      ],
+      "reader_title": "Cable charge, discharge, and distributed capacity",
+      "reader_value": "This is the direct source for cable transients and should strengthen the line/capacity side of the archive.",
+      "gate": "Acquire article and page-map charge/discharge curves before diagram promotion."
+    },
+    {
+      "work_id": "frequency-conversion-third-class-conductor-arcing-ground-1923",
+      "title": "Frequency Conversion by Third Class Conductor and Mechanism of the Arcing Ground and Other Cumulative Surges",
+      "year": 1923,
+      "source_type": "journal_article",
+      "priority": "critical",
+      "manifest_status": "registered_primary_article_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "critical-frontier",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://doi.org/10.1109/T-AIEE.1923.5060887",
+      "why_it_matters": "Nonlinear discharge, arcing-ground, cumulative-surge, and frequency-conversion source.",
+      "repo_action": "Acquire and make this a flagship surge/nonlinear-discharge decoding page.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Transients, Lightning, Distributed Constants, And Surge Spine",
+      "rank": 14,
+      "concepts": [
+        "lightning-surges",
+        "transient-phenomena",
+        "oscillation-damping",
+        "electric-waves"
+      ],
+      "reader_title": "Arcing grounds and cumulative surges",
+      "reader_value": "This is a flagship pending source for nonlinear discharge, arcing-ground behavior, frequency conversion, and cumulative surges.",
+      "gate": "Acquire scan and separate source equations, apparatus behavior, and later interpretive synthesis."
+    },
+    {
+      "work_id": "future-of-electricity-1910",
+      "title": "The Future of Electricity",
+      "year": 1910,
+      "source_type": "pamphlet_or_booklet",
+      "priority": "high",
+      "manifest_status": "registered_hathitrust_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "authority-target",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://onlinebooks.library.upenn.edu/webbin/book/browse?c=x&key=Electrical+engineering+--+Study+and+teaching&type=lcsubc",
+      "why_it_matters": "Philosophical and forecasting source, useful for Steinmetz's civilizational reading of electricity.",
+      "repo_action": "Acquire HathiTrust page images or an equivalent public scan before OCR seeding.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Context, Bibliography, And Archival Expansion",
+      "rank": 15,
+      "concepts": [
+        "historical-context",
+        "power-systems",
+        "social-electricity"
+      ],
+      "reader_title": "The future of electricity",
+      "reader_value": "This short work should help readers understand Steinmetz's civilizational view of electrification without confusing it with circuit theory.",
+      "gate": "Acquire public scan or HathiTrust-accessible page images before OCR."
+    },
+    {
+      "work_id": "systems-electric-transmission-distribution-1900",
+      "title": "Systems of Electric Transmission and Distribution",
+      "year": 1900,
+      "source_type": "pamphlet_or_booklet",
+      "priority": "high",
+      "manifest_status": "registered_hathitrust_google_books_target",
+      "coverage_state": "registered-authority-target",
+      "completion_class": "authority-target",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha010111183",
+      "why_it_matters": "Compact source for power transmission, distribution, phase systems, and early AC system selection.",
+      "repo_action": "Acquire page images or a text export, then process as a short source with transmission-system tags.",
+      "next_actions": [
+        "Acquire primary scan, publisher PDF, or public page-image source.",
+        "Create raw custody manifest, OCR, page map, candidate equations, figures, concepts, glossary, and quotes."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Context, Bibliography, And Archival Expansion",
+      "rank": 16,
+      "concepts": [
+        "power-systems",
+        "alternating-current",
+        "distributed-constants"
+      ],
+      "reader_title": "Systems of electric transmission and distribution",
+      "reader_value": "This should connect Steinmetz's high theory to practical power-system layout and AC distribution choices.",
+      "gate": "Verify public text availability and edition identity before processing."
+    },
+    {
+      "work_id": "steinmetz-patents-corpus",
+      "title": "Steinmetz Patents Corpus",
+      "year": null,
+      "source_type": "patent_corpus",
+      "priority": "high",
+      "manifest_status": "seeded_patent_register_exists_expand_to_full_corpus",
+      "coverage_state": "patent-corpus-target",
+      "completion_class": "patent-authority",
+      "related_local_source_id": null,
+      "processed_counts": {
+        "chapters": 0,
+        "equations": 0,
+        "figures": 0,
+        "concepts": 0,
+        "glossary": 0,
+        "quotes": 0
+      },
+      "processed_sections": 0,
+      "authority_url": "https://patents.google.com/?inventor=Charles+Proteus+Steinmetz",
+      "why_it_matters": "The patent corpus is the practical apparatus counterpart to the books and articles.",
+      "repo_action": "Expand the current patent register into a full patent-to-theory bridge with claims, drawings, citations, and concept links.",
+      "next_actions": [
+        "Expand beyond examples into the full authority-checked patent corpus.",
+        "Attach PDF, drawings, claims, apparatus interpretation, and theory links to each patent."
+      ],
+      "links": {
+        "source": null,
+        "source_text": null,
+        "workbench": null,
+        "coverage": null
+      },
+      "wave": "Context, Bibliography, And Archival Expansion",
+      "rank": 17,
+      "concepts": [
+        "electric-apparatus",
+        "lightning-surges",
+        "illumination",
+        "hysteresis",
+        "inductance-capacity"
+      ],
+      "reader_title": "Patent-to-theory bridge",
+      "reader_value": "The patent corpus is the practical apparatus counterpart to the books and papers. It needs claims, drawings, and concept links, not just a list of patent numbers.",
+      "gate": "Normalize the full authority corpus before claiming completeness; the current bridge is seeded examples only."
+    }
+  ],
+  "concept_impacts": {
+    "hysteresis": {
+      "headline": "The next corpus wave should make hysteresis far more source-complete.",
+      "works": [
+        "law-of-hysteresis-1892",
+        "mechanical-forces-magnetic-fields-1910",
+        "theory-general-alternating-current-transformer-1895"
+      ],
+      "note": "Until the 1892 paper is in custody, the page should keep using already processed books and lectures while marking the original law paper as the highest acquisition target."
+    },
+    "complex-quantities": {
+      "headline": "The missing flagship is Steinmetz's 1893/1894 complex-quantities paper.",
+      "works": [
+        "complex-quantities-use-electrical-engineering-1894",
+        "general-equations-electric-circuit-1908",
+        "general-equations-electric-circuit-iii-1919"
+      ],
+      "note": "The current page is grounded in processed textbooks; the proceedings paper will become the primary origin-point once scanned and sectioned."
+    },
+    "symbolic-method": {
+      "headline": "The symbolic method needs its paper trail, not only later textbook treatment.",
+      "works": [
+        "complex-quantities-use-electrical-engineering-1894",
+        "general-equations-electric-circuit-1908",
+        "general-equations-electric-circuit-iii-1919"
+      ],
+      "note": "Keep the 1897/1900/1916 AC editions visible as the book-development layer while the paper sources remain acquisition targets."
+    },
+    "impedance": {
+      "headline": "Impedance will be strengthened by the complex-quantity and general-equation sources.",
+      "works": [
+        "complex-quantities-use-electrical-engineering-1894",
+        "general-equations-electric-circuit-1908",
+        "general-equations-electric-circuit-iii-1919"
+      ],
+      "note": "The current reader route remains the AC book editions and Electric Circuits; papers should not be cited as decoded until acquired."
+    },
+    "reactance": {
+      "headline": "Reactance sits at the center of the next AC-method expansion.",
+      "works": [
+        "complex-quantities-use-electrical-engineering-1894",
+        "general-equations-electric-circuit-1908",
+        "systems-electric-transmission-distribution-1900"
+      ],
+      "note": "Watch for how Steinmetz separates resistance, reactance, and stored-field exchange across editions and papers."
+    },
+    "admittance": {
+      "headline": "Admittance should be connected back to the broader symbolic-method wave.",
+      "works": [
+        "complex-quantities-use-electrical-engineering-1894",
+        "general-equations-electric-circuit-1908"
+      ],
+      "note": "Parallel-circuit method is strongest in processed books for now; the new paper wave supplies origin and generalization once acquired."
+    },
+    "transient-phenomena": {
+      "headline": "The next wave is especially strong for transients.",
+      "works": [
+        "lightning-phenomena-electric-circuits-1907",
+        "outline-theory-impulse-currents-1916",
+        "instability-electric-circuits-1914",
+        "condenser-discharges-general-gas-circuit-1922",
+        "frequency-conversion-third-class-conductor-arcing-ground-1923"
+      ],
+      "note": "Use processed transient books now; pending articles will sharpen impulse, instability, gas discharge, and cumulative-surge layers."
+    },
+    "lightning-surges": {
+      "headline": "Lightning and surge theory is the most urgent article-acquisition cluster.",
+      "works": [
+        "natural-period-transmission-line-lightning-1898",
+        "lightning-phenomena-electric-circuits-1907",
+        "disruptive-strength-transient-voltages-1910",
+        "outline-theory-impulse-currents-1916",
+        "oxide-film-lightning-arrester-1918",
+        "frequency-conversion-third-class-conductor-arcing-ground-1923"
+      ],
+      "note": "Keep existing surge statements grounded in processed transients until these articles have scan custody and equation review."
+    },
+    "distributed-constants": {
+      "headline": "Distributed constants gain a much stronger line-and-cable route in the next wave.",
+      "works": [
+        "natural-period-transmission-line-lightning-1898",
+        "cable-charge-and-discharge-1923",
+        "systems-electric-transmission-distribution-1900"
+      ],
+      "note": "This should connect line theory, natural period, cable charge/discharge, and practical transmission systems."
+    },
+    "electric-waves": {
+      "headline": "Electric waves should be expanded through line, lightning, and cable sources.",
+      "works": [
+        "natural-period-transmission-line-lightning-1898",
+        "lightning-phenomena-electric-circuits-1907",
+        "cable-charge-and-discharge-1923"
+      ],
+      "note": "The current wave/radiation pages already help; the new sources will make circuit waves and line waves more precise."
+    },
+    "dielectric-loss": {
+      "headline": "Dielectric and insulation language gets a stronger high-voltage path.",
+      "works": [
+        "disruptive-strength-transient-voltages-1910",
+        "condenser-discharges-general-gas-circuit-1922",
+        "cable-charge-and-discharge-1923"
+      ],
+      "note": "Treat breakdown and gas discharge as source-specific phenomena rather than generic dielectric mystique."
+    },
+    "inductance-capacity": {
+      "headline": "Inductance and capacity connect directly to cable, line, and discharge sources.",
+      "works": [
+        "cable-charge-and-discharge-1923",
+        "natural-period-transmission-line-lightning-1898",
+        "condenser-discharges-general-gas-circuit-1922"
+      ],
+      "note": "This is a good reader doorway into distributed rather than lumped electrical behavior."
+    },
+    "ether": {
+      "headline": "Ether remains a boundary topic, not a claim bucket.",
+      "works": [
+        "mechanical-forces-magnetic-fields-1910",
+        "complex-quantities-use-electrical-engineering-1894",
+        "future-of-electricity-1910"
+      ],
+      "note": "The new sources may enrich field-language context, but Wheeler-style or broader ether-field readings must remain labeled interpretation unless Steinmetz explicitly says it."
+    }
+  }
+}

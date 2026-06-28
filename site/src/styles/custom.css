@@ -4483,3 +4483,108 @@ html[data-theme='light'] .sl-markdown-content :is(.codex-signal > div, .source-m
     text-align: center;
   }
 }
+
+/* Steinmetz source expansion wave */
+.source-wave-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.source-wave-card,
+.source-wave-impact {
+  border: 1px solid color-mix(in srgb, var(--sl-color-hairline) 70%, var(--codex-gold) 30%);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--sl-color-bg-nav) 82%, var(--codex-gold) 6%);
+  color: var(--sl-color-white);
+  padding: 1rem;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+}
+
+.source-wave-card h3 {
+  margin: 0.35rem 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.source-wave-card h3 a,
+.source-wave-links a,
+.source-wave-concepts a {
+  color: var(--codex-gold-strong, #f1d680);
+  text-decoration-color: color-mix(in srgb, var(--codex-gold) 60%, transparent);
+}
+
+.source-wave-card p,
+.source-wave-impact p,
+.source-wave-meta {
+  color: var(--sl-color-gray-2);
+}
+
+.source-wave-rank {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.25rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--codex-gold) 55%, transparent);
+  color: var(--codex-gold-strong, #f1d680);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.source-wave-links,
+.source-wave-concepts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.7rem;
+}
+
+.source-wave-links a,
+.source-wave-links span,
+.source-wave-concepts a,
+.source-wave-concepts span {
+  border: 1px solid color-mix(in srgb, var(--codex-gold) 40%, transparent);
+  border-radius: 999px;
+  padding: 0.25rem 0.55rem;
+  font-size: 0.78rem;
+  background: color-mix(in srgb, var(--sl-color-bg) 76%, var(--codex-gold) 8%);
+}
+
+.source-wave-table td,
+.source-wave-table th {
+  vertical-align: top;
+}
+
+html[data-theme='light'] .source-wave-card,
+html[data-theme='light'] .source-wave-impact {
+  background: #fffaf0;
+  color: #172120;
+  border-color: #d9b85c;
+}
+
+html[data-theme='light'] .source-wave-card p,
+html[data-theme='light'] .source-wave-impact p,
+html[data-theme='light'] .source-wave-meta {
+  color: #33413f;
+}
+
+html[data-theme='light'] .source-wave-card h3 a,
+html[data-theme='light'] .source-wave-links a,
+html[data-theme='light'] .source-wave-concepts a {
+  color: #6d4c00;
+}
+
+@media (max-width: 720px) {
+  .source-wave-card,
+  .source-wave-impact {
+    padding: 0.85rem;
+  }
+
+  .source-wave-table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
